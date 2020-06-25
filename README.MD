@@ -1,3 +1,5 @@
+![](https://github.com/michielgerritsen/extract-address-parts/workflows/Test/badge.svg)
+
 # Extract information from Dutch addresses
 
 I have been in this situation multiple times: You need to provide an housernumber and addition for some API. But the provided dataset only has the complete address. This library tries to solve this issue. For instance:
