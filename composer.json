@@ -2,7 +2,7 @@
   "name": "michielgerritsen/extract-address-parts",
   "description": "Get the (Dutch) street, house number, and extension from a concatenated string",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "WTFPL",
   "authors": [
     {
       "name": "michielgerritsen",
