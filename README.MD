@@ -11,6 +11,10 @@ I have been in this situation multiple times: You need to provide an housernumbe
   
 This is a lightweight repository, it has no external dependencies, except for PHPUnit for testing.
   
+# Installation
+
+`composer require michielgerritsen/extract-address-parts`
+
 # Usage
 
 ```php
