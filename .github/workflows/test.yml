@@ -9,6 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: php-actions/composer@v1
-      - uses: php-actions/phpunit@v1
-        with:
-          config: phpunit.xml
+      - name: Run tests
+        run: vendor/bin/phpunit
