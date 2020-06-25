@@ -1,0 +1,31 @@
+{
+  "name": "michielgerritsen/extract-address-parts",
+  "description": "Get the (Dutch) street, house number, and extension from a concatenated string",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "michielgerritsen",
+      "email": "michiel@controlaltdelete.nl"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MichielGerritsen\\ExtractAddressParts\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MichielGerritsen\\ExtractAddressParts\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.2"
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  }
+}
