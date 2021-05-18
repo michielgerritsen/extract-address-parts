@@ -19,6 +19,7 @@ This is a lightweight repository, it has no external dependencies, except for PH
 
 ```php
 use MichielGerritsen\ExtractAddressParts\AddressExtraction;
+use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 /** @var AddressExtractionResult $result */
 $result = (new AddressExtraction())->process(['Kerkstraat 95A']);
