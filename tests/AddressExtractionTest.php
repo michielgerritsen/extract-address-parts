@@ -75,6 +75,26 @@ class AddressExtractionTest extends TestCase
                 ['95 Kerkstraat'],
                 new AddressExtractionResult('Kerkstraat', '95', '')
             ],
+            'Abbreviated address with dot' => [
+                ['Kerkstr. 8'],
+                new AddressExtractionResult('Kerkstr.', '8', '')
+            ],
+            'Abbreviated address with dot without space' => [
+                ['Kerkstr.8'],
+                new AddressExtractionResult('Kerkstr.', '8', '')
+            ],
+            'Abbreviated prefix in address' => [
+                ['Prof. De Grootstraat 12'],
+                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+            ],
+            'Abbreviated prefix in abbreviated address' => [
+                ['Prof. De Grootstr. 12'],
+                new AddressExtractionResult('Prof. De Grootstr.', '12', '')
+            ],
+            'Abbreviated prefix in abbreviated address without space' => [
+                ['Prof. De Grootstr.12'],
+                new AddressExtractionResult('Prof. De Grootstr.', '12', '')
+            ],
         ];
     }
 
