@@ -16,13 +16,12 @@
  *
  */
 
-namespace MichielGerritsen\ExtractAddressParts\Tests;
+namespace MichielGerritsen\ExtractAddressParts;
 
-use MichielGerritsen\ExtractAddressParts\AddressExtraction;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\TestCase;
 
-class AddressExtractionTest extends TestCase
+class CombinedAddressExtractionTest extends TestCase
 {
     public function addressProvider()
     {
@@ -92,8 +91,8 @@ class AddressExtractionTest extends TestCase
                 new AddressExtractionResult('Prof. De Grootstraat', '12', '')
             ],
             'Abbreviated prefix in abbreviated address without space' => [
-                ['Prof. De Grootstr.12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                ['Prof. C. Eijkmanstr.12'],
+                new AddressExtractionResult('Prof. C. Eijkmanstraat', '12', '')
             ],
         ];
     }
@@ -103,7 +102,11 @@ class AddressExtractionTest extends TestCase
      */
     public function testExtract(array $address, AddressExtractionResult $expected)
     {
-        $instance = new AddressExtraction();
+        $instance = new CombinedAddressExtraction(
+            new AddressExtraction(),
+            new PrecisionAddressExtraction()
+        );
+
         $result = $instance->process($address);
 
         $this->assertEquals($expected, $result);

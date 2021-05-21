@@ -18,11 +18,11 @@
 
 namespace MichielGerritsen\ExtractAddressParts\Tests;
 
-use MichielGerritsen\ExtractAddressParts\AddressExtraction;
+use MichielGerritsen\ExtractAddressParts\PrecisionAddressExtraction;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\TestCase;
 
-class AddressExtractionTest extends TestCase
+class PrecisionAddressExtractionTest extends TestCase
 {
     public function addressProvider()
     {
@@ -71,29 +71,17 @@ class AddressExtractionTest extends TestCase
                 ['7 Januaristraat 18'],
                 new AddressExtractionResult('7 Januaristraat', '18', '')
             ],
-            'Reversed' => [
-                ['95 Kerkstraat'],
-                new AddressExtractionResult('Kerkstraat', '95', '')
-            ],
             'Abbreviated address with dot' => [
                 ['Kerkstr. 8'],
                 new AddressExtractionResult('Kerkstraat', '8', '')
             ],
-            'Abbreviated address with dot without space' => [
-                ['Kerkstr.8'],
-                new AddressExtractionResult('Kerkstraat', '8', '')
-            ],
             'Abbreviated prefix in address' => [
-                ['Prof. De Grootstraat 12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                ['Prof. C. Eijkmanstraat 12'],
+                new AddressExtractionResult('Prof. C. Eijkmanstraat', '12', '')
             ],
             'Abbreviated prefix in abbreviated address' => [
-                ['Prof. De Grootstr. 12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
-            ],
-            'Abbreviated prefix in abbreviated address without space' => [
-                ['Prof. De Grootstr.12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                ['Prof. C. Eijkmanstr. 12'],
+                new AddressExtractionResult('Prof. C. Eijkmanstraat', '12', '')
             ],
         ];
     }
@@ -103,7 +91,7 @@ class AddressExtractionTest extends TestCase
      */
     public function testExtract(array $address, AddressExtractionResult $expected)
     {
-        $instance = new AddressExtraction();
+        $instance = new PrecisionAddressExtraction();
         $result = $instance->process($address);
 
         $this->assertEquals($expected, $result);

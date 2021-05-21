@@ -1,0 +1,262 @@
+1 februariweg
+1 juli-weg
+1 novemberstraat
+1-februariweg
+10 meilaan
+10-meilaan
+10e wyk
+11 april plein
+11 bunder
+11 decemberlaantje
+11 octoberstraat
+11e laan
+11e wyk
+12 septemberstraat
+1213-laan
+1213-laan
+126e wingweg
+12e laan
+12e septemberlaan
+13 septemberstraat
+13e wyk
+14 april plein
+14 oktoberplein
+14e wyk
+15 augustuspad
+16 april 1944 pad
+16 aprillaan
+1672-laan
+17 oktoberplein
+17 septemberplein
+17 septemberstraat
+18 novemberring
+18 septemberplein
+18e laan
+18e wyk
+1940-45-laan
+1940-45-laan
+19e wyk
+1e achterholtsweg
+1e achterstraat
+1e akkermuntstraat
+1e articuslaan
+1e atjehstraat
+1e baarsteeg
+1e balsemienstraat
+1e barendrechtseweg
+1e barlagerweg
+1e barthold entensdwarsweg
+1e bataljonsdok
+1e batsteeg
+1e bergerweg
+1e berkendijk
+1e beukenlaan
+1e binnenvestgracht
+1e blekerhof
+1e bosweg
+1e bothofstraat
+1e bottelroosstraat
+1e bouwtelaan
+1e bovenpad
+1e bovenstreeklaan
+1e braamstraat
+1e brandenburgerweg
+1e broekweg
+1e buurkerksteeg
+1e cambuurdwarsstraat
+1e carnissestraat
+1e colonjes
+1e crooswijksedwarsstraat
+1e daalsedijk
+1e dalweg
+1e de kortestraat
+1e de riemerstraat
+1e delidwarsstraat
+1e delistraat
+1e deltaweg
+1e dennenbosweg
+1e diepestraat
+1e dorpsstraat
+1e drakenweg
+1e drift ged. zuiderdiep
+1e dwarsdreef
+1e dwarspad
+1e dwarsstraat
+1e dwarsweg
+1e ebbingestraat
+1e eeldepad
+1e elsgeesterweg
+1e emmadwarsstraat
+1e energieweg
+1e esweg
+1e exloã«rmond
+1e exploitatieweg
+1e flierveldsdwarsweg
+1e franklinstraat
+1e garnizoensdok
+1e garstelaan
+1e glanshof
+1e goudsewagenhof
+1e graaf van loonstraat
+1e grenslaan
+1e guiswegdwarsstraat
+1e haagpoort
+1e haagstraat
+1e harenmakersdwarsstraat
+1e havendwarsstraat
+1e havenstraat
+1e heezerlaantje
+1e heidestraat
+1e heiweg
+1e hemmelhorst
+1e hertenkamp
+1e heuvelenweg
+1e hogedijk
+1e hogendijk
+1e hogerwaarddwarsweg
+1e hogeweg
+1e hollandiastraat
+1e honthorststraat
+1e hoornerveenseweg
+1e hulpweg
+1e ijzerstraat
+1e indumaweg
+1e industriedwarsstraat
+1e industriestraat
+1e industrieweg
+1e industrieweg
+1e j c mensinglaan
+1e j. c. mensinglaan
+1e j.c. mensinglaan
+1e jerichostraat
+1e johannastraat
+1e kanaalstraat
+1e kanoniersstraat
+1e katendrechtsehoofd
+1e kekerstraat
+1e kiefhoekstraat
+1e klanderijdwarsstraat
+1e kloostersteeg
+1e koestraat
+1e korte baanstraat
+1e kranenpoelweg
+1e kruisstraat
+1e kruisweg
+1e kruizemuntstraat
+1e kwartierstraat
+1e laakdwarsweg
+1e lage hoekstraat
+1e lageveldsweg
+1e lambertusstraat
+1e landdwarsstraat
+1e landscheidingviaduct
+1e lange voren
+1e laurenskamp
+1e lavendelstraat
+1e leijweg
+1e lieven de keylaan
+1e loosterlaan
+1e loosterweg
+1e loswal
+1e lulofsdwarsstraat
+1e lunarelaan
+1e maasveldstraat
+1e meijerinkshoekweg
+1e melmseweg
+1e middellandstraat
+1e mientlaan
+1e molenbergstraat
+1e molenbergweg
+1e molendwarsstraat
+1e morigerlaan
+1e mussenstraat
+1e nieuwstadsweg
+1e nieuwstraat
+1e nieuwstraathof
+1e nijeveense kerkweg
+1e nijverheidstraat
+1e octaviolaan
+1e oomsberg
+1e oostdijkweg
+1e oosterkade
+1e oosterstraat
+1e oosterveldstraat
+1e opbouwstraat
+1e oppenhuizerdwarsstraat
+1e pallertweg
+1e pauwenlandstraat
+1e pietersburgstraat
+1e pijnackerstraat
+1e pioenstraat
+1e poellaan
+1e polderweg
+1e regimentsdok
+1e rein
+1e rembrandtdwarsstraat
+1e rijksbinnenhaven
+1e rozenstraat
+1e rã¶merweg
+1e saskiadwarsstraat
+1e schansstraat
+1e schansweg
+1e scheepvaartstraat
+1e schoorbaan
+1e sint jozefstraat
+1e sint-janshof
+1e solbergweg
+1e spantmansweg
+1e spechtstraat
+1e spijkerdwarsstraat
+1e stampioendwarsstraat
+1e staringstraat
+1e steeg
+1e stoofweg
+1e strausspad
+1e struikweg
+1e sweelinckstraat
+1e terborgstraat
+1e terralaan
+1e tholseindeweg
+1e tieflaarsestraat
+1e tochtweg
+1e tuindwarsstraat
+1e tussendijk
+1e van der kunstraat
+1e van leyden gaelstraat
+1e van reenenstraat
+1e veerhoekwegeling
+1e vegelindwarsstraat
+1e velddwarsweg
+1e vennenweg
+1e verbindingsstraat
+1e verbindingsweg
+1e verdelingsweg
+1e vetkampdwarsstraat
+1e vijverstraat
+1e virulystraat
+1e vlietweg
+1e vroonstraat
+1e waarderweg
+1e walsteeg
+1e weerdsweg
+1e welplaatdwarsweg
+1e westblaakhof
+1e westewagenhof
+1e weteringsewal
+1e wijk
+1e wijkstraat
+1e wilakkersstraat
+1e wittedijk
+1e wormenseweg
+1e woudstraat
+1e zaaiwaarddwarsweg
+1e zandkuilseweg
+1e zandstraat
+1e zandwijkje
+1e zijpad grote bospad
+1e zijweg aasterbergerweg
+1e zijweg scheidingsweg
+1e zomerdijk
+1e zuider pierkesmarsweg
+1ste graaf van hollanddijk
+1ste poortstraat

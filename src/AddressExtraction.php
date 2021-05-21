@@ -21,13 +21,13 @@ namespace MichielGerritsen\ExtractAddressParts;
 use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
-class AddressExtraction
+class AddressExtraction implements AddressExtractionInterface
 {
     const STREET_SPLIT_NAME_FROM_NUMBER = '/^(?P<street>\d*[\p{L}\d \'\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\'"\(\)]*)$/iu';
     const STREET_SPLIT_NUMBER_FROM_NAME = '/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \'\-\.]*)$/i';
 
     /**
-     * @param string[] $address
+     * @param string[] $address A list of address lines
      * @return AddressExtractionResult
      * @throws AddressExtractionError
      */
@@ -45,8 +45,9 @@ class AddressExtraction
             throw new AddressExtractionError($result['error']);
         }
 
+        $street = preg_replace('/(st\.|str\.)$/', 'straat', trim($result['street']));
         return new AddressExtractionResult(
-            trim($result['street']),
+            $street,
             trim($result['housenumber'] ?? ''),
             trim($result['addition'])
         );
