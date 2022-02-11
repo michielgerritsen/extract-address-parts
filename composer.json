@@ -10,7 +10,8 @@
     }
   ],
   "require": {
-    "php": "^7.0|^8.0"
+    "php": "^7.0|^8.0",
+    "ext-mbstring": "*"
   },
   "autoload": {
     "psr-4": {
