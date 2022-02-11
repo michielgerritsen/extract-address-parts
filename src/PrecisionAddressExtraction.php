@@ -41,7 +41,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
     public function process(array $address): AddressExtractionResult
     {
         $this->input = implode(' ', $address);
-        $normalizedAddress = strtolower(trim($this->input));
+        $normalizedAddress = mb_strtolower(trim($this->input));
 
         if ($match = $this->hasExactMatch($normalizedAddress)) {
             return $this->getResult($match);
@@ -124,6 +124,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             $possibleStreet = $this->replaceAbbreviations(implode(' ', $parts));
 
             if ($validatedStreet = $this->validStreet($possibleStreet)) {
+                $this->validateStreet($normalizedAddress, $validatedStreet);
                 return $validatedStreet;
             }
         } while(count($parts));
@@ -163,5 +164,19 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
     {
         // If the address ends with "st." or "str.", replace it with "straat".
         return preg_replace('/(st\.|str\.)$/', 'straat', $address);
+    }
+
+    /**
+     * Compare the length of the found address to the original address, without numbers. If the difference is too big,
+     * throw an exception. This is to prevent that "rue du plat d‘étain" is being matches as "run" for example.
+     */
+    private function validateStreet(string $normalizedAddress, string $validatedStreet): void
+    {
+        $addressWithoutNumbers = mb_strlen(trim(preg_replace('/[0-9]+/', '', $normalizedAddress)));
+        $validatedStreet = mb_strlen($validatedStreet);
+
+        if ($addressWithoutNumbers - $validatedStreet > 2) {
+            throw new AddressExtractionError('We extracted an address but the difference is too big');
+        }
     }
 }

@@ -94,6 +94,14 @@ class CombinedAddressExtractionTest extends TestCase
                 ['Prof. C. Eijkmanstr.12'],
                 new AddressExtractionResult('Prof. C. Eijkmanstraat', '12', '')
             ],
+            'Address with special character (1)' => [
+                ["rue du plat d‘étain", '1'],
+                new AddressExtractionResult("rue du plat d‘étain", '1', '')
+            ],
+            'Address with special character (2)' => [
+                ["rue du plat d'etain", '1'],
+                new AddressExtractionResult("rue du plat d'etain", '1', '')
+            ],
         ];
     }
 
