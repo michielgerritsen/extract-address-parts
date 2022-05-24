@@ -23,8 +23,8 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class AddressExtraction implements AddressExtractionInterface
 {
-    const STREET_SPLIT_NAME_FROM_NUMBER = '/^(?P<street>\d*[\p{L}\d \'\‘\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\'"\(\)]*)$/iu';
-    const STREET_SPLIT_NUMBER_FROM_NAME = '/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \'\-\.]*)$/i';
+    const STREET_SPLIT_NAME_FROM_NUMBER = '/^(?P<street>\d*[\p{L}\d \`\'\‘\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\`\'"\(\)]*)$/iu';
+    const STREET_SPLIT_NUMBER_FROM_NAME = '/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \`\'\-\.]*)$/i';
 
     /**
      * @param string[] $address A list of address lines
