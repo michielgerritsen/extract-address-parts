@@ -107,6 +107,10 @@ class AddressExtractionTest extends TestCase
                 ["rue du plat d`etain", '1'],
                 new AddressExtractionResult("rue du plat d`etain", '1', '')
             ],
+            'Address with special character (’)' => [
+                ["rue du plat d’etain", '1'],
+                new AddressExtractionResult("rue du plat d’etain", '1', '')
+            ],
         ];
     }
 
