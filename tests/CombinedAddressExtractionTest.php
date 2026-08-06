@@ -21,8 +21,10 @@ declare(strict_types=1);
 
 namespace MichielGerritsen\ExtractAddressParts;
 
+use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\Attributes\DataProvider;
+use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
 
 class CombinedAddressExtractionTest extends TestCase
@@ -113,6 +115,18 @@ class CombinedAddressExtractionTest extends TestCase
                 ["rue du plat d`etain", '1'],
                 new AddressExtractionResult("rue du plat d`etain", '1', '')
             ],
+            'Street casing does not depend on the matching strategy' => [
+                ['Laan van Meerdervoort 1000'],
+                new AddressExtractionResult('Laan van Meerdervoort', '1000', '')
+            ],
+            'Extension separated by a dash' => [
+                ['Kerkstraat 95-A'],
+                new AddressExtractionResult('Kerkstraat', '95', 'A')
+            ],
+            'Address followed by postcode and city' => [
+                ['Kerkstraat 95, 1234 AB Amsterdam'],
+                new AddressExtractionResult('Kerkstraat', '95', '')
+            ],
         ];
     }
 
@@ -122,13 +136,52 @@ class CombinedAddressExtractionTest extends TestCase
     #[DataProvider('addressProvider')]
     public function testExtract(array $address, AddressExtractionResult $expected): void
     {
-        $instance = new CombinedAddressExtraction(
-            new AddressExtraction(),
-            new PrecisionAddressExtraction()
-        );
+        $instance = CombinedAddressExtraction::create();
 
         $result = $instance->process($address);
 
-        $this->assertEquals($expected, $result);
+        $this->assertSame($expected->getStreet(), $result->getStreet());
+        $this->assertSame($expected->getHousenumber(), $result->getHousenumber());
+        $this->assertSame($expected->getAddition(), $result->getAddition());
+    }
+
+    #[Test]
+    public function itCanBeCreatedWithoutWiringTheStrategiesByHand(): void
+    {
+        $instance = CombinedAddressExtraction::create();
+
+        $result = $instance->process(['Kerkstraat 95A']);
+
+        $this->assertEquals(
+            new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Dictionary),
+            $result
+        );
+    }
+
+    #[Test]
+    public function itAcceptsAnyImplementationOfTheExtractionInterface(): void
+    {
+        $preferred = $this->createStub(AddressExtractionInterface::class);
+        $preferred->method('process')->willThrowException(new AddressExtractionError('nope'));
+
+        $fallback = $this->createStub(AddressExtractionInterface::class);
+        $fallback->method('process')->willReturn(new AddressExtractionResult('Fallbackstraat', '1', ''));
+
+        $instance = new CombinedAddressExtraction($preferred, $fallback);
+
+        $this->assertEquals(
+            new AddressExtractionResult('Fallbackstraat', '1', ''),
+            $instance->process(['Kerkstraat 95'])
+        );
+    }
+
+    #[Test]
+    public function itThrowsForAPostboxInsteadOfReturningItAsAStreet(): void
+    {
+        $instance = CombinedAddressExtraction::create();
+
+        $this->expectException(AddressExtractionError::class);
+
+        $instance->process(['Postbus 1234']);
     }
 }

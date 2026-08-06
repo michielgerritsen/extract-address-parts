@@ -21,13 +21,24 @@ declare(strict_types=1);
 
 namespace MichielGerritsen\ExtractAddressParts\VO;
 
+use MichielGerritsen\ExtractAddressParts\ExtractionMethod;
+
 class AddressExtractionResult
 {
+    private readonly string $addition;
+
     public function __construct(
         private readonly string $street,
         private readonly string $housenumber,
-        private readonly string $addition
+        string $addition,
+        private readonly ExtractionMethod $extractionMethod = ExtractionMethod::Pattern
     ) {
+        $this->addition = ltrim($addition, " \t-/,");
+    }
+
+    public function getExtractionMethod(): ExtractionMethod
+    {
+        return $this->extractionMethod;
     }
 
     public function getStreet(): string

@@ -26,24 +26,32 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class CombinedAddressExtraction implements AddressExtractionInterface
 {
+    /**
+     * Strategies are attempted in the order they are given.
+     */
     public function __construct(
-        private readonly AddressExtraction $addressExtraction,
-        private readonly PrecisionAddressExtraction $precisionAddressExtraction
+        private readonly AddressExtractionInterface $preferred,
+        private readonly AddressExtractionInterface $fallback
     ) {
     }
 
+    public static function create(): self
+    {
+        return new self(new PrecisionAddressExtraction(), new AddressExtraction());
+    }
+
     /**
-     * @param string[] $address A list of address lines
+     * @param string|string[] $address A full address, or a list of address lines
      * @throws AddressExtractionError
      */
-    public function process(array $address): AddressExtractionResult
+    public function process(string|array $address): AddressExtractionResult
     {
         try {
-            return $this->precisionAddressExtraction->process($address);
+            return $this->preferred->process($address);
         } catch (AddressExtractionError $exception) {
             // Ignore.
         }
 
-        return $this->addressExtraction->process($address);
+        return $this->fallback->process($address);
     }
 }

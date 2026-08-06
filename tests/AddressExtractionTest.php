@@ -22,8 +22,10 @@ declare(strict_types=1);
 namespace MichielGerritsen\ExtractAddressParts\Tests;
 
 use MichielGerritsen\ExtractAddressParts\AddressExtraction;
+use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\Attributes\DataProvider;
+use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
 
 class AddressExtractionTest extends TestCase
@@ -118,6 +120,22 @@ class AddressExtractionTest extends TestCase
                 ["rue du plat d’etain", '1'],
                 new AddressExtractionResult("rue du plat d’etain", '1', '')
             ],
+            'Extension separated by a dash' => [
+                ['Kerkstraat 95-A'],
+                new AddressExtractionResult('Kerkstraat', '95', 'A')
+            ],
+            'Floor separated by a dash' => [
+                ['Kerkstraat 95-2'],
+                new AddressExtractionResult('Kerkstraat', '95', '2')
+            ],
+            'Address followed by postcode and city' => [
+                ['Kerkstraat 95, 1234 AB Amsterdam'],
+                new AddressExtractionResult('Kerkstraat', '95', '')
+            ],
+            'Year in the street is not mistaken for a postcode' => [
+                ['Plein 1940 nr 2'],
+                new AddressExtractionResult('Plein 1940 nr', '2', '')
+            ],
         ];
     }
 
@@ -131,5 +149,45 @@ class AddressExtractionTest extends TestCase
         $result = $instance->process($address);
 
         $this->assertEquals($expected, $result);
+    }
+
+    #[Test]
+    public function itThrowsWhenTheAddressHasNoHouseNumber(): void
+    {
+        $instance = new AddressExtraction();
+
+        $this->expectException(AddressExtractionError::class);
+
+        $instance->process(['Kerkstraat']);
+    }
+
+    #[Test]
+    public function itThrowsForAPostboxInsteadOfReturningItAsAStreet(): void
+    {
+        $instance = new AddressExtraction();
+
+        $this->expectException(AddressExtractionError::class);
+
+        $instance->process(['Postbus 1234']);
+    }
+
+    #[Test]
+    public function itThrowsForALowercasePostbox(): void
+    {
+        $instance = new AddressExtraction();
+
+        $this->expectException(AddressExtractionError::class);
+
+        $instance->process(['postbus 1234']);
+    }
+
+    #[Test]
+    public function itThrowsWhenTheAddressIsEmpty(): void
+    {
+        $instance = new AddressExtraction();
+
+        $this->expectException(AddressExtractionError::class);
+
+        $instance->process(['']);
     }
 }

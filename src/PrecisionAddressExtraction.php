@@ -26,6 +26,8 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class PrecisionAddressExtraction implements AddressExtractionInterface
 {
+    use NormalizesAddressInput;
+
     /**
      * @var array<string, string[]>
      */
@@ -34,13 +36,15 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
     private string $input;
 
     /**
-     * @param string[] $address A list of address lines
-     * @return AddressExtractionResult
+     * @param string|string[] $address A full address, or a list of address lines
      * @throws AddressExtractionError
      */
-    public function process(array $address): AddressExtractionResult
+    public function process(string|array $address): AddressExtractionResult
     {
-        $this->input = implode(' ', $address);
+        $input = $this->toInputString($address);
+        $this->rejectPostbox($input);
+
+        $this->input = $this->removePostcodeAndCity($input);
         $normalizedAddress = mb_strtolower(trim($this->input));
 
         if ($match = $this->hasExactMatch($normalizedAddress)) {
@@ -87,25 +91,60 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
         return $list;
     }
 
-    private function getResult(string $validatedStreet): AddressExtractionResult
+    /**
+     * @param array{street: string, words: int} $match
+     */
+    private function getResult(array $match): AddressExtractionResult
     {
-        $houseNumber = trim(str_ireplace($validatedStreet, '', $this->input));
-        if (preg_match('/(?<housenumber>[0-9]+)(?<addition>.*)/', $houseNumber, $matches)) {
+        $street = $this->streetAsWritten($match['street'], $match['words']);
+        $remainder = $this->remainderAfterStreet($match['words']);
+
+        if (preg_match('/(?<housenumber>[0-9]+)(?<addition>.*)/', $remainder, $matches)) {
             return new AddressExtractionResult(
-                ucwords(trim($validatedStreet)),
+                $street,
                 trim($matches['housenumber']),
-                trim($matches['addition'])
+                trim($matches['addition']),
+                ExtractionMethod::Dictionary
             );
         }
 
-        return new AddressExtractionResult(
-            ucwords(trim($validatedStreet)),
-            $houseNumber,
-            ''
-        );
+        return new AddressExtractionResult($street, $remainder, '', ExtractionMethod::Dictionary);
     }
 
-    private function hasExactMatch(string $address): ?string
+    /**
+     * The dictionary is lowercase, so returning it directly would destroy the casing the user supplied.
+     * Only fall back to it when it actually differs, which means the spelling was corrected.
+     */
+    private function streetAsWritten(string $dictionaryStreet, int $words): string
+    {
+        $asWritten = $this->replaceAbbreviations(
+            trim(implode(' ', array_slice($this->inputWords(), 0, $words)))
+        );
+
+        if (mb_strtolower($asWritten) === $dictionaryStreet) {
+            return $asWritten;
+        }
+
+        return ucwords($dictionaryStreet);
+    }
+
+    private function remainderAfterStreet(int $words): string
+    {
+        return trim(implode(' ', array_slice($this->inputWords(), $words)));
+    }
+
+    /**
+     * @return string[]
+     */
+    private function inputWords(): array
+    {
+        return explode(' ', trim($this->input));
+    }
+
+    /**
+     * @return array{street: string, words: int}|null
+     */
+    private function hasExactMatch(string $address): ?array
     {
         $parts = explode(' ', $address);
         $list = $this->getAddressList($address);
@@ -114,14 +153,17 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             $possibleStreet = $this->replaceAbbreviations(implode(' ', $parts));
 
             if (in_array($possibleStreet, $list)) {
-                return $possibleStreet;
+                return ['street' => $possibleStreet, 'words' => count($parts)];
             }
         } while(count($parts));
 
         return null;
     }
 
-    private function tryByNonExactMatch(string $normalizedAddress): ?string
+    /**
+     * @return array{street: string, words: int}|null
+     */
+    private function tryByNonExactMatch(string $normalizedAddress): ?array
     {
         $parts = explode(' ', $normalizedAddress);
         do {
@@ -130,7 +172,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
 
             if ($validatedStreet = $this->validStreet($possibleStreet)) {
                 $this->validateStreet($normalizedAddress, $validatedStreet);
-                return $validatedStreet;
+                return ['street' => $validatedStreet, 'words' => count($parts)];
             }
         } while(count($parts));
 

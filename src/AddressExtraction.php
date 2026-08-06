@@ -26,16 +26,20 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class AddressExtraction implements AddressExtractionInterface
 {
+    use NormalizesAddressInput;
+
     public const STREET_SPLIT_NAME_FROM_NUMBER = '/^(?P<street>\d*[\p{L}\d \`\'\‘\’\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\`\'"\(\)]*)$/iu';
     public const STREET_SPLIT_NUMBER_FROM_NAME = '/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \`\'\-\.]*)$/i';
 
     /**
-     * @param string[] $address A list of address lines
+     * @param string|string[] $address A full address, or a list of address lines
      * @throws AddressExtractionError
      */
-    public function process(array $address): AddressExtractionResult
+    public function process(string|array $address): AddressExtractionResult
     {
-        $address = implode(' ', $address);
+        $address = $this->toInputString($address);
+        $this->rejectPostbox($address);
+        $address = $this->removePostcodeAndCity($address);
 
         $matched = preg_match(self::STREET_SPLIT_NAME_FROM_NUMBER, trim($address), $result);
 
@@ -43,14 +47,11 @@ class AddressExtraction implements AddressExtractionInterface
             $result = $this->extractStreetFromNumber($address);
         }
 
-        if (isset($result['error'])) {
-            throw new AddressExtractionError($result['error']);
-        }
-
         return new AddressExtractionResult(
             $this->replaceAbbreviations(trim($result['street'])),
             trim($result['housenumber'] ?? ''),
-            trim($result['addition'])
+            trim($result['addition']),
+            ExtractionMethod::Pattern
         );
     }
 

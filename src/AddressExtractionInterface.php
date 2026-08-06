@@ -26,7 +26,7 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 interface AddressExtractionInterface
 {
     /**
-     * @param string[] $address A list of address lines
+     * @param string|string[] $address A full address, or a list of address lines
      */
-    public function process(array $address): AddressExtractionResult;
+    public function process(string|array $address): AddressExtractionResult;
 }
