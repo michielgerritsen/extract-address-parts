@@ -23,22 +23,10 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class CombinedAddressExtraction implements AddressExtractionInterface
 {
-    /**
-     * @var AddressExtraction
-     */
-    private $addressExtraction;
-
-    /**
-     * @var PrecisionAddressExtraction
-     */
-    private $precisionAddressExtraction;
-
     public function __construct(
-        AddressExtraction $addressExtraction,
-        PrecisionAddressExtraction $precisionAddressExtraction
+        private readonly AddressExtraction $addressExtraction,
+        private readonly PrecisionAddressExtraction $precisionAddressExtraction
     ) {
-        $this->addressExtraction = $addressExtraction;
-        $this->precisionAddressExtraction = $precisionAddressExtraction;
     }
 
     public function process(array $address): AddressExtractionResult

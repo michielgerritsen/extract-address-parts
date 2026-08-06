@@ -24,14 +24,11 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 class PrecisionAddressExtraction implements AddressExtractionInterface
 {
     /**
-     * @var array
+     * @var array<string, string[]>
      */
-    private $addressLists = [];
+    private array $addressLists = [];
 
-    /**
-     * @var string
-     */
-    private $input;
+    private string $input;
 
     /**
      * @param string[] $address A list of address lines
@@ -58,7 +55,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
 
     private function getAddressList(string $address): array
     {
-        if ($address == '') {
+        if ($address === '') {
             return [];
         }
 
@@ -113,7 +110,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             }
         } while(count($parts));
 
-        return false;
+        return null;
     }
 
     private function tryByNonExactMatch(string $normalizedAddress): ?string
@@ -146,7 +143,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             }
 
             // Exact match
-            if ($levenshtein == 0) {
+            if ($levenshtein === 0) {
                 $closest = $dictionaryStreet;
                 break;
             }

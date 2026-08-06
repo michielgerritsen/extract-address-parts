@@ -16,6 +16,10 @@ This library has 3 ways available to extract the data:
   
 This is a lightweight repository, it has no external dependencies, except for PHPUnit for testing.
 
+# Requirements
+
+PHP 8.1 or higher, with the `mbstring` extension. Version 1.x supports PHP 7.0 and up.
+
 # Installation
 
 `composer require michielgerritsen/extract-address-parts`
@@ -34,7 +38,10 @@ use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
 try {
   $result = (new AddressExtraction())->process(['Kerkstraat 95A']);
   $result = (new PrecisionAddressExtraction())->process(['Kerkstraat 95A']);
-  $result = (new CombinedAddressExtraction())->process(['Kerkstraat 95A']);
+  $result = (new CombinedAddressExtraction(
+    new AddressExtraction(),
+    new PrecisionAddressExtraction()
+  ))->process(['Kerkstraat 95A']);
 } catch (AddressExtractionError $exception) {
   die('Uh oh, this address seems to be invalid.');
 }
