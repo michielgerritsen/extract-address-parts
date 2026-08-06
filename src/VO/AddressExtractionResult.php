@@ -31,7 +31,7 @@ class AddressExtractionResult
         private readonly string $street,
         private readonly string $housenumber,
         string $addition,
-        private readonly ExtractionMethod $extractionMethod = ExtractionMethod::Pattern
+        private readonly ExtractionMethod $extractionMethod
     ) {
         $this->addition = ltrim($addition, " \t-/,");
     }

@@ -2,47 +2,39 @@
 
 # Extract information from Dutch addresses
 
-I have been in this situation multiple times: You need to provide an housernumber and addition for some API. But the provided dataset only has the complete address. This library tries to solve this issue. For instance:
+I have been in this situation multiple times: You need to provide a housenumber and addition for some API. But the provided dataset only has the complete address. This library tries to solve this issue. For instance:
 
 - Kerkstraat 95A
   - Street: `Kerkstraat`
   - Housenumber: `95`
   - Addition: `A`
-  
-This library has 3 ways available to extract the data:
-- `AddressExtraction` - The default. Tries to extract by using regex.
-- `PrecisionAddressExtraction` - This uses library files with all known Dutch streetnames and tries to match them.
-- `CombinedAddressExtraction` - A combination of the previoius 2: It tries the `PrecisionAddressExtraction` first, and if that fails, fallsback to the `AddressExtraction`. Use `CombinedAddressExtraction::create()` to wire it up with the two default strategies, or pass your own implementations of `AddressExtractionInterface` to the constructor.
 
-An `AddressExtractionError` is thrown when no house number can be found, when the street is not recognised, and for postbox addresses such as `Postbus 1234`.
-  
-This is a lightweight repository, it has no external dependencies, except for PHPUnit for testing.
+This is a lightweight repository, it has no runtime dependencies beyond the `mbstring` extension.
 
-# Requirements
+Upgrading from 1.x? See [UPGRADE.md](UPGRADE.md).
+
+## Requirements
 
 PHP 8.1 or higher, with the `mbstring` extension. Version 1.x supports PHP 7.0 and up.
 
-# Installation
+## Installation
 
-`composer require michielgerritsen/extract-address-parts`
+```
+composer require michielgerritsen/extract-address-parts
+```
 
-# Usage
+## Usage
 
-## AddressExtraction
 ```php
-use MichielGerritsen\ExtractAddressParts\AddressExtraction;
-use MichielGerritsen\ExtractAddressParts\PrecisionAddressExtraction;
 use MichielGerritsen\ExtractAddressParts\CombinedAddressExtraction;
-use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
+use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
-/** @var AddressExtractionResult $result */
 try {
-  $result = (new AddressExtraction())->process('Kerkstraat 95A');
-  $result = (new PrecisionAddressExtraction())->process('Kerkstraat 95A');
-  $result = CombinedAddressExtraction::create()->process('Kerkstraat 95A');
+    /** @var AddressExtractionResult $result */
+    $result = CombinedAddressExtraction::create()->process('Kerkstraat 95A');
 } catch (AddressExtractionError $exception) {
-  die('Uh oh, this address seems to be invalid.');
+    die('Uh oh, this address seems to be invalid.');
 }
 
 $result->getStreet(); // Kerkstraat
@@ -56,12 +48,36 @@ Pass an array when the address is split over multiple lines:
 $result = CombinedAddressExtraction::create()->process(['Kerkstraat', '95A']);
 ```
 
+## Choosing a strategy
+
+| Strategy | How it works | Use when |
+| --- | --- | --- |
+| `CombinedAddressExtraction` | Tries `PrecisionAddressExtraction` first and falls back to `AddressExtraction`. | You want the best result available. Start here. |
+| `PrecisionAddressExtraction` | Matches against a list of all known Dutch streets. | You only want addresses whose street actually exists, and prefer an exception over a guess. |
+| `AddressExtraction` | Matches the shape of an address with a regular expression. | The address may be outside the Netherlands, or you accept unverified input. |
+
+```php
+use MichielGerritsen\ExtractAddressParts\AddressExtraction;
+use MichielGerritsen\ExtractAddressParts\PrecisionAddressExtraction;
+
+$result = (new AddressExtraction())->process('Kerkstraat 95A');
+$result = (new PrecisionAddressExtraction())->process('Kerkstraat 95A');
+```
+
+`CombinedAddressExtraction::create()` wires up the two default strategies. To use your own, pass any
+implementations of `AddressExtractionInterface` to the constructor. They are attempted in the order
+you give them:
+
+```php
+new CombinedAddressExtraction(new PrecisionAddressExtraction(), new AddressExtraction());
+```
+
 ## Knowing how reliable a result is
 
 `PrecisionAddressExtraction` verifies the street against a list of known Dutch streets, while
-`AddressExtraction` only checks that the input has the shape of an address. `getExtractionMethod()`
-tells you which of the two produced the result, which matters when `CombinedAddressExtraction`
-silently falls back:
+`AddressExtraction` only checks that the input has the shape of an address. Because
+`CombinedAddressExtraction` falls back silently, a guess would otherwise be indistinguishable from a
+verified match. `getExtractionMethod()` tells you which of the two produced the result:
 
 ```php
 use MichielGerritsen\ExtractAddressParts\ExtractionMethod;
@@ -72,6 +88,25 @@ $result->getExtractionMethod(); // ExtractionMethod::Pattern
 $result->getExtractionMethod()->isVerified(); // false, the street was never confirmed to exist
 ```
 
-# Contributing
+That street does not exist, but it has the shape of an address, so the regex accepts it. Use
+`isVerified()` to decide what to trust, for example to accept verified addresses automatically and
+queue the rest for review.
 
-Pull the repository, run `composer install`. Testing can be done by `composer test`.
+## Errors
+
+An `AddressExtractionError` is thrown when:
+
+- no house number can be found, such as `Kerkstraat` on its own;
+- the street is not recognised (`PrecisionAddressExtraction` only);
+- the input is a postbox, such as `Postbus 1234`, which has no street or house number.
+
+## Contributing
+
+Pull the repository and run `composer install`.
+
+```
+composer test     # run the test suite
+composer analyse  # run PHPStan
+```
+
+Both run in CI against every supported PHP version.

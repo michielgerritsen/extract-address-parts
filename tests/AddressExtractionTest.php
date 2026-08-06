@@ -23,6 +23,7 @@ namespace MichielGerritsen\ExtractAddressParts\Tests;
 
 use MichielGerritsen\ExtractAddressParts\AddressExtraction;
 use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
+use MichielGerritsen\ExtractAddressParts\ExtractionMethod;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\Attributes\Test;
@@ -38,103 +39,103 @@ class AddressExtractionTest extends TestCase
         return [
             'regular address' => [
                 ['Kerkstraat 95'],
-                new AddressExtractionResult('Kerkstraat', '95', '')
+                new AddressExtractionResult('Kerkstraat', '95', '', ExtractionMethod::Pattern)
             ],
             'address with extension' => [
                 ['Kerkstraat 95A'],
-                new AddressExtractionResult('Kerkstraat', '95', 'A')
+                new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Pattern)
             ],
             'address with extension and space' => [
                 ['Kerkstraat 95 A'],
-                new AddressExtractionResult('Kerkstraat', '95', 'A')
+                new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Pattern)
             ],
             'housenumber on second line' => [
                 ['Kerkstraat', '95'],
-                new AddressExtractionResult('Kerkstraat', '95', '')
+                new AddressExtractionResult('Kerkstraat', '95', '', ExtractionMethod::Pattern)
             ],
             'housenumber on second line with extension' => [
                 ['Kerkstraat', '95A'],
-                new AddressExtractionResult('Kerkstraat', '95', 'A')
+                new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Pattern)
             ],
             'housenumber on second line with extension and space' => [
                 ['Kerkstraat', '95 A'],
-                new AddressExtractionResult('Kerkstraat', '95', 'A')
+                new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Pattern)
             ],
             'Streetname with spaces' => [
                 ['Clare Lennarthof 7'],
-                new AddressExtractionResult('Clare Lennarthof', '7', '')
+                new AddressExtractionResult('Clare Lennarthof', '7', '', ExtractionMethod::Pattern)
             ],
             'Streetname with spaces on second line' => [
                 ['Clare Lennarthof ', '7'],
-                new AddressExtractionResult('Clare Lennarthof', '7', '')
+                new AddressExtractionResult('Clare Lennarthof', '7', '', ExtractionMethod::Pattern)
             ],
             'Streetname with spaces and extension' => [
                 ['Clare Lennarthof 7B'],
-                new AddressExtractionResult('Clare Lennarthof', '7', 'B')
+                new AddressExtractionResult('Clare Lennarthof', '7', 'B', ExtractionMethod::Pattern)
             ],
             'Streetname with spaces and extension and extra space' => [
                 ['Clare Lennarthof 7 B'],
-                new AddressExtractionResult('Clare Lennarthof', '7', 'B')
+                new AddressExtractionResult('Clare Lennarthof', '7', 'B', ExtractionMethod::Pattern)
             ],
             'Streetname with numbers' => [
                 ['7 Januaristraat 18'],
-                new AddressExtractionResult('7 Januaristraat', '18', '')
+                new AddressExtractionResult('7 Januaristraat', '18', '', ExtractionMethod::Pattern)
             ],
             'Reversed' => [
                 ['95 Kerkstraat'],
-                new AddressExtractionResult('Kerkstraat', '95', '')
+                new AddressExtractionResult('Kerkstraat', '95', '', ExtractionMethod::Pattern)
             ],
             'Abbreviated address with dot' => [
                 ['Kerkstr. 8'],
-                new AddressExtractionResult('Kerkstraat', '8', '')
+                new AddressExtractionResult('Kerkstraat', '8', '', ExtractionMethod::Pattern)
             ],
             'Abbreviated address with dot without space' => [
                 ['Kerkstr.8'],
-                new AddressExtractionResult('Kerkstraat', '8', '')
+                new AddressExtractionResult('Kerkstraat', '8', '', ExtractionMethod::Pattern)
             ],
             'Abbreviated prefix in address' => [
                 ['Prof. De Grootstraat 12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                new AddressExtractionResult('Prof. De Grootstraat', '12', '', ExtractionMethod::Pattern)
             ],
             'Abbreviated prefix in abbreviated address' => [
                 ['Prof. De Grootstr. 12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                new AddressExtractionResult('Prof. De Grootstraat', '12', '', ExtractionMethod::Pattern)
             ],
             'Abbreviated prefix in abbreviated address without space' => [
                 ['Prof. De Grootstr.12'],
-                new AddressExtractionResult('Prof. De Grootstraat', '12', '')
+                new AddressExtractionResult('Prof. De Grootstraat', '12', '', ExtractionMethod::Pattern)
             ],
             'Address with special character (‘)' => [
                 ["rue du plat d‘étain", '1'],
-                new AddressExtractionResult("rue du plat d‘étain", '1', '')
+                new AddressExtractionResult("rue du plat d‘étain", '1', '', ExtractionMethod::Pattern)
             ],
             "Address with special character (')" => [
                 ["rue du plat d'etain", '1'],
-                new AddressExtractionResult("rue du plat d'etain", '1', '')
+                new AddressExtractionResult("rue du plat d'etain", '1', '', ExtractionMethod::Pattern)
             ],
             'Address with special character (`)' => [
                 ["rue du plat d`etain", '1'],
-                new AddressExtractionResult("rue du plat d`etain", '1', '')
+                new AddressExtractionResult("rue du plat d`etain", '1', '', ExtractionMethod::Pattern)
             ],
             'Address with special character (’)' => [
                 ["rue du plat d’etain", '1'],
-                new AddressExtractionResult("rue du plat d’etain", '1', '')
+                new AddressExtractionResult("rue du plat d’etain", '1', '', ExtractionMethod::Pattern)
             ],
             'Extension separated by a dash' => [
                 ['Kerkstraat 95-A'],
-                new AddressExtractionResult('Kerkstraat', '95', 'A')
+                new AddressExtractionResult('Kerkstraat', '95', 'A', ExtractionMethod::Pattern)
             ],
             'Floor separated by a dash' => [
                 ['Kerkstraat 95-2'],
-                new AddressExtractionResult('Kerkstraat', '95', '2')
+                new AddressExtractionResult('Kerkstraat', '95', '2', ExtractionMethod::Pattern)
             ],
             'Address followed by postcode and city' => [
                 ['Kerkstraat 95, 1234 AB Amsterdam'],
-                new AddressExtractionResult('Kerkstraat', '95', '')
+                new AddressExtractionResult('Kerkstraat', '95', '', ExtractionMethod::Pattern)
             ],
             'Year in the street is not mistaken for a postcode' => [
                 ['Plein 1940 nr 2'],
-                new AddressExtractionResult('Plein 1940 nr', '2', '')
+                new AddressExtractionResult('Plein 1940 nr', '2', '', ExtractionMethod::Pattern)
             ],
         ];
     }
