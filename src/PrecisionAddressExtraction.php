@@ -35,6 +35,13 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
 
     private string $input;
 
+    private readonly string $addressesDirectory;
+
+    public function __construct(?string $addressesDirectory = null)
+    {
+        $this->addressesDirectory = $addressesDirectory ?? __DIR__ . '/../addresses';
+    }
+
     /**
      * @param string|string[] $address A full address, or a list of address lines
      * @throws AddressExtractionError
@@ -78,7 +85,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             return $this->addressLists[$first];
         }
 
-        $path = __DIR__ . '/../addresses/' . $first . '.txt';
+        $path = $this->addressesDirectory . '/' . $first . '.txt';
         $contents = file_exists($path) ? file_get_contents($path) : false;
 
         if ($contents === false) {
@@ -86,7 +93,8 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
             return [];
         }
 
-        $list = explode(PHP_EOL, trim($contents));
+        // Not PHP_EOL: that is the line ending of the running platform, not of the file being read.
+        $list = preg_split('/\R/u', trim($contents)) ?: [];
         $this->addressLists[$first] = $list;
         return $list;
     }

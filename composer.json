@@ -20,7 +20,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "MichielGerritsen\\ExtractAddressParts\\": "tests/"
+      "MichielGerritsen\\ExtractAddressParts\\Tests\\": "tests/"
     }
   },
   "require-dev": {

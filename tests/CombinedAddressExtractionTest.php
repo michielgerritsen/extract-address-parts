@@ -19,9 +19,14 @@ declare(strict_types=1);
  *
  */
 
-namespace MichielGerritsen\ExtractAddressParts;
+namespace MichielGerritsen\ExtractAddressParts\Tests;
 
+use MichielGerritsen\ExtractAddressParts\AddressExtraction;
+use MichielGerritsen\ExtractAddressParts\AddressExtractionInterface;
+use MichielGerritsen\ExtractAddressParts\CombinedAddressExtraction;
 use MichielGerritsen\ExtractAddressParts\Exceptions\AddressExtractionError;
+use MichielGerritsen\ExtractAddressParts\ExtractionMethod;
+use MichielGerritsen\ExtractAddressParts\PrecisionAddressExtraction;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\Attributes\Test;

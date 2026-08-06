@@ -1,0 +1,13 @@
+# The street lists are read with a line ending agnostic split, but keeping them as committed avoids
+# needless diffs when checked out on Windows.
+addresses/*.txt -text
+
+# Keep development only files out of the distributed package.
+/.github        export-ignore
+/.gitattributes export-ignore
+/.gitignore     export-ignore
+/bin            export-ignore
+/tests          export-ignore
+/phpstan.neon   export-ignore
+/phpunit.xml    export-ignore
+/UPGRADE.md     export-ignore
