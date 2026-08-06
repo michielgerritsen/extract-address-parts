@@ -20,11 +20,12 @@ namespace MichielGerritsen\ExtractAddressParts\Tests;
 
 use MichielGerritsen\ExtractAddressParts\PrecisionAddressExtraction;
 use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
 class PrecisionAddressExtractionTest extends TestCase
 {
-    public function addressProvider()
+    public static function addressProvider()
     {
         return [
             'regular address' => [
@@ -86,9 +87,7 @@ class PrecisionAddressExtractionTest extends TestCase
         ];
     }
 
-    /**
-     * @dataProvider addressProvider
-     */
+    #[DataProvider('addressProvider')]
     public function testExtract(array $address, AddressExtractionResult $expected)
     {
         $instance = new PrecisionAddressExtraction();
