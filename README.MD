@@ -116,6 +116,15 @@ The script walks all 342 gemeenten, because the API returns at most 100 rows per
 an offset above 10000. It takes a few minutes, and refuses to write anything if it collects
 implausibly few streets, so a failed run cannot leave you with a truncated list.
 
+## License
+
+The code is [MIT](LICENSE) licensed.
+
+The street names in `addresses/` are not. They come from the Basisregistratie Adressen en Gebouwen
+of the Dutch [Kadaster](https://www.kadaster.nl/), retrieved through [PDOK](https://www.pdok.nl/),
+and are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Keep that attribution
+if you redistribute the data.
+
 ## Contributing
 
 Pull the repository and run `composer install`.

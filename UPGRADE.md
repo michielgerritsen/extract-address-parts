@@ -1,5 +1,15 @@
 # Upgrading from 1.x to 2.0
 
+## Licensing
+
+The code moved from WTFPL to MIT. WTFPL carried no warranty disclaimer and is not OSI approved,
+which meant some license scanners rejected the package outright. MIT adds one condition: keep the
+copyright notice when you redistribute.
+
+The street names in `addresses/` were never covered by the project license. They come from the
+Kadaster BAG registry and are CC BY 4.0, so redistributing them means keeping that attribution.
+1.x shipped the same data without saying so.
+
 ## Requirements
 
 PHP 8.1 or higher is now required. 1.x supported PHP 7.0 and up. The library code itself is not the
