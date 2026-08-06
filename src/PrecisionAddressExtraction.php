@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  *    ______            __             __
  *   / ____/___  ____  / /__________  / /
@@ -53,6 +56,9 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
         );
     }
 
+    /**
+     * @return string[]
+     */
     private function getAddressList(string $address): array
     {
         if ($address === '') {
@@ -69,12 +75,14 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
         }
 
         $path = __DIR__ . '/../addresses/' . $first . '.txt';
-        if (!file_exists($path)) {
+        $contents = file_exists($path) ? file_get_contents($path) : false;
+
+        if ($contents === false) {
             $this->addressLists[$first] = [];
             return [];
         }
 
-        $list = explode(PHP_EOL, trim(file_get_contents($path)));
+        $list = explode(PHP_EOL, trim($contents));
         $this->addressLists[$first] = $list;
         return $list;
     }
@@ -160,7 +168,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
     private function replaceAbbreviations(string $address): string
     {
         // If the address ends with "st." or "str.", replace it with "straat".
-        return preg_replace('/(st\.|str\.)$/', 'straat', $address);
+        return preg_replace('/(st\.|str\.)$/', 'straat', $address) ?? $address;
     }
 
     /**
@@ -169,7 +177,7 @@ class PrecisionAddressExtraction implements AddressExtractionInterface
      */
     private function validateStreet(string $normalizedAddress, string $validatedStreet): void
     {
-        $addressWithoutNumbers = mb_strlen(trim(preg_replace('/[0-9]+/', '', $normalizedAddress)));
+        $addressWithoutNumbers = mb_strlen(trim(preg_replace('/[0-9]+/', '', $normalizedAddress) ?? $normalizedAddress));
         $validatedStreet = mb_strlen($validatedStreet);
 
         if ($addressWithoutNumbers - $validatedStreet > 2) {

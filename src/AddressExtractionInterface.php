@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  *    ______            __             __
  *   / ____/___  ____  / /__________  / /
@@ -22,5 +25,8 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 interface AddressExtractionInterface
 {
+    /**
+     * @param string[] $address A list of address lines
+     */
     public function process(array $address): AddressExtractionResult;
 }

@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  *    ______            __             __
  *   / ____/___  ____  / /__________  / /
@@ -23,19 +26,18 @@ use MichielGerritsen\ExtractAddressParts\VO\AddressExtractionResult;
 
 class AddressExtraction implements AddressExtractionInterface
 {
-    public const STREET_SPLIT_NAME_FROM_NUMBER ='/^(?P<street>\d*[\p{L}\d \`\'\‘\’\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\`\'"\(\)]*)$/iu';
-    public const STREET_SPLIT_NUMBER_FROM_NAME ='/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \`\'\-\.]*)$/i';
+    public const STREET_SPLIT_NAME_FROM_NUMBER = '/^(?P<street>\d*[\p{L}\d \`\'\‘\’\/\\\\\-\.]+[,.\s])+(?P<housenumber>\d+)\s*(?P<addition>[\p{L} \d\-\/\`\'"\(\)]*)$/iu';
+    public const STREET_SPLIT_NUMBER_FROM_NAME = '/^(?P<housenumber>\d+)\s*(?P<street>[\p{L}\d \`\'\-\.]*)$/i';
 
     /**
      * @param string[] $address A list of address lines
-     * @return AddressExtractionResult
      * @throws AddressExtractionError
      */
     public function process(array $address): AddressExtractionResult
     {
         $address = implode(' ', $address);
 
-        $matched = preg_match(static::STREET_SPLIT_NAME_FROM_NUMBER, trim($address), $result);
+        $matched = preg_match(self::STREET_SPLIT_NAME_FROM_NUMBER, trim($address), $result);
 
         if (!$matched) {
             $result = $this->extractStreetFromNumber($address);
@@ -45,21 +47,25 @@ class AddressExtraction implements AddressExtractionInterface
             throw new AddressExtractionError($result['error']);
         }
 
-        $street = preg_replace('/(st\.|str\.)$/', 'straat', trim($result['street']));
         return new AddressExtractionResult(
-            $street,
+            $this->replaceAbbreviations(trim($result['street'])),
             trim($result['housenumber'] ?? ''),
             trim($result['addition'])
         );
     }
 
+    private function replaceAbbreviations(string $street): string
+    {
+        return preg_replace('/(st\.|str\.)$/', 'straat', $street) ?? $street;
+    }
+
     /**
-     * @return array<string, string>
+     * @return array<int|string, string>
      * @throws AddressExtractionError
      */
     private function extractStreetFromNumber(string $street): array
     {
-        $matched = preg_match(static::STREET_SPLIT_NUMBER_FROM_NAME, trim($street), $result);
+        $matched = preg_match(self::STREET_SPLIT_NUMBER_FROM_NAME, trim($street), $result);
 
         if (!$matched) {
             throw new AddressExtractionError(

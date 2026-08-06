@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  *    ______            __             __
  *   / ____/___  ____  / /__________  / /
@@ -24,7 +27,10 @@ use PHPUnit\Framework\TestCase;
 
 class CombinedAddressExtractionTest extends TestCase
 {
-    public static function addressProvider()
+    /**
+     * @return array<string, array{string[], AddressExtractionResult}>
+     */
+    public static function addressProvider(): array
     {
         return [
             'regular address' => [
@@ -110,8 +116,11 @@ class CombinedAddressExtractionTest extends TestCase
         ];
     }
 
+    /**
+     * @param string[] $address
+     */
     #[DataProvider('addressProvider')]
-    public function testExtract(array $address, AddressExtractionResult $expected)
+    public function testExtract(array $address, AddressExtractionResult $expected): void
     {
         $instance = new CombinedAddressExtraction(
             new AddressExtraction(),

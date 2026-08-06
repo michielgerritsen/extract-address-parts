@@ -1,4 +1,7 @@
 <?php
+
+declare(strict_types=1);
+
 /**
  *    ______            __             __
  *   / ____/___  ____  / /__________  / /
@@ -29,6 +32,10 @@ class CombinedAddressExtraction implements AddressExtractionInterface
     ) {
     }
 
+    /**
+     * @param string[] $address A list of address lines
+     * @throws AddressExtractionError
+     */
     public function process(array $address): AddressExtractionResult
     {
         try {
