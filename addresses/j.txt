@@ -12,6 +12,7 @@ j c kouterstraat
 j c pieckstraat
 j c van markenstraat
 j d bosch kemperplnts
+j de bruyn v buytewech
 j eijkmanlaan
 j f kennedylaan
 j f kennedyplein
@@ -25,7 +26,6 @@ j h pameijerstraat
 j h tromp meestersstraat
 j h v linschotenstraat
 j havingastraat
-j henricus nieuwoldstr
 j j grootlaan
 j j p tichlerlaan
 j m l t calspad
@@ -35,7 +35,7 @@ j m vd lugt melsertln
 j o van schaikstraat
 j p engelmanstraat
 j p heijeplantsoen
-j p odijk-woutersstr
+j platform
 j r zeemanstraat
 j s bachstraat
 j v beierenlaan
@@ -45,14 +45,16 @@ j v oldenbarneveltstraat
 j van damstraat
 j van de voortstraat
 j van der veenstraat
+j van goijenstraat
 j van hasseltstraat
 j van oldenbarneveldtstr
 j van riemsdijkstraat
+j vetsbrug
 j vogelzangstrjitte
 j w lunterstraat
 j w stamstraat
-j(an) v. dieststraat
 j. abelnstraat
+j. addamspad
 j. algerapad
 j. asselbergsweg
 j. baart de la faillestraat
@@ -63,6 +65,7 @@ j. bosmanstraat
 j. bosschaartstraat
 j. brasserstraat
 j. breebaardstraat
+j. brugginkweg
 j. buiskoolweg
 j. c. bloemplein
 j. c. de leeuwweg
@@ -79,13 +82,13 @@ j. dixlaan
 j. drijverweg
 j. droststraat
 j. duikerstraat
-j. duikerweg
 j. dunnebierstraat
 j. evertsenstraat
 j. f. kennedylaan
 j. frankstraat
 j. greshoffstraat
 j. groenstraat
+j. grootendorststraat
 j. h. w. pasmanweg
 j. henry dunantstraat
 j. homan van der heideplein
@@ -96,15 +99,9 @@ j. huurmanlaan
 j. huydecoperweg
 j. ingenhovenstraat
 j. inghenwinckelstraat
-j. j. de vlamstraat
-j. j. verbeetenstraat
-j. j. wernerstraat
-j. j. wintermansstraat
-j. joostenplein
 j. kammingakade
 j. kammingastraat
 j. kazemierstraat
-j. keplerweg
 j. keuningstraat
 j. kinkerstraat
 j. kluitstraat
@@ -112,6 +109,7 @@ j. kostelijklaan
 j. kremerstraat
 j. kruijverstraat
 j. kruiswijkhof
+j. kuijperpad
 j. kuntzelstraat
 j. l. van osstraat
 j. lokkerstraat
@@ -119,13 +117,12 @@ j. louwerensplein
 j. manger catslaan
 j. marisstraat
 j. merkpad
-j. michaã«lpad
+j. michaÃ«lpad
 j. noppenlaan
 j. oostinjerstraat
 j. ooststraat
 j. p. heijestraat
 j. p. leijtenstraat
-j. p. van rossumlaan
 j. paxtonstraat
 j. pellenbargweg
 j. polstraat
@@ -135,7 +132,6 @@ j. rietbergstraat
 j. roodenburghstraat
 j. sasboutstraat
 j. schaperstraat
-j. slagter-dingsdagtuin
 j. springerpad
 j. strieningstraat
 j. ten catestraat
@@ -158,7 +154,6 @@ j. van galenstraat
 j. van gijtenbeekstraat
 j. van heemskerckstraat
 j. van heemskerklaan
-j. van oldenbarneveldstraat
 j. van oldenbarneveldtstraat
 j. van raesfeldstraat
 j. van ravenswaaystraat
@@ -183,7 +178,7 @@ j.a. de boerstraat
 j.a. de bree-meijerstr
 j.a. de witlaan
 j.a. den bandtlaan
-j.a. dã¨r mouwstraat
+j.a. dÃ¨r mouwstraat
 j.a. feithstraat
 j.a. fokkemastraat
 j.a. hardenbergstraat
@@ -193,13 +188,11 @@ j.a. koningstraat
 j.a. laanplein
 j.a. lebbinklaan
 j.a. leeghwaterstraat
-j.a. leeghwaterweg
 j.a. nijhoffstraat
 j.a. reinckenstraat
-j.a. rã¤deckerweg
+j.a. rÃ¤deckerweg
 j.a. slempkesstraat
 j.a. staringweg
-j.a. te nuijlstraat
 j.a. te nuijlstraat
 j.a. tiggelmanstraat
 j.a. van bumaweg
@@ -208,6 +201,7 @@ j.a. van vurenstraat
 j.a. vermaasstraat
 j.a. zandlevenstraat
 j.a.fijnvandraatlaan
+j.a.harmsenpad
 j.a.l.j. van meertenstraat
 j.a.middelhuisstraat
 j.b. bakemakade
@@ -215,11 +209,11 @@ j.b. bakemapad
 j.b. bakemaweg
 j.b. berninklaan
 j.b. jongkindstraat
+j.b. scholtenpad
 j.b. schuilstraat
 j.b. van agtmaalstraat
 j.b. van den hamstraat
 j.b. van loghemstraat
-j.c van neckstraat
 j.c. beetslaan
 j.c. bellisstraat
 j.c. bloemhove
@@ -227,7 +221,6 @@ j.c. bloemlaan
 j.c. bloempad
 j.c. bloemstraat
 j.c. breenstraat
-j.c. bulkstraat
 j.c. de backstraat
 j.c. de haanstraat
 j.c. de rijpstraat
@@ -238,8 +231,7 @@ j.c. langerhorsttuin
 j.c. rijsdijkstraat
 j.c. romijnlaan
 j.c. schlaunstraat
-j.c. schrã¶derstraat
-j.c. schultsplantsoen
+j.c. schrÃ¶derstraat
 j.c. sterrenburgstraat
 j.c. van der lansstraat
 j.c. van der loosstraat
@@ -253,10 +245,7 @@ j.c. van neckstraat
 j.c. van oostzanenlaan
 j.c. van sleehof
 j.c. van wessemstraat
-j.c. verthorenhof
-j.c. verthorenkade
 j.c. verthorenpad
-j.c. verthorenplaats
 j.c. wilslaan
 j.c.j. van speykstraat
 j.c.nagelhoutstrjitte
@@ -282,7 +271,6 @@ j.f. ankersmitstraat
 j.f. berghoefplantsoen
 j.f. de millianostraat
 j.f. evertslaan
-j.f. kellyweg
 j.f. kennedylaan
 j.f. kennedystraat
 j.f. oltmansstraat
@@ -300,10 +288,8 @@ j.g. pinksterstraat
 j.g. sandbrinkstraat
 j.g. schepersweg
 j.g. staringhlaan
-j.g. stuurhoffstraat
 j.g. suurhoffstraat
 j.g. van arkstraat
-j.g. van der stoopweg
 j.g. waltherhof
 j.g. wiebengastraat
 j.g.m. demesstraat
@@ -320,7 +306,6 @@ j.h. kielastraat
 j.h. knobboutstraat
 j.h. knoopstraat
 j.h. koksingel
-j.h. kokstraat
 j.h. kruitstraat
 j.h. l.-van herwaardenstraat
 j.h. leopoldpad
@@ -331,12 +316,15 @@ j.h. molkenboerstraat
 j.h. neuteboomlaan
 j.h. nieuwenhuisstraat
 j.h. oortweg
+j.h. pannekoekpad
 j.h. prengerlaan
 j.h. riemersmastrjitte
 j.h. schaperweg
 j.h. schepsplantsoen
+j.h. slingenbergpad
 j.h. van 't hoffstraat
 j.h. van 't hoffweg
+j.h. van bolhuispad
 j.h. van dalestraat
 j.h. van den bergstraat
 j.h. van den broekstraat
@@ -347,18 +335,16 @@ j.h. van ijsselstrjitte
 j.h. van kinsbergenstraat
 j.h. van linschotenlaan
 j.h. van linschotenstraat
-j.h. van straaten van nesplantsoen
 j.h. van woldastraat
+j.h. van â€™t hofflaan
 j.h. weissenbruchweg
 j.h.a. schaperlaan
 j.h.a. schaperstraat
 j.h.b. koekkoekstraat
 j.h.burgerlaan
-j.h.l. van herwaardenstraat
 j.h.leopoldhof
 j.h.m. kerssemakerslaan
 j.h.machielseweg
-j.h.s. taylorlaan
 j.h.valkenburglaan
 j.h.w. robersstraat
 j.hakenweg
@@ -403,19 +389,21 @@ j.j.p. oudstraat
 j.j.p. oudweg
 j.j.slauerhoffpad
 j.j.talsmalaan
+j.k. ambagsplein
+j.k. pameijerpad
 j.l. nijsinghweg
-j.l. van der aaplantsoen
+j.l. van der gouwpad
 j.l. van rijweg
 j.l.brooijmansdreef
 j.l.dinklahof
 j.m. beijelaan
 j.m. de bruijnstraat
+j.m. de muinck keizerbrug
 j.m. de muinck keizerlaan
 j.m. den uyllaan
 j.m. den uylstraat
 j.m. graadt van roggenweg
 j.m. halkesstraat
-j.m. houwenstraat
 j.m. kemperstraat
 j.m. smit-pietersstraat
 j.m. van der meijstraat
@@ -449,13 +437,11 @@ j.p. van der leestraat
 j.p. van rossumlaan
 j.p. van rossumweg
 j.p. wiersmawei
-j.p.broekhovenstraat
+j.p.a. van dierenlaan
 j.p.c. leinweberstraat
 j.p.coenstraat
-j.p.heyestraat
 j.p.m. keijzersplein
 j.p.nuusweg
-j.p.roosje
 j.palsweg
 j.q.c.lenshoeklaan
 j.r. kerkdijkstraat
@@ -474,17 +460,14 @@ j.schaapmanstraat
 j.slauerhoffstraat
 j.t. cremerlaan
 j.t. kuyckstraat
-j.t. kuykstraat
 j.t. van der veenstraat
 j.t. visserstraat
 j.t.p. bijhouwerhof
-j.t.p. bijhouwerpad
 j.t.p. bijhouwerstraat
 j.v. sprengerlaan
 j.van huizumstrjitte
 j.van wassenaerstraat
 j.van zutphenstraat
-j.w. de ruijterstraat
 j.w. de visserwei
 j.w. dumonstraat
 j.w. frisodreef
@@ -498,24 +481,20 @@ j.w. racerstraat
 j.w. schuurmanstraat
 j.w. siebbeleshof
 j.w. swiersstraat
-j.w. van der noordaatuin
 j.w. van lenthestraat
 j.w. van puttestraat
-j.w.c. bloemstraat
 j.w.f. van hartenstraat
 j.w.f. werumeus buningstraat
-j?nckerpad
 jaachpaad
 jaagband
 jaaginweg
 jaagkade
 jaagmeent
 jaagpad
+jaagpad meppelerdiep
 jaagpad oost
 jaagpad west
-jaagpad-oost
 jaagpad-west
-jaagpad; onderdeel kromme rijnpad
 jaagveld
 jaagvelden
 jaagveldpad
@@ -525,6 +504,7 @@ jaaltinkweg
 jaan dekkerpad
 jaan promenade
 jaap bergmanstraat
+jaap bijzerpad
 jaap bijzerweg
 jaap bootpad
 jaap buijshof
@@ -542,11 +522,12 @@ jaap hamminglaan
 jaap havekottelaan
 jaap hoekdreef
 jaap kosterstraat
-jaap minweg
+jaap le poolestraat
 jaap nippad
 jaap nunes vazstraat
 jaap singerpad
 jaap speyerstraat
+jaap spruijtwarande
 jaap ter haarsingel
 jaap ter haarstraat
 jaap timmerbocht
@@ -554,14 +535,16 @@ jaap valkhoffplein
 jaap van de scheurhof
 jaap van der graafstraat
 jaap van der hoekplaats
+jaap van der torrehof
 jaap van leeuwenlaan
 jaap vegterweg
 jaap veldheerhof
 jaap weijandweg
+jaap zeldenrijk plantsoen
 jaap zwarthoedstraat
+jaarbeurs
 jaarbeursboulevard
 jaarbeursplein
-jaarbeurstraverse
 jaargetijden
 jaargetijdenweg
 jaarlastins
@@ -577,10 +560,10 @@ jac catsstraat
 jac cramersstraat
 jac jansenweg
 jac jordaensstraat
+jac marisplein
 jac marisstraat
 jac p thijsselaan
 jac p thijssepad
-jac p thijssetunnel
 jac reijnderslaan
 jac thijssedomein
 jac. bongaertsstraat
@@ -597,18 +580,14 @@ jac. p. thijssepark
 jac. p. thijsseplaats
 jac. p. thijsseplein
 jac. p. thijssesingel
-jac. p. thijssestraat
 jac. p. thijsseweg
 jac. perkstraat
-jac. schreursstraat
 jac. van looylaan
 jac. van looystraat
 jac. van maerlantlaan
 jac. van vollenhovenstraat
 jac.p. thijsselaan
 jac.p. thijssepad
-jac.p. thijsseplaats
-jac.p. thijsseweg
 jac.schreursstraat
 jachtbuitkreek
 jachtenlaan
@@ -635,7 +614,7 @@ jachthuisdreef
 jachthuislaan
 jachthuisstraat
 jachthuisweg
-jachthãºswei
+jachthÃºswei
 jachtkamp
 jachtlaan
 jachtlust
@@ -652,6 +631,7 @@ jachtrustpad
 jachtrustweg
 jachtsloot
 jachtslot
+jachtslot hubertusweg st
 jachtslotpad
 jachtslotstraat
 jachtstraat
@@ -667,6 +647,7 @@ jachtwerfstraat
 jacintahof
 jacintaplein
 jacintastraat
+jack aldewereld hof
 jack bultermanstraat
 jack dawson greenpad
 jack hompestraat
@@ -674,7 +655,6 @@ jack middelburgstraat
 jack sharp park
 jack van gilsplein
 jacob algerasingel
-jacob anton schorerstr
 jacob arentsstraat
 jacob assendelftplaats
 jacob backerstraat
@@ -699,6 +679,7 @@ jacob cabeliaustraat
 jacob cabelliaustraat
 jacob canisstraat
 jacob catserf
+jacob catshof
 jacob catskade
 jacob catslaan
 jacob catsplein
@@ -710,8 +691,8 @@ jacob cnodestraat
 jacob colijn de nolestraat
 jacob cornelisz van oostsanenhof
 jacob corneliszstraat
-jacob cramerplein
 jacob cremerstraat
+jacob daalderstraat
 jacob damsingel
 jacob de bijestraat
 jacob de boerweg
@@ -728,7 +709,6 @@ jacob de ridderstraat
 jacob de rijkhof
 jacob de rookstraat
 jacob de vletterbaan
-jacob de vletterlaan
 jacob de voslaan
 jacob de vriesstraat
 jacob de weerdstraat f
@@ -757,11 +737,12 @@ jacob hop erf
 jacob hopstraat
 jacob houtinghstraat
 jacob husleystraat
-jacob israã«l de haanstr
-jacob israã«l de haanstraat
+jacob israÃ«l de haanstr
+jacob israÃ«l de haanstraat
 jacob jacobszoon vinckesstraat
 jacob jan hamelinklaan
 jacob jonkerlaan
+jacob jordaenshof
 jacob jordaensplein
 jacob jordaensstraat
 jacob jordaensweg
@@ -771,12 +752,12 @@ jacob kapteynstraat
 jacob katsstraat
 jacob keylaan
 jacob klaaijsenstraat
+jacob kleiboerweg
 jacob knegjespad
 jacob krausstraat
-jacob krã¼sestraat
+jacob krÃ¼sestraat
 jacob kwastlaan
 jacob le mairelaan
-jacob le mairestraat
 jacob le mairestraat
 jacob lemairelaan
 jacob lemairestraat
@@ -793,7 +774,7 @@ jacob marisweg
 jacob matijsen osterlinghstraat
 jacob meijerweg
 jacob melkmanstraat
-jacob merlostraat
+jacob meyerbrug
 jacob mosselstraat
 jacob mulderweg
 jacob obrechtlaan
@@ -812,8 +793,9 @@ jacob patijnweg
 jacob pauwstraat
 jacob peetstraat
 jacob peteysstraat
+jacob petrus
+jacob pielkenroodstraat
 jacob pieterse boreelstraat
-jacob poelsweg
 jacob pronkstraat
 jacob quartelpad
 jacob rekstraat
@@ -840,6 +822,7 @@ jacob ruysdaellaan
 jacob ruysdaelstraat
 jacob schellingerhof
 jacob scholplantsoen
+jacob schoonebrug
 jacob schorer-pad
 jacob schorerlaan
 jacob schorerstraat
@@ -858,14 +841,12 @@ jacob valckeplein
 jacob valckestraat
 jacob van akenstraat
 jacob van arteveldestraat
-jacob van bilerstraat
 jacob van bredastraat
 jacob van campenkwartier
 jacob van campenlaan
 jacob van campenplein
 jacob van campenstraat
 jacob van campenweg
-jacob van damstraat
 jacob van den berglaan
 jacob van den damstraat
 jacob van den eyndestraat
@@ -883,14 +864,12 @@ jacob van ettenstraat
 jacob van eyckpassage
 jacob van gaasbeekstraat
 jacob van gaesbeeklaan
+jacob van gorkumstraat
 jacob van grimmesteijnstraat
 jacob van hattumstraat
 jacob van heemskercklaan
-jacob van heemskerckstr
 jacob van heemskerckstraat
-jacob van heemskerk
 jacob van heemskerklaan
-jacob van heemskerkstr
 jacob van heemskerkstraat
 jacob van houtestraat
 jacob van lennepdreef
@@ -915,7 +894,6 @@ jacob van meindertstraat
 jacob van neckstraat
 jacob van offwegenlaan
 jacob van oostzanenstraat
-jacob van opdorpstraat
 jacob van oudenhovenplein
 jacob van oudenhovenstraat
 jacob van riemsdijkstraat
@@ -935,14 +913,12 @@ jacob van ruysdaellaan
 jacob van ruysdaelpad
 jacob van ruysdaelplantsoen
 jacob van ruysdaelplein
-jacob van ruysdaelsingel
 jacob van ruysdaelstraat
 jacob van strijplein
 jacob van tuinenstrjitte
 jacob van wassenaar obdamstraat
 jacob van wassenaarstraat
 jacob van wassenaerlaan
-jacob van wassenaerstr
 jacob van wassenaerstraat
 jacob van weesenbekestraat
 jacob van wieringenstrjitte
@@ -953,7 +929,8 @@ jacob vreekenplein
 jacob vrijstraat
 jacob westerbaenstraat
 jacob wiersumstraat
-jacob willlemszoonstraat
+jacob willemszoonstraat
+jacoba mosselhof
 jacoba omvleepad
 jacoba pompevliet
 jacoba pulskensstraat
@@ -964,13 +941,10 @@ jacoba van beierenhof
 jacoba van beierenlaan
 jacoba van beierenpad
 jacoba van beierenstraat
-jacoba van beierenstraatt
 jacoba van beierenweg
 jacoba van beijerenstraat
-jacoba van beyerenlaan
 jacoba van heinsbergstraat
-jacoba van tongerenhaghe
-jacoba van tongerenkade
+jacoba van tongerenlaan
 jacoba van veldepad
 jacobadijk
 jacobadreef
@@ -979,6 +953,8 @@ jacobahof
 jacobapad
 jacobastraat
 jacobaweg
+jacobaweide
+jacobibrug
 jacobidyk
 jacobijnenstraat
 jacobijnerhof
@@ -1021,6 +997,7 @@ jacobus boomsmastraat
 jacobus boumanlaan
 jacobus c. boogaardlaan
 jacobus compietweg
+jacobus craandijkpad
 jacobus de waalstraat
 jacobus deckersstraat
 jacobus gorisstraat
@@ -1046,6 +1023,7 @@ jacobus visserstraat
 jacobus vosstraat
 jacobus willemspad
 jacobus wiltinghstraat
+jacobusbos
 jacobusgang
 jacobushoek
 jacobushof
@@ -1060,17 +1038,13 @@ jacq. stalkade
 jacquardstraat
 jacqueline de grezlaan
 jacqueline hoogenboomstraat
-jacqueline louise van der aa plantsoen
 jacqueline louise van der aaplantsoen
 jacqueline roufsweg
 jacqueline van der waalsheem
 jacqueline van der waalssingel
-jacqueline vd waalsheem
 jacques bertinstraat
 jacques bloemhof
 jacques bloempad
-jacques boezemansingel
-jacques boezemanstraat
 jacques brelweg
 jacques de graaffpad
 jacques de graaffweg
@@ -1090,7 +1064,6 @@ jacques perkhof
 jacques perkhove
 jacques perklaan
 jacques perkpad
-jacques perkplantsoen
 jacques perkstraat
 jacques presserhof
 jacques presserstraat
@@ -1104,6 +1077,7 @@ jacques urlusplein
 jacques urlusstraat
 jacques van mourikpad
 jacques veltmanstraat
+jaddanbaikade
 jade
 jadedijk
 jadedreef
@@ -1115,7 +1089,6 @@ jadeplaats
 jadeplantsoen
 jadestoep
 jadestraat
-jadeweg
 jaegerhofweg
 jaegerinkweg
 jaegerweg
@@ -1132,10 +1105,10 @@ jagerakker
 jagerbal
 jagerhof
 jagerlaan
-jagermast
 jagermeester
 jagermeesterlaan
 jagerpad
+jagers hagen
 jagersberg
 jagersbos
 jagersboschlaan
@@ -1145,6 +1118,7 @@ jagerserf
 jagershei
 jagersheuvelstraat
 jagershof
+jagershuisjeweg
 jagersingel
 jagerskade
 jagerskamp
@@ -1163,7 +1137,6 @@ jagerstraat
 jagersveld
 jagersveldweg
 jagersweg
-jagersweg noord
 jagersweg zuid
 jagerswei
 jagertje
@@ -1178,11 +1151,9 @@ jagtlustlaan
 jagtlustpad
 jagtlustweg
 jagtlustwei
-jagtwijk
 jaguar
 jaguarstraat
 jakartastraat
-jakartaweg
 jakkele weidemastraat
 jakob bontplein
 jakob brasserstraat
@@ -1193,7 +1164,7 @@ jakob elemastraat
 jakob goldsmidstraat
 jakob grimmstraat
 jakob hansens de boerstraat
-jakob israã«l de haanstraat
+jakob israÃ«l de haanstraat
 jakob niewegpad
 jakob van aakenstraat
 jakob van necklaan
@@ -1205,11 +1176,6 @@ jakobsstaf
 jakobstraat
 jakop slegthof
 jakweide
-jalan dalia
-jalan desa
-jalan durian
-jalan melati
-jalan waringin
 jalinkhof
 jalinkstraat
 jalonstraat
@@ -1221,13 +1187,12 @@ jamaicaplantsoen
 jamaicastraat
 jamaiplein
 jamarstraat
-jamaã¯caring
+jamaÃ¯caring
 jamboreelaan
 jamboreepad
 james baldwinstraat
 james bradleystraat
 james chadwickstraat
-james cookeroute
 james cookrede
 james cookroute
 james cooksingel
@@ -1240,6 +1205,7 @@ james grieve
 james grievegaarde
 james grievelaan
 james johnsonstraat
+james rainwaterpad
 james rosskade
 james rossstraat
 james simpsonstraat
@@ -1256,9 +1222,9 @@ jan aarjensz breedtstraat
 jan aarjensz prinsstraat
 jan aartestraat
 jan abelszstraat
-jan adriaansz  wentelstraat
 jan adriaansz wentelstraat
 jan adriaansz. leeghwaterstraat
+jan adriaen doesendreef
 jan aertshof
 jan agtenstraat
 jan albert de gravenlaan
@@ -1286,6 +1252,7 @@ jan ayeslag
 jan ayeweg
 jan azn. leeghwaterstraat
 jan backstraat
+jan bakkerpad
 jan bakkerstraat
 jan baldukstraat
 jan barendselaan
@@ -1308,6 +1275,8 @@ jan bijlstraat
 jan binneslaan
 jan binneswei
 jan bisschopsgaarde
+jan blaauwplein
+jan blankenbrug
 jan blankenlaan
 jan blankenpad
 jan blankenstraat
@@ -1316,7 +1285,6 @@ jan bleijsenstraat
 jan blindplein
 jan bodeweg
 jan boerhof
-jan boerstraat
 jan boerswegje
 jan boerweg
 jan bogtstrastraat
@@ -1328,7 +1296,6 @@ jan bongastraat
 jan bontelaan
 jan boonplein
 jan bootlaan
-jan bootsstraat
 jan borghoutsplein
 jan bosboomstraat
 jan bosstraat
@@ -1337,7 +1304,6 @@ jan bottemastraat
 jan boudesteinstraat
 jan boutsteeg
 jan bouwmeesterstraat
-jan branbergenstraat
 jan brandspad
 jan braskersteeg
 jan brediuslaan
@@ -1374,10 +1340,10 @@ jan campertstraat
 jan campertweg
 jan capteinstraat
 jan carstenszstraat
-jan carstenszweg
 jan celestraat
 jan cellierslaan
 jan clompstraat
+jan coevertveer
 jan compagniestraat
 jan coolenhof
 jan cornelis de rijpstraat
@@ -1408,7 +1374,6 @@ jan de braylaan
 jan de braystraat
 jan de clerstraat
 jan de geuspad
-jan de geusrede
 jan de goedestrjitte
 jan de greefstraat
 jan de haanstraat
@@ -1420,8 +1385,9 @@ jan de jonghkade
 jan de jonghstraat
 jan de jongstraat
 jan de klerkstraat
+jan de koningstraat
 jan de kuijerstraat
-jan de kã¶sterhof
+jan de kÃ¶sterhof
 jan de la barlaan
 jan de louterpad
 jan de louterstraat
@@ -1435,7 +1401,6 @@ jan de preestraat
 jan de priesterstraat
 jan de quaystraat
 jan de raadtkade
-jan de rapperpaad
 jan de ridderstraat
 jan de rijkelaan
 jan de rijklaan
@@ -1459,7 +1424,6 @@ jan de witplein
 jan de wittestraat
 jan de wittstraat
 jan deckersstraat
-jan deckerstraat
 jan dekkerslaan
 jan dekkerstraat
 jan dellaertplein
@@ -1486,7 +1450,6 @@ jan dommissewegeling
 jan dorrekenskade-oost
 jan dorrekenskade-west
 jan doustraat
-jan drabbelsstraat
 jan duikerhof
 jan duikerlaan
 jan duikerweg
@@ -1543,8 +1506,6 @@ jan gillis oemvliet
 jan glaserlaan
 jan glaudemanslaan
 jan glijnisweg
-jan glijnisweg (gem hhw)
-jan goedeljeehof
 jan goeverneurhof
 jan goeverneurstraat
 jan goldschmedingplantsoen
@@ -1556,6 +1517,7 @@ jan gortersteeg
 jan gossaertlaan
 jan gossaertstraat
 jan gosses wijk
+jan goudswaardweg
 jan greshofflaan
 jan greshoffplantsoen
 jan greshoffstraat
@@ -1564,14 +1526,13 @@ jan grijseelshof
 jan grijseelspad
 jan groenewoldwei
 jan groningerstraat
-jan grã©goirelaan
+jan grÃ©goirelaan
 jan haarstraat
 jan habrakenstraat
 jan haeckenhof
 jan hagelaersweg
 jan hamdorfflaan
 jan hamerstraat
-jan hampad
 jan hanlostraat
 jan hanzenstraat
 jan hargenstraat
@@ -1594,6 +1555,7 @@ jan hendrik persijnweg
 jan hendrikspad
 jan hendrikstraat
 jan hendrikxstraat
+jan heurkenspad
 jan heurkensstraat
 jan heyndricksz cardinaelstraat
 jan heynslaan
@@ -1616,12 +1578,15 @@ jan hoogerwerfstraat
 jan hooglandstraat
 jan hoogstadlaan
 jan hoornstraat
+jan hop
+jan horastraat
 jan houtmanhof
 jan houtmanstraat
 jan hubertuslaan
 jan huddestraat
 jan hudigstraat
 jan huibrechtszstraat
+jan huijerpad
 jan huijgenstraat
 jan huitzingstraat
 jan huygen van linschotenstraat
@@ -1653,7 +1618,7 @@ jan joostenplein
 jan joostenstraat
 jan jordenshof
 jan jordensstraat
-jan josephsz v goyenstr
+jan josephsz van goyenstraat
 jan jurjenssingel
 jan k bosmalaan
 jan kamphof
@@ -1665,6 +1630,7 @@ jan karkdijkstraat
 jan karsstraat
 jan keldermansstraat
 jan kerstenpad
+jan kielstrapad
 jan kielswijk
 jan kijnestraat
 jan kipstraat
@@ -1696,6 +1662,7 @@ jan kottenerf
 jan kottensteeg
 jan kreeftweg
 jan kriegestraat
+jan kriensgas
 jan krijnsweg
 jan kroezestraat
 jan kroleshof
@@ -1704,21 +1671,22 @@ jan krosstraat
 jan kruijffstraat
 jan kruijsenstraat
 jan kruisweg
+jan krulkade
 jan krusemanstraat
 jan kuijperhof
+jan kuijpershof
+jan kuipersbrug
 jan kuipersweg
 jan kwakplaats
 jan landmanstraat
 jan le griepstraat
 jan leeghwaterpad
-jan leeghwaterstraat
-jan leegwaterpad
 jan leentvaarlaan
 jan leijenlaan
 jan leijssenaarstraat
 jan lelimanhof
 jan leugsstraat
-jan libottã©straat
+jan libottÃ©straat
 jan liefersstraat
 jan lievenshage
 jan lievenslaan
@@ -1726,7 +1694,6 @@ jan lievensplantsoen
 jan lievensstraat
 jan lievenstraat
 jan lievensweg
-jan ligeriusstraat
 jan ligthartlaan
 jan ligthartplein
 jan ligthartsingel
@@ -1736,6 +1703,7 @@ jan linsestraat
 jan linssenstraat
 jan linthorststraat
 jan lithlaan
+jan lomanleane
 jan lubbertsenlaan
 jan lubbertsland
 jan luijkenhof
@@ -1786,10 +1754,12 @@ jan michielshof
 jan miense molenaerplein
 jan miessenlaan
 jan minnesdykje
+jan moensweg
+jan moerkensplantsoen
+jan molenaarstraat
 jan molenaerstraat
 jan molenwerfstraat
 jan mollstraat
-jan monicxgaarde
 jan monicxgaarde
 jan moretuspad
 jan mosmanslaan
@@ -1823,11 +1793,13 @@ jan olieslagersstraat
 jan olieslagersweg
 jan olphert vaillantlaan
 jan oomenstraat
-jan ooms pz.-straat
+jan ooms pieterszoonstraat
+jan ooms pzn straat
 jan oomsstraat
 jan oostendorpstraat
-jan oostindiã«rstraat
+jan oostindiÃ«rstraat
 jan oostingweg
+jan opdamstraat
 jan orlersplein
 jan oudegeeststraat
 jan overdijkstraat
@@ -1839,10 +1811,10 @@ jan paetsplein
 jan palachkade
 jan palachstraat
 jan palachweg
+jan panhuysenbrug
 jan panhuysenlaan
 jan panhuysenpad
 jan pannebakkerhof
-jan paulpad
 jan paulushof
 jan pauwstraat
 jan peelenplantsoen
@@ -1869,9 +1841,9 @@ jan pieter heijestraat
 jan pieter zondervanweg
 jan pietersz sweelincklaan
 jan pietersz. coenstraat
+jan pieterszoon coenbrug
 jan pieterszoon coenhof
 jan pieterszoon coenlaan
-jan pieterszoon coenpad
 jan pieterszoon coenstraat
 jan pieterszoon sweelincklaan
 jan pijnenburgbaan
@@ -1881,6 +1853,7 @@ jan pleeginghof
 jan plenterstraat
 jan plezierweg
 jan ploegerlaan
+jan poelsstraat
 jan poelsweg
 jan poldermanstraat
 jan poortmanweg
@@ -1888,9 +1861,9 @@ jan porcellisstraat
 jan postmahof
 jan postmapad
 jan pothovenstraat
+jan potstraat
 jan poytstraat
 jan prengerweg
-jan prinserf
 jan prinsheem
 jan prinshof
 jan prinslaan
@@ -1934,6 +1907,7 @@ jan sangerslaan
 jan sassestraat
 jan schaeferhof
 jan schaeferpad
+jan schaeferplantsoen
 jan schagenlaan
 jan schamhartstraat
 jan scharpstraat
@@ -1947,14 +1921,13 @@ jan schoutensingel
 jan schoutenstraat
 jan schriverstraat
 jan schuijtlaan
-jan schã¶fferlaan
+jan schÃ¶fferlaan
 jan semeinshof
 jan seppenplein
 jan siebenglop
-jan sietjespã¢d
+jan sietjespÃ¢d
 jan sijbrandsteeg
 jan sinkeweg
-jan sipkeslaan
 jan sirksstraat
 jan slauerhofflaan
 jan slauerhoffstraat
@@ -1979,7 +1952,7 @@ jan snijerplein
 jan snouckstraat
 jan somerhof
 jan somerstraat
-jan sonjã©straat
+jan sonjÃ©straat
 jan spieringweg
 jan springerhof
 jan stadelaarstraat
@@ -1995,6 +1968,7 @@ jan steenweg
 jan steijnstraat
 jan stevensstraat
 jan stienstraweg
+jan stoffelstraat
 jan stoorvogelstraat
 jan stuversdreef
 jan stuversstraat
@@ -2006,7 +1980,6 @@ jan switzerpad
 jan tademaweg
 jan taksweg
 jan telkampstraat
-jan ten brinkstraat
 jan ten brinkstraat
 jan ten catestraat
 jan ten katedreef
@@ -2025,23 +1998,20 @@ jan thijssenpad
 jan thijssensteeg
 jan thijssenstraat
 jan thijssenweg
-jan thomã©elaan
-jan thomã©epad
+jan thomÃ©elaan
+jan thomÃ©epad
 jan tijmensteeg
 jan timmerstraat
 jan tinbergenlaan
 jan tinbergensingel
 jan tinbergenstraat
-jan tinbergenstraat
 jan tinbergenweg
-jan tinbergenwegâ¿
 jan toebacklaan
 jan toetlaan
 jan tomstraat
 jan tooroplaan
 jan tooroppad
 jan tooropplantsoen
-jan tooropplein
 jan tooropstraat
 jan tooropweg
 jan topweg
@@ -2052,7 +2022,6 @@ jan truijenlaan
 jan truijenstraat
 jan truyenstraat
 jan u. smithof
-jan u. smithoff
 jan v.d. boschstraat
 jan vaderstraat
 jan valkeringlaan
@@ -2062,7 +2031,6 @@ jan van abbenbroekstraat
 jan van abroeckstraat
 jan van aemstelstraat
 jan van almondestraat
-jan van amerzoyenlaan
 jan van amerzoyenlaan
 jan van amstellaan
 jan van amstelstraat
@@ -2098,8 +2066,6 @@ jan van brakelstraat
 jan van broekhuizenstraat
 jan van bruhezestraat
 jan van buurenpad
-jan van cappelle
-jan van crieckenbeeklaan
 jan van crieckenbeeklaan
 jan van cuijkstraat
 jan van cuykdijk
@@ -2109,7 +2075,6 @@ jan van de boekhorstborg
 jan van de capellelaan
 jan van de capellestraat
 jan van de cappelle
-jan van de cappellestraat
 jan van de laarweg
 jan van de lekstraat
 jan van delftstraat
@@ -2130,10 +2095,10 @@ jan van der croonstraat
 jan van der diesduncstraat
 jan van der doesstraat
 jan van der gripstraat
+jan van der hartstraat
 jan van der heijdenhof
 jan van der heijdenstr
 jan van der heijdenstraat
-jan van der heijdenstraatt
 jan van der heijdestraat
 jan van der helmweg
 jan van der heydenhage
@@ -2158,11 +2123,11 @@ jan van deutecumlaan
 jan van dieststraat
 jan van dirkhof
 jan van dirkstraat
+jan van dongenhof
 jan van dongenpad
 jan van duivenvoordepad
 jan van duivenvoordestraat
 jan van duivenvoordeweg
-jan van eechoudstraat
 jan van egmondstraat
 jan van eijckhof
 jan van eijckplein
@@ -2184,6 +2149,7 @@ jan van geemstraat
 jan van gelderdreef
 jan van gelderstraat
 jan van geldropstraat
+jan van gemertpad
 jan van gent
 jan van gentlaan
 jan van gentstraat
@@ -2217,10 +2183,8 @@ jan van harenstraat
 jan van havenstraat
 jan van heelustraat
 jan van heenvlietstraat
-jan van henegouwenstraat
 jan van henegouwenweg
 jan van herwijnenlaan
-jan van herwijnenpad
 jan van heusdenstraat
 jan van hintestraat
 jan van hooffstraat
@@ -2236,7 +2200,6 @@ jan van ieperenstraat
 jan van ingenstraat
 jan van janbaospad
 jan van kanhof
-jan van kanrede
 jan van ketelstraat
 jan van kleefstraat
 jan van knippenberghof
@@ -2248,7 +2211,6 @@ jan van logterenlaan
 jan van loonshof
 jan van loonslaan
 jan van malesteinweg
-jan van maurikpad
 jan van mierlolaan
 jan van moockstraat
 jan van napelslaan
@@ -2288,6 +2250,7 @@ jan van rietwijkstraat
 jan van rijzewijkstraat
 jan van rixtelstraat
 jan van rodestraat
+jan van roesselstraat
 jan van rompustraat
 jan van rotselaerlaan
 jan van ruitenbeekstraat
@@ -2301,8 +2264,6 @@ jan van schaffelaerstraat
 jan van schagenweg
 jan van schijndelpad
 jan van schijnveltlaan
-jan van schijnveltlaan
-jan van schoonvorststraa
 jan van schoonvorststraat
 jan van scorelhage
 jan van scorelkade
@@ -2318,7 +2279,6 @@ jan van speykstraat
 jan van steenbergenstr
 jan van steffeswertplein
 jan van stevensweertstraat
-jan van swolgenstraat
 jan van tilburgstraat
 jan van tourainestraat
 jan van trijntjesteeg
@@ -2331,13 +2291,12 @@ jan van vlissingenhof
 jan van vuchtstraat
 jan van vuurenstraat
 jan van wallendalplein
-jan van walrã©straat
+jan van walrÃ©straat
 jan van weeldenstraat
 jan van weliestraat
 jan van wijckstraat
 jan van wijkpad
 jan van zurenstraat
-jan van zutphenhof
 jan van zutphenlaan
 jan van zutphenpad
 jan van zutphenplantsoen
@@ -2347,7 +2306,6 @@ jan van zwietensingel
 jan van zwietenvest
 jan verfailleweg
 jan verheesplein
-jan verheulweg
 jan verhoeffstraat
 jan verhoevenhof
 jan verhoevenstraat
@@ -2376,19 +2334,20 @@ jan vlietstrastraat
 jan voermanstraat
 jan vogellaan
 jan vollaardsweg
+jan vossenbrug
 jan vosstraat
 jan vriendshof
 jan vrijlandtsingel
 jan vrijmanstraat
 jan vroegopsingel
 jan vrolijkstraat
-jan vã¡n teng gats
 jan waalstraat
 jan wagenaarlaan
 jan wagtendonkstraat
 jan walichszstraat
 jan walravenstraat
 jan wandelaarpad
+jan wansinkstraat
 jan wapstraat
 jan wapstraweg
 jan warmoltslaan
@@ -2422,6 +2381,7 @@ jan willemenstraat
 jan willemszstraat
 jan willenstraat
 jan willinkstraat
+jan wilsbrug
 jan wilshof
 jan wilspad
 jan wilspark
@@ -2456,15 +2416,18 @@ janbaas
 jancko douwamastraat
 jancko douwamastrjitte
 jane addamslaan
+jane addamsplantsoen
 jane addamsstraat
 jane austenlaan
 jane austenpad
 jane austenstraat
+jane marcetweg
 jane seymourlaan
 janekers vaart
 janesloot
 janey tetarypad
 janey tetarystraat
+janey tetaryweg
 jangtsekiangpad
 janis joplinhof
 janis joplinpad
@@ -2474,14 +2437,13 @@ jankenberg
 jankushofstraat
 janmansweg
 janna van der weglaan
-janna van der weglã¢n
+janna van der weglÃ¢n
 janna van halewijnpad
 jannahoeve
 janne bouwensstraat
 janneke van der plaatstraat
 jannekespadje
 jannelandseweg
-jannendorperweg
 jannes brouwerstraat
 jannes brugginkweg
 jannes de vriesstraat
@@ -2494,6 +2456,7 @@ jannewekken
 jannezandweg
 jannie sanders-woudstrahof
 janninkmarke
+janninksbos
 janninksplein
 janninksweg
 jannumerwei
@@ -2504,11 +2467,13 @@ jans kloppenburgstraat
 jansbinnensingel
 jansborg
 jansbosch
+jansbrug
 jansbuitensingel
 jansdam
 jansen-akker
 janseniushof
 janseniuslaan
+jansenlaan houtvester
 jansenpark
 jansgoed
 jansgulden
@@ -2520,6 +2485,7 @@ janskerkhof
 janskerkplein
 janslangstraat
 janslust
+janslustweg
 jansmalaan
 jansoniusplein
 jansoniusstraat
@@ -2535,7 +2501,6 @@ janssenlaan
 janssensstraat
 janssenstichting
 janssenstraat
-janssenweg
 janssoniushof
 janssoniuslaan
 janssoniusstraat
@@ -2558,12 +2523,10 @@ januaristraat
 janus baksbastion
 janus baulingstraat
 janus erasmiusstraat
-janus goudsmitsgaarde
 janus hagelaarsstraat
 janus meulendijkspad
 janus prinsengaarde
 janus rooijakkersstraat
-janus smeuldersgaarde
 janus van den bergstraat
 janus van den heuvelstraat
 janus van engelenstraat
@@ -2576,9 +2539,7 @@ janzenstraat
 japanlaan
 japanpad
 japansetuinlaan
-japanstraat
 japarastraat
-japesloot
 japhet hoorwegsingel
 japieserf
 japik hepkemawei
@@ -2586,7 +2547,7 @@ japiksestraat
 japiksweg
 japikweg
 japinkskampweg
-japurã¡dreef
+japurÃ¡dreef
 jara beneshof
 jarasingel
 jaraypad
@@ -2619,7 +2580,6 @@ jasmijnpad
 jasmijnplantsoen
 jasmijnplein
 jasmijnring
-jasmijnsingel
 jasmijnstraat
 jasmijnweg
 jasmyn
@@ -2628,7 +2588,6 @@ jasonstraat
 jasonweg
 jasparstraat
 jasper leijnsenstraat
-jasper warnerhof
 jasper warnerstraat
 jasperheide voetpad
 jaspersgang
@@ -2644,6 +2603,7 @@ jaspisstraat
 jasykoffstraat
 java
 java legioenstraat
+javabrug
 javadijk
 javahof
 javakade
@@ -2659,7 +2619,6 @@ javazee
 jazzboulevard
 jazzdreef
 jazzpad
-jazzplantsoen
 jazzplein
 jazzroute
 jazzsingel
@@ -2672,9 +2631,10 @@ jean d'aubrypad
 jean de meijstraat
 jean desmetpad
 jean desmetstraat
+jean dulieubrug
 jean dulieustraat
 jean dulieuweg
-jean franã§ois van royenweg
+jean franÃ§ois van royenweg
 jean gabinplantsoen
 jean gilbertlaan
 jean henri dunantstraat
@@ -2692,17 +2652,19 @@ jean racinelaan
 jean romestraat
 jean sibeliusstraat
 jean verheggenstraat
-jean-landrã©hof
+jean-landrÃ©hof
 jean-louis pisuisselaan
 jean-luc godardpad
 jean-paul sartre-erf
 jean-paul sartrestraat
-jeaneweg
+jeanette voogdhage
+jeanne berkelaanpark
+jeanne berkelaarpad
 jeanne d'arcdreef
 jeanne d'arclaan
 jeanne de witstraat
 jeanne diepenhorstlaan
-jeanne herschhof
+jeanne herschstraat
 jeanne moreaupad
 jeanne moreaustraat
 jeanne van de weijerstraat
@@ -2720,15 +2682,11 @@ jef laststraat
 jef schillingsstraat
 jef van bebberhof
 jef verheylaan
-jeffersondreef
-jefjeskade
 jefkespad
-jegeringshof
 jegerinkhorst
 jei ikker
 jekelsteeg
 jeker
-jekerdal
 jekermolenweg
 jekerpark
 jekerschans
@@ -2739,9 +2697,11 @@ jekschotseweg
 jekschotstraat
 jel rinckesstrjitte
 jel van der sandelaan
+jelamerpad
 jeldingaheerd
 jelena bonnerpad
 jelgersmastraat
+jelis van laarhof
 jelis van riemsdijklaan
 jelke sjoerdsloane
 jelle bangastraat
@@ -2764,11 +2724,12 @@ jelle zijlstraweg
 jelle-paad
 jellemaweg
 jellen
-jelleslã¢n
+jelleslÃ¢n
 jellingastraat
 jellingelant
 jellinghausstraat
 jellissenkamp
+jelmer sytsmawei
 jelmeraweg
 jelmersmeer
 jelmerstraat
@@ -2778,16 +2739,17 @@ jelsumerstraat
 jelte binnesweg
 jelte dijkstrastraat
 jelte eelsmaplein
-jelte eelsmastraat
 jeltewei
 jeltingalaan
 jeltingapad
 jeltje de bosch kemperpad
 jeltje de bosch kemperstraat
+jeltsje
 jenalaan
 jenastraat
 jeneverbes
 jeneverbesdreef
+jeneverbeshof
 jeneverbeslaan
 jeneverbespad
 jeneverbesstraat
@@ -2821,10 +2783,8 @@ jephtastraat
 jepmaloane
 jepmastate
 jeppegatweg
-jerdensdyk
 jeremias de deckerstraat
 jeremiestraat
-jeremise gang
 jerfaasplantsoen
 jericholaan
 jerichoplein
@@ -2842,9 +2802,11 @@ jeroenspark
 jeroensplein
 jerolimodreef
 jerome kernplantsoen
+jerome robbinsstraat
 jeromstraat
 jeronimus cooymansstraat
 jeronimusweg
+jeronymusbrug
 jerry bockstraat
 jerseykade
 jerseystraat
@@ -2856,7 +2818,6 @@ jeruzalemhof
 jeruzalemshof
 jeruzalemstraat
 jeruzalemweg
-jess-pad
 jesse owenshof
 jesse owenspad
 jesse owensstraat
@@ -2864,7 +2825,6 @@ jesseplaats
 jessicagang
 jesuitenstraat
 jet berdenis van berlekomhof
-jet berlekom van berdenishof
 jet geerkensplein
 jet witteveenstraat
 jeth
@@ -2898,23 +2858,17 @@ jeverweg
 jeweldijk
 jewelplein
 jewelweg
-jezuietenstraat
-jezuã¯etenborch
-jezuã¯etenlaan
-jezuã¯etenpad
-jezuã¯etenplein
-jezuã¯etenstraat
-jezuã¯tenplein
-jh l-v herwaardenstraat
+jezuÃ¯etenborch
+jezuÃ¯etenlaan
+jezuÃ¯etenpad
+jezuÃ¯etenplein
+jezuÃ¯etenstraat
 jh van aismawei
 jhr a f de savornin lohmanstraat
-jhr c roã«lllaan
-jhr c rã¶elllaan
+jhr c rÃ¶elllaan
 jhr f j j van eijsingastraat
 jhr g.c.w. van tets van goudriaanlaan
 jhr hugo van berckellaan
-jhr hugo van berckellaan
-jhr marcus van gerwenlaan
 jhr marcus van gerwenlaan
 jhr mr a f de savornin lohmanstraat
 jhr opperdoes alewijnstraat
@@ -2930,7 +2884,6 @@ jhr. de casembrootplein
 jhr. de la courtweg
 jhr. de savornin lohmanstraat
 jhr. dirk van heerewaardenpad
-jhr. dirk van heerewaardenpad
 jhr. dr. c.j. sandbergweg
 jhr. h.j. orttstraat
 jhr. huydecoperstraat
@@ -2938,7 +2891,6 @@ jhr. jan schooffstraat
 jhr. k.w.l. de muraltstraat
 jhr. m.w.c. de jongestraat
 jhr. mr. a.f. de savornin lohmanstraat
-jhr. mr. de casembrootstraat
 jhr. mr. de casembrootstraat
 jhr. mr. g.w. molleruslaan
 jhr. mr. j. loudonstraat
@@ -2957,9 +2909,7 @@ jhr. van sypesteynlaan
 jhr.groeninx van zoelenstraat
 jhr.mr. a.f. de savornin lohmanstraat
 jhr.mr.dr. h.a. van karnebeeklaan
-jhr.p.n.quarles van uffordlaan
 jhr.repelaerlaan
-jhr.v. cittersplein
 jhr.van der wijcklaan
 jhr.van nahuysstraat
 jhr.von heijdenstraat
@@ -2972,14 +2922,13 @@ jillesweg
 jiltdijksreed
 jim hensonstraat
 jim morrisonpad
-jim morrisonstraat
 jim thorpepad
 jimi hendrixstraat
 jimmy brownstraat
 jinkepaed
 jinnahsingel
-jinshãºzen
-jinswã¢lde
+jinshÃºzen
+jinswÃ¢lde
 jintewarren
 jip en janneke
 jip en jannekelaan
@@ -2989,16 +2938,14 @@ jipperdastrjitte
 jippesstraat
 jipsingboermussel
 jipsingboertangerweg
-jiskelã¢npaed
+jiskelÃ¢npaed
 jislumerdyk
 jisperdijk
-jisperpad
 jisperstraat
 jisperveldstraat
 jisperveste
 jisperweg
 jisteboerewei
-jisteboerwei
 jister
 jisterplein
 jisterwei
@@ -3007,6 +2954,7 @@ jitze pieter van dijkstrjitte
 jive
 jivestraat
 jj gorterlaan
+jkv. van weedestraat
 jkvr cm v asch v wijckln
 jkvr. de la courtlaan
 jo bauerlaan
@@ -3015,30 +2963,31 @@ jo de boefpad
 jo de clerstraat
 jo de grootstraat
 jo de kuperstraat
+jo driessenpad
 jo erensplantsoen
 jo eversstraat
 jo goudkuillaan
 jo hansenstraat
+jo heinsiushof
 jo hendrichslaan
 jo imminkstraat
+jo ivenshof
 jo kosterstraat
 jo lokermanstraat
+jo muurlingplaats
 jo soeslaan
 jo spierlaan
 jo spierstraat
 jo sterckstraat
 jo ter meulenhaghe
-jo v.d. meerdonkstraat
 jo v.d. meerendonkstraat
 jo van ammersstraat
 jo van buuren-huyspad
-jo van capelleveenlaan
 jo van cappelleveenlaan
 jo van dijkhof
 jo vincentlaan
 jo vincentstraat
-jo wã¼thrichlaan
-jo-jo-haven
+jo wÃ¼thrichlaan
 joachim altinghstraat
 joachim kleinsorgstraat
 joachim oudaanstraat
@@ -3051,15 +3000,18 @@ joan beukerweg
 joan blaeulaan
 joan blasiusstraat
 joan coststraat
+joan derk van der capellenstraat
+joan derk van der cappellenstraat
 joan geldermanlaan
 joan hodshonstraat
 joan maetsuyckerstraat
 joan maetsuykerlaan
+joan mary ferrierlaan
 joan mauritsplein
 joan melchior kemperstraat
-joan mirã³straat
+joan mirÃ³straat
 joan muyskenweg
-joan rã¶ellstraat
+joan rÃ¶ellstraat
 joan van broekhuizenlaan
 joan vuistpad
 joan willem frisostraat
@@ -3088,6 +3040,7 @@ joannes xxiii-straat
 joannes zwijsenlaan
 joanneslaan
 joannesstraat
+joarumerlaan
 joarumerleane
 joastereed
 job hansenstraat
@@ -3095,7 +3048,7 @@ job holkemawijk
 job jansenstraat
 job van der havestraat
 job van der zeelaan
-jobbikspad
+joceline clemenciastraat
 jochem blaauboerstraat
 jochem bobeldijkpad
 jochem de ruiterstrjitte
@@ -3103,6 +3056,7 @@ jochem de wildstraat
 jochem hendrikstraat
 jochem janszplantsoen
 jochem jofelstraat
+jochem uytdehaageplantsoen
 jochemmekampke
 jochems
 jochems roemstraat
@@ -3114,7 +3068,6 @@ jodenbreeplaats
 jodenbreestraat
 jodendijk
 jodengang
-jodenkamp
 jodenkerkhof
 jodenkerksteeg
 jodenkerkstraat
@@ -3122,7 +3075,6 @@ jodenlaantje
 jodenpad
 jodenpeeldreef
 jodenrijtje
-jodenrijtje thans bakkerstraat
 jodensteeg
 jodenstraat
 jodenstraatje
@@ -3132,7 +3084,8 @@ jodocus heeringastraat
 jodocus van lodensteinstraat
 joe gallehaskerpad
 joe mannweg
-joegoslaviã«pad
+joegoslaviÃ«pad
+joeki simakkade
 joelaan
 joep naninckstraat
 joep nicolaesstraat
@@ -3155,7 +3108,6 @@ jofferpad
 jofferspas
 jogchem alberdaweg
 jogchem van der houtweg
-jogchum nieuwenhuisstr
 jogchum nieuwenhuisstrjitte
 joggerspad
 joghtlaan
@@ -3175,13 +3127,11 @@ joh. poststraat
 joh. rosenkrantzlaan
 joh. sepershof
 joh. van der waalsweg
-joh. van der waeyenstraat
 joh. wagenaarlaan
 joh.m. coenenstraat
 johan a.wincklerhof
 johan abersonstraat
 johan adriaen van de perrestraat
-johan andrã©as der mouwlaan
 johan basiushof
 johan bastingstraat
 johan beenstraat
@@ -3204,14 +3154,13 @@ johan c. meijerlaan
 johan clantstraat
 johan clemmestraat
 johan coltermanpad
-johan combã©plein
+johan combÃ©plein
 johan constantin mathiasstraat
 johan coollaan
 johan costenobelstraat
 johan coussetstraat
 johan cruijff boulevard
 johan cruijffpad
-johan cruijffplein
 johan cruijffstraat
 johan d'outreinstraat
 johan dautzenbergstraat
@@ -3254,13 +3203,11 @@ johan frisopark
 johan frisoplantsoen
 johan frisoplein
 johan frisostraat
-johan frisostraat
 johan graaf van hornestraat
 johan gramstraat
 johan grauwertlaan
 johan greivestraat
-johan guilielmus schorerstraat
-johan guiliã«lmus schorerstraat
+johan guiliÃ«lmus schorerstraat
 johan h beenlaan
 johan hanrathstraat
 johan hendrik van kinsbergenstraat
@@ -3279,7 +3226,6 @@ johan huizingastraat
 johan idastraat
 johan in 't veltstraat
 johan j. vierbergenweg
-johan jongkindrade
 johan jongkindstraat
 johan kaartstraat
 johan karmanhof
@@ -3287,7 +3233,6 @@ johan karschstraat
 johan kerkmeijerstraat
 johan kernstraat
 johan kievietstraat
-johan kievitstraat
 johan kleinendreef
 johan l. kemperstraat
 johan laerstraat
@@ -3306,7 +3251,6 @@ johan mekkinkstraat
 johan melchior kemperstraat
 johan messchaertstraat
 johan metzelaarstraat
-johan moda-straat
 johan modastraat
 johan peijnenburgweg
 johan pieter van den brandestraat
@@ -3317,7 +3261,6 @@ johan rengersstraat
 johan ridderikhoffstraat
 johan rijnjastraat
 johan ringerskade
-johan ringersplantsoen
 johan roebersstraat
 johan roemerhof
 johan roordastrjitte
@@ -3327,7 +3270,6 @@ johan schimmelstraat
 johan schippersplantsoen
 johan scholtesstraat
 johan schoonderbeeklaan
-johan smits van oyenrotonde
 johan smitzdreef
 johan speelmanweg
 johan spruijtstraat
@@ -3344,7 +3286,7 @@ johan van aylvastraat
 johan van beemlaan
 johan van bijnendreef
 johan van bijnenstraat
-johan van bourgondiã«laan
+johan van bourgondiÃ«laan
 johan van dalendreef
 johan van de veldestraat
 johan van den kornputplein
@@ -3365,12 +3307,12 @@ johan van hasseltweg
 johan van hoekelumlaan
 johan van hoornstraat
 johan van hornestraat
+johan van hulstkade
 johan van kinsbergenstraat
 johan van kleefstraat
 johan van kuyckstraat
 johan van limbeecklaan
 johan van meeckerenstraat
-johan van oldebarneveltstraat
 johan van oldenbarneveldtlaan
 johan van oldenbarneveldtstraat
 johan van oldenbarneveltlaan
@@ -3386,6 +3328,7 @@ johan van stalbergweg
 johan van twickelostraat
 johan van twickelstraat
 johan van veenplein
+johan van veenstraat
 johan van vladerackenpark
 johan van vlietstraat
 johan van vuerenpad
@@ -3397,7 +3340,6 @@ johan van zwedenstraat
 johan verassenplein
 johan verhulstweg
 johan vermeerkade
-johan vermeerlaan
 johan vermeerstraat
 johan vestersstraat
 johan wagenaarkade
@@ -3425,14 +3367,12 @@ johan zocherstraat
 johan zoutmanstraat
 johan-frisolaan
 johan-frisostraat
-johann ammanhof
 johann ammanplantsoen
 johann de wittstraat
 johann faberlaan
 johann keplerstraat
 johann knoopstraat
 johann kuhnaustraat
-johann sebastiaan bachlaan
 johann sebastian bachstraat
 johann siegerstraat
 johann stamitzsingel
@@ -3481,18 +3421,24 @@ johanna van heverleestraat
 johanna van hodenpijlstraat
 johanna van hoornstraat
 johanna van meursstraat
+johanna van muijlwijkstr
+johanna van muijlwijkstraat
 johanna van polanenlaan
 johanna van polanenstraat
 johanna van polanentoren
 johanna van rochefortstraat
 johanna van vlaanderenstraat
 johanna van woudelaan
+johanna w.a. naberstraat
+johanna westenengweg
 johanna westerdijk erf
 johanna westerdijk-serre
+johanna westerdijkhof
 johanna westerdijklaan
 johanna westerdijkpad
 johanna westerdijkplein
 johanna westerdijkstraat
+johannabrug
 johannahoeve
 johannahoeveweg
 johannahof
@@ -3513,7 +3459,6 @@ johannes boscostraat
 johannes brahmsstraat
 johannes brandsloane
 johannes brandsmaweg
-johannes brandstraat
 johannes brinkostraat
 johannes broekhuysenstraat
 johannes buijslaan
@@ -3526,7 +3471,6 @@ johannes de bekalaan
 johannes de bekastraat
 johannes de breukstraat
 johannes de heerlaan
-johannes de heerstraat
 johannes de jongpad
 johannes de kortstraat
 johannes de vouplein
@@ -3543,6 +3487,8 @@ johannes emmenstraat
 johannes feitostraat
 johannes geradtsweg
 johannes gerobulusstraat
+johannes geusendamstraat
+johannes gloverlaan
 johannes heerstraat
 johannes hendrikxstraat
 johannes hilverdinkstraat
@@ -3561,7 +3507,6 @@ johannes kerkhovenpolder
 johannes klingenstraat
 johannes knuttelpad
 johannes koenesweg
-johannes kolffplein
 johannes kolfplein
 johannes kolfstraat
 johannes kroezepad
@@ -3576,10 +3521,12 @@ johannes muldersstraat
 johannes mulderstraat
 johannes nagelhoutlaan
 johannes nederveenstraat
+johannes nolenstraat
 johannes peterselaan
 johannes petri-laan
 johannes piersonstrjitte
 johannes plasweg
+johannes poelhekkestraat
 johannes post
 johannes posthof
 johannes postkwartier
@@ -3658,7 +3605,7 @@ johanneshof
 johannesleane
 johannespad
 johannesstraat
-johanneswã¢ld
+johanneswÃ¢ld
 johannieterhof
 johannieterpad
 johannieterplein
@@ -3689,6 +3636,7 @@ john bergmanspad
 john blankensteinstraat
 john bruijnzeelpad
 john campbellstraat
+john cocupad
 john coltranestraat
 john daltonhage
 john daltonstraat
@@ -3702,7 +3650,6 @@ john f kennedylaan
 john f kennedyplantsoen
 john f kennedysingel
 john f kennedystraat
-john f. kennedy-laan
 john f. kennedybaan
 john f. kennedylaan
 john f. kennedyplantsoen
@@ -3728,6 +3675,7 @@ john keatslaan
 john kellypad
 john kennedy-laan
 john kenneth galbraithweg
+john kraaijkampstraat
 john lee hookerstraat
 john lennonlaan
 john lennonplein
@@ -3750,15 +3698,15 @@ john raedeckersingel
 john raedeckerstraat
 john rosslaan
 john rossweg
-john rã¤deckerkade
+john rÃ¤deckerkade
 john sousarode
 john steinbecklaan
 john steinbeckpad
-john steinbeckstraat
+john stuart millweg
+john toludpad
 john van burenplein
-john wagenaarrode
+john van vleckstraat
 john woodruimte
-john. f. kennedyplantsoen
 johnny cashstraat
 johnny kraaijkampplantsoen
 johnny van doornplein
@@ -3768,6 +3716,7 @@ johnsonpad
 johnsonstraat
 johs. kuikenstraat
 joinerstraat
+joke blompad
 joke smit-erf
 joke smitbrug
 joke smithoeve
@@ -3780,6 +3729,7 @@ joke smitplein
 joke smitsingel
 joke smitstraat
 joke smitweg
+joke van der zwaanweg
 joksedam
 joksewei
 jokweg
@@ -3817,8 +3767,9 @@ jol 38
 jol 39
 jol 40
 jol 41
-jol 42
+jolanda nagtzaamplein
 jolandeplantsoen
+jolbrug
 jolicoeurstraat
 jolinkdijk
 jolinkstraat
@@ -3828,6 +3779,7 @@ jolkade
 jollaan
 jollemanhof
 jollenlaan
+jollenmakershof
 jollenmakersweg
 jollenpad
 jollensteiger
@@ -3842,10 +3794,10 @@ jonagold
 jonagoldhof
 jonagoldstraat
 jonas
-jonas daniã«l meijerplaats
-jonas daniã«l meijerplein
-jonas daniã«l meijerstraat
-jonas daniã«l meyerstraat
+jonas daniÃ«l meijerplaats
+jonas daniÃ«l meijerplein
+jonas daniÃ«l meijerstraat
+jonas daniÃ«l meyerstraat
 jonas salkhof
 jonaserf
 jonasstraat
@@ -3862,10 +3814,10 @@ jonathanstraat
 jonckbloetlaan
 jonckbloetplein
 jonckerhof
+jonckerserf
 jonckerweg
 jonckherenhof
 jonendwarsstraat
-jonenpad
 jonenstraat
 jonenweg
 jong-baarzandedijk
@@ -3883,6 +3835,7 @@ jonge rijspad
 jonge roelensteeg
 jonge schutskooilaan
 jonge schuttenstraatje
+jonge seun
 jonge voetboogstraat
 jonge voolweg
 jonge wolfstraat
@@ -3891,7 +3844,6 @@ jonge zwaanstraat
 jongebuorren
 jongedyk
 jongejanstraat
-jongelingpad
 jongema
 jongemastate
 jongemastraat
@@ -3906,7 +3858,6 @@ jongkindhof
 jongkindlaan
 jongkindstraat
 jongkindt conincklaan
-jongkindt coninckstraat
 jongkoenstraat
 jonglevenweg
 jongmansstraat
@@ -3931,7 +3882,6 @@ jonker keimpepaad
 jonker laespaad
 jonker lewestraat
 jonker marcus van gerwenlaan
-jonker monicxhof
 jonker ravestraat
 jonker rispensstraat
 jonker rudolfhof
@@ -3944,10 +3894,6 @@ jonker van baexenstraat
 jonker van bergaignelaan
 jonker van weerststraat
 jonker willem van oetelaarstraat
-jonker-florislaan
-jonker-rudolfhof
-jonker-rutgerhof
-jonkerbergstraat
 jonkerbos
 jonkerbosplein
 jonkerenlaan
@@ -3960,6 +3906,7 @@ jonkerplantsoen
 jonkers van ossstraat
 jonkersbosje
 jonkersbosweg
+jonkersbrug
 jonkerschap
 jonkersdam
 jonkersdijk / koedijk
@@ -3975,12 +3922,14 @@ jonkersleane
 jonkersloot
 jonkerspad
 jonkerspaed
+jonkerstee
 jonkerstraat
 jonkersvaart
 jonkersveld
 jonkersweegje
 jonkersweg
 jonkerswijk
+jonkertjespad
 jonkerveld
 jonkerwaard
 jonkerweg
@@ -4025,9 +3974,11 @@ jonkvrouwlaan
 jonkwerf
 jonneveen
 joodenbreestraat
+joodse begraafplaats
 jool-hulstraat
 joon
 joonstraat
+joop admiraalweg
 joop de jongestraat
 joop de jongstraat
 joop den uyl plantsoen
@@ -4041,13 +3992,14 @@ joop ijisbergstraat
 joop moesmanpad
 joop moesmanstraat
 joop niemanslaan
-joop reynoldspad
 joop schweitzerstrjitte
 joop stokkermansstraat
 joop thijssenstraat
 joop van den endeplein
+joop van der reijdenbrug
 joop van weezelhof
 joop vervoornpad
+joop walenkamptunnel
 joop westerweelpad
 joop westerweelstraat
 joop woortmanplein
@@ -4061,6 +4013,7 @@ joos de moorstraat
 joos jansestraat
 joos van clevelaan
 joos van clevestraat
+joos van den endestraat
 joossesweg
 joosstraat
 joost banckertlaan
@@ -4082,6 +4035,7 @@ joost van den kerckhovestraat
 joost van den vondellaan
 joost van den vondelstraat
 joost van der eijkpad
+joost van der grintenplein
 joost van geelstraat
 joost van ospad
 joost van vondelstraat
@@ -4099,7 +4053,6 @@ joostlaan
 jooststraat
 joostveld
 joostweg
-jophatsweg
 jopie huismanstraat
 jopie smuldersstraat
 joplinpad
@@ -4118,7 +4071,7 @@ jordaenslaan
 jordaensplein
 jordaensstraat
 jordaninkstraat
-jordaniã«straat
+jordaniÃ«straat
 jordanlaan
 jordanus hoornstraat
 jordenshoeve
@@ -4130,6 +4083,8 @@ joris arien ruijterstraat
 joris dircksenstraat
 joris helleputtestraat
 joris hoeneveldstraat
+joris in 't veld-state
+joris in 't veldpad
 joris ivenslaan
 joris ivensplein
 joris ivensstraat
@@ -4156,11 +4111,11 @@ jorisvicarie
 jorit martensstrjitte
 jornsmastate
 jorrit biermastrjitte
+jorrit jorritsmapad
 jos bedeauxpad
 jos beltjensstraat
 jos brinklaan
 jos brinkstraat
-jos brinkweg
 jos cleberstraat
 jos colerstraat
 jos cuypersstraat
@@ -4175,37 +4130,33 @@ jos klijnenlaan
 jos klijnenstraat
 jos lussenburglaan
 jos lussenburgplein
-jos maenenstraat
 jos van aalderenlaan
 jos van de schoorstraat
 jos van wijlenstraat
+jos visserpad
 jos. cuyperspad
 jos. cuypersplein
 jos. cuypersstraat
-jose vigevenoweg
 josef haydnlaan
 josef haydnstraat
-josef isra+lsstraat
-josef israã«lshof
-josef israã«lslaan
-josef israã«lsstraat
+josef israÃ«lshof
+josef israÃ«lslaan
 joseph bauererf
 joseph bech-nes
 joseph bechlaan
 joseph bechstraat
-joseph corneli allã©e
 joseph coymansweg
 joseph de veerstraat
 joseph eijlstraat
 joseph elststraat
-joseph hanã¶verstraat
+joseph hanÃ¶verstraat
 joseph haydnlaan
 joseph haydnpad
 joseph haydnstraat
 joseph hollmanstraat
-joseph israã«lslaan
-joseph israã«lspad
-joseph israã«lsstraat
+joseph israÃ«lslaan
+joseph israÃ«lspad
+joseph israÃ«lsstraat
 joseph knipstraat
 joseph ledelstraat
 joseph lokinlaan
@@ -4222,6 +4173,7 @@ joseph smitstraat
 joseph thomsonstraat
 joseph van dingenenstraat
 josephboulevard
+josephina van aefferdenstraat
 josephinaplein
 josephinastraat
 josephine bakerstraat
@@ -4248,11 +4200,11 @@ josink kolkweg
 josink maatweg
 josinkmorsplein
 josinkstraat
-josquin des prã©zstraat
+josquin des prÃ©zstraat
 josua de gravelaan
 josua gekeerstraat
-josuã«laan
-josã© vigevenoweg
+josuÃ«laan
+josÃ© vigevenoweg
 jotapad
 jottergracht
 jotterhof
@@ -4269,6 +4221,8 @@ joukereedtsje
 joukje grandiastraat
 joulehof
 joulestraat
+joure 24
+joure-west 23
 jourehof
 jourestraat
 journaalpad
@@ -4299,18 +4253,19 @@ jozef hoensstraat
 jozef israelshof
 jozef israelslaan
 jozef israelsstraat
-jozef israã«lskade
-jozef israã«lslaan
-jozef israã«lsplantsoen
-jozef israã«lsplein
-jozef israã«lsstraat
-jozef israã«lstraat
-jozef israã«lsweg
+jozef israÃ«lskade
+jozef israÃ«lslaan
+jozef israÃ«lsplantsoen
+jozef israÃ«lsplein
+jozef israÃ«lsstraat
+jozef israÃ«lstraat
+jozef israÃ«lsweg
 jozef oreliosingel
 jozef platteweg
 jozef postmesstraat
 jozef rodriguezplein
 jozef van der grintenstraat
+jozef van hÃ¶vellpark
 jozefdreef
 jozefhof
 jozefpad
@@ -4333,12 +4288,13 @@ juckemastrjitte
 juckemawei
 jud. smitsstraat
 judas taddeusplein
-judasboom
+judaspenning
 judealaan
 judeastraat
 judeaweg
 judith leijsterstraat
 judith leijsterweg
+judith leysterhof
 judith leysterlaan
 judith leysterplein
 judith leysterstraat
@@ -4349,6 +4305,8 @@ judopad
 judostraat
 judy garlandhof
 juf van kempenstraat
+juf wilzingzoom
+juffenstraat
 juffer frederikestrjitte
 juffer marthastraat
 juffer soeterwei
@@ -4362,6 +4320,7 @@ jufferkade
 jufferlaan
 juffermansstraat
 jufferpad
+jufferschans
 juffersdijk
 juffersgoed
 jufferslaantje
@@ -4372,10 +4331,10 @@ jufferswaard
 jufferswegje
 juffersweidenweg
 jufferswijk
+juffertje in 't groen
 juffertoren
 jufferven
 jufferweg
-juffouw van de putteplein
 juffr tempelmanlaan
 juffrouw blekkinghstraat
 juffrouw bosstraat
@@ -4386,7 +4345,6 @@ juffrouw hendrikslaan
 juffrouw hensenlaan
 juffrouw idastraat
 juffrouw jagtstraat
-juffrouw jannenvaartpad
 juffrouw joostenhof
 juffrouw kiestraweg
 juffrouw koetlaan
@@ -4395,14 +4353,16 @@ juffrouw milatzstraat
 juffrouw nieuwboerweg
 juffrouw oosterweg
 juffrouw schefferstraat
-juffrouw swalbachbrug
+juffrouw smitpad
 juffrouw van de putteplein
 juffrouw van harlingenhof
 juffrouw w van minnenstraat
 juffrouwsteeg
 jufvrouwenpolder
 jufvrouwenweg
+juglans
 juinbolstraat
+juist
 juisterpad
 juisterrif
 jujubestraat
@@ -4423,6 +4383,7 @@ jules haeckstraat
 jules kayserstraat
 jules massenethof
 jules massenetstraat
+jules schelvislaan
 jules van hasseltweg
 jules vernehof
 jules vernestraat
@@ -4442,7 +4403,6 @@ juliana van stolbergstr
 juliana van stolbergstraat
 juliana van stolbergweg
 juliana wilhelmina van der noordaatuin
-juliana wilhelmina van der noordatuin
 juliana-bernhardlaan
 juliana-bernhardplein
 juliana-straat
@@ -4450,10 +4410,10 @@ julianaboom
 julianaborch
 julianabrug
 julianabuurt
+julianadorp-anna paulowna
 julianadwarsstraat
 julianahof
 julianakade
-julianakanaal
 julianalaan
 julianapark
 julianaparklaan
@@ -4474,10 +4434,9 @@ julie de graaglaan
 julie postelsingel
 julie postelstraat
 julierpas
-juliett
 juliettepad
-juliettestraat
 julistraat
+julius caesarbrug
 julius caesarhof
 julius caesarlaan
 julius caesarpad
@@ -4485,19 +4444,20 @@ julius civilisplein
 julius de haasstraat
 julius leviestraat
 julius pergerstraat
-julius rã¶ntgenlaan
-julius rã¶ntgenpad
-julius rã¶ntgenstraat
-julius rã¶ntgenweg
+julius rÃ¶ntgenlaan
+julius rÃ¶ntgenpad
+julius rÃ¶ntgenstraat
+julius rÃ¶ntgenweg
 julius susanlaan
 juliusstraat
 juliusstrjitte
-juliã«ttestraat
+juliÃ«ttestraat
+jullenshof
 jullensstraat
 jumaweg
 jumboweg
-junckerpad
 june carterstraat
+jung 2
 jungfrau
 junghuhnstraat
 jungstraat
@@ -4523,7 +4483,6 @@ junusstraat
 jupiter
 jupiterbaan
 jupiterburg
-jupiterdreef
 jupiterhof
 jupiterkade
 jupiterlaan
@@ -4542,6 +4501,7 @@ jurastraat
 juraweide
 jurdensdijk
 jurgenslaan
+jurgensplein
 jurgensstraat
 jurisdictie
 jurisdictiepad
@@ -4551,12 +4511,13 @@ jurjen de jagerstrjitte
 jurjen hoomansstraat
 jurjen vegterweg
 jurjenshiem
+jurresbrug
 jurresplein
 jurriaan kokstraat
 jurriaandonk
 jurriaen andriessenstraat
-jurriã«n sprakelstraat
-jurriã«nshof
+jurriÃ«n sprakelstraat
+jurriÃ«nshof
 justaasweg
 justine de gouwerhof
 justitiahof
@@ -4585,6 +4546,7 @@ jutland
 jutlandsestraat
 jutmannen
 jutphaasstraat
+jutphasebrug
 jutphasestraatweg
 jutrijpstraat
 jutta van nassaulaan
@@ -4597,13 +4559,14 @@ juttepeer
 juttepeergaarde
 juttepeerlaan
 juttepeerpad
+juttepeerstraat
 jutterpad
 jutterspad
 jutterspleintje
 juttersweg
 juttestraat
+juttestuk
 juul paatsstraat
-juup geraedtsplantsoen
 juursemakluft
 juvenaathof
 juvenaatlaan
@@ -4618,8 +4581,7 @@ juwelenstraat
 juweliershof
 jw van veenstraat
 jynkade
-jã¤gerstraat
-jã¶pkeweg
-jã»kelburd
-jã¼nckerpad
-jã¼nkerpad
+jÃ¤gerstraat
+jÃ¶pkeweg
+jÃ»kelburd
+jÃ¼nckerpad

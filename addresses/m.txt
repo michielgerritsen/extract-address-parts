@@ -2,20 +2,18 @@ m a d bakkerstraat
 m a de ruyterstraat
 m a reinaldaweg
 m a slaakwegstraat
-m baksstraat
 m c m de grootstraat
 m c willemsstraat
 m d teenstraweg
 m de graaffstraat
 m e hartmanstraat
-m g de bruinlaan
 m g van den hurkpad
 m h tromplaan
 m h trompstraat
 m l kingstraat
 m neerhoutpad
 m van zwaanenburghstraat
-m. a. de ruyterstraat
+m-bernard v lourdespd
 m. azn. de ruyterstraat
 m. baksstraat
 m. beenstraat
@@ -28,15 +26,12 @@ m. de klerkweg
 m. de witstraat
 m. en o.-weg
 m. gandhilaan
-m. h. trompstraat
 m. hanenbergstraat
 m. hardenbergstraat
 m. harpertszoon tromplaan
-m. havermanstraat
 m. hzn. trompstraat
 m. kalsbeekstrjitte
 m. kropholler-staalstraat
-m. neerhoutpad
 m. noordzijstraat
 m. oosteromstraat
 m. robertzstraat
@@ -48,23 +43,21 @@ m. stolpstraat
 m. trappenburgstraat
 m. van meelstraat
 m. van nispenstraat
-m. van weerdenburglaan
 m. van zantenstraat
 m. van zeggelenhof
 m. vasalisboulevard
+m. vasalishof
 m. vasalisstraat
 m. vaumontlaan
 m. waltuch-kauffmannstraat
 m. wibautstraat
-m. zegwaart-de korte erf
 m.a. de ruijterstraat
-m.a. de ruyterglop
 m.a. de ruyterlaan
 m.a. de ruyterstraat
 m.a. reinaldaweg
 m.a. van de puttestraat
+m.a. van naamen van eemneslaa
 m.a. van naamen van eemneslaan
-m.a.a schakelplein
 m.a.a. schakelplein
 m.a.de ruijterlaan
 m.a.de ruijterstraat
@@ -81,17 +74,18 @@ m.d.de grootstraat
 m.dotingalaan
 m.e. van der meulenweg
 m.e.l. westenburgstraat
+m.f. da costa gomezpad
 m.f. visserstraat
 m.g. de bruinlaan
 m.h. boassonlaan
-m.h. bottemastrjitte
 m.h. tromphof
 m.h. tromplaan
 m.h. trompstraat
+m.h. verbrughhofje
 m.h.trompstraat
 m.j. bultenastraat
-m.j. granprã© moliã¨replein
-m.j. granprã© moliã¨restraat
+m.j. granprÃ© moliÃ¨replein
+m.j. granprÃ© moliÃ¨restraat
 m.j. van olmstraat
 m.j. veder- van hobokenstraat
 m.j.e. lippitsstraat
@@ -103,19 +97,18 @@ m.nijhoffstraat
 m.p. lindostraat
 m.p.m. van der kloosterstraat
 m.th. steynstraat
-m.van oosterwijckstraat
+m.w. beijerinckstraat
+m.w. prohnstraat
 m.w. van de waalstraat
-m6lnhoek
-m6rfelden-walldorfplein
 ma braunpad
 ma braunweg
 ma retraite
 ma ueberfeldtstraat
-ma?sveld
 maadsingel
 maagd
 maagdenbergplein
 maagdenbergweg
+maagdenbrug
 maagdenburgstraat
 maagdendries
 maagdenpalm
@@ -130,7 +123,9 @@ maai
 maaibalk
 maaibeemd
 maaidijk
+maaidorser
 maaiensteeg
+maaier
 maaierhei
 maaierhof
 maaierserf
@@ -150,8 +145,9 @@ maaike weezenaarstraat
 maaikeduinweg
 maaikensveld
 maaikeshof
-maaikeslã¢n
+maaikeslÃ¢n
 maaiklinkstraat
+maailand
 maaipad
 maaiveld
 maaivelden
@@ -170,6 +166,7 @@ maalderijpad
 maalderijplein
 maalderijstraat
 maalderinkweg
+maalderinkzijweg
 maalderstraat
 maaldrift
 maaldrinkstraat
@@ -178,7 +175,6 @@ maalkoppel
 maalkoppelsingel
 maalkoppelweg
 maalrol
-maalschapsweg
 maalstede
 maalsteen
 maalsteenkreek
@@ -187,9 +183,9 @@ maalsteenstraat
 maalstoel
 maalstraat
 maalstroom
-maaltocht
 maaltochtpad
 maalweg
+maalwerk
 maan bastion
 maan wijzenbeeklaan
 maanbaan
@@ -215,6 +211,7 @@ maanlanderhof
 maanlicht
 maanmos
 maannezee
+maanorchidee
 maanplein
 maansteeg
 maansteen
@@ -237,6 +234,7 @@ maanzicht
 maar
 maardijk
 maargats
+maarheeze 36
 maarheezepad
 maarheezepark
 maarheezerdijk
@@ -246,6 +244,7 @@ maarheezerveldweg
 maarheezerweg
 maarheezerweg-noord
 maarheezerweg-zuid
+maarhezergrensweg
 maarhuizen
 maarhuizenpad
 maarhuizerweg
@@ -256,10 +255,14 @@ maarland
 maarland noordzijde
 maarland zuidzijde
 maarlanderweg
+maarlandsche sloopje
 maarlo
+maarn 21
+maarn 5
 maarnse bergweg
 maarnse grindweg
 maarnse voetpad
+maarsbergen 22
 maarsbergenstraat
 maarsbergseweg
 maarsbroek
@@ -274,18 +277,19 @@ maarschalkstraat
 maarsdijk
 maarsdreef
 maarse & kroon hof
-maarse en kroon
 maarse en kroonhof
 maarsenhof
 maarseveensestraat
 maarsevonder
 maarshaalpad
 maarsmansteeg
+maarssen
+maarssen 6
+maarssenb slag
 maarssenbroeksedijk
 maarssenbroeksedijk oost
 maarssenbroekseslag
 maarssenseweg
-maarsseveense kade
 maarsseveensegrachtje
 maarsseveensepoort
 maarsseveensevaart
@@ -293,7 +297,6 @@ maarstraat
 maarsven
 maarteblomke
 maarten 't hartstraat
-maarten bogaardhof
 maarten boshof
 maarten breetstraat
 maarten broersweg
@@ -301,17 +304,16 @@ maarten de vriesstraat
 maarten dijkshoornlaan
 maarten freeke wije
 maarten gorisstraat
-maarten harpertsz trompstraat
 maarten harpertsz. trompstraat
 maarten harpertsz. trompweg
 maarten harpertsz.trompstraat
 maarten harpertszoon trompstraat
 maarten jansz. kosterstraat
-maarten kamperlaan
 maarten kruytstraat
 maarten lutherstraat
 maarten lutherweg
 maarten maartensstraat
+maarten meurs pad
 maarten molenaarpark
 maarten mooystraat
 maarten munnikplein
@@ -331,6 +333,7 @@ maartenbroersweg
 maartenhaaswegeling
 maartenpad
 maartenplein
+maartensbrug
 maartensdijklaan
 maartensdijkseweg
 maartensgat
@@ -350,7 +353,6 @@ maartje offerspad
 maartje offersstraat
 maartstraat
 maartveld
-maartveldpad
 maartvlinder
 maartvlinderstraat
 maarvliet
@@ -371,11 +373,11 @@ maasackerstraat
 maasakker
 maasakkerstraat
 maasambacht
+maasbanddijk
 maasbanderkerkweg
 maasbandervaart
 maasbanderweg
 maasbandijk
-maasbandijk ab
 maasberg
 maasbergseweg
 maasbogt
@@ -386,27 +388,30 @@ maasbommelstraat
 maasborch
 maasborgervoetpad
 maasboulevard
+maasbracht 22
+maasbracht 43
 maasbrachterpad
 maasbrachterweg
+maasbree 14
 maasbreepad
 maasbreesestraat
 maasbreeseweg
 maasbreestraat
-maasbroekpad
+maasbrug
 maasburg
-maasdal
+maascentrale
 maasdam-akker
 maasdamsedijk
 maasdamsestraat
 maasdamseweg
 maasdamstraat
 maasdijk
+maasdijk-oost 6
 maasdijkplein
 maasdijkseweg
 maasdijkweg
 maasdrielhof
 maasduinen
-maasduinenweg
 maasdwarsstraat
 maaseikerpad
 maaseikerpoort
@@ -429,7 +434,6 @@ maasheuvel
 maashoek
 maashofje
 maashoflaan
-maashofpark
 maashofparklaan
 maashofweg
 maashorstweg
@@ -463,6 +467,7 @@ maasoeverpad
 maasoord
 maaspad
 maasplantsoen
+maasplaza
 maasplein
 maaspolder
 maaspont
@@ -476,6 +481,7 @@ maasroute
 maasschriksel
 maassenstraat
 maassingel
+maassluis 7
 maassluiseweg
 maassluissedijk
 maassluisstraat
@@ -486,6 +492,11 @@ maasstraatpad
 maasstroom
 maasstukke
 maasterp
+maastricht valkenburg
+maastricht-centrum noord 53
+maastricht-centrum zuid 54
+maastricht-noord 52
+maastricht-zuid 55
 maastrichter brugstraat
 maastrichter grachtstraat
 maastrichter heidenstraat
@@ -504,9 +515,10 @@ maastrichtsestraat
 maastrichtseweg
 maastrichtsingel
 maastrichtstraat
+maastun opstelpln
+maastunnel
 maastunnelplein
-maastunneltje
-maasvalleipad
+maasvallei
 maasveld
 maasvelderweg
 maasveldpad
@@ -530,7 +542,9 @@ maateweg
 maatgraaf
 maatgravendijk
 maatgravenweg
+maathof
 maathuispad
+maathuisweg
 maatje harings jobsweg
 maatjessteeg
 maatjesweg
@@ -539,10 +553,8 @@ maatkampsdwarsweg
 maatkampstraat
 maatkampsweg
 maatkampweg
-maatlaantje
 maatlanden
 maatlat
-maatmansteeg
 maatmansweg
 maatmanweg
 maatpad
@@ -551,7 +563,6 @@ maatschappijstraat
 maatschappijweg
 maatschappijwijk
 maatschapslaan
-maatschouw
 maatseheistraat
 maatsestraat
 maatslootweg
@@ -559,20 +570,21 @@ maatsteeg
 maatstok
 maatstraat
 maatsweg
+maatveld
 maatveldseweg
 maatweg
 maaymanseweg
 mabeliastraat
 mac allisterstraat
-mac millanpad
 mac. arthurweg
+macaron
 macarthurdreef
-macarã©straat
+macarÃ©straat
 macbridestate
 macbridestraat
 maccabiadelaan
 maccallastraat
-macedoniã«straat
+macedoniÃ«straat
 macharenseweg
 macharenstraat
 macharijspad
@@ -581,18 +593,19 @@ machenlaan
 machiel van marlepad
 machiel vrijenhoeklaan
 machinedijk
+machinefabriekhof
 machinekade
-machinekamer
+machinekamerplein
 machinestraat
 machineweg
 machineweg mp
 machineweg ruigoord
+machinewg oost poelpld
 machinist
 machinistenstraat
 machiniststraat
 machlaan
 machteld cosijnsweg
-machteld erf
 machteld sandelijnslaan
 machteld v raaphorststraat
 machteld van brabantplaats
@@ -608,11 +621,11 @@ mackaypad
 mackayplein
 mackaystraat
 mackayware
-mackayweg
 mackenhof
 mackenzieplaats
 mackenziestraat
 maclaine pontstraat
+macmillanpad
 macoma
 maconhof
 maconlaan
@@ -635,16 +648,17 @@ madame curieweg
 madame gresstraat
 madameperenlaan
 made
+made 32
 madedwarsweg
 madeira
 madeirapad
 madelagehof
+madeland
 madelief
 madeliefberg
 madeliefdreef
 madeliefhof
 madeliefje
-madeliefjeshof
 madeliefjespad
 madeliefjestraat
 madelieflaan
@@ -661,9 +675,10 @@ madelieventuin
 madelievenweg
 madelievenwei
 madelinushof
+madelinusplein
 madelon lulofsstraat
+madelonstraat
 madenlaan
-madenstraat
 madenweg
 madepad
 madepolderweg
@@ -683,7 +698,6 @@ madoerastraat
 madrasstraat
 madridlaan
 madridplantsoen
-madridsingel
 madridstraat
 madridweg
 madrigaal
@@ -702,7 +716,6 @@ maerdonk
 maerelaan
 maerenseweg
 maereveldt
-maerlandtweg
 maerlant
 maerlantburg
 maerlantplein
@@ -714,7 +727,6 @@ maerten gerritszstraat
 maerten trompstraat
 maerten van heemskerckplein
 maerten van heemskerckstraat
-maerten van heemskerkstraat
 maertenshof
 maertensplein
 maes willemslaan
@@ -750,16 +762,14 @@ magda janssensstraat
 magda janssenstraat
 magdaleenweg
 magdalena
-magdalena moonshaghe
 magdalena moonsstraat
 magdalena van weerdenburglaan
-magdalena van weerdenburglaantje
 magdalena's pad
+magdalenabrug
 magdalenadijk
 magdalenahof
 magdalenalaan
 magdalenapolder
-magdalenapoort
 magdalenastraat
 magdalenaweg
 magdalenehof
@@ -769,10 +779,10 @@ magelhaenlaan
 magelhaensstraat
 magelhaenstraat
 magelhaesstraat
-magenta
 magentahof
 magentastraat
 magere weide
+magerebrug 0242
 magerehoekseweg
 magereind
 magergats
@@ -812,7 +822,6 @@ magnoliastraat
 magnoliaweg
 magnusstraat
 magrette
-magrietstraat
 mahatma gandhihof
 mahatma gandhilaan
 mahatma gandhirotonde
@@ -820,6 +829,7 @@ mahatma gandhisingel
 mahatma gandhistraat
 mahatma gandhiweg
 mahatma ghandhihof
+mahineweg westpoort
 mahlerlaan
 mahlerpad
 mahlerplaats
@@ -839,7 +849,6 @@ mahustraat
 maidstone
 maijweg
 maimonideslaan
-maindal
 mainelaan
 mainhavenweg
 mainstraat
@@ -867,6 +876,7 @@ maispad
 maisstraat
 maisveld
 maisweg
+maj. greenallweg
 maj. greenhallweg
 majanggracht
 majastraat
@@ -876,13 +886,16 @@ majellapark
 majellastraat
 majeurhof
 majeurstraat
+majolicaplantsoen
 majolicastraat
 majoor
+majoor bosshardtbrug
 majoor bosshardthof
 majoor bosshardtplantsoen
 majoor bosshardtplein
 majoor bosshardtstraat
 majoor burkestraat
+majoor de grosstraat
 majoor evanslaan
 majoor fransstraat
 majoor fransweg
@@ -896,7 +909,6 @@ majoor w.p. landzaatpad
 majoorsweg
 majoorwerf
 majoppepad
-major
 majoraan
 majoraandonk
 majoraanpad
@@ -914,8 +926,9 @@ makassarstraat
 makassarweg
 makelaar
 makelaarstraat
+makerskade
+makersstraat
 makjan
-makkenhoogte
 makkenpad
 makkenweg
 makkersstraat
@@ -931,8 +944,8 @@ makkummerweide
 makkumpad
 makkumplein
 makkumstraat
-makorã©
-makorã©hout
+makorÃ©
+makorÃ©hout
 makreel
 makreelkade
 makreelstraat
@@ -960,9 +973,11 @@ malburgplein
 malburgse bandijk
 malburgse sluis
 malburgseveerweg
+malcorpshof
 malcushoeve
 maldegempad
 maldegemstraat
+malden 3
 maldenburg
 maldenhof
 maldensebaan
@@ -976,7 +991,8 @@ malders
 maldivenweg
 maleborduurstraat
 malebosstraat
-maleisiã«laan
+malebrug
+maleisiÃ«laan
 malenborch
 malenpad
 malenshof
@@ -984,16 +1000,17 @@ malenveld
 malerstraat
 malesluispad
 malevitsjpad
-malewei
 malgumpad
 malherbestraat
 malibongwestraat
 maliebaan
 maliebaanstation
+malieblad
+maliebrug
 maliesingel
 maliestraat
 malijksepad
-malingrã©straat
+malingrÃ©straat
 malisingel
 maliskampse hoeve
 maliskampsestraat
@@ -1007,6 +1024,7 @@ mallandweg
 mallebrugge
 malledijk
 mallegat
+mallegatbrug
 mallegatsgracht
 mallegatsplein
 mallegomsteeg
@@ -1025,11 +1043,9 @@ mallumbrink
 mallumse molenweg
 malmedylaan
 malmedystraat
-malmibaan
-malmoweg
-malmã¶
-malmã¶pad
-malmã¶weg
+malmÃ¶
+malmÃ¶pad
+malmÃ¶weg
 malotauxstraat
 malpad
 malpensabaan
@@ -1038,6 +1054,7 @@ malpertuisstraat
 malpertuus
 malpertuuslaan
 malpertuuspad
+malpieven
 malpighistraat
 malrove
 malrovedonk
@@ -1074,11 +1091,10 @@ mambo
 mambohof
 mambostraat
 mamed mamedovpad
-mamed mamedovpark
 mamelis
 mamelisserweg
+mamie clarkstraat
 mammoet
-mammoetboom
 mammoetpad
 mammoetstraat
 mammoetveld
@@ -1098,7 +1114,7 @@ mandebroek
 mandedijk
 mandefjild
 mandehof
-mandela park
+mandelagarage
 mandelahof
 mandelalaan
 mandelandenweg
@@ -1107,7 +1123,7 @@ mandelapark
 mandelaplein
 mandelastraat
 mandelborg
-mandelã¢n
+mandelÃ¢n
 mandemaakerssteeg
 mandemaat
 mandematenweg
@@ -1115,8 +1131,6 @@ mandemoer
 mandenmaker
 mandenmakerhof
 mandenmakerij
-mandenmakersbrug
-mandenmakersgang
 mandenmakersgilde
 mandenmakershoek
 mandenmakershoeve
@@ -1130,7 +1144,6 @@ mandenmakerstraat
 mandenmakersweg
 mandenmeesterstraat
 mandenvlechter
-mandenvlechterij
 mandenvlechterslaan
 mandepad
 manderbrink
@@ -1139,7 +1152,6 @@ manderscheidtsingel
 manderscheidtstraat
 manderseweg
 manderspark
-mandersplein
 mandersstraat
 manderveen
 manderveenseweg
@@ -1157,9 +1169,11 @@ mandolinehof
 mandolinepad
 mandolinestraat
 mandrill
+manebiest
 manedauw
 manege
 manegebaan
+manegebrug
 manegelaan
 manegelaantje
 manegepad
@@ -1173,7 +1187,6 @@ manenburg
 manenburgdreef
 manenburgpad
 manenburgstraat
-manenlaan
 manenschijnweg
 manensheide
 maneschijn
@@ -1189,6 +1202,7 @@ mangaanweg
 mangelmanshof
 manger catsperk
 mangoberg
+mangobrug
 mangostraat
 mangoweg
 mangrovelaan
@@ -1201,14 +1215,11 @@ manhuissteiger
 manhuisstraat
 manhuisveld
 manhuisweg
-manifestatieveld haven
-manifestatieveld stedenwijk
 maniladreef
 manilius
 manilla
 manillastraat
 manillehof
-manis krijgsmanhof
 manis krijgsmanhof
 manitobadreef
 manitobaplein
@@ -1221,7 +1232,6 @@ manna de wijs-moutonhof
 mannagras
 mannagraslaan
 mannagrasstraat
-manneeeplein
 manneegeul
 manneeplein
 manneeweg
@@ -1229,7 +1239,6 @@ mannenbeemdweg
 mannenhuisstraat
 mannepad
 mannesmannweg
-mannezeeseweg
 mannheimweg
 manningahof
 manningstraat
@@ -1252,22 +1261,23 @@ mansboerweg
 manschotplein
 manschotterweg
 mansdalestraat
-manseffer
 mansel
 mansfeldstraat
 manshaag
 mansholt-nes
 mansholtlaan
 mansholtstraat
-manshorstweg
 mansio
 manslootweg
 mansus
 mantaro
 mantegnaplantsoen
+mantel
 mantelappel
+mantelet
 manteletruwe
 manteling
+manteling noord
 mantelmeeuw
 mantelmeeuwhof
 mantelmeeuwlaan
@@ -1291,7 +1301,6 @@ mantjeskade
 mantualaan
 manuel de fallapad
 manus peetstraat
-manusciptstraat
 manuscript
 manuscriptstraat
 manussestraat
@@ -1300,7 +1309,6 @@ manzardstraat
 manzessteeg
 maogien
 maolderij
-maple hof
 maple leafpad
 maple-hof
 maputoweg
@@ -1311,8 +1319,10 @@ maraboeweg
 maracas
 maraisstraat
 maranathaplein
+marandihof
 marasingel
 marathon
+marathonbrug
 marathonlaan
 marathonloop
 marathonpad
@@ -1330,11 +1340,8 @@ marcel doodkorteplein
 marcel duchampplein
 marcel duchampstraat
 marcel proustlaan
-marcel van bemmelstraat
-marcelis keldermanhof
 marcelis keldermanshof
 marcelis keldermansstraat
-marcelis keldermanstraat
 marcelis van bemmelstraat
 marcelisstraat
 marcelisvaartpad
@@ -1346,11 +1353,11 @@ marcellus emantshove
 marcellus emantslaan
 marcellus emantspad
 marcellus emantsstraat
-marcellus emautspad
 marcellus schampersstraat
 marcellusstraat
 marchandstraat
 marchandweg
+marchantdam
 marchanthof
 marchantlaan
 marchantstraat
@@ -1367,7 +1374,6 @@ marco poloroute
 marco polostraat
 marco poloweg
 marconibaan
-marconiflat
 marconihof
 marconilaan
 marconilaan-noord
@@ -1387,10 +1393,12 @@ marcusestraat
 marcusstraat
 marderhoek
 marderleane
+mardijk
 mardyk
 mardyksterpaad
 mare
 marebosjesweg
+marebrug
 marechausseestraat
 maredijk
 maredijkhofje
@@ -1401,6 +1409,7 @@ marelaan
 marellaan
 marellenkamp
 marellenweg
+marelsdal
 marelstraat
 marelweg
 marenberg
@@ -1417,6 +1426,7 @@ marentakstraat
 marenweg
 marepad
 marepoortkade
+marepoortsbrug
 maresatenstraat
 maresingel
 maresiusplantsoen
@@ -1424,41 +1434,41 @@ maresiusstraat
 marestraat
 maretak
 maretakhof
+maretakpad
 maretakstraat
 maretzstraat
 marevista
 mareweg
-marezatendreef
 marezatenstraat
 marfinne
-marga klomp)straat
 marga klompelaan
-marga klompesingel
-marga klompãƒâ©hof
-marga klompã©hoeve
-marga klompã©hof
-marga klompã©laan
-marga klompã©land
-marga klompã©passage
-marga klompã©singel
-marga klompã©straat
-marga klompã©weg
+marga klompÃ©brug
+marga klompÃ©hoeve
+marga klompÃ©hof
+marga klompÃ©laan
+marga klompÃ©land
+marga klompÃ©pad
+marga klompÃ©passage
+marga klompÃ©singel
+marga klompÃ©straat
+marga klompÃ©weg
 marga mincopad
+marga mincoplein
 margadantstraat
+margaret bondshof
 margaret cavendishweg
 margaret krophollerlaan
-margaret krophollerstraat
 margaret krophollerstraat
 margaret mitchellstraat
 margaret staal-krophollerstraat
 margaret staalplantsoen
 margaret staalstraat
-margareta havermanstraat
 margareta van brederodestraat
-margareta van brederostraat
 margareta van kuyclaan
 margaretahoeve
+margaretha beckstraat
 margaretha de heerstraat
+margaretha de heerweg
 margaretha fergusonhof
 margaretha havermanstraat
 margaretha meyboompad
@@ -1476,6 +1486,7 @@ margaretha van hennebergweg
 margaretha van mechelenweg
 margaretha van oostenrijklaan
 margaretha van parmadreef
+margaretha wichersstraat
 margarethaboslaan
 margarethadreef
 margarethalaan
@@ -1486,6 +1497,7 @@ margarethastraat
 margarethaweg
 margaretsedijk
 margarinepad
+margarinesteeg
 margauxlaan
 marggraffstraat
 margienewijk oz
@@ -1494,12 +1506,13 @@ margijnenenk
 margo antinkpad
 margo antinkstraat
 margot begemannstraat
-margot begemannstraat
+margot fonteynstraat
 margotweg
 margratenpad
 margratenplein
 margraterweg
 margriet
+margriet gijsenpad
 margriet van arkellaan
 margriet van de laer
 margriet van lijndenlaan
@@ -1521,38 +1534,36 @@ margrietvallei
 margrietveld
 margrietweg
 margrijhof
+margrÃ© braklaan
 marguerite durasstraat
 marguerite yourcenarstraat
+marheem
 marhulzen
 marhulzenpad
 marhulzenweg
 mari andriessenerf
 mari andriessenhof
 mari andriessenplein
-mari andriessenrade
 mari andriessenstraat
 mari van eschstraat
-mari+nhoef
-mari+nrade
 maria aertshof
 maria agnesihof
 maria annastraatje
-maria antonia walpurgislaan
 maria austria erf
 maria austriapad
 maria austriastraat
 maria bachmanstraat
 maria beshof
 maria blomstraat
+maria bogaarsstraat
 maria callasstraat
 maria cherubinastraat
-maria danneels erf
 maria de potterestraat
+maria de vriesstraat
 maria dermoutlaan
-maria dermoã»tlaan
-maria dermoã»tpad
-maria dermoã»tpark
-maria dermoã»tstraat
+maria dermoÃ»tlaan
+maria dermoÃ»tpad
+maria dermoÃ»tstraat
 maria doorman-kielstrastraat
 maria duystlaan
 maria enzersdorflaan
@@ -1573,25 +1584,21 @@ maria louiselaan
 maria louiseloane
 maria louisestraat
 maria luytenstraat
-maria lã©cinastraat
+maria lÃ©cinastraat
+maria magdalenastraat
 maria manciastraat
 maria margaretalaan
 maria mayerstraat
 maria merianhof
-maria montessoribrug
-maria montessorihaghe
-maria montessorikade
+maria meuwesehof
 maria montessorilaan
 maria montessoripad
 maria montessorirotonde
 maria montessoristraat
 maria montessoriweg
-maria parã©laan
 maria rabbonistraat
 maria reginastraat
 maria rutgers-hoitsemastraat
-maria rutgershaghe
-maria rutgerskade
 maria rutgerslaan
 maria rutgersland
 maria rutgersstraat
@@ -1599,6 +1606,7 @@ maria rutgersweg
 maria slaetsstraat
 maria snelplantsoen
 maria strickhof
+maria strÃ¤terstraat
 maria stuartlaan
 maria stuartplein
 maria stuartstraat
@@ -1615,13 +1623,13 @@ maria ulfahstraat
 maria v reigersberchstr
 maria van arkellaan
 maria van boechoutlaan
-maria van bourgondi+laan
 maria van bourgondiestraat
-maria van bourgondiã«laan
-maria van bourgondiã«singel
-maria van bourgondiã«straat
+maria van bourgondiÃ«laan
+maria van bourgondiÃ«singel
+maria van bourgondiÃ«straat
 maria van der duinstraat
 maria van dieststraat
+maria van eckstraat
 maria van gelrestraat
 maria van henegouwenstraat
 maria van hongarijedreef
@@ -1637,7 +1645,6 @@ maria van reedestraat
 maria van reigersberchstraat
 maria van reigersbergenstraat
 maria van reigersbergenweg
-maria van reigersbergenwegg
 maria van reigersbergstraat
 maria van sevenbergenstraat
 maria van strijthagenstraat
@@ -1662,12 +1669,12 @@ mariabaan
 mariabad
 mariabastion
 mariabergstraat
-mariaburg
 mariadal
 mariadijk
 mariadistelkade
 mariadistelstraat
 mariagaarde
+mariagang
 mariagardestraat
 mariahoek
 mariahoevelaan
@@ -1678,11 +1685,11 @@ mariahof
 mariahofke
 marialaan
 marialust
-mariamunster
-mariamunsterpad
 marian gobiushof
 marianellastraat
+marianka peterspad
 mariannalaan
+marianne hilaridesplantsoen
 marianne philipslaan
 marianne philipsplantsoen
 marianne philipsstraat
@@ -1692,6 +1699,7 @@ marianne vosstraat
 mariannehof
 mariannepad
 mariannestraat
+mariannhill
 mariannhilldreef
 mariaoord
 mariaoordlaan
@@ -1701,16 +1709,15 @@ mariaplein
 mariapolder
 mariapolderseweg
 mariaradevonder
+mariaschoollaan
 mariastraat
 mariaveld
 mariaveldweg
 mariaweg
+maribelle
 marickenlaan
-maricollenweg
 maricoweg
-marie altelaarkade
 marie altelaarplein
-marie andriessenhof
 marie baronlaan
 marie baronstraat
 marie besstraat
@@ -1719,18 +1726,20 @@ marie boddaertstraat
 marie braunhof
 marie curiehof
 marie curielaan
+marie curiepad
+marie curieplein
 marie curiesingel
 marie curiestraat
 marie curieweg
 marie de lannoystraat
 marie de roodelaan
+marie diebenpad
+marie diebenplaats
 marie gijsenstraat
 marie heinekenplein
 marie heinenpad
 marie heinenweg
 marie hoffmanlaan
-marie houtmanstraat
-marie jungiushaghe
 marie jungiusstraat
 marie jungiustuin
 marie jungiusweg
@@ -1743,6 +1752,7 @@ marie nierhoff-laantje
 marie notermansstraat
 marie overeijnderweg
 marie raymakersstraat
+marie ruijshof
 marie struijslaan
 marie trompstraat
 marie van eijsden-vinkstraat
@@ -1752,7 +1762,6 @@ marie van regteren altenastraat
 marie van westerhovenstraat
 marie van zeggelenlaan
 marie van zeggelenstraat
-marie vierdaghof
 marie vierdagstraat
 marie-anne tellegenstraat
 marieken van nimwegenstraat
@@ -1763,8 +1772,8 @@ mariekerkseweg
 marienburghplein
 marienburghstraat
 mariendaal
+mariendaalseweg
 marienvillestraat
-marienwaerd
 marienwaerdt 't klooster
 marienwaerdt 2e dreef
 marienwaerdt abelenlaan
@@ -1772,7 +1781,6 @@ marienwaerdt annemariedreef
 marienwaerdt appeldijk
 marienwaerdt biersteeg
 marienwaerdt bijlandtsdreef
-marienwaerdt de els
 marienwaerdt de els
 marienwaerdt den oeststeeg
 marienwaerdt driftsteeg
@@ -1785,12 +1793,10 @@ marienwaerdt machinedreef
 marienwaerdt notendijk
 marienwaerdt notenlaan
 marienwaerdt prinkel
-marienwaerdt prinkelsteeg
 marienwaerdt st. janssteeg
 marienwaerdt woerdsteeg
 marienweerd
 marietjespad
-mariettahof
 marifoon
 marifoonweg
 marijenkampen
@@ -1813,12 +1819,12 @@ mariken van nimwegenstraat
 marikenstraat
 marilyn monroepad
 marimba
+marimbahof
 marimbalaan
 marimbapad
 marimbastraat
 marina-park
 marinastraat
-marinastrand
 marinaweg
 marineblauw
 mariner
@@ -1842,7 +1848,6 @@ marinus postplein
 marinus poststraat
 marinus spronklaan
 marinus van de giesenhof
-marinus van der giessenhof
 marinus van der stoepstraat
 marinus van elswijkkade
 marinus van meelweg
@@ -1862,9 +1867,11 @@ marisbergstraat
 marishof
 mariskagang
 marislaan
+marispaedje
 marisplantsoen
 marisplein
 marissepeelweg
+marissinkhof
 marisstraat
 marisveldweg
 marithaime
@@ -1880,52 +1887,54 @@ marius de langenstraat
 marius godwaldtstraat
 marius meijboomstraat
 marius ouborglaan
-marius richters-laan
 marius richterslaan
 marius richtersstraat
+marius ten raapad
 marius van beeklaan
+marius van beekplein
 marius van bouwdijk bastiaansestraat
 marius van de wildenbergstraat
 mariushof
-mariãƒâ«nhoef
-mariã«nacker
-mariã«nbergerdijk
-mariã«nbergweg
-mariã«nboomseweg
-mariã«nbornstraat
-mariã«nburg
-mariã«nburgpaad
-mariã«nburgsestraat
-mariã«nburgstraat
-mariã«ndaal
-mariã«ndaallaan
-mariã«ndaalseweg
-mariã«ndaalstraat
-mariã«ndijk
-mariã«ndonkstraat
-mariã«ngaard
-mariã«ngaarderweg
-mariã«ngaerde
-mariã«nhagelaan
-mariã«nhagen
-mariã«nhoef
-mariã«nhof
-mariã«nhorst
-mariã«nhove
-mariã«nhoven
-mariã«nkroon
-mariã«nlaan
-mariã«npark
-mariã«npoelstraat
-mariã«npoort
-mariã«nrade
-mariã«nschootstraat
-mariã«nstein
-mariã«nwaard
-mariã«nweerd
-mariã«nweerdpad
-mariã«nwold
-mariã«ttahof
+mariÃ«nacker
+mariÃ«nbergerdijk
+mariÃ«nbergweg
+mariÃ«nboomseweg
+mariÃ«nbornstraat
+mariÃ«nburg
+mariÃ«nburgpaad
+mariÃ«nburgsestraat
+mariÃ«nburgstraat
+mariÃ«ndaal
+mariÃ«ndaallaan
+mariÃ«ndaalseweg
+mariÃ«ndaalstraat
+mariÃ«ndijk
+mariÃ«ndonkstraat
+mariÃ«ndreef
+mariÃ«ngaard
+mariÃ«ngaarderweg
+mariÃ«ngaerde
+mariÃ«nhagelaan
+mariÃ«nhagen
+mariÃ«nhoef
+mariÃ«nhof
+mariÃ«nhorst
+mariÃ«nhove
+mariÃ«nhoven
+mariÃ«nkroon
+mariÃ«nlaan
+mariÃ«npark
+mariÃ«npoelstraat
+mariÃ«npoort
+mariÃ«nrade
+mariÃ«nschootstraat
+mariÃ«nstein
+mariÃ«nwaard
+mariÃ«nwater
+mariÃ«nweerd
+mariÃ«nweerdpad
+mariÃ«nwold
+mariÃ«ttahof
 marja
 marjolein
 marjoleingaard
@@ -1960,7 +1969,6 @@ marke mander
 marke volthe
 markebaak
 markeboek
-markebroek
 markebrug
 markedal
 markedijk
@@ -1970,6 +1978,7 @@ markegenotenweg
 markehof
 markelaan
 markelerbergpad
+markelo 27
 markeloseberg
 markeloseweg
 markelostraat
@@ -1984,6 +1993,7 @@ markendwarspad
 markengouw
 markenhaven
 markenhoekpad
+markenhof
 markenlaan
 markenland
 markenpad
@@ -1994,6 +2004,7 @@ markenstraat
 markenweg
 markenwegje
 markepad
+marker
 markerbroekweg
 markerdreef
 markeresgang
@@ -2010,6 +2021,7 @@ markerkant 13
 markerkant 14
 markerkant 15
 markerkant 16
+markerkantpad
 markermeer
 markermeerdijk
 markermeerstraat
@@ -2022,7 +2034,6 @@ markerwaardlaan
 markerwaardstraat
 markerwaardweg
 markerwaddenstraat
-markescheiding
 markescheiding
 markeschoor
 markesingel
@@ -2050,7 +2061,6 @@ markhof
 markhorst
 markies
 markies de schenkweg
-markies van ledestraat
 markiespad
 markiesstraat
 markiezaat
@@ -2080,8 +2090,10 @@ markolle
 markollenweg
 markolstrjitte
 markonstraat
+markorf
 markowei
 markpad
+markpontje
 markpoort
 markschans
 marksingel
@@ -2093,6 +2105,7 @@ markt
 markt van matena
 markt-oostzijde
 markt-westzijde
+marktbrug
 marktepad
 markteweg
 marktgang
@@ -2120,7 +2133,6 @@ marktstede
 marktsteeg
 marktsteegje
 marktstraat
-marktstraat 01
 marktstraat rijkel
 marktstraatje
 marktveld
@@ -2171,18 +2183,16 @@ marnedijk
 marnedreef
 marnehiem
 marnelaan
-marnelaan
 marnepad
 marnestraat
-marnewaard
 marneweg
 marnezijlstraat
 marningeweg
 marnix gijsenhove
 marnix gijsenstraat
-marnix v st aldegondestr
 marnix van sint aldegondestraat
 marnix van st. aldegondestraat
+marnixbrug
 marnixdwarsstraat
 marnixflat
 marnixkade
@@ -2193,7 +2203,6 @@ marnixstraat
 maroastraat
 maroc
 marocstraat
-marodeweg
 marokko
 marokkodreef
 marokkolaan
@@ -2211,6 +2220,7 @@ marquette
 marquettegracht
 marquettelaan
 marquisen
+marrepad
 marrewijklaan
 marrewijkpad
 marrumerweg
@@ -2219,6 +2229,7 @@ mars en wijthdijk
 marsanahof
 marsbaan
 marsburg
+marschveldweg
 marsdiek
 marsdiep
 marsdiepstraat
@@ -2229,9 +2240,9 @@ marseillelaan
 marseillepad
 marselaar
 marsenbreek
+marsenweg
 marsgeel
 marshall-laan
-marshallaan
 marshalldreef
 marshallerf
 marshalllaan
@@ -2246,9 +2257,10 @@ marshof
 marshovenlaan
 marsicht
 marsilius van inghenpad
-marsipulamihof
 marskamp
+marskampveer
 marskant
+marskedijk
 marskeweg
 marskramer
 marskramersbaan
@@ -2280,27 +2292,28 @@ marssteegde
 marsstraat
 marsstraatje
 marsstukken
+marssum 22
 marssumerdyk
 marssumerstraat
 marssumstraat
 marstunnel
+marsum
 marsumerweg
 marsupilamihof
 marsweg
 marswier
 marszeil
 mart smeetslaan
-mart smeetspad
 mart stamerf
 mart stamhof
 mart stamstraat
 mart. van rijswijkplein
-marte rã¶lingpaadje
+marte rÃ¶lingpaadje
 martekrogt
 martekrogtplein
 martel
 martelaarsgracht
-martelehã¶fke
+martelehÃ¶fke
 martemanshurk
 marten anemastraat
 marten corverhof
@@ -2324,11 +2337,13 @@ marten putstraat
 marten snoodijkhof
 marten toonder natuurpad
 marten toonder sr. pad
+marten toonderbrug
 marten toonderlaan
 marten toonderpad
 marten toonderplein
 marten toonderstraat
 marten van der hemlaan
+marten van der walweg
 marten van rossemsingel
 marten van rossemstraat
 marten van wijheweg
@@ -2338,6 +2353,7 @@ martenawei
 martensbongerd
 martensgraverweg
 martenshoefstraat
+martenshoek
 martenshofstede
 martenskamp
 martenslindestraat
@@ -2394,17 +2410,17 @@ martin luther kingerf
 martin luther kinglaan
 martin luther kingpad
 martin luther kingpark
+martin luther kingplaats
 martin luther kingplantsoen
 martin luther kingplein
 martin luther kingsingel
 martin luther kingstate
 martin luther kingstraat
 martin luther kingweg
-martin monnickendamplein
 martin monnickendamstraat
-martin niemã¶llerstraat
+martin niemÃ¶llerstraat
 martin rylestraat
-martin schrã¶derloane
+martin schrÃ¶derloane
 martin staamerpad
 martin van der drifthof
 martin vlaarkade
@@ -2425,17 +2441,20 @@ martinikerkhof
 martinilaan
 martinipad
 martiniplein
+martiniquebrug
 martiniquepad
 martiniquestraat
 martinitorenstraat
 martinplein
 martinstraat
+martinus
 martinus burkensstraat
 martinus de boerstraat
 martinus dorpiusstraat
 martinus eijkestraat
 martinus houttuynhof
 martinus jan langeveldstraat
+martinus nijhoffbrug
 martinus nijhoffhove
 martinus nijhofflaan
 martinus nijhoffpad
@@ -2448,7 +2467,7 @@ martinus steijnstraat
 martinus van barneveltstraat
 martinus van de mortelstraat
 martinus van der hamstraat
-martinus vd mortelstraat
+martinus veltmanpassage
 martinus vloetstraat
 martinus zwetslootstraat
 martinusdonk
@@ -2468,6 +2487,7 @@ martjesweg
 martriehoeve
 martsenstraat
 marty feldmanstraat
+marum 32
 marumplantsoen
 marvildehof
 marwei
@@ -2484,26 +2504,26 @@ marxstraat
 marxveldstraat
 marxweg
 mary beystraat
-mary brã¼ckel-beitenpad
+mary brÃ¼ckel-beitenpad
 mary dresselhuysstraat
 mary dresselhuysweg
 mary fleischmannstraat
 mary kingsleystraat
-mary kingsleyweg
 mary muskensstraat
 mary ritter beardweg
+mary somersvillelaan
+mary somervillelaan
 mary stuartlaan
 mary sullivanstraat
 mary van der sluisstraat
-mary van der sluysstraat
 mary zeldenrust-noordanuslaan
 mary zeldenrust-noordanusstraat
-mary zeldenrusthaghe
+mary zeldenrusthof
 mary zeldenrustlaan
 mary zeldenrustpad
 mary zeldenruststraat
 mary zeldenrustweg
-marykestraat
+maryhof
 masada
 masadastraat
 masaistraat
@@ -2532,10 +2552,10 @@ massenetplaats
 massenetstraat
 massenweg
 massijslaan
-massophaag
 mast
 mastakker
 mastboersweg
+mastboomhof
 mastbos
 mastboslaan
 mastbospad
@@ -2566,7 +2586,6 @@ master de grootstrjitte
 master de jongwei
 master de vrieswei
 master dijkstrawei
-master ekke blaauwstr
 master ekke blaauwstrjitte
 master fan loanstrjitte
 master fopmawei
@@ -2592,7 +2611,6 @@ master van loonpaed
 master wielsmaplein
 master woudstrastrjitte
 master wybrensdyk
-master-gorterstrjitte
 masterode
 mastersein
 masterspaad
@@ -2612,6 +2630,7 @@ mastmakerstraat
 mastmeen
 mastpad
 mastplein
+mastpolder
 mastspoor
 maststraat
 mastweg
@@ -2622,6 +2641,7 @@ mata hariplein
 matara bastion
 mataramstraat
 mataramweg
+mataveriweg
 matelieffplantsoen
 maten
 matena
@@ -2632,7 +2652,7 @@ matenasche scheidkade
 matenaweg
 matendijk
 matenesse-hof
-matenpark
+matenpad
 matenpoort
 matensestraat
 matenstraat
@@ -2656,6 +2676,7 @@ mathaakweide
 mathena
 mathenessehof
 mathenesselaan
+mathenesserbrug
 mathenesserdijk
 mathenesserhof
 mathenesserlaan
@@ -2670,10 +2691,10 @@ mathias kempstraat
 mathias kroonenbroeckstraat
 mathias soironstraat
 mathieu cordangpad
+mathieu cordangpark
 mathieu kesselserf
-mathieu starrenstraat
+mathieu kesselshof
 mathijs beckstraat
-mathijs claassensstraat
 mathijs heugenstraat
 mathijs roosenstraat
 mathijs vermeulenpad
@@ -2686,7 +2707,6 @@ mathijssenstraat
 mathildadonk
 mathildalaan
 mathildastraat
-mathilde erf
 mathilde haanstraat
 mathilde wibauterf
 mathilde wibauthof
@@ -2702,10 +2722,9 @@ mathildestraat
 matho tongastraat
 mathurastraat
 mathys de layenslaan
-matieu cordangpad
 matilopad
+matilotunnel
 matiloweg
-matingeweg
 matissehof
 matissepad
 matissepassage
@@ -2721,7 +2740,7 @@ matoahout
 matpad
 matrozenhof
 matseweg
-matsjedã¨l
+matsjedÃ¨l
 matsloot
 matsmanveld
 matsmanzoom
@@ -2735,6 +2754,7 @@ mattenbieslaan
 mattenbiesstraat
 mattenesserlaan
 mattenkade
+mattenraam
 mattensteiger
 mattenvlechter
 matterhorn
@@ -2749,7 +2769,6 @@ mattheus smallegangesbuurt
 mattheus wijtmansstraat
 mattheusplein
 matthias de vrieshof
-matthias van pellicomstr
 matthias van pellicomstraat
 matthias wijnandsstraat
 matthias withoosstraat
@@ -2761,6 +2780,7 @@ matthijs balenstraat
 matthijs kiersstraat
 matthijs marisstraat
 matthijs molenaarstraat
+matthijs quispelhof
 matthijs smitstraat
 matthijs snoeckstraat
 matthijs sterklaan
@@ -2791,10 +2811,11 @@ maurice ravelhof
 maurice ravellaan
 maurice ravelstraat
 maurice ravelweg
-maurice ravã¨lstraat
+maurice ravÃ¨lstraat
 maurice roelantshove
 maurice van kleefstraat
 mauricialaan
+mauriciusbrug
 maurick
 maurickerf
 maurickpad
@@ -2802,10 +2823,10 @@ maurickplantsoen
 maurickplein
 mauriksestraat
 maurikstraat
+maurikvenweg
 mauritius
 mauritiuslaan
 mauritiuspaad
-mauritiussingel
 mauritiusstraat
 maurits bingerplantsoen
 maurits bingerstraat
@@ -2819,15 +2840,15 @@ maurits lijnslagerstraat
 maurits prinsstraat
 maurits sabbehof
 maurits van eppelaan
+maurits van staaverenweg
 mauritsbolwerk
+mauritsbrug
 mauritsdreef
 mauritsdwarsstraat
 mauritsfort
 mauritsgaarde
-mauritsgaarde
 mauritshoek
 mauritshof
-mauritshuis
 mauritskade
 mauritslaan
 mauritspad
@@ -2857,14 +2878,11 @@ max ernsthof
 max ernstlaan
 max ernststraat
 max euwelaan
-max euwepad
 max euweplein
-max euwesingel
 max euwestraat
 max euweweg
 max gootelaan
 max guillaumestraat
-max havelaarburg
 max havelaardreef
 max havelaarlaan
 max havelaarstraat
@@ -2873,6 +2891,7 @@ max heymansstraat
 max liebermannstraat
 max planckpad
 max planckplaats
+max planckplantsoen
 max planckstraat
 max planckweg
 max regerlaan
@@ -2880,6 +2899,7 @@ max regerpark
 max tahalelepad
 max takstraat
 max van damstraat
+max van de stoelpark
 max van der stoelstraat
 max velthuijshof
 max velthuijskade
@@ -2895,7 +2915,9 @@ maximahof
 maximalaan
 maximaplein
 maximastraat
+maximaweg
 maximiliaan de hennijnstraat
+maximiliaan de manstraat
 maximiliaan van egmondstraat
 maximiliaan van oostenrijkstraat
 maximiliaanlaan
@@ -2904,11 +2926,14 @@ maximillastraat
 maxisweg
 maxwellstraat
 maxwellweg
+may ziadehstraat
+maya angeloustraat
 mayadreef
 mayersloot
 mayflowerstraat
 maylaan
 mayonstraat
+maysecroft
 maysteeg
 maystraat
 mayweg
@@ -2923,16 +2948,18 @@ mazurkahof
 mazurkastraat
 mazustraat
 mazzinilaan
-maã¯s
-maã¯sberg
-maã¯shof
-maã¯sveld
-maã¶tjensweg
+maÃ¯s
+maÃ¯sberg
+maÃ¯shof
+maÃ¯sveld
+maÃ¶tjensweg
 mc cammonplein
+mc donaldsweg
 meagere weide
 meamert
 meamerterdyk
 meander
+meanderbrug
 meanderdijk
 meandererf
 meanderhof
@@ -2941,8 +2968,6 @@ meanderlaan
 meanderpad
 meanderplein
 meanderstraat
-meanderweg
-meanewei
 mearikkerpaad
 mearsloatswal
 mearsterpaed
@@ -2992,6 +3017,7 @@ medeastraat
 medegebroekweg
 medelsestraat
 medelsestraat-oost
+medemblik 11
 medemblikhof
 medemblikker span
 medemblikkersluisweg
@@ -3018,7 +3044,6 @@ medler
 medlerpad
 medlerstraat
 medocgaard
-medoclaan
 medusadreef
 medusastraat
 medwert
@@ -3027,6 +3052,7 @@ meeboerserf
 meebruggenweg
 meedelaan
 meeden
+meedenertol
 meedenerveen
 meedenerweg
 meedenlaan
@@ -3038,7 +3064,7 @@ meedhuizerweg
 meedstermaarpad
 meedsterweg
 meekertweg
-meekeshã´f
+meekeshÃ´f
 meekesweg
 meekhofsveen
 meekmastrjitte
@@ -3049,6 +3075,7 @@ meekrapbruin
 meekrapdreef
 meekrapstraat
 meekrapweg
+meelakkers
 meelbes
 meelbeshof
 meelbeskamp
@@ -3058,10 +3085,10 @@ meelblok
 meelderbroekweg
 meeldert weg
 meeldijk
-meeldraad
 meelenbroekerweg
 meeleweg
 meelfabriekplein
+meelkerlaan
 meelkerslaan
 meelmolen
 meelovenstraat
@@ -3136,11 +3163,11 @@ meerboomweg-zuid
 meerbos
 meerbosweg
 meerbrinkweg
+meerbroekschestraat
 meerburgerkade
 meerburgerlaan
 meerburgerstraat
 meerburgerwatering
-meerburghstraat
 meerburglaan
 meerburgstraat
 meercamp
@@ -3150,7 +3177,6 @@ meerdervoortstraat
 meerdijk
 meerdijkpad
 meerdijkpark
-meerdijkweg
 meerdinkweg
 meerdonk
 meerdorpstraat
@@ -3177,6 +3203,7 @@ meergraaf
 meergracht
 meergras
 meerheide
+meerheul
 meerheuvelpad
 meerheuvelweg
 meerhoek
@@ -3185,6 +3212,7 @@ meerhoeve
 meerhof
 meerhoutstraat
 meerhoven
+meerhoven-zuid 30a
 meerhovendreef
 meerhuizenplein
 meerhuizenstraat
@@ -3192,6 +3220,7 @@ meerhuysen
 meerkade
 meerkamp
 meerkampsweg
+meerkant
 meerkensloop
 meerkensweg
 meerkerkdreef
@@ -3224,13 +3253,16 @@ meerland
 meerlandenweg
 meerlandpad
 meerlandseweg
+meerlandweg
 meerlebroekhof
 meerleseweg
 meerleveld
 meerlingweg
+meerlobrug
 meerlopad
 meerlosebaan
 meerloseweg
+meerluchtlaan
 meerluststraat
 meermanshof
 meermanspad
@@ -3240,15 +3272,16 @@ meerminnensteeg
 meerminnepad
 meerminneplein
 meerminnestraat
-meerminstede
 meerminstraat
 meermondpad
 meermontkade
 meermuidenseweg
+meernbrug
 meerndijk
 meernhof
 meeroever
 meeroeverslaan
+meerooghof
 meerpaal
 meerpaalplantsoen
 meerpaalstraat
@@ -3273,15 +3306,15 @@ meersingel
 meerslagenweg
 meerslootpad
 meerspoorpad
-meerssenderveldweg
-meerssenderweg
-meerssenderweg oost
+meerssen 2
+meerssen 51
 meerssenerbergweg
 meerssenerweg
 meerssenhoven
 meerssenhovenweg
 meerssenstraat
 meersser perkenvoetpad
+meerstad 1
 meerstadlaan
 meerstal
 meerstalstraat
@@ -3289,15 +3322,14 @@ meersteeg
 meerstoel
 meerstraat
 meerstukken
-meerstukstraat
 meerswal
 meersweg
 meerten verhoffstraat
 meertenakkersweg
-meertensgroevepad
 meertenshof
 meertensweg
 meertenwei
+meertenweisestraat
 meertjesweg
 meertouw
 meertrosstraat
@@ -3327,13 +3359,12 @@ meerwedesingel
 meerweg
 meerweidenlaan
 meerwijckpad
-meerwijckstraat
 meerwijk
 meerwijk nz
 meerwijkhof
 meerwijklaan
 meerwijkpad
-meerwijkplas
+meerwijksebrug
 meerwijkselaan
 meerwijkstraat
 meerwijkweg
@@ -3343,9 +3374,7 @@ meerzichtlaan
 meerzigt
 meerzijde
 mees
-mees toxopeusrede
-mees toxopeusstraat
-mees toxopeã¼sstraat
+mees toxopeÃ¼sstraat
 meesberg
 meesenbroekweg
 meeshaven
@@ -3377,6 +3406,7 @@ meester bierkuslaan
 meester binkstraat
 meester bleekerlaan
 meester bodewesstraat
+meester boelaersstraat
 meester boelenweg
 meester boldewijnlaan
 meester bollplein
@@ -3393,6 +3423,7 @@ meester broosplantsoen
 meester brouwerlaan
 meester bruningstraat
 meester brunstingweg
+meester burgerstraat
 meester caelersstraat
 meester cassastraat
 meester ceelensingel
@@ -3401,8 +3432,11 @@ meester claessensstraat
 meester coelbornerhof
 meester cornelisstraat
 meester cornelius g. cremerpad
+meester corporaalstraat
 meester croneweg
 meester cruijsberghof
+meester cuijpersstraat
+meester d kwindtstraat
 meester daarnhouwerstraat
 meester de bruinlaan
 meester de coloniastraat
@@ -3424,7 +3458,8 @@ meester dingeldeinstraat
 meester driessensstraat
 meester driessenstraat
 meester drostweg
-meester dã¶llestraat
+meester duitsstraat
+meester dÃ¶llestraat
 meester engelenweg
 meester feringastraat
 meester flapperlaan
@@ -3441,7 +3476,6 @@ meester gerritsweg
 meester gielenplein
 meester gorisstraat
 meester h. liststraat
-meester h.liststraat
 meester haafkensstraat
 meester haarmanstraat
 meester haddersstraat
@@ -3469,6 +3503,7 @@ meester j. de vriesstraat
 meester j. henderikxstraat
 meester j. tuintjerstraat
 meester j.h. geysstraat
+meester j.m. duivenstraat
 meester j.s. van weerdenstraat
 meester jacobsstraat
 meester jan pannekoeklaantje
@@ -3483,8 +3518,7 @@ meester jongenstraat
 meester jonkerpad
 meester jonkerweg
 meester joostenstraat
-meester k m  van dijkstraat
-meester k van dijkstraat
+meester k m van dijkstraat
 meester k. hoekstraweg
 meester kamerplein
 meester kesselsstraat
@@ -3497,6 +3531,7 @@ meester kolkplein
 meester koolenweg
 meester koolweg
 meester kooningsplaats
+meester kootstraat
 meester kosterweg
 meester kraaiplaats
 meester kraaistraat
@@ -3535,10 +3570,9 @@ meester mollstraat
 meester molstraat
 meester monsmastraat
 meester muldersstraat
-meester mã¼hrenlaan
+meester mÃ¼hrenlaan
 meester n j van riemsdijkstraat
 meester nelissenstraat
-meester nellenstraat
 meester nennstiehlweg
 meester neuteboomstraat
 meester nijhoffstraat
@@ -3588,11 +3622,11 @@ meester schierbeekstraat
 meester schoenmakerpad
 meester schrauwenstraat
 meester sinelstraat
+meester slootshof
 meester slootsweg
 meester smeetslaan
 meester smitsstraat
 meester snijderweg
-meester snyderweg
 meester speestraat
 meester spigtlaan
 meester spoermekerlaan
@@ -3605,7 +3639,6 @@ meester streeflandstraat
 meester strijbosstraat
 meester strikstraat
 meester teppemastraat
-meester ter voertstraat
 meester teunissenstraat
 meester theelenstraat
 meester theo plein
@@ -3615,7 +3648,6 @@ meester tiemanstraat
 meester tigchelaarstraat
 meester tijhuisweg
 meester toeboschweg
-meester toebosweg
 meester ulehakestraat
 meester ulrichweg
 meester van akenstraat
@@ -3631,12 +3663,12 @@ meester van de bergstraat
 meester van de venstraat
 meester van den bergplein
 meester van den bornepad
-meester van den boschstraat
 meester van der kampweg
 meester van der lindenstraat
 meester van der meerendonkstraat
 meester van der meerstraat
 meester van der meistraat
+meester van der waalweg
 meester van der waldijk
 meester van dijkelaan
 meester van douwenweg
@@ -3655,7 +3687,6 @@ meester van lingenlaan
 meester van loostraat
 meester van manenstraat
 meester van meelstraat
-meester van meelstraat
 meester van mensvoortstraat
 meester van merwicklaan
 meester van oeffelstraat
@@ -3664,11 +3695,11 @@ meester van rooijenplein
 meester van roosmalenhof
 meester van sonstraat
 meester van voorstweg
-meester van voorstweg
 meester van zeelandstraat
 meester van zutphenstraat
 meester veldhuizenstraat
 meester verbernestraat
+meester verkoulenplein
 meester vermeulenstraat
 meester visserstraat
 meester voortmanstraat
@@ -3682,11 +3713,11 @@ meester werkmanstraat
 meester westerhofdijk
 meester wijchgellaan
 meester wijmaweg
-meester wijnenstraat
 meester willem schorerstraat
 meester willemsenlaan
 meester willemsenstraat
 meester willemstraat
+meester witzelstraat
 meester woolsstraat
 meester ygramlaan
 meester zuidemastraat
@@ -3698,6 +3729,7 @@ meesterijweg
 meesterjoostenlaan
 meesterlottelaan
 meesterpad
+meestersbrug
 meesterserf
 meestershof
 meesterskamp
@@ -3708,6 +3740,7 @@ meestersstraat
 meestersteeg
 meesterstraat
 meestersweg
+meestersweide
 meesterswijk
 meestoof
 meestooflaan
@@ -3719,7 +3752,6 @@ meeteind
 meetkamp
 meetketting
 meetlat
-meetparkcircuit
 meetpuntlaan
 meetsnoerhof
 meeussenstraat
@@ -3731,6 +3763,7 @@ meeuweg
 meeuwelaan
 meeuwenbeemd
 meeuwenbergweg
+meeuwenbrug
 meeuwendreef
 meeuwenduinen
 meeuwengors
@@ -3744,7 +3777,6 @@ meeuwenoordlaan
 meeuwenoordseweg
 meeuwenoordweg
 meeuwenpad
-meeuwenplaat
 meeuwenplein
 meeuwensedijk
 meeuwensesteeg
@@ -3753,6 +3785,7 @@ meeuwensingel
 meeuwenstaartweg
 meeuwenstein
 meeuwenstraat
+meeuwentocht
 meeuwenveenseweg
 meeuwenveenweg
 meeuwenveld
@@ -3766,13 +3799,14 @@ meeuwerderbaan
 meeuwerderpad
 meeuwerderweg
 meeuwerweg
+meeuwesweg
 meeuweweg
 meeuwisdijk
 meeuwiskamp
 meeuwmesschen
-meeuwpad
 meeuwstraat
 meeweg
+meewind
 meewisstraat
 meexstraat
 meezenbroek
@@ -3787,6 +3821,7 @@ mega
 megajoule
 megaralaan
 megelsum
+megen
 megensebaan
 megensedijk
 megenstraat
@@ -3824,7 +3859,6 @@ meidoornplein
 meidoornrode
 meidoornsingel
 meidoornstraat
-meidoornveld
 meidoornweg
 meiduinweg
 meiendaal
@@ -3849,6 +3883,7 @@ meierplein
 meierruwe
 meierslaan
 meierstraat
+meigraaf
 meihoven
 meihuizenstraat
 meihuizenweg
@@ -3873,6 +3908,8 @@ meijerboersweg
 meijerij
 meijerijgaarde
 meijerijhof
+meijerijlaan
+meijerijplein
 meijerijstraat
 meijerink
 meijerinkpad
@@ -3898,6 +3935,7 @@ meijerstraat
 meijersveldweg
 meijersweg
 meijerswegje
+meijertkwartier
 meijestraat
 meijewetering
 meijgatenstraat
@@ -3923,6 +3961,7 @@ meikade
 meikamerlaan
 meikampgraaf
 meikers
+meikershof
 meikerspad
 meikersstraat
 meikever
@@ -3942,14 +3981,13 @@ meiler
 meilerstraat
 meilinksweg
 meilust
-meilustbos
 meilustpad
 meilustweg
 meimansteeg
 meimorgenstraat
 meinardswei
 meindershof
-meindert boekelstraat
+meindert heegpaad
 meindert hobbema
 meindert hobbemahage
 meindert hobbemalaan
@@ -3964,12 +4002,13 @@ meinersstraat
 meinersweg
 meinesleatwei
 meineszstraat
+meineszwijk
 meinsmasingel
 meinsmawei
 meinsstraat
 meint veningastraat
 meinte
-meinteslã¢n
+meinteslÃ¢n
 meinweg
 meinweidestraat
 meinwerkstraat
@@ -3988,10 +4027,8 @@ meishagerstraat
 meisjespoort
 meissenstraat
 meister jacobshof
-meister rongenstraat
 meister zef ehlenhof
 meisterholt
-meisters minaplantsoen
 meisterspad
 meisterstegge
 meistraat
@@ -4004,13 +4041,13 @@ meiweg
 meiwerfweg
 meizoenstraat
 meizoentje
-meiã«nweg
+meiÃ«nweg
 mej. a.talmaweg
-mej. g. veenstraat
 mej. grietje veenstraat
 mej. n. schipperstraat
 mej. verbrughhof
 mejontsmastraat
+mejuffrouw boomplein
 mekelenkamplaan
 mekelermeer
 mekelstraat
@@ -4030,17 +4067,16 @@ mekrisveld
 melafier
 melanchtonweg
 melanendreef
-melanenplein
 melanenweg
 melangeurplein
 melaniastraat
+melanie kleinpad
 melaniedreef
 melariumpad
 melassekaai
 melassestraat
 melasseweg
 melatensteeg
-melatenweg
 melati van javalaan
 melbournepad
 melbournestraat
@@ -4064,14 +4100,13 @@ meldedonk
 meldelaan
 meldepad
 melder
-meldermunsterweg
-meldersloseweg
 melderstraat
 meldert
 meldestraat
 meldijk
 melegardeweg
 melenbergweg
+melenborgskamp
 melenborgweg
 melenhorst
 melenhorststraat
@@ -4104,6 +4139,7 @@ melisblok
 melisdonk
 meliskerkestraat
 meliskerkseweg
+melissa
 melissabeemd
 melissantpad
 melissantstraat
@@ -4149,24 +4185,24 @@ melkhof
 melkhuis
 melkkade
 melkkelder
-melkkeppe
 melkkoppad
 melkkruid
 melkkruidstraat
 melklaan
-melklaantje
 melklanden
 melkleenweg
 melkmarkt
 melkmarktstraat
 melkmeent
-melkmeisjesgang
+melkmeisjesbrug
 melkmeisjeslaan
 melknapsteeg
 melkpad
+melkpadtie
 melkpoort
 melkpoortje
 melkrijder
+melkrijderspad
 melkrijdersweg
 melkschouw
 melkschuit
@@ -4180,12 +4216,14 @@ melkstraatje
 melkvaaller
 melkvart
 melkveeweg
+melkventer
+melkventerplein
+melkvlakweg
 melkvonder
 melkvonderweg
 melkweg
-melkweg-oud
+melkwegbrug
 melkwegje
-melkweglaan
 melkwegpad
 melkwegplein
 melkwegsetiendweg
@@ -4204,6 +4242,7 @@ mellemastraat
 mellemaweg
 mellemawei
 mellenakkerweg
+mellensertunnel
 mellenshof
 mellenssteeg
 mellereed
@@ -4218,13 +4257,13 @@ mellum
 melmansdam
 melmerhof
 melmerweg
-melodie
 melodiehof
 melodiestraat
 meloenenstraat
 meloengaard
 meloengaarde
 meloengeel
+meloenkraal
 meloenlaan
 meloenpad
 meloenstraat
@@ -4234,6 +4273,7 @@ melrose
 melrosestraat
 melsbroekhof
 melsbroekstraat
+melsekampweg
 melsemaheerd
 melsesweg
 melssinghdreef
@@ -4255,7 +4295,6 @@ memlinckstraat
 memlinclaan
 memlincplein
 memlincstraat
-memlinghof
 memlingstraat
 memmoerheidedreef
 memorielaan
@@ -4271,7 +4310,6 @@ menaldumstraat
 menamerdyk
 menanderstraat
 menarahof
-menaraplantsoen
 mendeldreef
 mendelhof
 mendellaan
@@ -4284,6 +4322,7 @@ mendelssohnrode
 mendelssohnstraat
 mendelstraat
 mendelweg
+mendert
 mendes da costahof
 mendes da costalaan
 mendes da costapad
@@ -4300,7 +4339,6 @@ mengelsweg
 mengerinckstraat
 mengersdijk
 mengerweg
-mengerwegtunnel
 menheerseplein
 menhirweg
 menistefjouwere
@@ -4321,8 +4359,9 @@ menkemaweg
 menkenlaan
 menkhorsterweg
 menkingastrjitte
+menkopad
 mennepad
-mennerdahã´f
+mennerdahÃ´f
 mennersingelaan
 mennersweide
 mennestraat
@@ -4345,11 +4384,10 @@ menno simonsstraat
 menno simonszhof
 menno simonszplein
 menno simonszstraat
-menno simonszweg
+menno ter braakbrug
 menno ter braakhof
 menno ter braakhove
 menno ter braaklaan
-menno ter braakpad
 menno ter braakplaats
 menno ter braakplantsoen
 menno ter braakplein
@@ -4422,6 +4460,7 @@ mentinksweg
 mentinkweg
 mentonpassage
 menuet
+menuetbrug
 menuethof
 menuetlaantje
 menuetstraat
@@ -4430,6 +4469,11 @@ menwagen
 menweg
 menzel
 menziessingel
+meppel - staphorst
+meppel 2
+meppel-noord 3
+meppel-zuid 1
+meppelbrug
 meppelerdiep
 meppelerdiepkade
 meppelerpad
@@ -4441,6 +4485,7 @@ meppelrade
 meppelsingel
 meppelstraat
 meppelweg
+meppen (d)
 mepperdennenweg
 mepperstraat
 mepperweg
@@ -4464,6 +4509,7 @@ mercatorschans
 mercatorsingel
 mercatorstraat
 mercatorweg
+merce cunninghamplantsoen
 merchant
 merckelbachstraat
 merckelbaghstraat
@@ -4500,7 +4546,6 @@ mereldreef
 merelerf
 merelhaag
 merelhof
-merelhoven
 merellaan
 merelnest
 merelpad
@@ -4512,13 +4557,13 @@ merelstraat
 mereltjesstraat
 merelweg
 merenborch
+merenburgstraat
 merendonk
 merendreef
 merenguestraat
 merenhoef
 merenlaan
 merenland
-merenpad
 merenriet
 merensplein
 merensstraat
@@ -4538,7 +4583,7 @@ mergeldelsweg
 mergeldijk
 mergelland
 mergellandpad
-mergelpad
+mergelsteeg
 mergelsteen
 mergelstraat
 mergelsweg
@@ -4547,19 +4592,18 @@ mergelwal
 mergelweg
 mergen
 mergental
-mergentheim
 meriadoc
 merian
 merianweg
 mericilaan
 meridiaan
 meridiaanpad
+meridiaanpark
 meridiaanstraat
 meridiaantunnel
 merientje visstraat
 merietestraat
 merijn
-merijntje gijzenburg
 merijntje gijzenlaan
 merijntje gijzenstraat
 merimondstraat
@@ -4576,8 +4620,9 @@ merkelbeekerstraat
 merkelbeekerweg
 merkelbeekstraat
 merkelstraat
+merkelstrijtte
 merkelstrjitte
-merkelã¢n
+merkelÃ¢n
 merkenburg
 merkendal
 merkenhorststraat
@@ -4598,8 +4643,8 @@ merksweg
 merkusstraat
 merlenbergseweg
 merletgaarde
+merletplein
 merlettenhof
-merlettenlaan
 merlijnpad
 merlijnplantsoen
 merlijnshof
@@ -4616,6 +4661,7 @@ merodeplein
 merodestraat
 meropepad
 meropestraat
+merovechpark
 merovingen
 merovingenlaan
 merovingenstraat
@@ -4624,6 +4670,7 @@ merovingersweg
 merpatistraat
 merrevlietseweg
 merriedel
+merriewekken
 merrijken aertslaan
 mersakkersweg
 merschpad
@@ -4637,6 +4684,7 @@ mert
 mertenshof
 mertensstraat
 mertensweg
+mertersempark
 mertstraat
 merulastraat
 merulaweg
@@ -4649,12 +4697,14 @@ merwede
 merwededijk
 merwedehof
 merwedekade
+merwedekan
 merwedekanaal
 merwedelaan
 merwedepad
 merwedeplantsoen
 merwedeplein
 merwedesingel
+merwedesluizen
 merwedestraat
 merwedestroom
 merwedeweg
@@ -4666,16 +4716,13 @@ merwestraat
 merwijckstraat
 merxveld
 mesa verde
-mesbergweg
 meschermolen
-meschermolenweg
 meschervoetpad
 mesdag
 mesdaghof
 mesdaghout
 mesdaglaan
 mesdagpad
-mesdagplantsoen
 mesdagplein
 mesdagstraat
 mesdagweg
@@ -4685,6 +4732,7 @@ meskensstraat
 meskenwier
 mesonweg
 mesosfeer
+mespilus
 messchaertlaan
 messchaertplein
 messchaertstraat
@@ -4692,7 +4740,6 @@ messchenpad
 messchenweg
 messchertstraat
 messenmakerpad
-messenmakersgang
 messenmakerssteegje
 messiaenpark
 messiaenplantsoen
@@ -4711,9 +4758,10 @@ metaallaan
 metaalpark
 metaalstraat
 metaalweg
-metaheerhuiskade
+metaflora
 metalbrug
 metamorfosenallee
+metawahof
 metbroekweg
 metelerkampstraat
 metelerkampweg
@@ -4730,9 +4778,8 @@ meteorenstraat
 meteorenweg
 meteoriet
 meteorietenpad
+meteren 30a
 meterenstraat
-meteriks veld
-meteriksebaan
 meterikseweg
 methaanweg
 methardusstraat
@@ -4748,8 +4795,8 @@ metiusstraat
 metjepad
 metmanstraat
 metopestraat
+metroplaats
 metroplein
-metropolegarage
 metropolesteeg
 metropolestraat
 metrostation centraal station
@@ -4787,10 +4834,12 @@ metworstlaan
 metzelaarplein
 metzlaan
 metzlaantje
+meubelhof
 meubellaan
 meubelmaker
 meubelmakerij
 meubelmakerstraat
+meubelpad
 meubelplein
 meubelweg
 meuhoek
@@ -4815,11 +4864,9 @@ meulenblock
 meulenbroek
 meulenbroekstraat
 meulenbroeksweg
-meulenbrug
 meuleneind
 meulenhof
-meulenhorn
-meulenhã¶rn
+meulenhÃ¶rn
 meulenkamp
 meulenkampstraat
 meulenkampsweg
@@ -4834,7 +4881,7 @@ meulenveldt
 meulenven
 meulenweg
 meulenwiekelaan
-meulenwiã«er
+meulenwiÃ«er
 meulepolle
 meulereed
 meulestart
@@ -4871,17 +4918,16 @@ meuweg
 meuwelweg
 mevlanaplein
 mevr. brantlaan
-mevr. dr. m.a.m. klompã©straat
+mevr. dr. m.a.m. klompÃ©straat
 mevr. evers-dijkhuizenlaan
-mevr. evers-dijkhuizenlaan-oud
 mevr. kuipers-rietberglaan
 mevr. traas-de jagerstraat
 mevr. veder-van hobokenstraat
 mevr.mr. l. ribbius peletierstraat
-mevrouw bã¤hler-boermalaan
+mevrouw de graafspoor
 mevrouw de rooweg
 mevrouw dorbeenhof
-mevrouw flã¼hrplein
+mevrouw flÃ¼hrplein
 mevrouw gelinck-van kerkwijkstraat
 mevrouw inden-reisslaan
 mevrouw jans-dijkstralaan
@@ -4894,12 +4940,10 @@ mevrouw v vollenhovenprk
 mevrouw van der meijstraat
 mevrouw van heumenlaantje
 mevrouw van wieringenplein
-mevrouwsbosweg
 mexicodreef
 mexicohof
 mexicoplein
 mexicosingel
-mexicostraat
 meyboompad
 meyboomstraat
 meybrug
@@ -4914,6 +4958,7 @@ meyertebos
 meyerweg
 meygraaf
 meylaertsweg
+meynarda verboomhof
 meynemaheem
 meynertzhagenstraat
 meyrooslaan
@@ -4936,7 +4981,6 @@ mezenveld
 mezenweg
 mezquitalaan
 mezzostraat
-mgr aertsstraat
 mgr ariensstraat
 mgr beelpad
 mgr bekkerslaan
@@ -4950,49 +4994,37 @@ mgr de haasstraat
 mgr dellepoortstraat
 mgr dr meuwesestraat
 mgr dr poelsplein
-mgr evertsstraat
 mgr frenckenstraat
 mgr frenkenstraat
-mgr jenneskensstraat
-mgr joostenstraat
 mgr kerckhofsstraat
 mgr le blancstraat
 mgr martensstraat
-mgr moorslaan
 mgr nolenslaan
+mgr nolenspad
 mgr nolensstraat
 mgr p.j. willekenslaan
 mgr poelsstraat
 mgr savelbergstraat
-mgr schravenlaan
 mgr smitstraat
 mgr suyslaan
 mgr sweensstraat
 mgr swinkelsstraat
-mgr v enckevoirtstraat
 mgr van de venstraat
-mgr van de weteringstraat
-mgr van den boerpark
-mgr van der veldenstraat
 mgr van mensstraat
 mgr vdn tillaartstraat
-mgr verstraelenstraat
 mgr westerwoudtlaan
 mgr witloxweg
 mgr zwijsenstraat
 mgr zwijssenstraat
 mgr. a.f. diepenstraat
 mgr. aengenentlaan
-mgr. ariã«nsstraat
+mgr. ariÃ«nsstraat
 mgr. bannenberglaan
 mgr. bekkerspad
 mgr. bekkersplein
-mgr. bekkersplein
 mgr. bekkersstraat
 mgr. biermansplein
-mgr. boijmansstraat
 mgr. borretlaan
-mgr. borretweg
 mgr. bosstraat
 mgr. broerestraat
 mgr. brulsstraat
@@ -5011,7 +5043,6 @@ mgr. feronlaan
 mgr. feronstraat
 mgr. frederixplein
 mgr. frenckenstraat
-mgr. g.w. van heukelemstraat
 mgr. g.w. van heukelumstraat
 mgr. goossenssingel
 mgr. goumansplein
@@ -5044,7 +5075,6 @@ mgr. savelbergweg
 mgr. schaepmanlaan
 mgr. schaepmanstraat
 mgr. scheppersstraat
-mgr. schravenstraat
 mgr. schrijnenstraat
 mgr. smetsstraat
 mgr. swinkelsstraat
@@ -5053,14 +5083,10 @@ mgr. v.d. burgtstraat
 mgr. v.d. marckstraat
 mgr. van de venstraat
 mgr. van de weteringstraat
-mgr. van de weteringstraat
 mgr. van der veldenstraat
-mgr. van dijkstraat
 mgr. van dijkstraat
 mgr. van dongenlaan
 mgr. van genkstraat
-mgr. van gilsstraat
-mgr. van hooijdonkstraat
 mgr. van hooijdonkstraat
 mgr. van hooydonklaan
 mgr. van hooydonkstraat
@@ -5080,10 +5106,8 @@ mgr. zwijsenstraat
 mgr.bekkersstraat
 mgr.boijmansstraat
 mgr.borretweg
-mgr.cuytenlaan
 mgr.dr. h. poelslaan
 mgr.dr.w.h.nolenslaan
-mgr.frenkenstraat
 mgr.godschalkstraat
 mgr.hermuslaan
 mgr.nolensplein
@@ -5097,6 +5121,8 @@ mheenbroekweg
 mheenhof
 mheenlaan
 mheenpoortstraat
+mheentakker
+mheenwal
 mheenwegje
 mheerderweg
 mheerelindje
@@ -5104,27 +5130,26 @@ mheneweg noord
 mheneweg zuid
 mia boissevainpad
 mia goossenstraat
+mia potstraat
 mia van der wall-duyvendakstraat
 mia van ijperenplein
 miamidreef
 miamihof
+miamikade
 miamistraat
 micastraat
 micaweg
-micha?lstraat
 michael collinsstraat
-michael eschlaan
 michael faradaystraat
 michael jacksonplein
 michael strogoffstraat
 michaelpaed
-michaelplein
 michaelsdreef
 michauxpad
-michaã«lisstraat
-michaã«lplein
-michaã«lsberg
-michaã«lstraat
+michaÃ«lisstraat
+michaÃ«lplein
+michaÃ«lsberg
+michaÃ«lstraat
 michel ardanstraat
 michel de klerkhof
 michel de klerkstraat
@@ -5139,7 +5164,7 @@ michelstadtpad
 michelstraat
 michiel adriaanszoon de ruyterstraat
 michiel adriaensz. de ruijterstraat
-michiel bisschopstraat
+michiel bisschopplantsoen
 michiel de ruijtersingel
 michiel de ruijterstraat
 michiel de ruijtertunnel
@@ -5149,7 +5174,6 @@ michiel de ruyterplein
 michiel de ruyterstraat
 michiel de ruyterweg
 michiel de swaenstraat
-michiel elgersmastraat
 michiel miedemastraat
 michiel ten hovestraat
 michiel van loonstraat
@@ -5167,7 +5191,9 @@ mickersland
 mickey mousestraat
 micro
 microbenplaats
+microfoonbrug
 microfoonpad
+microfoonpoort
 microfoonstraat
 microstraat
 microweg
@@ -5176,10 +5202,11 @@ midakker
 midakkers
 midasdreef
 midaslaan
-midaspad
 midasstraat
+midbuorren vissersweg
 midbuulweg
 middachten
+middachtenbrug
 middachtendreef
 middachtenlaan
 middachtenplantsoen
@@ -5195,10 +5222,6 @@ middegaal
 middegaalspad
 middel
 middel broekweg
-middel broekweg is vervallen
-middel veldjensvoetpad
-middel veldjensweg
-middel vlaerdinge
 middelaar
 middelaarseweg
 middelaerstraat
@@ -5217,6 +5240,7 @@ middelberkendreef
 middelberterweg
 middelblok
 middelblokpad
+middelbord
 middelborgsingel
 middelbosstraat
 middelbroek
@@ -5224,6 +5248,11 @@ middelbroeken
 middelbroekmeersterweg
 middelbuorren
 middelburen
+middelburg
+middelburg 39
+middelburg-centrum
+middelburg-centrum 39
+middelburg-oost 38
 middelburghof
 middelburglaan
 middelburgpad
@@ -5237,6 +5266,7 @@ middelbuurt
 middelbuurtseweg
 middelbuurtstraat
 middelcoopstraat
+middeldiep
 middeldiepstraat
 middeldijk
 middeldijkdreef
@@ -5267,6 +5297,7 @@ middelharnissestraat
 middelharnisstraat
 middelhei
 middelhoefseweg
+middelhoekstraat
 middelhoeve
 middelhof
 middelhoffstraat
@@ -5278,7 +5309,6 @@ middelhovenweg
 middelie
 middeliepad
 middeliestraat
-middelijk
 middelijkseweg
 middelingenseweg
 middelkade
@@ -5293,7 +5323,6 @@ middelland
 middellandbaan
 middellandplein
 middellandse zee
-middellandse zee
 middellandse zeeweg
 middellandseweg
 middellandweg
@@ -5303,6 +5332,7 @@ middelmanshof
 middelmeede
 middelmeet
 middelmolen
+middelmolenplaats
 middelmolenstraat
 middelmonde
 middelmoot
@@ -5313,22 +5343,24 @@ middelpaed
 middelplaat
 middelplaatstraat
 middelplaten
-middelreuvelt
 middelrode
 middelrodesingel
 middelroedweg
 middelrotscheweg
 middelsee
+middelseepaad
 middelseewei
+middelseweg
+middelsloot
 middelsluissedijk oz
 middelsluissedijk wz
 middelste dubbe
 middelste groes
 middelste hoeven
 middelste horst
-middelste kempjes
 middelste weg
 middelste wehr
+middelste wei
 middelstebaan
 middelstebroekweg
 middelsteeg
@@ -5336,15 +5368,18 @@ middelstegracht
 middelstein
 middelstekamplaan
 middelstepad
+middelstesteeg
 middelstestraat
+middelstewyk 0
 middelstik
 middelstraat
 middelstuk
+middelstum
 middelstumerweg
-middelsã©dyk
+middelstumplantsoen
+middelsÃ©dyk
 middeltiend
 middeltje
-middeltocht
 middelton
 middeltweg
 middelvaart
@@ -5352,7 +5387,6 @@ middelvaartsesteeg
 middelveen
 middelveenseweg
 middelveld
-middelveldsedreef
 middelveldstraat
 middelven
 middelwaard
@@ -5385,6 +5419,7 @@ midden duin en daalseweg
 midden engweg
 midden enkweg
 midden geestweg
+midden heysdwarsweg
 midden heysweg
 midden klooster
 midden peelweg
@@ -5395,7 +5430,6 @@ midden woerd
 midden-brabantpark
 midden-brabantweg
 midden-eng
-midden-reigersbroekweg
 midden-scheepvaartstraat
 midden-weteringpad
 middenakker
@@ -5406,13 +5440,15 @@ middenbaan-noord
 middenbaan-zuid
 middenbaanhof
 middenbank
+middenbeemster
 middenbeemsterstraat
 middenblokweg
 middenbolder
 middenbospad
 middenbree
-middenbroekweg
+middenbrink
 middenbroekzijweg
+middenbrug
 middenburcht
 middenburg
 middenburgweg
@@ -5431,6 +5467,7 @@ middendorpweg
 middendreef
 middendrift
 middenduinerweg
+middeneiland
 middenerf
 middengolf
 middengouw
@@ -5451,6 +5488,7 @@ middenhofstraat
 middenhofweg
 middenhoutpad
 middenhoven
+middenhÃ´f
 middenjoght
 middenkamp
 middenkampweg
@@ -5458,6 +5496,7 @@ middenkijl
 middenkoogweg
 middenkous
 middenkoushof
+middenkreekpad
 middenlaan
 middenlaan zunderdorp
 middenland
@@ -5469,12 +5508,12 @@ middenmaatsweg
 middenmander
 middenmarkweg
 middenmeent
+middenmeer 12
 middenmeerpad
 middenmolendijk
 middenmolenlaan
 middenmolenplein
 middenmolensingel
-middenmolenstraat
 middenoever
 middenpad
 middenpaed
@@ -5485,6 +5524,7 @@ middenplein
 middenpolderweg
 middenraai
 middenring
+middenroute
 middenschip
 middenschouwenstraat
 middensingel
@@ -5510,6 +5550,7 @@ middenwaard
 middenwal
 middenweg
 middenweg bp
+middenweg braakman
 middenweg broekermeer
 middenweg oz
 middenweg wz
@@ -5517,6 +5558,7 @@ middenwei
 middenweide
 middenweijdt
 middenwetering
+middenwg
 middenwillenseweg
 middenwolderweg
 middenzwet
@@ -5528,9 +5570,9 @@ midhalmerweg
 midlijkerdijk
 midlumerlaan
 midlumerstraat
-midlã¢nsdyk
+midlÃ¢nsdyk
 midrethstraat
-mids yn 'e wrã¢ld
+mids yn 'e wrÃ¢ld
 midsbuorren
 midscheeps
 midscheepsstraat
@@ -5561,26 +5603,33 @@ miededijk
 miedemahof
 miedemaweg
 mieden
+miedengang
 miedenweg
+miedeweg
+miedijk
 miedkamp
+miedlan
 miedleane
 miedloane
 miedpad
+miedsterbrÃªge
 miedweg
 miedwei
+mieke aartsmalaan
+mieke borghuisstraat
 mieke de brefstraat
 mieke hoogerwerflaan
 mieke sandershof
+mieke smithage
+mieke souvereinstraat
+mieke steensmastraat
 miekeskamp
 miel davitsstraat
 mieland
 mieldijk
 mielweg
 mien bladergroenhaghe
-mien bladergroenpad
 mien labbertonstraat
-mien ruyshaghe
-mien ruyskade
 mien ruyslaan
 mien ruyspad
 mien ruyspark
@@ -5605,12 +5654,11 @@ mientekade
 mienterglop
 mientewei
 mientjespaadje
-mientlã¢n
+mientlÃ¢n
 mientweg
 mientwei
 mieogvaart
 miep gieslaan
-miep giesplantsoen
 miep giesstraat
 mierbeek
 mierberg
@@ -5637,6 +5685,7 @@ mierlose dijk
 mierlosedijk
 mierloseweg
 mierlostraat
+miersedijk
 mies
 mies boissevainstraat
 mies bouhuysstraat
@@ -5645,7 +5694,6 @@ mies deinumplantsoen
 mies noltelaan
 mies ruthplaats
 mies van der rohe-erf
-mies van der rohelijn
 mies van der rohestraat
 mies van oort-laustraat
 miesstrjitte
@@ -5655,13 +5703,13 @@ miga's bergpad
 migaweg
 migchelbrinklaan
 migchelbrinkwei
-miggeblomke
 miggelenbergweg
 mignon
 mignondreef
 mignonpad
 mignonstraat
 mignot en de blockplein
+migoenstraat
 miguel de cervantesweg
 mijdrechtse dwarsweg
 mijdrechtse zuwe
@@ -5722,18 +5770,16 @@ mik
 mikadofazant
 mikadostraat
 mikboomweg
-mike
 mikkeldonkweg
 mikkenkamp
 mikonospad
-mikwestraatje
 milaanstraat
 milandweg
 milanenhorst
 mildenburg
 mildenburgallee
 mildenburglaan
-milderspaã¢t
+milderspaÃ¢t
 mildert
 mildijk
 mildred didriksonstraat
@@ -5749,9 +5795,9 @@ milhezerweg
 milhoes
 milieuparkweg
 milieuweg
-milikansingel
 militairenweg
 militaireweg
+militairpad
 mill hillplein
 milla de kampenstraat
 millekens
@@ -5768,6 +5814,7 @@ milliadeplein
 milligerlaan
 milligersteeg
 milligerweg
+millikansingel
 millingenhof
 millingenstraat
 millingersteeg
@@ -5792,10 +5839,11 @@ milsbeekstraat
 milschot
 miltenburgstraat
 milton friedmanweg
-milton friedmanwegâ¿
 miltonstate
 miltonstraat
 miltseweg
+milvastraat
+mimas
 mimaspad
 mimi boesnachhof
 mimi boesnachstraat
@@ -5813,10 +5861,10 @@ mimosaplein
 mimosastraat
 mimosavallei
 mimosaweg
-min goeman borgesiuslaan
-min van den tempellaan
 min. aalberselaan
 min. aalbersestraat
+min. blokbrug
+min. bukmanbrug
 min. calsstraat
 min. goselinglaan
 min. loeffstraat
@@ -5824,16 +5872,14 @@ min. ruys de beerenbrouckstraat
 min.charles ruysstraat
 mina druckerhoeve
 mina druckerhof
-mina druckerkade
-mina kruseman-erf
 mina krusemanhof
 mina krusemanlaan
 mina krusemanpark
 mina krusemansingel
 mina krusemanstraat
 mina krusemanweg
-mina krã¼seman-erf
-mina krã¼semanstraat
+mina krÃ¼seman-erf
+mina krÃ¼semanstraat
 mina kuppen pad
 mina wigerink-lezerstraat
 minahasastraat
@@ -5841,17 +5887,19 @@ minahassastraat
 minaret
 minaretdreef
 minaretstraat
+minbrug
 mincerstraat
 minck
 minckelerslaan
 minckelerspad
 minckelersplein
+minckelersstate
 minckelersstraat
 minckelersweg
 minden
 mindenstraat
-minderbeekvoetpad
 minderbroedersberg
+minderbroedersbrug
 minderbroederslaan
 minderbroederspad
 minderbroederssingel
@@ -5877,7 +5925,6 @@ minervaweg
 minervum
 minet storm-van der chijspad
 minet stormstraat
-mineur
 mineurplein
 mineurslaan
 mineursweg
@@ -5890,7 +5937,6 @@ mingersborgerweg
 minghof
 minhof
 miniawier
-miniemenlaan
 minister a.s. talmalaan
 minister aalberselaan
 minister aalbersepark
@@ -5902,10 +5948,10 @@ minister cort van der lindenstraat
 minister cremerstraat
 minister de savornin lohmanlaan
 minister de visserstraat
-minister de visserstraat
 minister donkerstraat
 minister elandstraat
 minister gerbrandystraat
+minister goeman borgesiuslaan
 minister goeman borgesiusplantsoen
 minister goeman borgesiusstraat
 minister goselinglaan
@@ -5913,6 +5959,7 @@ minister goselingplein
 minister hartsenlaan
 minister idenburgstraat
 minister kanstraat
+minister klompÃ©straat
 minister kuyperplein
 minister lelylaan
 minister lelyplein
@@ -5930,8 +5977,8 @@ minister talmalaan
 minister talmastraat
 minister treubstraat
 minister van den brinklaan
+minister van den tempellaan
 minister van hallstraat
-minister van houtenlaan
 minister van houtenlaan
 minister van houtenstraat
 minister van sonstraat
@@ -5956,7 +6003,6 @@ minne hofstrastraat
 minne jacobs hogeboomstraat
 minne jeltesstrjitte
 minne onnespad
-minnebroederspad
 minnebroederstraat
 minnebroersgracht
 minnebrugstraat
@@ -5980,16 +6026,15 @@ minneweg
 minnewei
 minnie mouseweg
 minoes
-minoes erf
 minoespad
 minoorstraat
-minor
 minorcalaan
 minorpad
 minorstraat
 minosstraat
 minpad
 minrebroederstraat
+minrebroersbrug
 minskpad
 minstraat
 minstreel
@@ -6001,6 +6046,7 @@ minstreelshoeve
 minstreelstraat
 mintdonk
 mintplantsoen
+mintveld
 miquelstraat
 mira
 mirabel
@@ -6011,7 +6057,6 @@ mirabelweg
 mirachstraat
 miradorplein
 mirakelsteeg
-mirambahof
 miranda
 mirandalaan
 mirandapad
@@ -6021,13 +6066,13 @@ mirasstraat
 mirastraat
 mirbachstraat
 mirembelaan
-miretestraat
+miriam makebaplantsoen
 mirretuin
 mirtebes
 mirtelaar
 mirtestraat
 mirteweg
-mirã³straat
+mirÃ³straat
 misboekstraat
 misericordeplein
 misericordestraat
@@ -6048,13 +6093,15 @@ mispelhoven
 mispelkampdijk
 mispellaan
 mispelnust
-mispelpaad
+mispelplaats
 mispelstraat
 mispelweg
 misse
+missiehuispad
 missiehuisstraat
 missielaan
 missiezusterslaan
+missionarispad
 missionarisstraat
 mississippi
 mississippidreef
@@ -6063,6 +6110,7 @@ missouri
 missouristraat
 missouriweg
 mist weg
+misterhof
 misterstraat
 misterweg
 misthoorn
@@ -6070,21 +6118,17 @@ mistiesweg
 mistral
 mistralstraat
 mistweg
-miswech
 misweg
-misã©ricorde
+misÃ©ricorde
 mitch leighhof
 mitchamplein
 mitrastraat
 mitsubishi avenue
 mittendorffwerf
-mittendorfwerf
 mizar
 mizarpad
 mizarstraat
-mj tuntelerstraat
-mjã»mster wei
-ml fortuinplein
+mjÃ»mster wei
 moaije peal
 moalderspaed
 moark
@@ -6103,6 +6147,7 @@ mockeborg
 mockemastate
 mockstraat
 mockveld
+modderbeekweg
 moddergatsreed
 moddergatsweg
 modderigesteech
@@ -6125,10 +6170,10 @@ modem
 modempark
 modemstraat
 modemweg
-moderato
 moderatohof
 moderatostraat
 modestusstraat
+modinettestraat
 moeckenkamp
 moeder lambertastraat
 moeder magdalenastraat
@@ -6140,12 +6185,12 @@ moeder teresaplein
 moeder teresasingel
 moeder teresastraat
 moeder theresastraat
+moeder van den bergstraat
 moederkruid
 moederkruidstraat
 moefflonstraat
 moeflon
 moeflonlaan
-moeflonpad
 moeflonstraat
 moeflonweide
 moekestorm-akker
@@ -6166,9 +6211,10 @@ moerakkerstraat
 moerasakker
 moerasandijviestraat
 moerasandoorn
+moerasanemoon
+moerasbeemd
 moerasberg
 moerasbos
-moerascipres
 moerascypreslaan
 moerasdoorn
 moeraseik
@@ -6182,6 +6228,7 @@ moerasland
 moeraslanden
 moerasmeer
 moerasmos
+moerasorchidee
 moerasroos
 moerasrus
 moerasslak
@@ -6192,6 +6239,7 @@ moerasveen
 moeraswederik
 moerasweg
 moeraszegge
+moerbaan
 moerbalk
 moerbeek
 moerbeeklaan
@@ -6204,7 +6252,9 @@ moerbeienstraat
 moerbeigaarde
 moerbeihof
 moerbeilaan
+moerbeilint
 moerbeipaad
+moerbeipad
 moerbeiplantsoen
 moerbeiplein
 moerbeistraat
@@ -6217,9 +6267,10 @@ moerbekkenkamp
 moerbergplantsoen
 moerbessenberg
 moerbosch
-moerbrug
 moerdamme
 moerdijk
+moerdijk 27
+moerdijkbrug
 moerdijkerf
 moerdijkhof
 moerdijkje
@@ -6237,13 +6288,14 @@ moerendael
 moerenpad
 moerevelt
 moergang
+moergestel 9
 moergestelpad
 moergestelseweg
 moergestelstraat
 moerhageplantsoen
 moerheimstraat
-moerhoek
 moerhof
+moerhoven
 moeringweg
 moerkamp
 moerkantsebaan
@@ -6283,7 +6335,6 @@ moerschans
 moerschansstraat
 moerschot
 moerse dreef
-moerse pad
 moersebaan
 moersedreef
 moerseweg
@@ -6293,8 +6344,8 @@ moerslag
 moersloot
 moersluisstraat
 moerspuistraat
-moersticht
 moerstraat
+moerstraatse leij
 moerstraatsebaan
 moerstraatseweg
 moertjesdijk
@@ -6314,6 +6365,7 @@ moerwei
 moerweide
 moerwijk
 moerzijstraat
+moeschaweg
 moesdaal
 moesdijk
 moesdistel
@@ -6344,7 +6396,6 @@ moesstraat
 moestuin
 moestuinlaan
 moestuinplaats
-moestuinstraat
 moesweg
 moetonruwe
 moezebrinkweg
@@ -6360,15 +6411,14 @@ moezelstroom
 moezelweg
 moezenbeltweg
 moffendijk
+moffenpad
 moftbos
-mogezompseweg
 mogezompsweg
 moggendries
 moggershilseweg
 moggestraat
 mohammed hattastraat
 mohammed roemhof
-moienweid
 moinatstraat
 mokerschans
 mokerstraat
@@ -6391,7 +6441,7 @@ moldaudreef
 moldauplantsoen
 moldaustroom
 moldauweg
-moldaviã«straat
+moldaviÃ«straat
 molderkapelweg
 moldersdijk
 moldiepweg
@@ -6416,7 +6466,6 @@ molen a laan
 molen achterdijk
 molen de beerkade
 molen de beerstraat
-molen de beerstraat
 molen de eendracht
 molen de goliath
 molen de goudvink
@@ -6424,16 +6473,14 @@ molen de haas
 molen de kraker
 molen de vilder
 molen het fortuin
-molen het fortuin
 molen van banning
 molen van buijspad
 molen-allee
 molenaar
 molenaar blonkweg
-molenaar van griekenlaan
-molenaar van schelvenlaan
 molenaar zwartendijkpad
 molenaarlaan
+molenaarpad
 molenaarplaats
 molenaarsbreed
 molenaarserf
@@ -6444,6 +6491,7 @@ molenaarshoek
 molenaarshof
 molenaarslaan
 molenaarspad
+molenaarspark
 molenaarsplein
 molenaarsstraat
 molenaarstraat
@@ -6487,7 +6535,6 @@ molenblok
 molenbochtplein
 molenbochtstraat
 molenbolwerk
-molenborg
 molenbos
 molenbosch
 molenbossen
@@ -6498,7 +6545,6 @@ molenbrink
 molenbroek
 molenbroeklaan
 molenbroekseweg
-molenbroeksvoetpad
 molenbrug
 molenbrugweg
 molenburen
@@ -6525,6 +6571,7 @@ molendreef
 molendries
 molendrift
 molenduinen g
+molendwarspad
 molendwarsstraat
 molendwarsweg
 moleneind
@@ -6549,7 +6596,7 @@ molengangenpad
 molengat
 molengatpad
 molengats
-molengatweg
+molengatsedijk
 molenglob
 molenglop
 molengoorweg
@@ -6564,7 +6611,6 @@ molengragte
 molengriendweg
 molengroet
 molenhaagweg
-molenhagerweg
 molenheg
 molenhei
 molenheide
@@ -6591,6 +6637,7 @@ molenhofweg
 molenhorn
 molenhornstraat
 molenhorst
+molenhuis
 molenhuispad
 molenhuisweg
 molenhuizen
@@ -6657,6 +6704,7 @@ molenplein
 molenpolder
 molenpolderbinnenweg
 molenpolderdijk
+molenpolderhof
 molenpolderpad
 molenpolderse zeedijk
 molenpolderstraat
@@ -6672,6 +6720,7 @@ molenrijnselaan
 molenring
 molenschotsebaan
 molenschotsedijk
+molenschotsedreef
 molenschotseweg
 molenschut
 molensingel
@@ -6697,12 +6746,12 @@ molenstraat-centrum
 molenstraatje
 molenstreek
 molenstroetweg
+molenstuk
 molentiend
 molentienden
 molentjesdreef
 molentocht
 molentochtpad
-molentogt
 molentuinweg
 molenvaart
 molenvaartje
@@ -6712,8 +6761,8 @@ molenveen
 molenveenweg
 molenveld
 molenvelddwarsstraat
-molenvelddwarsstraat 1
 molenvelden
+molenveldhof
 molenveldlaan
 molenveldpad
 molenveldsingel
@@ -6733,18 +6782,18 @@ molenvliet
 molenvlietbaan
 molenvlietbrink
 molenvlietlaan
-molenvlietpad
 molenvlietsedijk
 molenvlietsestraat
-molenvlietsingel
 molenvlietstraat
 molenvlietweg
 molenvoetpad
 molenvoorslag
+molenvriend
 molenwal
 molenwater
 molenwaterpark
 molenwaterweg
+molenweel
 molenweer
 molenweg
 molenweg "de kreek" fazantendreef
@@ -6761,6 +6810,7 @@ molenweide
 molenweidtje
 molenweijerweg
 molenwerf
+molenwerfbrug
 molenwerfhof
 molenwerfslaan
 molenwerfsteeg
@@ -6770,12 +6820,12 @@ molenweteringpad
 molenwieck
 molenwiek
 molenwieken
-molenwiel
 molenwierdstraat
 molenwijck
 molenwijk
 molenwijk oz
 molenwijk wz
+molenwijkje
 molenwijkseweg
 molenwijkstraat
 molenwijksweg
@@ -6785,16 +6835,16 @@ molenzicht
 molenzichtweg
 molenzigt
 molenzijl
-molenzijweg
 molepaed
 moleplaat
-molepã´lle
+molepolle
+molepÃ´lle
 molesingel
 molestrjitte
 moletteplein
 molewei
 molewyk
-molewã¢l
+molewÃ¢l
 molgerdijk
 molgerweg
 molhoekseweg
@@ -6806,10 +6856,10 @@ molijnstraat
 molikstraat
 molitorstraat
 moliusstraat
-moliã¨relaan
-moliã¨reweg
-moliã¨rezijde
-moljã©weg
+moliÃ¨relaan
+moliÃ¨reweg
+moliÃ¨rezijde
+moljÃ©weg
 molkade
 molkampen
 molkenboerweg
@@ -6819,6 +6869,7 @@ molkenkelderspaad
 molkepaad
 molkerspad
 mollaan
+molleboot
 mollegang
 mollekade
 mollekotweg
@@ -6830,8 +6881,8 @@ mollenberg
 mollenbos
 mollenburg
 mollenburgseweg
-mollengang
 mollenlaantje
+mollenplaats
 mollenstraat
 mollerit
 mollerstraat
@@ -6851,6 +6902,7 @@ molsberg
 molse hoefweg
 molshaag
 molshagen
+molshagerweg
 molshoefweer
 molshoek
 molshoop
@@ -6879,6 +6931,7 @@ molwerk
 molwijk
 mombaerstraat
 mombassaplaats
+mombassaplein
 mombersruwe
 mommastraat
 mommegats
@@ -6890,7 +6943,6 @@ mommersstraat
 mommersteeg
 mommersweg
 mommerwegsken
-mommesstraat
 mon plaisir
 mona dwarsweg
 mona gowanpad
@@ -6918,7 +6970,6 @@ mondriaanlaan
 mondriaanplantsoen
 mondriaanplein
 mondriaanstraat
-mondriaantoren
 mondriaanweg
 mondsestraat
 mondsteen
@@ -6929,9 +6980,12 @@ monetastraat
 monethof
 monetpassage
 monetstraat
+monicabrug
 monicahof
+monierbrug
 monierweg
 monikesstraat
+monitorpad
 monitorplein
 monitorstraat
 monitorweg
@@ -6944,6 +6998,7 @@ monnetlaan
 monnetsingel
 monnetstede
 monnetstraat
+monnickendam
 monnickendamkade
 monnickendammerjaagweg
 monnickendammerrijweg
@@ -6980,7 +7035,7 @@ monnikeraklaan
 monnikevenne
 monnikeweg
 monnikhof
-monnikhãºsterwei
+monnikhÃºsterwei
 monnikmolen
 monnikserf
 monniksgraaf
@@ -6994,14 +7049,12 @@ monniksmouw
 monniksrob
 monnikstraat
 monnikweide
-monoceros
 monomeerpad
 monroedreef
 monsamabuorren
-monseigneur ariã«nsstraat
+monseigneur ariÃ«nsstraat
 monseigneur bekkerslaan
 monseigneur bekkersstraat
-monseigneur berkvensstr
 monseigneur berkvensstraat
 monseigneur boermansstraat
 monseigneur borretlaan
@@ -7018,6 +7071,7 @@ monseigneur frenckenstraat
 monseigneur geurtsstraat
 monseigneur hendriksenstraat
 monseigneur hopmansstraat
+monseigneur kierkelsplein
 monseigneur kierkelspln
 monseigneur lemmensstraat
 monseigneur lijnenstraat
@@ -7039,7 +7093,6 @@ monseigneur soudantstraat
 monseigneur suijsstraat
 monseigneur theelenstraat
 monseigneur theunissenplantsoen
-monseigneur v leeuwenln
 monseigneur van den boerpark
 monseigneur van den hurklaan
 monseigneur van enckevoirtstraat
@@ -7054,9 +7107,8 @@ monseigneur verhagenstraat
 monseigneur verhoevenlaan
 monseigneur vranckenplein
 monseigneur vranckenstraat
-monseigneur vã¶lkerstraat
+monseigneur vÃ¶lkerstraat
 monseigneur zwijsenstraat
-monseigneur zwijssenstraat
 monsepad
 monshouwerlaan
 monsieurstraat
@@ -7090,7 +7142,6 @@ monte perdido
 monte rosa
 monte rosaplein
 monte viso
-montefiorepark
 montelbaanstraat
 montenaken
 montenakerbank
@@ -7099,6 +7150,7 @@ montensbos
 montenshoeve
 montenslaan
 montenspark
+monter
 montessorilaan
 montessoripad
 montessoristraat
@@ -7116,7 +7168,6 @@ montferlandlaan
 montferlandplantsoen
 montferlandselaan
 montferlandsestraat
-montferlandsingel
 montferlandstraat
 montfoorthof
 montfoortlaan
@@ -7146,14 +7197,13 @@ montrealstraat
 montrealweg
 montroselaan
 monulfusstraat
-monulphusplein
 monumentenweg
+monumentenwei
 monumentstraat
 monumentweg
 moogstraat
 mooi japiksteeg
 mooie mariehof
-mooie nel
 mooie nelpad
 mooie nelweg
 mooie vrouwenweg
@@ -7162,6 +7212,7 @@ mooierstraat
 mooieweg
 mooikampen
 mooiland
+mookerplas
 mookhoek
 mookhoekplein
 mookhoeksestraat
@@ -7184,13 +7235,16 @@ moordakkerstraat
 moordhuizen
 moordijkseweg
 moordkuil
+moordrecht 10
+moordrecht 18
+moordrechtboog
 moordrechtpad
+moordrechtse doorsteek
 moordrechtse verlaat
 moordrechtstraat
 moordsteeg
 moorenheideweg
 moorheide
-moorheidepad
 mooriaanstraat
 moorland
 moormanlaan
@@ -7216,7 +7270,6 @@ moorvenweg
 moorweg
 moorwijk
 moosbroek
-moosdijk
 mooshoofpaad
 moost
 moostdijk
@@ -7231,12 +7284,13 @@ mooymanstraat
 mopertingerbank
 mophosostraat
 moppenbuorren
-mor gerritsenstraat
+moquettelaan
 moraineweg
 morane
 morapad
-moraviã«straat
+moraviÃ«straat
 moreauhof
+moreelsebrug
 moreelsehoek
 moreelselaan
 moreelsepark
@@ -7269,12 +7323,12 @@ morganlaan
 morganstraat
 morgen
 morgen stont
+morgendauw
 morgenerf
 morgenhof
 morgenkamp
 morgenland
 morgenlanden
-morgenpad
 morgenrood
 morgenroodstraat
 morgenroodweg
@@ -7284,11 +7338,14 @@ morgenstarstraat
 morgenster
 morgensterdreef
 morgensterlaan
+morgensterpad
 morgensterstraat
 morgenstertuin
 morgensterweg
 morgensterwei
 morgenstond
+morgenstondkade
+morgenstondplantsoen
 morgenstraat
 morgenstraatje
 morgensweg
@@ -7323,6 +7380,7 @@ morletpad
 morleystraat
 morlodehof
 morlodestraat
+mormeterp
 morra
 morrahemstraat
 morrahof
@@ -7330,6 +7388,7 @@ morrapaed
 morrastraat
 morreesstraat
 morregat
+morrenbrug
 morrensteeg
 morriganstraat
 morrisonstraat
@@ -7355,9 +7414,12 @@ morslaan
 morsmanshof
 morsmanstraat
 morspad
+morspark
+morspoortbrug
 morssingel
 morssingelterrein
 morsstraat
+morsviaduct
 morsweg
 mortel
 mortelakker
@@ -7384,6 +7446,7 @@ mortierstraat
 mortonhof
 morvanstraat
 mos
+mosa noblessemal
 mosae forum
 mosagaat
 mosakker
@@ -7392,7 +7455,7 @@ mosapad
 mosasaurusweg
 mosasingel
 mosastraat
-mosaã¯que
+mosaÃ¯que
 mosbeek
 mosbeekweg
 mosbeemd
@@ -7407,7 +7470,7 @@ mosdonk
 moseik
 moseikweg
 moselborg
-moses en aã¤ronlaan
+moses en aÃ¤ronlaan
 mosgroen
 mosheide
 moshommelhof
@@ -7437,6 +7500,7 @@ mosselaar
 mosselaarweg
 mosselbaai
 mosselbank
+mosselbankenweg
 mosseldijk
 mosseldreef
 mosseleeweg
@@ -7450,7 +7514,6 @@ mosselhuisstraat
 mosselkreek
 mosselkreekstraat
 mossellaan
-mosselmanstraat
 mosselpad
 mosselplaat
 mosselplaatweg
@@ -7471,7 +7534,6 @@ mossenpad
 mossewoud
 mossinkserf
 mosstraat
-most
 mostaard
 mostaardstraatje
 mostaardweg
@@ -7479,6 +7541,7 @@ mostaertstraat
 mostakker
 mostardstraat
 mosterdakker
+mosterddijk
 mosterdgriend
 mosterdhof
 mosterdijk
@@ -7496,7 +7559,7 @@ mosterdwal
 mosterdweg
 mosterdzaaddreef
 mosterdzoom
-mostermã»ne
+mostermÃ»ne
 mostersberg
 mosterweg
 mostheuvel
@@ -7516,17 +7579,21 @@ motiefpad
 motieweg
 motketel
 motorenweg
+motorestoweg
 motorkade
+motorkrachtstraat
 motorrijtuigstraat
 motorstraat
 motorwal
 motorweg
+motreastraat
 motte
 motteburchtpaadje
 mottena's dijk
 mottenbrink
 mottenkampsteeg
 mottenpad
+mottepad
 mottoen
 mottoendreef
 moucheronhof
@@ -7554,6 +7621,7 @@ moureauveld
 moussaultstraat
 mousten
 moutberg
+mouterbrug
 mouterij
 mouterijstraat
 mouterpad
@@ -7585,6 +7653,7 @@ mouwweg
 mova-laan
 moye keene
 mozart
+mozartbrug
 mozartdreef
 mozarthof
 mozartkade
@@ -7595,13 +7664,12 @@ mozartplantsoen
 mozartplein
 mozartrode
 mozartsingel
-mozartsngl
 mozartstraat
 mozartweg
-mozaã¯ekhof
 mozekesweg
 mozes de hesplein
-mozes en aã¤ronstraat
+mozes en aÃ¤ronstraat
+mozeslaantje
 mr a r p meesstraat
 mr andreaestraat
 mr b.m. teldersstraat
@@ -7614,6 +7682,7 @@ mr de muincklaan
 mr dr froweinweg
 mr dr meslaan
 mr dr messtraat
+mr dr. froweinweg
 mr e.n. van kleffensstraat
 mr egter v wissekerkepln
 mr g groen van prinstererlaan
@@ -7623,6 +7692,7 @@ mr halbe binnertsstraat
 mr harm smeengelaan
 mr iman caustraat
 mr j h schoberlaan
+mr j l m niersallee
 mr j r thorbeckestraat
 mr j.m. de kempenaersingel
 mr jb kanlaan
@@ -7634,21 +7704,18 @@ mr martin alewijnstraat
 mr p d kleylaan
 mr p j oudlaan
 mr p j oudweg
-mr p jelles troelstrawei
 mr p s gerbrandystraat
 mr racerstraat
 mr reigersstraat
 mr s. naaijenstraat
 mr steenbergenstr
-mr toebosweg
 mr troelstrastraat
-mr van der meerstraat
+mr van den boschstraat
 mr van hasseltweg
 mr van roijenstraat
 mr verwerstraat
 mr visserstraat
 mr wichers wierdsmastraat
-mr.  a.t. voslaan
 mr. a. baron mackaystraat
 mr. a. pijnacker hordijkstraat
 mr. a. roeststraat
@@ -7666,13 +7733,11 @@ mr. arend van der woudenslaan
 mr. bardeslaan
 mr. beelpark
 mr. beerninkplantsoen
-mr. bergerstraat
 mr. boeleswei
 mr. borgesiusstraat
 mr. bruntstraat
 mr. c. fockstraat
 mr. c. goselingstraat
-mr. c. p. m. rommestraat
 mr. c.a. bosstraat
 mr. c.l. kniphorststraat
 mr. c.p.m. rommestraat
@@ -7692,7 +7757,6 @@ mr. dr. froweinstraat
 mr. dr. jonkerlaan
 mr. dr. schokkingstraat
 mr. dr. van den helmlaan
-mr. e.a.j. modderman-straat
 mr. e.n. rahusenstraat
 mr. f. bordewijklaan
 mr. f.a. van hallweg
@@ -7710,10 +7774,10 @@ mr. gerbrandypark
 mr. gerlingsstraat
 mr. gerritspark
 mr. gilles van den bempdenstraat
-mr. goeman borgesiusstraat
+mr. goeman borgesiuspad
 mr. goselingstraat
 mr. groen van prinstererlaan
-mr. h. enschedã©weg
+mr. h. enschedÃ©weg
 mr. h. marsmanstraat
 mr. h. smeengestraat
 mr. h.f. de boerlaan
@@ -7738,6 +7802,7 @@ mr. j.e. risseeuwstraat
 mr. j.h. de pontplein
 mr. j.j. willingestraat
 mr. j.l. hamminglaan
+mr. j.l.m. niersallee
 mr. j.m.m. hamersplantsoen
 mr. j.m.m. hamersstraat
 mr. j.n. scholtenplein
@@ -7747,7 +7812,7 @@ mr. j.r.thorbeckestraat
 mr. jaap burgerlaan
 mr. jac. takkade
 mr. jacob anton schorerstraat
-mr. jan freseman viã«tor-straat
+mr. jan freseman viÃ«tor-straat
 mr. jan gerritszlaan
 mr. jan tuningstraat
 mr. joekespad
@@ -7768,7 +7833,6 @@ mr. n.f. wilkensstraat
 mr. ovingkanaal oz
 mr. ovingstraat
 mr. p. droogleever fortuynweg
-mr. p. s. gerbrandystraat
 mr. p.a. bergsmastrjitte
 mr. p.c. hennequinlaan
 mr. p.c. hennequinstraat
@@ -7793,7 +7857,7 @@ mr. reijnstlaan
 mr. rendorplaan
 mr. rietkerklaan
 mr. rinkstraat
-mr. roã«llstraat
+mr. roÃ«llstraat
 mr. ruys de beerenbrouckstraat
 mr. s. m. van haersma bumaleane
 mr. s. van houtenlaan
@@ -7810,8 +7874,6 @@ mr. sprenger van eykstraat
 mr. stikkerplein
 mr. stormstraat
 mr. synco reyndersplein
-mr. synco reyndersplein.
-mr. t. j. verschuurstraat
 mr. t.j. verschuurstraat
 mr. th. heemskerklaan
 mr. th. heemskerkstraat
@@ -7822,16 +7884,13 @@ mr. tripkade
 mr. troelstralaan
 mr. troelstrapark
 mr. troelstrastraat
-mr. troelstrastraat
 mr. tydemanstraat
 mr. van bossestraat
 mr. van coothstraat
 mr. van der brugghenstraat
 mr. van hallstraat
 mr. van hasseltlaan
-mr. van hasseltlaan
 mr. van hasseltweg
-mr. van houtenstraat
 mr. van houtenstraat
 mr. van maanenstraat
 mr. van marlestraat
@@ -7849,12 +7908,11 @@ mr. zacharias tijllaan
 mr. zigher ter steghestraat
 mr.c.j.trompstraat
 mr.c.kooimancentrum
-mr.d.j.van heusdestraat
 mr.dr.c.ch.a. van harenstraat
 mr.eenhuisstraat
 mr.g.g.v.prinstererstraat
 mr.groen van prinstererstraat
-mr.j.c.bã¼hrmannlaan
+mr.j.c.bÃ¼hrmannlaan
 mr.j.r.thorbeckelaan
 mr.johan hora siccamaln
 mr.johannes sandersonhof
@@ -7864,7 +7922,6 @@ mr.p.j.troelstralaan
 mr.pieter cornelisz. vermaatlaan
 mr.thorbeckestraat
 mr.troelstrastraat
-mr.willem schoutenstraat
 ms. oslofjordweg
 ms. tarnweg
 ms. van riemsdijkweg
@@ -7899,6 +7956,7 @@ muggenlaan
 muggenmolenpad
 muggenpolderbaantje
 muggenschans
+muggenstraatje
 muggenveldweg
 muggenwaard
 muggenweg
@@ -7906,24 +7964,25 @@ muggeplein
 muggesteeg
 mugheuvelsteegje
 mugheuvelstraat
-muhlenbergstraat
 mui
+muiden - pampus-eiland
+muiden 3
 muidenbrink
 muidenkade
 muidenpad
-muidensprink
 muidenstraat
 muidenweg
+muiderberg 1
 muiderbergsestraat
 muiderbergstraat
 muiderbos
 muiderbospad
 muidergouw
-muiderhoek
 muiderhof
 muiderkring
 muiderlaan
 muiderpoort
+muiderpoort vdct
 muiderschans
 muiderslot
 muiderslotlaan
@@ -7933,12 +7992,10 @@ muiderslotstraat
 muiderslotweg
 muiderstraat
 muiderstraatweg
-muiderstrand
 muidertrekvaart
 muiderwaard
 muiderweg
 muiderzand
-muiderzandbeek
 muiderzandpad
 muiderzandplaats
 muiderzandweg
@@ -7953,11 +8010,11 @@ muilwijckstraat
 muisbergstraat
 muisbroekseweg
 muisgrubpad
+muiskampweg
 muisven
 muitenpad
 muiterdijk
 muiterijweg
-muiterseiland
 muiweg
 muizenberg
 muizenberglaan
@@ -7965,7 +8022,6 @@ muizenbergpad
 muizenbergstraat
 muizenburg
 muizendreef
-muizengat
 muizengatweg
 muizenhoekerweg
 muizenhol
@@ -7974,12 +8030,13 @@ muizenven
 muizenweg
 muizenweide
 mulakkers
+mulakkersweg
 mulder
+mulderhof
 mulderij
 mulderlaan
 muldermanshoek
 mulderpad
-mulderplas
 mulders franshof
 mulders ree
 muldersakkersweg
@@ -8045,7 +8102,7 @@ multatulistraat
 multatuliweg
 mumsenstraat
 muncadostraat
-munckhofplein
+munckestrjitte
 mundgenstraat
 muningsboschhofweg
 munirpad
@@ -8075,7 +8132,6 @@ munnickenveld
 munnickewerff
 munnik
 munnikdijkweg
-munnike putseweg
 munnikebeekhof
 munnikeleane
 munnikenakker
@@ -8090,6 +8146,7 @@ munnikenlaan
 munnikenland
 munnikenlandse maaskade
 munnikenlandse waalkade
+munnikenoversteek
 munnikenpad
 munnikenschans
 munnikensingel
@@ -8129,7 +8186,6 @@ munstermanstraat
 munstermansweg
 munsterpad
 munsterplein
-munsterscheveldbrug
 munstersestraat
 munsterseweg
 munstersgoedstraat
@@ -8141,6 +8197,7 @@ munstraat
 munt
 muntberg
 muntbergweg
+muntbrug
 munte
 muntelaar
 muntelbolwerk
@@ -8164,7 +8221,7 @@ munterslaantje
 munterstraat
 munterweg
 muntgaarde
-muntgarage
+muntgade
 munthervesteplein
 munthof
 muntinglaan
@@ -8185,6 +8242,7 @@ muntslagererf
 muntsteeg
 muntstraat
 munttorenstraat
+muntvlindertje
 muntwal
 muntweg
 muntzmate
@@ -8194,8 +8252,10 @@ muontsehiem
 muontserak
 muontsestrjitte
 muontsewei
+muontsjebildtsloane
 muplein
 muraltplein
+murano
 murciastraat
 murdoch mackenziestraat
 murenbeld
@@ -8220,7 +8280,11 @@ muscaristraat
 muscatgaard
 muscatstraat
 muschbergweg
+musersweerdseweg
 museum kamstraat
+museumbrug
+museumbrug 0082
+museumeiland
 museumlaan
 museumlaantje
 museumpad
@@ -8251,10 +8315,10 @@ musketierslaan
 musketiersplein
 musketiersveld
 musketpad
-musketruwe
 muskushouwsestraat
 muskuskruid
 muskuszand
+musquetierbrug
 musschenberg
 musschenbergpad
 musschenbroek
@@ -8265,10 +8329,11 @@ mussel a kanaal noord
 mussel a kanaal oost
 mussel a kanaal west
 mussel a kanaal zuid
-mussel a kanaal zuid
 mussel-a-kanaal oz
 mussel-a-kanaal wz
-musseldijkerweg
+musseldijk
+musselkanaal
+musselkanaal-noord
 musselmeeweg
 musselpad
 musselstraat
@@ -8294,7 +8359,6 @@ mussenlaan
 mussenpad
 mussenplaats
 mussenplein
-mussenput
 mussenputsweg
 mussenstraat
 mussentiend
@@ -8302,9 +8366,9 @@ mussenveld
 mussenweg
 musstraat
 mustangstraat
-musweg
+musterdlaan
+musterdpad
 mutjeskamp
-muts
 mutsaershof
 mutsaersstraat
 mutserd
@@ -8313,6 +8377,7 @@ mutshoek
 mutsweg
 mutua fidesstraat
 muur
+muur van emmen
 muur van toebes
 muurberg
 muurbloem
@@ -8342,7 +8407,6 @@ muurzwaluw
 muus jacobsepad
 muus jacobsestraat
 muyderban
-muyerban
 muyeveldse-wetering
 muyeweg
 muylenborchdreef
@@ -8355,13 +8419,14 @@ muytertsveldweg
 muytertweg
 muyweg
 muzelweg
+muzen
 muzenhof
 muzenlaan
+muzenpark
 muzenplaats
 muzenplein
 muzenstraat
 muzeplein
-muzerijk
 muziekdreef
 muziekhofje
 muzieklaan
@@ -8373,10 +8438,9 @@ muziekstraat
 muziektuin
 muziektuinpad
 muzikantenstraat
-mw. bã¤hler-boermalaan
+mw. bÃ¤hler-boermalaan
 mw. j. aschoff-stiermanlaan
-mw. smulders-beliã«nplein
-mw. veder-van hobokenstraat
+mw. smulders-beliÃ«nplein
 mycene
 mykonosdreef
 myra wardsingel
@@ -8388,58 +8452,57 @@ myrtillushof
 mythsteelaan
 mytilus
 mytylweg
-mãƒâ¶rfelden-walldorfplein
-mã¡ria telkesstraat
-mã¡ximahof
-mã¡ximalaan
-mã¡ximapark
-mã¡ximaplantsoen
-mã¡ximaplein
-mã¡ximastraat
-mã¢lewei
-mã©doclaan
-mã©lisandepad
-mã©lisandeplaats
-mã©renguestraat
-mã¶dijk
-mã¶ldershã¶fken
-mã¶linksweg
-mã¶llenbergstraat
-mã¶llendiek
-mã¶llenes
-mã¶llenkampweg
-mã¶llerstraat
-mã¶lleweg
-mã¶lmansweg
-mã¶lnhoek
-mã¶nnikweg
-mã¶rfelden-walldorfplein
-mã¶s
-mã¶sselendiek
-mã»delte
-mã»djip
-mã»nebuorren
-mã»nedyk
-mã»nedykspaad
-mã»nefinne
-mã»nehiem
-mã»ner
-mã»nereed
-mã»nestrjitte
-mã»newei
-mã»newyk
-mã»ntsegroppe
-mã»ntseleane
-mã»ntsetille
-mã»ntsewei
-mã»ntsgroppe
-mã»ntspaed
-mã»zefalk
-mã»zekamp
-mã¼hlenbergstraat
-mã¼llerhaven
-mã¼llerhoofd
-mã¼llerkade
-mã¼nninghofflaan
-mã¼nsterlaan
-mã¼nsterstraat
+mÃ¡ria telkeshof
+mÃ¡ria telkespad
+mÃ¡ria telkesstraat
+mÃ¡ximahof
+mÃ¡ximalaan
+mÃ¡ximapark
+mÃ¡ximaplantsoen
+mÃ¡ximaplein
+mÃ¡ximastraat
+mÃ¢lewei
+mÃ©doclaan
+mÃ©lisandepad
+mÃ©lisandeplaats
+mÃ©renguestraat
+mÃ¶dijk
+mÃ¶ldershÃ¶fken
+mÃ¶linksweg
+mÃ¶llenbergstraat
+mÃ¶llendiek
+mÃ¶llenes
+mÃ¶llenkampweg
+mÃ¶llerstraat
+mÃ¶lleweg
+mÃ¶lmansweg
+mÃ¶lnhoek
+mÃ¶nnikweg
+mÃ¶rfelden-walldorfplein
+mÃ¶s
+mÃ»djip
+mÃ»nebuorren
+mÃ»nedyk
+mÃ»nedykspaad
+mÃ»nefinne
+mÃ»nehiem
+mÃ»ner
+mÃ»nereed
+mÃ»nestrjitte
+mÃ»newei
+mÃ»newyk
+mÃ»ntsegroppe
+mÃ»ntseleane
+mÃ»ntsetille
+mÃ»ntsewei
+mÃ»ntsgroppe
+mÃ»ntspaed
+mÃ»zefalk
+mÃ»zekamp
+mÃ¼hlenbergstraat
+mÃ¼llerhaven
+mÃ¼llerhoofd
+mÃ¼llerkade
+mÃ¼nninghofflaan
+mÃ¼nsterlaan
+mÃ¼nsterstraat

@@ -23,8 +23,6 @@ d'almarasweg
 d'altenaer
 d'arcyweg
 d'artagnanlaan
-d'artagnanlaan
-d'artagnanpad
 d'artagnanpad
 d'aulnis de bourouilllaan
 d'aumeriestraat
@@ -32,49 +30,42 @@ d'ekker
 d'hamalestraat
 d'heule
 d'hondecoeterstraat
-d'hondecoeterstraat
 d'n achterweg
 d'n alleman
 d'n bens
 d'n bogerd
 d'n brummel
+d'n bult
 d'n dries
 d'n duyp
-d'n el
 d'n entrepot
 d'n goarden
 d'n grote aard
 d'n ham
 d'n herk
 d'n hit
-d'n hit
 d'n hof
 d'n ingelsenhoof
 d'n oliepint
+d'n overkant
 d'n overloop
 d'n overweg
 d'n tip
-d'n umloop
 d'n umloop
 d'ohenweg
 d'olde dijk
 d'olneweg
 d'olstert
+d'orminiusstraat
 d'orvillestraat
-d'oultremontweg
 d'oultremontweg
 d'r kelder
 d'r schimmeligerwaeeg
 d'urselstraat
 d'yserinckweg
-d'yvoy van mijdrechtlaan
-d(avid) v. bourgondiã«straat
-d(irk) v. d. arestraat
 d-e pad
 d. beereboomstraat
 d. botterwegstraat
-d. c. kraaijstraat
-d. c. kraaystraat
 d. c. rezelmanstraat
 d. de haanstraat
 d. de koninglaan
@@ -106,33 +97,24 @@ d.g. van der keesselstraat
 d.h. de castrostraat
 d.h. v.d. scheerstraat
 d.h. vinkersweg
-d.h.a.c. hammarskjã¶ldstraat
+d.h.a.c. hammarskjÃ¶ldstraat
 d.j. bunschotenstraat
 d.j. den hartoglaan
 d.j. kammingastrjitte
 d.j. van nieuwenhuizenweg
 d.j. van wijkstraat
 d.k. boersmastrjitte
-d.kampstraat
 d.l. hudigstraat
-d.o.n.k.-straat
 d.p.a. weeversstraat
 d.s. bangmastrjitte
 d.s. van schuppenstraat
 d.w. griffithpad
-d.w. grifftihpad
 d.w. van vreeswijklaan
-da capo
 da costaflat
 da costakade
 da costalaan
-da costalaan
 da costaplein
-da costasingel
-da costasingel
 da costastraat
-da costastraat
-da costaweg
 da costaweg
 da gronemanstrjitte
 da palestrinastraat
@@ -161,8 +143,8 @@ daalderdreef
 daalderhaag
 daalderhaagweg
 daalderhof
-daalderplein
 daalderslag
+daalderspad
 daaldersruwe
 daalderstraat
 daalderstraatje
@@ -171,7 +153,6 @@ daalderswoud
 daalderweg
 daaleweg
 daalheide
-daalhemerweg
 daalhof
 daalhorst
 daalhuisweg
@@ -207,12 +188,11 @@ daan hoeksemastraat
 daan huizingapad
 daan kagchellandhof
 daan kagchellandpad
+daan monsterpad
 daan roodenburghplein
 daan schammerstraat
-daan schrammerstraat
 daan van dijkhof
 daan van dijkpad
-daan zonderlandstraat
 daandelendennen
 daansbergen
 daantgenshof
@@ -221,13 +201,13 @@ daarlerweg
 daarleseweg
 daasdonk
 daasdonklaan
+daasdonkse dwarsdreef
 daasdreef
 daatselaarseweg
 dabbehof
 dabbelosepad
 dabbeloseweg
 dabbestraat
-daboplein
 dabosteeg
 daccastraat
 dachstein
@@ -252,6 +232,7 @@ daelhofpad
 daelsweg
 daelweg
 daelwijcklaan
+daelwijckstraat
 daem van heerdtplein
 daem van kekenstraat
 daemslunet
@@ -260,24 +241,25 @@ daendelsstraat
 daendelsweg
 daenenstraat
 daesdonckseweg
+dafne schippersbrug
 dafplaats
-dag hammarskjã¶ldborg
-dag hammarskjã¶ldhof
-dag hammarskjã¶ldlaan
-dag hammarskjã¶ldpad
-dag hammarskjã¶ldstraat
-dag hammerskjã¶ldstraat
+dag hammarskjÃ¶ldborg
+dag hammarskjÃ¶ldhof
+dag hammarskjÃ¶ldlaan
+dag hammarskjÃ¶ldpad
+dag hammarskjÃ¶ldstraat
+dag hammerskjÃ¶ldstraat
 dagbouw
 dagdastraat
 dagelijkse groenmarkt
 dagenweg
 dageraad
+dageraadsbrug 0353
 dageraadstraat
 dageraadsweg
 dageraadweg
 dagge
 daggeldersweg
-daggenvoorderweg
 daggertsweg
 daggeweide
 daglicht
@@ -285,6 +267,7 @@ dagmaatpad
 dagmaatstraat
 dagoberthof
 dagobertpad
+dagobertplantsoen
 dagobertstraat
 dagpauwoog
 dagpauwooghof
@@ -294,9 +277,11 @@ dagpauwoogstraat
 daguerrestraat
 dagvlinder
 dagvlinderstraat
+dagvoorderpad
 dagwand
 dagwerk
 dagwerkstraat
+dahlemerweg
 dahlenburg
 dahlia
 dahlia-strjitte
@@ -328,6 +313,7 @@ dal schweibergpad
 dal van haasbroek
 dal van josafat
 dalakker
+dalakkersweg
 daland
 dalcamp
 dalderhaag
@@ -343,6 +329,7 @@ dalemsedijk
 dalemsestraat
 dalemstraat
 dalemwal
+dalen
 dalenbeek
 dalenbosweg
 dalenburg
@@ -374,11 +361,10 @@ daliepad
 dalingkamp
 dalingsweg
 dalipassage
-daliã«nwaerd
+daliÃ«nwaerd
 dalkampen
 dalkpad
 dalkruid
-dalkruidbaan
 dalkruiddreef
 dalkruidlaan
 dalkruidstraat
@@ -389,7 +375,7 @@ dallashof
 dallelaan
 dallepad
 dallingeweersterweg
-dalmatiã«
+dalmatiÃ«
 dalmedenweg
 dalmeyerplein
 dalmsholtepad
@@ -407,6 +393,7 @@ daltonplantsoen
 daltonstraat
 daltonweg
 daltuin
+daltunnel
 dalveen
 dalvoordeweg
 dalwagen
@@ -417,6 +404,7 @@ dalweg 36
 dalweg-west
 dam
 dam bustersstraat
+damaanzet
 damakker
 damakkers
 damakkerweg
@@ -437,7 +425,6 @@ dambroek
 dambroeken
 damcoogh
 damenweg
-dames heijmansstraat
 dames holsthof
 dames jolinkweg
 dames masselinkstrjitte
@@ -460,11 +447,12 @@ damianusdreef
 damianuskamp
 damianusstraat
 damiatebolwerk
+damiatebrug
 damiatestraat
 damiettastraat
 daminklaan
 daminksweg
-damiã«tplein
+damiÃ«tplein
 damkade
 damkensvoetpad
 damlaan
@@ -479,7 +467,6 @@ dammans-es
 dammanstraat
 dammaspolderpad
 dammaten
-dammekade
 dammekant
 dammelaan
 dammeloane
@@ -496,6 +483,7 @@ dammersweg
 dammerweg
 dammesterpad
 dammestraat
+dammeweg
 dammolen
 damocleslaan
 damoclesstraat
@@ -544,14 +532,16 @@ damstraat
 damvecht
 damveld
 damvelden
+damwald
 damwand
 damweg
 damweide
 damwoudestraat
-damwã¢ldsterreedsje
+damwÃ¢ldsterreedsje
 damzigt
 damzijl
 dan flunderpad
+danablustraat
 danackers
 danangdreef
 danastraat
@@ -561,56 +551,50 @@ danenhoefstraat
 danie theronstraat
 daniel bouweswei
 daniel de brouwerstraat
-daniel den hoedbrug
-daniel eyndhoutsgaarde
 daniel eyndhoutsgaarde
 daniel marotplein
 daniel ruysstraat
 daniel stalpaertstraat
-daniel stoopendaallaan
-danielsland
 danielsweg
 daniken
 daniker uitweg
 danikerstraat
-daniã«l bosmastrjitte
-daniã«l catterwijckstr
-daniã«l de bliecklaan
-daniã«l de brouwerstraat
-daniã«l de langestraat
-daniã«l defoelaan
-daniã«l goedkoopstraat
-daniã«l heinsiuslaan
-daniã«l heinsiusstraat
-daniã«l josephus jittastraat
-daniã«l lopse hocke'sweg
-daniã«l marotstraat
-daniã«l mijtensstraat
-daniã«l mijtenstraat
-daniã«l mostartstraat
-daniã«l noteboomstraat
-daniã«l ockersestraat
-daniã«l pichotstraat
-daniã«l ruynemanlaan
-daniã«l ruynemanstraat
-daniã«l stalpaertstraat
-daniã«l stalpertstraat
-daniã«l stoopendaallaan
-daniã«l van de merwedestraat
-daniã«l willemsenpad
-daniã«l willemsstraat
-daniã«l wormsbecherhof
-daniã«l-eik
-daniã«lshof
-daniã«lsland
-daniã«lsplein
-daniã«lssteeg
-daniã«lsstraat
-daniã«lstraat
-daniã«lsweg
-daniã«lswegeling
-daniã«lswegje
-daniã«lweg
+daniÃ«l bosmastrjitte
+daniÃ«l catterwijckstr
+daniÃ«l catterwijckstraat
+daniÃ«l de bliecklaan
+daniÃ«l de brouwerstraat
+daniÃ«l de langestraat
+daniÃ«l defoelaan
+daniÃ«l goedkoopstraat
+daniÃ«l heinsiuslaan
+daniÃ«l heinsiusstraat
+daniÃ«l josephus jittastraat
+daniÃ«l lopse hocke'sweg
+daniÃ«l marotstraat
+daniÃ«l mijtensstraat
+daniÃ«l mostartstraat
+daniÃ«l noteboomstraat
+daniÃ«l ockersestraat
+daniÃ«l pichotstraat
+daniÃ«l ruynemanlaan
+daniÃ«l ruynemanstraat
+daniÃ«l stalpaertstraat
+daniÃ«l stalpertstraat
+daniÃ«l stoopendaallaan
+daniÃ«l van de merwedestraat
+daniÃ«l willemsenpad
+daniÃ«l willemsstraat
+daniÃ«l wormsbecherhof
+daniÃ«l-eik
+daniÃ«lshof
+daniÃ«lsland
+daniÃ«lsplein
+daniÃ«lssteeg
+daniÃ«lsstraat
+daniÃ«lstraat
+daniÃ«lsweg
+daniÃ«lswegeling
 dankbaarsdijk
 dankerseweg
 dankmeijerpad
@@ -624,13 +608,12 @@ dannenkampsweg
 dannestraat
 danny kayelaan
 danny kayestraat
+danoweg
 dansersweg
 danshof
-danshuissteeg
 danslaan
 dansschool
 dansvlinder
-danswijkersgang
 dantelaan
 dantestraat
 danteweg
@@ -697,6 +680,7 @@ dasmer
 dassaultlaan
 dasseboomseallee
 dasseburcht
+dasselaar
 dasselaarshoek
 dasselaarstraat
 dasselaarweg
@@ -713,7 +697,6 @@ dassenbospad
 dassenburcht
 dassenburg
 dassendonk
-dassengang
 dassenhei
 dassenhof
 dassenhoorn
@@ -740,7 +723,7 @@ dathenusstraat
 daumierstraat
 daunisstraat
 dauphinstraat
-dauphinã©laan
+dauphinÃ©laan
 dautzenbergstraat
 dauw
 dauwbraam
@@ -748,10 +731,10 @@ dauwbraampad
 dauwdruppelhof
 dauwendaelselaan
 dauwendaelsestraat
-dauwendaelseweg
 dauwheuvel
 dauwnetel
 dauwnetelpad
+dauwpunt
 dauwrootstraat
 dave brubeckstraat
 davelaak
@@ -761,6 +744,7 @@ davelaer
 davenschot
 daver
 daveren
+daverhof
 daverveld
 david 't kindtstraat
 david ben goerionpad
@@ -786,17 +770,17 @@ david livingstonestraat
 david nivenweg
 david panstraat
 david ricardostraat
+david ricardoweg
 david spanjarstraat
 david tenierslaan
 david teniersplein
 david teniersstraat
 david van baerlehof
-david van bourgondiã«straat
-david van bourgondiã«weg
+david van bourgondiÃ«straat
+david van bourgondiÃ«weg
 david van goirlestrjitte
 david van mollemstraat
-david van orliensstraat
-david van orliã«nsstraat
+david van orliÃ«nsstraat
 david verloopstraat
 david vlughstraat
 david vosstraat
@@ -804,6 +788,7 @@ david wijnkoopstraat
 david wijnveldtweg
 david zuiderhoekstraat
 davidbron
+davidia
 davidlaan
 davidsberg
 davidsgulden
@@ -823,10 +808,8 @@ dawesweg
 dawson-nes
 dayer
 dazingstraat
-de 13e mãªd
 de aa
 de aabroeken
-de aak
 de aak
 de aakschipper
 de aalbes
@@ -834,25 +817,23 @@ de aaldor
 de aalscholver
 de aalsvoorten
 de aanleg
-de aanleg
 de aanloop
 de aanstede
 de aanstee
 de aanstoot
+de aanval
 de aanwas
 de aar
 de aard
-de aarhof
+de aarde
 de aarnink
 de abdij
 de acacia
-de acacia
 de acht
-de acht morgen
 de acht schepel
 de achte
-de achtentwintigste straat
 de achterbrink
+de achterdijk
 de achterhoede
 de achterhorst
 de achterom
@@ -862,23 +843,17 @@ de achterste singel
 de achterstraat
 de achthoek
 de achtkant
-de achtste straat
-de achttiende straat
 de ackeren
 de adelaar
 de aek
 de afslag
-de afslag
 de aker
 de akeren
-de akker
 de akker
 de akkerbouw
 de akkeren
 de akkers
-de akkers
 de akkerstraat
-de akkervrouw
 de akkerweg
 de akkerwinde
 de albatros
@@ -892,8 +867,7 @@ de alerdink
 de alk
 de allee
 de almanak
-de aloã«
-de alpen
+de aloÃ«
 de alpen
 de alpenkauw
 de alsie
@@ -914,7 +888,6 @@ de anerdijk
 de angstel
 de anjen
 de anjer
-de appelaar
 de appelboom
 de appelboomstraat
 de appelhof
@@ -931,7 +904,6 @@ de ark
 de arke
 de armhoef
 de arntshoff
-de artnshoff
 de as
 de asdreef
 de ass
@@ -940,14 +912,12 @@ de asselen kuil
 de asterd
 de auerhaan
 de auken
+de averhaag
 de azalea
 de azuurjuffer
 de b'rak
 de baak
-de baak
 de baan
-de baan
-de baander
 de baander
 de baanderhoek
 de baandert
@@ -959,7 +929,6 @@ de bagijnenkamp
 de bak
 de baken
 de bakker
-de bakker
 de bakkerij
 de bakkert
 de bakspieker
@@ -967,12 +936,11 @@ de balbian versterlaan
 de balder
 de balg
 de balije
-de balije
 de baljuw
-de balk
 de balk
 de balkan
 de balken
+de balkenvlotter
 de balmerd
 de baloeranstraat
 de balstien
@@ -982,24 +950,23 @@ de banenkamp
 de bangert
 de banier
 de bank
-de bank
 de banken
 de bankhoeve
 de banne
+de bant
 de banten
 de barak
 de barch
 de bargies
 de bariks
 de bark
-de bark
 de barkas
 de barkentijn
-de barm
 de barnte
 de barones
 de baronie
 de barrage
+de barriere
 de bart
 de barte
 de bas
@@ -1014,17 +981,13 @@ de batterijen
 de bazelhof
 de bazellaan
 de bazelstraat
-de bazelstraat
 de bazelweg
 de bazuin
 de beage
-de beage
 de bears
-de beaufortlaan
 de beaufortlaan
 de beaufortpad
 de beaufortstraat
-de beaufortweg
 de beaufortweg
 de beek
 de beekdam
@@ -1037,13 +1000,10 @@ de beeklanden
 de beekoever
 de beekse tuin
 de beemd
-de beemd
 de beemdacker
-de beemden
 de beemden
 de beemel
 de beempd
-de beente
 de beente
 de beer
 de beerebijt
@@ -1051,10 +1011,8 @@ de beeretweg
 de beeringen
 de beers
 de beerze
-de beerze
 de beeten
 de beethof
-de beiaard
 de beiaard
 de beide vlooswijkenlaan
 de beitel
@@ -1065,7 +1023,6 @@ de bellaard
 de bellefleur
 de bellink
 de belschuur
-de belt
 de belt
 de belte
 de belten
@@ -1078,9 +1035,7 @@ de bengels
 de benneken
 de bennenmaker
 de bente
-de bente
 de benten
-de bentlanden
 de beo
 de berberis
 de berch
@@ -1088,24 +1043,15 @@ de berchein
 de berckt
 de bereklauw
 de berenskamp
-de berenskamp
-de berepã´le
-de berg
-de berg
+de berepÃ´le
 de berg
 de bergen
-de bergen
-de berghoofdseweg
 de berghoofdseweg
 de bergjes
 de bergkamp
-de bergkamp
-de berk
 de berk
 de berkel
 de berkelhof
-de berken
-de berken
 de berken
 de berkenheg
 de berkenhof
@@ -1113,12 +1059,11 @@ de berkte
 de berktweg
 de berm
 de bernhardstaete
+de besaan
 de bese
 de besterd
 de beuckelen
 de beugel
-de beugel
-de beuk
 de beuk
 de beukelaar
 de beuken
@@ -1145,24 +1090,20 @@ de bieslook
 de biester
 de biestermannen
 de biestraat
-de biestraat
 de biezegoren
-de biezen
 de biezen
 de biezenbusse
 de biezenhof
 de biezenkamp
 de biezenpoort
-de biezenpoort
 de biezenvelden
 de bijen
 de bijenkoningin
 de bijl
-de bijlen
 de bijvank
 de bik
+de bilt 30
 de binckhorst
-de binder
 de binder
 de binderij
 de bindhaar
@@ -1173,12 +1114,12 @@ de binnenhof
 de binnenhorst
 de binnenloop
 de binnenplaats
-de binnentuin
+de binnenschipper
 de binnentuin
 de bird
 de biskop
+de bisonbaai
 de bisschopstraat
-de bisweide
 de bitterstraat
 de bittervoorn
 de bjirk
@@ -1192,6 +1133,7 @@ de blankvoorn
 de blauwe alicante
 de blauwe kei
 de blauwe lely
+de blauwe loper
 de blauwe oever
 de blauwe reiger
 de blauwe sleutel
@@ -1204,16 +1146,14 @@ de blauwververij
 de blauwvoet
 de blazer
 de bleeck
+de bleeckbrug
 de bleeckster
 de bleek
-de bleek
-de bleeke
 de bleeke
 de bleekvelden
 de blei
 de bleijdestraat
 de bleijk
-de bleike
 de bleike
 de bleken
 de bleker
@@ -1225,10 +1165,9 @@ de blenk
 de blexterstraat
 de blieckstraat
 de blieke
-de blikken
+de blije dries
 de blikken
 de blikkendijk
-de blink
 de blink
 de blinken
 de blinkenlaan
@@ -1248,18 +1187,15 @@ de bloeven
 de blokhut
 de blokkamp
 de blokken
-de blokken
 de blokmat
 de blomboogerd
 de blomhof
 de blommaart
 de blommers
-de blommers
 de blouvenne
 de blouwel
 de bluijtencamp
-de blã©courtstraat
-de blã©courtstraat
+de blÃ©courtstraat
 de boarch
 de boarndobbe
 de boberden
@@ -1270,14 +1206,12 @@ de bockstraat
 de bodde
 de bodding
 de boech
+de boedelhof
 de boeding
 de boedingen
 de boeg
-de boeg
 de boegspriet
 de boei
-de boei
-de boeier
 de boeier
 de boeijelaan
 de boeijer
@@ -1285,7 +1219,6 @@ de boek
 de boekt
 de boektsteeg
 de boekweit
-de boel
 de boelakkers
 de boelelaan
 de boender
@@ -1303,7 +1236,6 @@ de bogaard
 de bogaert
 de bogenmaker
 de bogerd
-de bogerd
 de boggerd
 de bogtsteeg
 de boisotstraat
@@ -1319,12 +1251,12 @@ de bolkshoek
 de bolle
 de bollekens
 de bollen
-de bollen
 de bollenweg
 de bolster
 de bolster-akker
 de bolten
 de bom
+de bomen
 de bomenesch
 de bommel
 de bommerij
@@ -1335,7 +1267,6 @@ de bondgenoot
 de bongard
 de bongenaer
 de bongerd
-de bongerd
 de bonk
 de bonkelaar
 de bonne
@@ -1345,6 +1276,7 @@ de bonte kraai
 de bonte ruiter
 de bonte specht
 de bontekoe
+de bonton
 de bontstraat
 de boodtstraat
 de boog
@@ -1354,13 +1286,11 @@ de boogerd
 de boogschutter
 de booijstraat
 de boomgaard
-de boomgaard
 de boomgaarden
 de boomkamp
-de boomkamp
-de boomklever
 de boomklever
 de boomkruiper
+de boomkweker
 de boompjes
 de boonen
 de boonk
@@ -1375,13 +1305,10 @@ de boppeslach
 de boppeste
 de borch
 de borchgravestraat
-de borchgravestraat
 de borcht
 de border
-de bordesplein
 de bore
 de borgen
-de borggraaf
 de borghert
 de borsaliastraat
 de borstelmaker
@@ -1397,20 +1324,15 @@ de boshoek
 de bosjes
 de bosk
 de boskamp
-de boskamp
 de boskant
-de boskrã¢ne
-de bosman
+de boskrÃ¢ne
+de bosloop
 de bosporus
-de bosporus
-de bosquetplein
 de bosquetplein
 de bosrand
 de bossche pad
 de bosschen
 de bossen
-de bossen
-de bossenstraat
 de bossenstraat
 de boster
 de bosuil
@@ -1423,8 +1345,7 @@ de bothweg
 de botmar
 de bottelarij
 de botteloef
-de bottenmã¶lle
-de botter
+de bottenmÃ¶lle
 de botter
 de bottergraaf
 de botterije
@@ -1435,20 +1356,18 @@ de boulevard
 de boulevard noord
 de bounamstraat
 de bourbonstraat
-de bourbonstraat
 de bouterhoek
 de bouterstraat
 de bouw
 de bouwert
 de bouwing
-de bouwing
 de bouwkamp
 de bovenkruier
+de bovenstal
 de bovenstroom
 de box
 de bozem
 de braackenlaan
-de braak
 de braak
 de braakweg
 de braam
@@ -1463,11 +1382,8 @@ de brake
 de brakel
 de brakelpad
 de braken
-de braken
-de brakken
 de brakken
 de bramen
-de brand
 de brand
 de branden
 de branderij
@@ -1479,11 +1395,11 @@ de brauwstraat
 de brauwweg
 de bredase hunt
 de bree
-de bree
 de breeacker
 de breeakker
 de breebroeken
 de breeck
+de breedijken
 de breedte
 de breehegge
 de breekstraat
@@ -1492,17 +1408,15 @@ de breelaan
 de breembos
 de breeputte
 de breeter
+de breeuwer
 de bregjesakker
 de brei
-de brei
 de breid
-de breid
-de breide
 de breide
 de breistroeken
 de brekken
 de brem
-de brem
+de bremberg
 de bremer wyldernis
 de bremmen
 de brenk
@@ -1511,21 +1425,17 @@ de bres
 de bresse
 de bresser
 de breuken
+de breuker
 de breul
-de brewaert
 de brewaert
 de briasweg
 de brienstraat
 de brigantijn
 de brik
-de brik
 de brille
 de brinio
 de brink
-de brink
 de brinken
-de brinken
-de brinkgaarden
 de brinkies
 de brinkpad
 de britten
@@ -1534,10 +1444,10 @@ de broek
 de broekakkers
 de broekeld
 de broeken
-de broeken
 de broekhuizen
 de broes
 de brogge
+de brol
 de broll
 de bron
 de bronkade
@@ -1550,11 +1460,10 @@ de brouwerstraat
 de brouwpit
 de brug
 de brugman
+de brugwachter
 de bruidsbogerd
 de bruijnhof
 de bruijnlaan
-de bruijnlaan
-de bruijnstraat
 de bruijnstraat
 de bruijnvaart
 de bruilweg
@@ -1567,10 +1476,9 @@ de bruyn kopsstraat
 de bruynestraat
 de bruynstraat
 de bryde
-de brã¢n
-de brã©autã©laan
-de brãªge
-de bucht
+de brÃ¢n
+de brÃ©autÃ©laan
+de brÃªge
 de bucht
 de bucksweg
 de buffel
@@ -1585,23 +1493,21 @@ de buitendonk
 de buitengracht
 de buitentuin
 de buizerd
-de buizerd
 de bukakkers
 de bullaan
+de bullebrÃªge
 de bullewei
 de bullstraat
 de bult
-de bult
 de bulten
-de bulten
+de bultsteeg
 de bun
-de bunder
 de bunder
 de bunderhoevestraat
 de bunders
 de bungelaar
+de buning
 de bunt
-de bunte
 de bunte
 de buntehof
 de buntezoom
@@ -1610,12 +1516,10 @@ de buorfinne
 de buorkerij
 de buorren
 de burcht
-de burcht
 de burd
 de burde
 de burg
 de burgemeester
-de burght
 de burght
 de burkel
 de bus
@@ -1630,11 +1534,11 @@ de buundert
 de buurt
 de buytencamp
 de buzen
-de bã¢n
-de bã»gel
-de bã»terblom
-de bã»terkamp
-de bã»tertonne
+de bÃ¢n
+de bÃ»gel
+de bÃ»terblom
+de bÃ»terkamp
+de bÃ»tertonne
 de caascooper
 de callenburgh
 de calvert
@@ -1645,12 +1549,10 @@ de campus
 de capel
 de capel-acker
 de capellerie
-de careur
 de carpentierlaan
 de carpentierstraat
 de carreur
 de cartouwe
-de casembrootstraat
 de casembrootstraat
 de casembrootweg
 de cassij
@@ -1665,7 +1567,6 @@ de chamotte
 de charmantedreef
 de cichorei
 de cingel
-de cingel
 de cirkel
 de citer
 de citrus
@@ -1674,11 +1575,9 @@ de cleijen
 de cleijne cleij
 de clercqdwarsstraat
 de clercqstraat
-de clerqstraat
 de clerstraat
 de clinckhoeff
 de clinge
-de cloese
 de cloese
 de clomp
 de clossei
@@ -1686,18 +1585,17 @@ de clundert
 de cnollenbijter
 de cock van neerijnenstraat
 de cock van opijnenstraat
+de cocksdorp - vlieland
 de cockstraat
-de cocq van haeftenstraat
 de coevering
 de colignylaan
 de colignystraat
-de colignystraat
 de colman
-de comert
 de commanderie
 de commanderij
 de compagnie
 de condor
+de conducteur
 de conifeer
 de conincklaan
 de coninckstrjitte
@@ -1711,14 +1609,12 @@ de cordespad
 de cordesstraat
 de cornet
 de corridor
-de corridor
 de cortestraat
 de cotelaer
 de coubertinlaan
 de counelaan
 de cour
-de cour
-de coã¶peratie
+de coÃ¶peratie
 de crabbeheul
 de cranestraat
 de crayerstraat
@@ -1727,13 +1623,11 @@ de crimpen
 de croese
 de croix hof
 de croon
-de curaã§ao
+de curaÃ§ao
 de curtis
-de cusancestraat
 de cuserstraat
 de cuyperstraat
 de daal
-de daam
 de daam
 de dadelboom
 de dael
@@ -1742,15 +1636,14 @@ de dageraad
 de dagmaat
 de dagmaet
 de dalen
-de dalen
 de dalk
-de dam
 de dam
 de dame
 de damensteeg
 de damhouderstraat
 de damiaan
 de dammen
+de dankbaarheid
 de daoken
 de dardanellen
 de darink
@@ -1761,24 +1654,18 @@ de dauwkade
 de decanije
 de deckerestraat
 de deckerstraat
-de deckerstraat
 de deder
-de deel
 de deel
 de deelen
 de deij
 de deimpt
 de deimt
 de deimten
-de deisel
 de dekanij
 de deken
 de del
-de del
 de delff
 de delle
-de delle
-de dellen
 de dellen
 de dellenweg
 de dellestraat
@@ -1792,8 +1679,6 @@ de dennen
 de dennenhoek
 de dentele
 de derde hoeve
-de derde straat
-de dertiende straat
 de dertienhuizen
 de deukten
 de deyl
@@ -1806,7 +1691,6 @@ de dieppoel
 de diepte
 de diepteweg
 de dieze
-de dieze
 de dijcken
 de dijk
 de dijken
@@ -1817,27 +1701,19 @@ de dijnsel
 de diken
 de dikte
 de dille
-de dille
 de dillen
 de dillenburg
 de dinkel
-de dinkel
 de dintel
-de dintel
-de dissel
 de dissel
 de disselhof
 de distele
-de distele
-de dobbe
 de dobbe
 de dobben
 de dobber
 de dodo
 de doelderstraat
 de doelen
-de doelen
-de doelen 10
 de doelenkamp
 de doelman
 de does
@@ -1855,23 +1731,17 @@ de dolten
 de dolven
 de dom
 de dommel
-de dommel
 de domp
 de dompelaar
-de donckstraat
 de donders
 de donge
-de donge
 de donger
-de donk
 de donk
 de donken
 de donkere straat
 de doole
 de doolhof
 de doom
-de doom
-de doorbraak
 de doorbraak
 de doorgang
 de doorlaat
@@ -1879,10 +1749,7 @@ de doorloop
 de doorn
 de doornboom
 de doornbos
-de doornbos
 de doornweg
-de doorsnee
-de doorsteek
 de doorsteek
 de doorvaart
 de dophei
@@ -1892,12 +1759,11 @@ de dormig
 de dorpsbrink
 de dorpsvenne
 de dors
+de dorser
 de dorsmolen
-de dorsvlegel
 de dorsvlegel
 de dorsvloer
 de dotterblom
-de draai
 de draai
 de draaikes
 de dracht
@@ -1906,49 +1772,42 @@ de draf
 de drainhaak
 de drecht
 de dreef
-de dreef
 de dreeft
 de drempter dijk
 de drentsehof
 de dresch
+de drie dobbelstenen
 de drie dreven
 de drie dukatons
 de drie heuvelen
 de drie kazen
 de drie kronen
-de drie kroonen
 de drie linden
 de drie merenweg
 de drie morgen
 de drie rozen
-de drie schepel
 de drie veenen
 de drieburg
 de driegang
 de driehoek
-de driehoek
 de driekoningen
 de dries
-de dries
+de driesch
 de drieslag
 de driesprong
 de driessen
 de driest
 de driestal
 de driesten
-de drieã«ntwintigste straat
-de drift
 de drift
 de drifter
 de drinck
-de drink
 de drink
 de droegehamster feart
 de droge kreek
 de drogerij
 de droo
 de droogmakerij
-de drossaard
 de drossaard
 de drost
 de druivenmuur
@@ -1957,12 +1816,11 @@ de dubbele sleutel
 de duffel
 de duif
 de duiker
-de duiker
 de duikerhof
 de duikerstraat
 de duikjes
-de duikjes
 de duin
+de duinen
 de duinpan
 de duinsloot
 de duivenakker
@@ -1971,21 +1829,23 @@ de duivenvlucht
 de duizendmeterweg
 de dukdalf
 de dulf
-de dulf
 de dunen
 de dunsborg
 de duus
 de duyf
+de dwarsikkers
 de dwarskade
 de dwarswal
 de dyk
 de dynamo
-de dã¨le
-de dã´ber
-de dã´le
-de dã´lle
-de dã»ker
+de dÃ¨le
+de dÃ´ber
+de dÃ´le
+de dÃ´lle
+de dÃ»ker
+de earm
 de eclips
+de eco punt
 de edelenburg
 de ee
 de eek
@@ -1993,31 +1853,22 @@ de eekhof
 de eekholt
 de eelinkes
 de eem
-de eem
 de eemshorn
 de eendenkooi
-de eendracht
 de eendracht
 de eendrachtstraat
 de eendrachtswerf
 de eendrachtweg
-de eenentwintigste straat
-de eenhoorn
 de eenhoorn
 de eenruiter
 de eenvoud
 de eerensplein
-de eerensplein
 de eerensstraat
-de eerst
-de eerste straat
 de eersteling
 de eese
 de eeusel
 de eeuwsels
 de eg
-de eg
-de egge
 de egge
 de eglantier
 de egmondenstraat
@@ -2025,16 +1876,12 @@ de egthe
 de eibert
 de eiermarkt
 de eik
-de eik
 de eikelaars
-de eiken
 de eiken
 de eikenhorst
 de eilanden
 de eindhoeve
 de einse
-de ekelshoek
-de eker
 de eker
 de ekers
 de ekkers
@@ -2045,12 +1892,9 @@ de elbe
 de elders
 de eldersmaat
 de elerstee
-de elfde straat
 de elft
 de elizabeth hoeve
 de els
-de els
-de elsendonck
 de elsgraven
 de elshagen
 de elshorst
@@ -2060,24 +1904,19 @@ de elsten
 de elzas
 de elzelaan
 de elzen
-de elzen
 de elzenhof
 de elzenpasch
 de elzent
 de emma
 de emoe
-de encycliek
 de endepoel
-de eng
 de eng
 de engel
 de engh
 de engstoep
 de enk
-de enk
 de enst
 de entergraven
-de entree
 de entree
 de eppe
 de ereboog
@@ -2087,12 +1926,9 @@ de erk
 de erker
 de erven
 de ervensteeg
-de erwenpas
 de es
 de esch
-de esch
 de eschmolen
-de esdoorn
 de esdoorn
 de esdoorns
 de esk
@@ -2117,43 +1953,41 @@ de faanke
 de fabriek
 de factorij
 de fallastraat
-de fallastraat
 de fanfare
 de fantasie
 de favaugeplein
 de fazant
 de fazantduif
-de feanrã¢nne
+de feanrÃ¢nne
 de feart
-de feartswã¢l
+de feartswÃ¢l
 de fenne
 de fennen
-de fennen
 de fierljepper
+de fietsenmaker
 de fijnspar
 de filosofie
 de fink
-de finne
 de finne
 de finnen
 de fintsjes
 de fisker
 de fitis
+de five
 de fiver
 de fjilden
 de fjord
 de fjouwer roeden
 de fjouwere
-de fjã»rslach
+de fjouwerpas
+de fjÃ»rslach
 de flamingo
 de flammert
-de flank
 de flank
 de flaphoek
 de flearbosk
 de flearen
 de flechtreed
-de fledders
 de fledders
 de flerustraat
 de flesse
@@ -2161,7 +1995,6 @@ de flier
 de fliert
 de flinesstraat
 de flint
-de flinten
 de flinten
 de florzen
 de fluessen
@@ -2175,12 +2008,11 @@ de foarplecht
 de foeke
 de foes
 de fok
-de fok
 de fokmast
 de follingen
 de folmer
 de foreest
-de fortuin
+de forten
 de fortuin
 de fortuna
 de fortunawerf
@@ -2190,14 +2022,14 @@ de franse tuin
 de fransman
 de freding
 de fregatvogel
+de freule
 de friedhof
 de friese poort
 de frisia
 de friso
-de friso
 de frooyen
+de fruittuin
 de fruittuinen
-de fuik
 de fuik
 de fuikenweide
 de fuis
@@ -2205,20 +2037,15 @@ de fuotpaden
 de fute
 de fuus
 de fuut
-de fã»ke
+de fÃ»ke
 de gaai
-de gaaibank
 de gaanderij
 de gaard
-de gaard
 de gaarde
-de gaarde
-de gaarden
 de gaarden
 de gaasbak
 de gaest
 de gaete
-de gaffel
 de gaffel
 de gagel
 de gagelaar
@@ -2229,13 +2056,11 @@ de gagelvelden
 de gaikhorst
 de galei
 de galerij
-de galerij
+de galgenwaard
 de galjoen
-de galjoot
 de galmerij
 de galop
 de gamert
-de gang
 de gang
 de ganges
 de gans
@@ -2247,7 +2072,6 @@ de ganzenhof
 de ganzenjager
 de ganzenpoel
 de ganzenwei
-de ganzepas
 de garde
 de gardeniers
 de garf
@@ -2259,21 +2083,17 @@ de garsten
 de garstenkamp
 de garve
 de garven
-de gasfabriek
 de gashouder
 de gaspeldoorn
 de gasperi-erf
-de gasperiflat
 de gasperilaan
 de gasperisingel
 de gasperistraat
-de gast
 de gast
 de gasthuislanden
 de gats
 de gaullelaan
 de gaullesingel
-de gaullestraat
 de gaullestraat
 de gauw
 de gavel
@@ -2282,16 +2102,13 @@ de gealanden
 de gear
 de gearen
 de geasten
-de geaster
 de geau
 de gebrande hoef
 de gebuurte
 de geele klok
 de geelgieter
 de geelgors
-de geelgors
 de geep
-de geer
 de geer
 de geer van jutfaaslaan
 de geerakkers
@@ -2300,7 +2117,6 @@ de geere
 de geerenhof
 de geerenweg
 de geerkamp
-de geerstraat
 de geerstraat
 de geest
 de geestakkers
@@ -2323,19 +2139,16 @@ de gemeint
 de gement
 de gemetjes
 de gemeynt
-de generator
-de genestetlaan
 de genestetlaan
 de genestetplantsoen
 de genestetplein
-de genestetstraat
 de genestetstraat
 de genestetweg
 de genneper molen
 de gent
 de genthorst
 de gentiaan
-de geren
+de geologenstrook
 de geren
 de gerlachestraat
 de germaan
@@ -2343,10 +2156,9 @@ de gersdroegerij
 de gersikkers
 de gerst
 de gervelink
-de geul
+de geteling
 de geul
 de geurne
-de geusplein
 de geusplein
 de geuzenhoek
 de gewanten
@@ -2361,7 +2173,6 @@ de giem
 de gier
 de giervalk
 de gierzwaluw
-de giesel
 de giesel
 de giessen
 de gieteling
@@ -2379,13 +2190,11 @@ de ginckellaan
 de gistjagers
 de glanslibel
 de glansspreeuw
-de glasblazerij
 de glassteller
 de glazen boerderij
 de glazen wagen
 de glazenmaker
 de glazenmakerstraat
-de glind
 de gloep
 de gloode
 de goede hoop
@@ -2395,21 +2204,16 @@ de goedemeent
 de goeijenlaan
 de goeijenmarke
 de goeijstraat
-de goeijstraat
 de goejestraat
 de goerschenweg
 de gol
-de goldknoop
 de golle
 de gondel
 de gonzer
 de goog
-de gooiaard
 de gooijerlaan
 de gooische tram
 de goolder
-de goor
-de goorn
 de goorn
 de goornakkers
 de goornhoek
@@ -2435,9 +2239,7 @@ de goudslager
 de goudvink
 de goudwinde
 de gouw
-de gouw
 de gouwberg
-de gouwe
 de gouwe
 de gouwe berg
 de gouwe boom
@@ -2446,10 +2248,9 @@ de graaff
 de graaffstraat
 de graafjes
 de graaflaan
-de graafschap
 de graal
+de graanfabriek
 de graanschuur
-de gracht
 de gracht
 de grachte
 de graeffstraat
@@ -2463,6 +2264,7 @@ de grasparkiet
 de graspieper
 de grasvink
 de grauwert
+de grave
 de graveur
 de grazen
 de grebbe
@@ -2470,34 +2272,32 @@ de greefstraat
 de greend
 de greente
 de greide
-de greide
 de greiden
 de grenadier
-de grens
 de grens
 de grent
 de grenzen
 de greppel
 de greune
+de grevelingen
 de greverije
 de grevinkhof
 de grie
 de griel
 de griend
-de griend
-de grienden
 de grienden
 de griene leane
 de griene singel
-de grieã«n
+de grietman
+de grieÃ«n
 de griffel
 de griffioen
-de grift
 de grift
 de grijze gors
 de grimberg
 de grind
 de grindel
+de grinderij
 de grintfisker
 de grip
 de gripe
@@ -2516,17 +2316,15 @@ de groene trede
 de groene valk
 de groene voorwaarts
 de groene vork
+de groene waarden
 de groene wal
-de groene wiecken
-de groene zoom
-de groene zoom
 de groene zoom
 de groeneboom
 de groeneweg
 de groenkampen
 de groenlanden
 de groenling
-de groenling
+de groenteteler
 de groep
 de groes
 de groese
@@ -2536,6 +2334,7 @@ de groeve
 de groeve oz
 de groeve wz
 de gronckelstraat
+de grondel
 de gronzen
 de groos
 de groot stiffryplantsoen
@@ -2545,6 +2344,7 @@ de groote heeze
 de groote rede
 de groote scheerelaan
 de grooterf
+de grootgrutter
 de grootlaan
 de grootstraat
 de grootte allee
@@ -2553,6 +2353,7 @@ de grote aak
 de grote akker
 de grote beer
 de grote bongerd
+de grote domenie
 de grote driestraat
 de grote elst
 de grote geezenhegge
@@ -2569,25 +2370,18 @@ de groten ekker
 de grouw
 de gruisdonk
 de gruno
-de gruno
-de grunzen
 de gruttenmaat
-de grutter
 de grutter
 de grutterij
 de grutto
-de grutto
 de gruyterpassage
-de grãªft
-de guascostraat
-de guldenmiddenweg
+de grÃªft
+de grÃ»nzen
 de guts
 de gyselaar
-de gã©nestetlaan
-de gã©nestetlaan
-de gã©nestetstraat
-de gã¶tte
-de h#fte
+de gÃ©nestetlaan
+de gÃ©nestetstraat
+de gÃ¶tte
 de haag
 de haagbeuk
 de haaghe
@@ -2598,12 +2392,9 @@ de haal
 de haamen
 de haan
 de haandrik
-de haansberg
 de haanstraat
 de haantjes
 de haanweg
-de haanweg
-de haar
 de haar
 de haard
 de haardstede
@@ -2613,18 +2404,14 @@ de haarhof
 de haarmansenk
 de haarstdiek
 de haarstraat
-de haarstraat
 de haarweg
 de haas okkenstraat
-de haas okkenstraat.
 de haasekker
 de haasstraat
-de hackert
 de haecken
 de haenstraat
 de haer
 de haerde
-de haere
 de haere
 de haerestraat
 de haesweg
@@ -2635,7 +2422,6 @@ de hagebelt
 de hageboek
 de hagedisstraat
 de hagedoarn
-de hagen
 de hagen
 de hagenborgh
 de haghen
@@ -2659,6 +2445,7 @@ de hamerslag
 de hammen
 de hammeren
 de hammeringen
+de hamsteeg
 de hamstraat
 de handboog
 de hanebalken
@@ -2669,17 +2456,16 @@ de hanenbalk
 de hanenberg
 de hangaarts
 de hank
-de hank
 de hannen
 de hanze
 de hardenweg
-de hare
 de hare
 de harendonkweg
 de harenerhof
 de harhammer
 de harke
 de harken
+de harmonie
 de harn
 de harnasch
 de harp
@@ -2690,29 +2476,26 @@ de hartakker
 de hartemaat
 de hartogstraat
 de haspel
-de haspel
 de haspel-boven
 de hasselt
 de haukes
 de havekamp
+de havelaar
 de haven
 de havengang
 de havens
 de haver
 de haverhoek
 de haverkamp
-de haverkamp
 de haverlij
 de havezate
 de havezathe
 de havik
-de havik
 de havixhorststraat
 de haymestraat
 de hazelaar
-de hazelaar
 de hazelaars
-de hazzenãºt
+de hazzenÃºt
 de heak
 de heareburch
 de heasouder
@@ -2725,17 +2508,13 @@ de heemplantsoen
 de heemstraat
 de heenplaat
 de heerd
-de heerd
-de heerdtweg
 de heerdtweg
 de heeren van 's-gravensande
 de heerenhof
 de heerlickheit
 de heerlijkheid
-de heerlijkheid
 de heerlijkheidlaan
 de heersche
-de hees
 de hees
 de heese
 de heest
@@ -2751,24 +2530,23 @@ de heggestraat
 de heggewikke
 de hegmulder
 de hei
-de hei
 de heiberg
 de heibloem
-de heibrã¶k
+de heibrÃ¶k
 de heide
 de heie
 de heihoef
 de heijbloem
+de heijdalen
 de heikampen
-de heikant
 de heikant
 de heinen
 de heining
 de heiningen
-de heiningen
 de heistelling
 de heister
 de heivelden
+de hekel
 de hekkel
 de hekken
 de hekkenslag
@@ -2781,9 +2559,8 @@ de heldinnenlaan
 de helle
 de helleweikes
 de helling
-de helling
 de hellingh
-de hellingh
+de hellinghbrug
 de helm
 de helpende hand
 de helster
@@ -2799,7 +2576,6 @@ de hems
 de hendrick robinetlaan
 de hendse driessen
 de hengmolen
-de henich
 de henich
 de hennenkamp
 de hennepe
@@ -2823,8 +2599,6 @@ de heufkens
 de heugden
 de heugte
 de heul
-de heul
-de heulbank
 de heun
 de heurinks
 de heurne
@@ -2833,10 +2607,8 @@ de heus plein
 de heusweg
 de heuve
 de heuvel
-de heuvel
 de heuvelaar
 de heuvels
-de heuven
 de heuven
 de heyderweg
 de heygraeff
@@ -2850,36 +2622,31 @@ de hikke
 de hil
 de hild
 de hilde
-de hilde
 de hilder
 de hilgenhorst
 de hillebrandink
 de hillen
-de hilt
 de hilt
 de hilte
 de hilver
 de him
 de himmen
 de hingst
+de hirna
 de hoants
 de hoarnen
 de hoaze
 de hobo
 de hochterhof
 de hoef
-de hoef
 de hoef oostzijde
 de hoef westzijde
 de hoefkamp
-de hoefkens
 de hoefkens
 de hoefse weg
 de hoefsevonder
 de hoefslag
 de hoefsmid
-de hoefsmid
-de hoek
 de hoek
 de hoekakker
 de hoekkamp
@@ -2888,14 +2655,13 @@ de hoenderrikken
 de hoep
 de hoepelmaker
 de hoesstie
-de hoeve
+de hoeswej
 de hoeve
 de hoeveler
 de hoeven
-de hoeven
 de hoevenakkers
 de hoevens
-de hof
+de hoevert
 de hof
 de hofcamp
 de hofjes
@@ -2903,21 +2669,18 @@ de hofkamp
 de hofnar
 de hofstad
 de hofstede
-de hofstede
 de hofstee
 de hofvoogd
 de hoge akker
-de hoge akker
 de hoge beek
-de hoge belte
 de hoge bogerd
-de hoge bomen
 de hoge bomen
 de hoge bouwen
 de hoge brug
 de hoge brugstraat
 de hoge dam
 de hoge duvel
+de hoge enk
 de hoge es
 de hoge esch
 de hoge haarweg
@@ -2925,7 +2688,6 @@ de hoge heide
 de hoge hoeve
 de hoge hof
 de hoge hofstraat
-de hoge horst
 de hoge kamp
 de hoge kampen
 de hoge kei
@@ -2944,6 +2706,7 @@ de hoghe weijdt
 de hogt
 de hohorst
 de hokhorst
+de holken
 de hollandergraven
 de hollandse tuin
 de holle bilt
@@ -2957,7 +2720,7 @@ de holterij
 de holtinck
 de holtmaden
 de holtplaats
-de holtskã²le
+de holtskÃ²le
 de holtsprake
 de holwert
 de homeie
@@ -2983,8 +2746,8 @@ de hooge venne
 de hooge vlucht
 de hooge weere
 de hooge wei
-de hooge wei
-de hooge wheeã«n
+de hooge wheeÃ«n
+de hoogebrug
 de hoogedijk
 de hoogenbergpad
 de hoogestraat
@@ -2998,11 +2761,10 @@ de hoogspanningsweg
 de hoogstraat
 de hoogt
 de hoogte
-de hoogte
+de hoogte 9
 de hooiberg
 de hooidollen
 de hooigraven
-de hooilanden
 de hooilanden
 de hooimijt
 de hooislagen
@@ -3012,10 +2774,8 @@ de hooizolder
 de hoon
 de hoop
 de hoopkade
-de hoopkade
 de hoopsteeg
 de hoopstraat
-de hoorn
 de hoorn
 de hoornbloem
 de hoorns
@@ -3023,9 +2783,7 @@ de hoorst
 de hootkamp
 de hooyer
 de hop
-de hop
 de hoper
-de hophoven
 de hophoven
 de hopman
 de hoppen
@@ -3035,16 +2793,15 @@ de horik
 de horionstraat
 de horizon
 de hork
-de hork
 de horn
+de horne
+de hornen
 de hornlanden
 de horre
 de hors
 de horsa
 de horst
-de horst
 de horsten
-de horsten (crescent)
 de horstenbleek
 de horsterkamp
 de horstjens
@@ -3068,30 +2825,24 @@ de houtekster
 de houten
 de houten hoek
 de houtert
+de houthaalder
 de houtkamp
 de houtlandessloot
 de houtmanstraat
-de houtmanstraat
 de houtmars
 de houtsnip
-de houtsnip
-de houtwal
 de houtwal
 de houtwalhof
 de houtwerf
 de houtwielen
-de houtwã¢l
+de houtwÃ¢l
 de houw
 de houwen
-de houwen
-de hove
 de hove
 de hovel
 de hoven
-de hoven
 de hovenier
 de hovenlaan
-de hucht
 de hucht
 de huchtstraat
 de huesmolen
@@ -3106,28 +2857,23 @@ de huisstede
 de huisweid
 de huizen
 de hul
-de hul
 de hulderts
 de hulk
-de hulk
 de hulle
-de hullen
 de hullen
 de hulludwarsstraat
 de hullustraat
 de hulpe
 de hulsen
-de hulst
+de hulshoff
 de hulst
 de hulstlaan
 de hultert
-de hulteweg
 de hulteweg
 de hultinge
 de hunenborg
 de hunnesloot
 de hunselaer
-de hunze
 de hunze
 de hupse
 de hurken
@@ -3140,11 +2886,9 @@ de huysacker
 de huysstee
 de hydra
 de hynsteblom
-de hã´fsjonger
-de hã´ven
-de hã¶fte
-de hã¶fte
-de hã¶rn
+de hÃ´ven
+de hÃ¶fte
+de hÃ¶rn
 de ibis
 de iedyk
 de iel
@@ -3152,7 +2896,6 @@ de ielreager
 de iemker
 de iendrachtwei
 de iennen
-de iep
 de iep
 de iepen
 de iepenwei
@@ -3164,7 +2907,7 @@ de ijsduiker
 de ijsheuvel
 de ijslander
 de ijssel
-de ijsvogel
+de ijsselhank
 de ijsvogel
 de ijvelandssloot
 de ijzeren pot
@@ -3172,8 +2915,6 @@ de ikebosker
 de iken
 de ikker
 de ikkers
-de ikkers
-de imker
 de imker
 de imkershilt
 de immenhorst
@@ -3186,8 +2927,8 @@ de insteek
 de insulindestraat
 de iperen poarte
 de isakke
+de iserman
 de jacht
-de jachthoorn
 de jachthoorn
 de jachtvalk
 de jager
@@ -3201,13 +2942,11 @@ de jagtman
 de jakesreed
 de jakke
 de jammer
-de jammer
 de jan lucaskamp
 de jan van gent
 de janswei
 de jaren
 de jas
-de jasmijn
 de jasmijn
 de java
 de javastraat
@@ -3217,7 +2956,6 @@ de jerden
 de jint
 de jister
 de jokse
-de jol
 de jol
 de joncheerelaan
 de joncheerestraat
@@ -3232,7 +2970,6 @@ de jonghlaan
 de jonghstraat
 de jonglaan
 de jongsingel
-de jongstraat
 de jongstraat
 de jonker
 de joodyk
@@ -3250,30 +2987,28 @@ de kaam
 de kaamp
 de kaanjel
 de kaap
-de kaap
 de kaapstander
 de kaapstraat
 de kaar
 de kaarsenmaker
 de kaart
 de kaasfabriek
+de kaatse bossen
 de kaatse hoeve
 de kabouterberg
 de kabouters
 de kade
-de kade
 de kaempe
+de kaghe
 de kajuit
 de kalder
 de kalderman
 de kalkovens
-de kalkovens
 de kalveren
 de kalverweide
 de kamp
-de kamp
 de kampen
-de kampen
+de kampenaar
 de kamperfoelie
 de kamphof
 de kampzoom
@@ -3281,24 +3016,19 @@ de kandelaar
 de kaneel
 de kansel
 de kantelen
-de kantelen
 de kanterlaan
 de kanterstraat
-de kanthaak
-de kantonnier
-de kap
 de kap
 de kapberg
 de kapel
 de kapelbuurt
 de kapelle
+de kapelse gaard
 de kapittel
-de kappost
-de kar
+de kappersestraat
+de kapschuur
 de kar
 de karekiet
-de karekiet
-de karn
 de karn
 de karos
 de karpaten
@@ -3309,7 +3039,6 @@ de karsseboom
 de karteling
 de kas
 de kassen
-de kastanje
 de kastanje
 de kastanjehof
 de kastanjes
@@ -3324,13 +3053,15 @@ de katuil
 de kaukasus
 de kavelen
 de kazematten
-de kazematten
 de kazerne
+de kear
 de kearnstien
 de keats
+de keech
 de keeg
 de keegen
 de keel
+de keen
 de keeringen
 de keerkring
 de keerploeg
@@ -3340,7 +3071,6 @@ de keetel
 de kegelbaan
 de kegen
 de kegge
-de kei
 de kei
 de keijserstraat
 de keijstraat
@@ -3356,19 +3086,16 @@ de kemfkens
 de kemmer
 de kemnade
 de kemp
-de kemp
 de kempe
 de kempen
 de kempenaar
 de kempenaerlaan
 de kempenaerpark
 de kempenaerstraat
-de kempenaerstraat
 de kempenaersweg
 de kempenaerware
 de kempenbongerd
 de kempenstraat
-de kemphaan
 de kemphaan
 de kempkens
 de kempkes
@@ -3381,7 +3108,6 @@ de kerkhof
 de kerkpad
 de kerkschuur
 de kerkuil
-de kerkuil
 de kersenboomstraat
 de kersentuin
 de kerspel
@@ -3389,7 +3115,6 @@ de kerswerf
 de kerverij
 de kervershilt
 de keten
-de ketting
 de ketting
 de keulen
 de keuning
@@ -3400,21 +3125,16 @@ de keverbergstraat
 de keyserplan
 de keyserstraat
 de keyzerstraat
-de keyzerstraat
 de kibbel
 de kie
 de kieboom
-de kiekendief
 de kiel
 de kiem
 de kiepe
-de kieuwhoek
-de kievit
 de kievit
 de kijkuit
 de kikvors
 de kikvorsch
-de kikvorst
 de kikvorst
 de kil
 de kilder
@@ -3430,7 +3150,6 @@ de kistemaker
 de kjellingen
 de klakert
 de klamp
-de klamp
 de klampbergen
 de klap
 de klapmuts
@@ -3442,49 +3161,46 @@ de klarinet
 de klaster
 de klauwier
 de klaver
-de klaver
 de klaverflat
 de klaverzuring
 de klazenbogt
 de kleefse kamp
 de klef
-de klef
-de kleffen
 de kleffen
 de klei
 de kleiberg
 de klein hei
+de kleine bazemolen
 de kleine bongerd
 de kleine boonakker
+de kleine braak
 de kleine bruggen
 de kleine dijk
 de kleine elst
 de kleine es
 de kleine haar
+de kleine hei
 de kleine kampen
 de kleine kanne
 de kleine kranerweerd
 de kleine lend
 de kleine loods
 de kleine mortel
+de kleine munt
 de kleine overbrug
 de kleine pekken
 de kleine pol
 de kleine weer
 de kleine weide
 de klencke
-de klencke
-de klenckestraat
 de klenckestraat
 de klepelslag
 de klerklaan
 de klerkplan
 de klerkstraat
-de klerkstraat
 de klerkveld
 de kletten
 de kleuskes
-de kleuven
 de klief
 de klieve
 de klim
@@ -3494,60 +3210,57 @@ de klinckert
 de kline
 de kling
 de klingelenberg
-de klinke
+de klingestraat
 de klinke
 de klinken
 de klinker
+de klinze
 de klip
-de klipper
 de klipper
 de kloes
 de kloet
 de klok
+de klokbeker
 de klokkemaat
+de klokkengieter
+de klokkengieterij
 de klokkenmaker
 de klokkeweerd
 de kloksteeg
-de klomp
 de klomp
 de klompenmaker
 de klomphof
 de klompstraat
 de klonjes
 de kloosterhof
-de kloostermate
 de kloostersgang
 de kloostertuin
 de kloplaan
 de klopstraat
-de kloskes
 de klosterhoaf
-de kluft
 de kluft
 de kluftstraat
 de klugt
 de kluijskamp
 de kluis
-de kluitenduikers
 de klumpender
 de klumper
-de klumper
-de kluut
 de kluut
 de klynhoeke
-de klã¶s
-de klã¶skes
-de klãºt
+de klÃ¶s
+de klÃºt
 de knappert
+de knekkeren
 de knepse
 de kniepe
+de knier
 de knijpe
 de knikkermarkt
 de knikkert
 de knip
-de knip
 de knobbe
 de knobben
+de knoest
 de knokert
 de knokkels
 de knolle
@@ -3556,10 +3269,11 @@ de knolschans
 de knoop
 de knoot
 de koai
+de koalstea
 de koamscher
 de koare
 de koarte baan
-de koarte bãºn
+de koarte bÃºn
 de koarte ekers
 de koarte five
 de koaten
@@ -3570,27 +3284,23 @@ de koegangen
 de koekel
 de koekoek
 de koekoeksbloem
-de koekoekswei
 de koel
 de koeldert
 de koele
 de koem
-de koepelbrug
 de koepen
 de koer
 de koers
-de koets
 de koets
 de koetsjekraal
 de koevorde
 de koffe
 de kogel
 de kogge
-de kogge
+de koggen
 de kokshof
 de kolfbank
 de kolibrie
-de kolk
 de kolk
 de kolken
 de kolmar
@@ -3598,7 +3308,6 @@ de kolonie
 de kolonies
 de kolper
 de kom
-de kombuis
 de komeet
 de komenij
 de komme
@@ -3616,7 +3325,6 @@ de konkel
 de konnighstraat
 de koog
 de kooi
-de kooi
 de kooihoek
 de kooikampen
 de kooiker
@@ -3629,11 +3337,9 @@ de koopman
 de kooy
 de kooydreef
 de kop
-de koperslager
+de koperen hoorn
 de koperslager
 de koperwiek
-de koperwiek
-de koppel
 de koppel
 de koppel paarden
 de koppele
@@ -3644,38 +3350,30 @@ de kor
 de koraaljuffer
 de koren
 de korenaar
-de korenaar
 de korenbeurs
 de korenbloem
 de korenkamp
 de korenmolen
 de korf
-de korf
 de korrel
 de korstbroeken
-de korstbroeken
-de korte akker
 de korte akker
 de korte baan
 de korte beemdens
 de korte boog
 de korte drift
 de korte fok
-de korte fok
 de korte geer
 de korte helster
 de korte lange
-de korte loop
 de korte loop
 de korte louwstraat
 de korte schoor
 de korte slagenweg
 de korte spruit
-de korte spruit
 de korte voorn
 de korte vore
 de korte wetering
-de korte zuwe
 de korten
 de korten bruggert
 de korterak
@@ -3686,8 +3384,6 @@ de korverplantsoen
 de korverstoep
 de kostee
 de kosterij
-de kosterij
-de kosterijstraat
 de kosterijstraat
 de kosterskamp
 de kota baroestraat
@@ -3696,6 +3392,7 @@ de kottergoren
 de koumen
 de kouwe noord
 de kouwenberg
+de kraaienberg
 de kraaienboom
 de kraaijenbeek
 de kraak
@@ -3711,11 +3408,9 @@ de krammer
 de kramsvogel
 de kranenpoel
 de krans
-de krans
 de kranshof
 de kranssen
 de kreeck
-de kreek
 de kreek
 de kreekdam
 de kreekrug
@@ -3734,8 +3429,6 @@ de krijntjes
 de krijt
 de kriken
 de krim
-de krimp
-de krimpe
 de krimpe
 de krimpen
 de krimte
@@ -3747,21 +3440,19 @@ de kroeskarper
 de kroetpers
 de kroft
 de krogt
-de krokweg
 de krom
 de kromelle
 de kromme akker
 de kromme geer
 de kromme nol
 de kromme rijn
-de kromme sã¢ne
+de kromme sÃ¢ne
 de krommenhoek
 de krommert
 de krommertstraat
 de kromte
 de kromten
 de kronkels
-de kroon
 de kroon
 de kroonakker
 de kroonenburg
@@ -3785,23 +3476,20 @@ de kruisboog
 de kruiskamp
 de kruithoff
 de kruithuisjes
-de krullen
+de krul
 de krumpel
 de krunen
 de kruse
 de kryk
-de krã¢nse
-de krã¶n
-de krãºsstrjitte
+de krÃ¢nse
+de krÃ¶n
+de krÃºsstrjitte
 de kubbing
 de kuier
 de kuijl
 de kuil
-de kuil
-de kuil
 de kuilart
 de kuile
-de kuilen
 de kuilen
 de kuilenaar
 de kuilenweg
@@ -3809,12 +3497,9 @@ de kuilweg
 de kuinder
 de kuip
 de kuiper
-de kuiper
-de kuiperij
 de kuiperij
 de kuipersweg
 de kuipertjes
-de kulck
 de kulck
 de kulder
 de kule
@@ -3826,28 +3511,24 @@ de kupe
 de kupen
 de kupstraat
 de kure
-de kurver
 de kust
 de kuul
 de kuuper
 de kuyperij
-de kuyperij
 de kuyperlaan
 de kwakel
 de kwakels
-de kwakkel
 de kwartel
 de kwartelkoning
+de kwebben
 de kweek
 de kwekerij
-de kwekerij
-de kwekerij2
 de kwekerije
 de kwikkebei
 de kwikstaart
 de kwinkelier
-de kã»pe
-de kã»per
+de kÃ»pe
+de kÃ»per
 de la bassecour caanstraat
 de la gardestraat
 de la genestestraat
@@ -3855,26 +3536,18 @@ de la margellelaan
 de la marplein
 de la minestraat
 de la reijstraat
-de la reijstraat
-de la reijweg
 de la reijweg
 de la reylaan
-de la reylaan
-de la reystraat
 de la reystraat
 de la reyweg
 de la rivestraat
-de la rivestraat
-de la sabloni(rekade
-de la sabloniã¨rekade
-de la sallestraat
+de la sabloniÃ¨rekade
 de la sallestraat
 de laagjes
 de laagt
 de laaijen
 de laak
-de laak
-de laan
+de laakse slenk
 de laan
 de laan van westlands roem
 de laar
@@ -3883,9 +3556,9 @@ de laarstukken
 de laat de kanterstraat
 de laathof
 de laatste stuiver
+de laborant
+de ladewein
 de laeck
-de laeck
-de laegte
 de laegte
 de laerweye
 de lafayettestraat
@@ -3902,7 +3575,6 @@ de lagewaard
 de laghe weijdt
 de lagune
 de lairesselaan
-de lairessestraat
 de lairessestraat
 de lamartinestraat
 de lambertstraat
@@ -3925,20 +3597,19 @@ de lanen
 de lang dreef
 de langakkers
 de lange akker
-de lange akker
 de lange baan
 de lange beemdens
 de lange dreef
 de lange drift
-de lange fã¢lom
+de lange fÃ¢lom
 de lange gangh
 de lange garde
+de lange heuf
 de lange jacht
 de lange jap
 de lange kant
 de lange krag
 de lange lont
-de lange loop
 de lange loop
 de lange luier
 de lange luier noord
@@ -3961,7 +3632,6 @@ de langekker
 de langeloop
 de langen bruggert
 de langendijk
-de langestraat
 de langeweg
 de langkamp
 de langrijt
@@ -3969,17 +3639,14 @@ de langvelden
 de langveter
 de laning
 de lannoystraat
-de lannoystraat
 de lanoy meijerhof
 de lansing
 de lapjeskat
 de laren
 de larespad
 de lariks
-de lariks
 de larinck
 de larix
-de lasso
 de lasso-zuid
 de lastdrager
 de lat
@@ -3991,7 +3658,6 @@ de lauden
 de laurier
 de lauwerpoort
 de lauwers
-de lauwers
 de lavalstraat
 de lavei
 de leane
@@ -3999,7 +3665,6 @@ de lebber
 de leck
 de lede
 de lee
-de leegte
 de leegte
 de leek
 de leemboer
@@ -4012,7 +3677,6 @@ de leenkamer
 de leerbrief
 de leesakker
 de leest
-de leest
 de leet
 de leeuw
 de leeuw van vlaanderenstraat
@@ -4020,8 +3684,7 @@ de leeuwebek
 de leeuwentand
 de leeuwerik
 de leeuwerikstraat
-de leeuwhof
-de leeuwstraat
+de leeuwlaan
 de leeuwstraat
 de legakker
 de legboor
@@ -4031,12 +3694,11 @@ de legge
 de leggende osstraat
 de legt
 de lei
-de lei
 de leibeek
 de leiding
 de leigraaf
 de leije
-de leijen
+de leije a
 de leijen
 de leijerweg
 de leijte
@@ -4049,13 +3711,14 @@ de lemzijde
 de lend
 de lender
 de leng
+de lenne
 de lent
-de lente
 de lente
 de lenten
 de lentenier
+de lepel
 de lepelaar
-de lepelaar
+de leppa
 de leppers
 de lerodestraat
 de lespaullaan
@@ -4068,9 +3731,11 @@ de leucker
 de leuke
 de leuken
 de leuper
+de leur
 de leuremaat
 de leuren
 de leyen
+de leysing
 de leystarlaan
 de lhee
 de libel
@@ -4078,7 +3743,6 @@ de librije
 de lichtenburg
 de lichtert
 de liefde
-de liende
 de liende
 de lient
 de lier
@@ -4089,7 +3753,7 @@ de lierstraat
 de liesbosch
 de liesende
 de liesewey
-de liespã´le
+de liespÃ´le
 de lieverdonk
 de lieverhof
 de liezen
@@ -4098,20 +3762,16 @@ de lighof
 de lignestraat
 de lijkant
 de lijnbaan
-de lijndrijver
 de lijnstukken
 de lijster
-de lijsterbes
 de lijsterbes
 de limes
 de limiet
 de limpensstraat
 de lind
 de linde
-de linde
 de lindeboom
 de lindehove
-de linden
 de linden
 de lindenhof
 de lindesteeg
@@ -4120,14 +3780,13 @@ de line
 de linebeam
 de linebeammen
 de linge
-de linge
 de lingebrug
 de lingert
-de lingestraat
 de lingestraat
 de lingst
 de linie
 de linnenbleker
+de linnenhof
 de lint
 de lipizzaner
 de lirp
@@ -4141,7 +3800,6 @@ de ljits
 de ljurk
 de loaboer
 de loads
-de loads
 de loane
 de loanekampen
 de loanen
@@ -4154,19 +3812,15 @@ de loentjes
 de loet
 de loete
 de loetenweg
+de loffshoeve
 de logger
-de logger
-de logt
 de logt
 de logten
-de lom de berghlaan
 de lom de bergstraat
 de lombardije
-de loo
+de longeerlijn
 de loo
 de looch
-de loods
-de loods
 de loodsen
 de loofgang
 de loohof
@@ -4177,32 +3831,31 @@ de looijakker
 de look
 de loonwerker
 de loop
-de loop
 de loopert
 de loopgraven
 de loorhof
 de loortjen
 de lootenweg
-de lootenweg
 de looyen
 de loozepad
+de loozermars
 de lopensaet
-de loper
-de loper
 de loper
 de lopinge
 de lormestraat
 de lormstraat
 de losplaats
-de losplaats
 de lossing
 de loswal
-de loswal
+de loswalslag
 de lotten
 de louterlaan
 de louterstraat
 de louw
 de louwstraat
+de lucht
+de lucht-oost
+de lucretia
 de lugt
 de luinink
 de luistruik
@@ -4210,24 +3863,24 @@ de luit
 de lumeystraat
 de lunetten
 de lus
-de lus
 de luther
 de luts
+de lutte 34
 de luttebrink
 de lutteresweg
 de luttergreppel
 de luttestraat
+de luwte
+de lyster
 de lysterfanger
 de lyts ein
 de lytse brekken
-de lã»ken
+de lÃ»ken
 de maai
 de maaidorser
 de maaier
-de maaiersbrug
 de maalderij
 de maalkom
-de maalsteen
 de maalsteen
 de maalstroom
 de maandeweg
@@ -4235,17 +3888,15 @@ de maar
 de maareberg
 de maarschalk
 de maas
-de maas
 de maasakkers
-de maaserm
 de maashoevenweg
 de maashoven
 de maasvallei
 de maat
-de maat
 de maatjes
 de maatjeshof
 de maccabae
+de machinist
 de made
 de madelief
 de maden
@@ -4255,16 +3906,15 @@ de magnolia
 de mahonie
 de maipustraat
 de maire
-de maiskolf
+de majoor
 de makelaar
 de malapertweg
 de malberg
-de mallejan
 de malthezer
 de malus
 de mamuchetweg
+de mandarijn
 de mandel
-de mandenmaker
 de mandenmaker
 de mandestraat
 de mandreef
@@ -4276,13 +3926,13 @@ de mans
 de manstraat
 de mantelmeeuw
 de mar
+de maraat
 de maraboe
 de mare
 de mareesstraat
 de maren
 de margryt
 de mark
-de marke
 de marke
 de marke van leusen
 de markerichter
@@ -4291,12 +3941,12 @@ de markgraven
 de markies
 de markol
 de markt
+de markte
 de marne
 de marnix
 de maroc
 de marowijne
 de marren
-de mars
 de mars
 de marsen
 de marsenstede
@@ -4304,48 +3954,42 @@ de marsenweg
 de marsjes
 de marsschen
 de marter
-de martinet
 de masemude
 de mast
 de mastenbroek
 de mate
 de maten
-de maten
 de matenstraat
 de matestraat
 de mathaak
 de meander
-de meander
-de mear
 de meekrap
 de meeldraad
 de meelkuip
 de meelzak
 de meene
 de meent
-de meent
 de meente
-de meente
-de meenthe
+de meenten
 de meenthe
 de meenthehof
 de meer
 de meerakkers
 de meerberg
 de meerdam
-de meerdam
 de meerdammen
-de meeren
 de meeren
 de meerenweg
 de meerheuvel
 de meerkoet
-de meerkoet
 de meerlanden
 de meerleweg
 de meerling
+de meermin
+de meern 15
+de meernbrug
 de meerpaal
-de meerpaal
+de meers
 de meerval
 de mees
 de meesterproef
@@ -4354,7 +3998,6 @@ de meesterware
 de meestoof
 de meet
 de meeten
-de meeten pad
 de meeting
 de meeuw
 de meeuwen
@@ -4366,7 +4009,6 @@ de meibloem
 de meibree
 de meibrink
 de meidoorn
-de meidoorn
 de meierij
 de meij
 de meij van streefkerkstraat
@@ -4376,13 +4018,12 @@ de meijstraat
 de meikers
 de meilers
 de meiren
-de mekãºljes
+de mekÃºljes
 de melcksloot
 de melemstraat
 de melkfabriek
 de melkpotte
 de melksuiker
-de melter
 de melter
 de memmert
 de mente
@@ -4390,14 +4031,11 @@ de mepscheweg
 de merel
 de merelle
 de meren
-de meren
-de mergen
 de mergen
 de mergkool
 de meridiaan
 de merk
 de merkis
-de merodestraat
 de merodestraat
 de merret
 de merriemaden
@@ -4417,18 +4055,17 @@ de meute
 de meutelaer
 de mey van streefkerklaan
 de meylaan
-de meylaan
+de middeld
 de middelgeast
 de middelline
 de midden trompschestraat
 de middend
 de middenlijn
-de middenlijn
 de middenloop
+de middenstip
 de middenweg
 de midvoor
 de miede
-de mieden
 de mieden
 de miedwei
 de mielgong
@@ -4446,33 +4083,28 @@ de mirandalaan
 de mirandastraat
 de mispel
 de misse
-de misse
 de mississippi
 de mister
 de moark
 de moarrewei
-de moat
 de moeraseik
 de moerasorchidee
 de moerkens
 de moeshof
 de moesmate
 de moestuin
-de moestuin
 de moete
 de moezel
 de mok
 de moken
 de molen
-de molenbeemd
+de molenaar
 de molenbeemd
 de molenborg
 de molengang
 de molenhof
 de molenkamp
-de molenkamp
 de molenpol
-de molensteen
 de molensteen
 de molenstreng
 de molentjes
@@ -4480,9 +4112,9 @@ de molenven
 de molenwiek
 de molier
 de mollstraat
+de molt
 de mommers
 de monchyplein
-de mondaf
 de monden
 de monding
 de mondriaan
@@ -4506,16 +4138,15 @@ de morgenzon
 de moriaan
 de morinel
 de mors
-de mors
 de morsboer
 de mortel
+de mortelbochten
 de mortelhof
 de mortelkes
 de moseik
 de mosk
 de mossel
 de mossendam
-de mosterdfabriek
 de moucheronstraat
 de mounder
 de mudde
@@ -4534,7 +4165,6 @@ de munckhof
 de munnik
 de munnikplein
 de munniksplaat
-de munster
 de munte
 de muntelaan
 de munter
@@ -4549,15 +4179,12 @@ de mutsenmaakster
 de muur
 de muy
 de muzen
-de mã¨re
-de mã©rodelaan
-de mã©rodestraat
-de mã©rodestraat
-de mãªden
-de mã¶lle
-de mã¶lle
-de mã¶sbrink
-de mã»zel
+de mÃ¨re
+de mÃ©rodelaan
+de mÃ©rodestraat
+de mÃªden
+de mÃ¶lle
+de mÃ¶sbrink
 de naal
 de naald
 de naaldenmaker
@@ -4577,10 +4204,9 @@ de neerlanden
 de negen geerzen
 de negen sneesweg
 de negenberg
-de negende straat
-de negentiende straat
+de negenhoek
 de negristraat
-de nerã©estraat
+de nerÃ©estraat
 de nes
 de ness
 de nesse
@@ -4594,11 +4220,9 @@ de niagara
 de nie
 de nielt
 de niers
-de nieuwe
 de nieuwe aanleg
 de nieuwe dijk
 de nieuwe engel
-de nieuwe erven
 de nieuwe erven
 de nieuwe gast
 de nieuwe haven
@@ -4609,43 +4233,33 @@ de nieuwe roef
 de nieuwe vaart
 de nieuwe zoek
 de nieuwedijk
-de nieuwegraven
 de nieuwekamp
 de nieuweling
 de nieuwenberg
-de nieuwenberg
 de nieuwenhof
-de nieuwenhof a
-de nieuwenhof b
-de nieuwenhof c
-de nieuwenhof d
 de nieuwesluis
 de nieuwkamp
-de nijdam
 de nije daam
 de nije herne
 de nije kamers
-de nije nering
 de nije nering
 de nije oanliz
 de nije reed
 de nije sleat
 de nijkampen
 de nijstad
-de nijstãªd
+de nijstÃªd
 de nijverheid
 de nijverheidstraat
-de njoggen ã¢lde mantsjes
+de njoggen Ã¢lde mantsjes
 de nobelaerweg
 de nobelpad
 de nobelstraat
 de noesten
 de nolle
 de nollen
-de nollen
 de noolen
 de noor
-de noord
 de noord
 de noordbank
 de noordelijke kampen
@@ -4657,13 +4271,14 @@ de noorderlaaik
 de noordkade
 de noordster
 de noordsterweg
+de noordwalhof
 de noostraat
 de nort
 de notenhoek
 de notenkraker
 de nova cura
 de nutteler
-de nã´ling
+de nÃ´ling
 de oanrin
 de oase
 de oasterwei
@@ -4673,11 +4288,11 @@ de oehoe
 de oelerbeek
 de oere
 de oergong
+de oerhaal
 de oerset
 de oerslach
 de oester
 de oetendonken
-de oever
 de oever
 de oeverlanden
 de oeverlibel
@@ -4691,18 +4306,13 @@ de olde hof
 de oldehofstede
 de oldenoord
 de oliemolen
-de oliemolen
 de oliepot
-de olieslager
 de olieslager
 de olifant
 de olijflijster
 de olmen
-de olmen
 de olvendijk
 de omgang
-de omgang
-de omloop
 de omloop
 de ommegang
 de ommegank
@@ -4736,37 +4346,36 @@ de oper
 de opera
 de opfaart
 de opfeart
-de opfeart
 de opgang
 de opkamer
 de oplang
 de oplegger
 de oplossing
 de opper
-de opper
 de oppers
 de oppervloer
 de oprijlaan
 de opril
 de opslach
-de opslach
-de opslag
 de opslag
 de opstekker
 de optimist
+de opzichter
 de oranjeboom
-de oranjeboom
+de oranjerie
+de orderloper
 de orion
-de oriã«nt
-de ortolaan
+de oriÃ«nt
 de ortolaan
 de ossenberg
 de ossenboer
 de otter
 de oude baan
 de oude bergsebaan
+de oude beurs
 de oude bleijk
 de oude bocht
+de oude brouwerstraat
 de oude drukkerij
 de oude grutmolen
 de oude haven
@@ -4778,7 +4387,6 @@ de oude kooien
 de oude leemput
 de oude mars
 de oude melkhaven
-de oude molen
 de oude molen
 de oude munt
 de oude oost
@@ -4798,24 +4406,21 @@ de oude watertoren
 de oude weg
 de oude wei
 de oude weid
-de oude wereld
 de oude werf
-de oude wijk
-de oude wijk
 de oude ziele
 de oude zwan
 de oudendijk
 de oudenhage
-de overgooischezoom
+de ouwe tuijn
+de overbrugging
 de overhaal
+de overlaat
 de overloop
 de overloper
 de overmaat
 de overspitting
 de oversteek
-de oversteek
 de overstoep
-de overtoom
 de overtoom
 de overtuin
 de overtweg
@@ -4842,7 +4447,6 @@ de padjes
 de padweie
 de paerdsdrink
 de pagenberg
-de pagenberg
 de pagterstraat
 de pal
 de paldert
@@ -4862,7 +4466,6 @@ de pannelaan
 de pannenschuurhoeve
 de panoven
 de papaver
-de papeling
 de papemuslaan
 de papenmoeren
 de papiermaker
@@ -4877,29 +4480,28 @@ de park
 de parkelaar
 de parken
 de parkiet
+de parlevinker
 de parnassia
 de parse
 de pas
-de pas
 de passaazje
-de passage
 de passage
 de passen
 de passerot
 de passie
+de pastorietuin
 de pastorij
 de patrijs
 de paulus
 de pauselijke staten
-de pauw
 de pauw
 de pauwe
 de pauwentuin
 de pavert
 de pedde
 de peel
-de peel
 de peeldijk
+de peelduiker
 de peer
 de peereboomstraat
 de peerelstraat
@@ -4915,11 +4517,9 @@ de pelikaan
 de pellenhof
 de pellenwever
 de pelmolen
-de pelslap
 de pelsweg
 de pensteen
 de peperbus
-de peppel
 de peppel
 de peppelaar
 de peppelpas
@@ -4932,7 +4532,6 @@ de perponcherpolderweg
 de perponcherstraat
 de perserij
 de pesch
-de pesch
 de pesser
 de pette
 de pettelaarse schans
@@ -4944,9 +4543,9 @@ de pienhoek
 de piepe
 de pieper
 de pier
+de piet
 de pieterberg
 de pieterlanden
-de pietweg
 de piip
 de pijl
 de pijlstaart
@@ -4977,7 +4576,6 @@ de plaats
 de plaatse
 de plaatsen
 de plaetse
-de plaggenhouwer
 de plak
 de planckweg
 de planeet
@@ -4985,25 +4583,20 @@ de plank
 de plantage
 de planter
 de plas
-de plas
-de plasse
 de plasse
 de plassen
-de plataan
+de plassen noord
+de plassen zuid
 de plataan
 de platanen
 de platkuil
 de platte kreek
 de platweerd
 de pleats
-de pleats
 de pleatsen
 de plecht
 de pleijt
-de pleijt
 de plevier
-de plevier
-de ploeg
 de ploeg
 de ploeger
 de ploeglaan
@@ -5015,13 +4608,12 @@ de poel
 de poele
 de poelkes
 de poelsnip
-de poelzoom
 de poffert
-de pol
 de pol
 de polanensingel
 de polder
 de polderstraat
+de polderwerker
 de polenkamp
 de poll
 de poll-laan
@@ -5031,7 +4623,6 @@ de pollenbrink
 de pols
 de pomerio
 de pomp
-de pompenmaker
 de pompenmaker
 de pompers
 de pompstraat
@@ -5044,7 +4635,6 @@ de pontsjer
 de pony
 de poon
 de poort
-de poort
 de poorter
 de poorterstraat
 de poorthoek
@@ -5052,8 +4642,6 @@ de poortmaat
 de popels
 de poppe
 de populier
-de populier
-de populieren
 de populieren
 de poseidonwerf
 de postdreef
@@ -5071,28 +4659,25 @@ de pothof
 de potstal
 de pottegieter
 de potten
-de potten
 de pottenbakker
-de pottenberg
-de potterestraat
 de potterestraat
 de potterij
 de potvis
-de praam
 de praam
 de pracht
 de praets
 de prangen
 de pream
 de preker
+de president willy claes
 de presstraat
 de prikken
 de prins
 de prinsenhof
 de priorij
-de producent
 de promesse
 de protter
+de provisorie
 de pruikenmaker
 de pruis
 de prunus
@@ -5100,9 +4685,8 @@ de prysterfinne
 de pulle
 de pulserstraat
 de punder
+de punderink
 de punt
-de punt
-de punter
 de punter
 de put
 de putstoel
@@ -5111,19 +4695,15 @@ de putten heide
 de puttense roe
 de putter
 de puyeweg
-de pã´le
-de pã´le
-de pã´lle
-de pã´lle
+de pÃ´le
+de pÃ´lle
 de quackstraat
 de quattel
 de quayhof
 de quaylaan
 de quaystraat
-de quaystraat
 de quayweg
 de raadsheer
-de raadstraat
 de raadstraat
 de raadtweg
 de raaf
@@ -5161,10 +4741,10 @@ de ravenberg
 de reade klaver
 de reak
 de realiteit
-de reaumurstraat
 de rede
 de reden
 de redepassage
+de rederijker
 de redoute
 de ree
 de reeakker
@@ -5176,7 +4756,6 @@ de reehorst
 de reek
 de reep
 de reest
-de reest
 de regeakker
 de regenboog
 de regenboogkade
@@ -5185,21 +4764,20 @@ de regent
 de regentesse
 de regenwulp
 de regge
-de regge
 de regtstraat
 de reiden
 de reidflechter
-de reidtã»gel
+de reidtÃ»gel
 de reiger
 de reigerstraat
 de reijenburg
 de reijmer
 de reimer
+de rein
 de reiskameraad
 de reit
 de reitstraat
 de rekere
-de reling
 de reling
 de rembrandt
 de remer
@@ -5207,10 +4785,7 @@ de remise
 de remize
 de ren
 de renbaan
-de renbaan
 de renne
-de renne
-de rentmeester
 de rentmeester
 de renvogel
 de repel
@@ -5230,7 +4805,6 @@ de richter
 de richtershof
 de ridderskamp
 de ridderstraat
-de ridderstraat
 de rie
 de ried
 de riede
@@ -5248,19 +4822,15 @@ de rietakker
 de rietdam
 de rietdekker
 de riete
-de riete
 de rieten
 de rietgans
-de rietgors
 de rietgors
 de riethoek
 de riethof
 de rietkraag
 de rietlanden
-de rietlanden
 de rietmattenmaker
 de rietmussen
-de rietput
 de rietput
 de rietschans
 de rietsteeg
@@ -5288,16 +4858,13 @@ de rijstvogel
 de rijsvenseweg
 de rijswaard
 de rijt
-de rijt
 de rijtjes
-de rik
 de rik
 de rikke
 de rikken
 de rikkeweie
 de rikking
 de rille
-de ring
 de ring
 de ringel
 de ringmus
@@ -5325,18 +4892,13 @@ de roder
 de roe
 de roede
 de roedel
-de roedel
 de roeden
 de roef
-de roef
 de roei
-de roei
-de roek
 de roek
 de roemer
 de roemerstraat
 de roer
-de roerdomp
 de roerdomp
 de roerenmaker
 de roest
@@ -5348,13 +4910,12 @@ de roggeberg
 de roggebloem
 de rogter
 de rolders
-de rolders
 de rolle
 de rolpeal
 de rombade
 de romein
 de romme
-de ronde
+de romrijten
 de ronde
 de ronde maat
 de ronde zeven
@@ -5374,7 +4935,6 @@ de roolaan
 de roonlaan
 de roop
 de roos
-de roos
 de roos van dekama
 de roos van dekamaweg
 de roosdom
@@ -5386,12 +4946,10 @@ de rooystraat
 de roozendries
 de roskam
 de rosmolen
-de rosmolen
 de rossecker
 de roterij
 de roting
 de rotonde
-de rotor
 de rotsduif
 de rotstuin
 de rottefalle
@@ -5401,7 +4959,6 @@ de rotterdamweg
 de rougemont-nes
 de rouwaer
 de roverestraat
-de roy van zuidewijnlaan
 de roy van zuidewijnlaan
 de roylaan
 de royschans
@@ -5413,7 +4970,6 @@ de rozentuin
 de rozetuin
 de rubus
 de rug
-de rug
 de ruif
 de ruige hoek
 de ruige waard
@@ -5421,13 +4977,9 @@ de ruigehoek
 de ruijt
 de ruijtbaan
 de ruijterkade
-de ruijterkade
-de ruijterlaan
 de ruijterlaan
 de ruijterplein
 de ruijterstraat
-de ruijterstraat
-de ruijterweg
 de ruijterweg
 de ruil
 de ruiser
@@ -5440,11 +4992,11 @@ de ruiterstraat
 de ruiting
 de ruivert
 de run
-de run
 de run 7100
 de run 7200
 de runde
 de rungraaf
+de running
 de runsvoort
 de rusken
 de rusthoek
@@ -5458,23 +5010,17 @@ de ruybosch
 de ruyschlaan
 de ruyter de wildtlaan
 de ruyterlaan
-de ruyterlaan
 de ruyterplein
 de ruyterstraat
-de ruyterstraat
-de ruyterweg
 de ruyterweg
 de ryd
 de ryge
 de ryp
 de rysloane
-de rysloane
-de rã¢ne
-de rã¢nne
-de rã©aumurstraat
-de rã©aumurstraat
-de rã»pelbank
-de sa
+de rÃ¢ne
+de rÃ¢nne
+de rÃ©aumurstraat
+de rÃ»pelbank
 de sa
 de saedkampe
 de saele
@@ -5488,20 +5034,15 @@ de sandsteeg
 de sanstraat
 de santbrincke
 de santmark
-de sanvelisberg
 de saren
 de sauveurplantsoen
 de sauveurstraat
 de savornin lohmanhof
-de savornin lohmanhof
-de savornin lohmanlaan
 de savornin lohmanlaan
 de savornin lohmanpad
 de savornin lohmanplantsoen
 de savornin lohmanplein
 de savornin lohmansingel
-de savornin lohmanstraat
-de savornin lohmanstraat
 de savornin lohmanstraat
 de savornin lohmanweg
 de sayter
@@ -5509,6 +5050,7 @@ de schaaf
 de schaape wei
 de schaapherderstraat
 de schaapsbrug
+de schaapsteeg
 de schaapvijver
 de schaar
 de schaarsen
@@ -5520,13 +5062,10 @@ de schaepstal
 de schafterekker
 de schagense snees
 de schakel
-de schakel
 de schakelaar
 de schalck
 de schalm
-de schalm
 de schammelte
-de schans
 de schans
 de schans 10
 de schans 14
@@ -5540,7 +5079,6 @@ de schanswal
 de schar
 de scharcamp
 de scharing
-de scharren
 de schauwhof
 de scheenen
 de scheepshelling
@@ -5559,10 +5097,8 @@ de schenkel
 de schepegaten
 de schepel
 de schepen
-de schepen
 de schepenen
 de schepenstraat
-de scheper
 de scheper
 de scheperij
 de schepershilt
@@ -5585,11 +5121,9 @@ de schilkampen
 de schimmerik
 de schinkel
 de schipbeek
-de schipbeek
 de schipperij
 de schoefel
 de schoemaker
-de schoener
 de schoener
 de schoepen
 de schoerweg
@@ -5597,7 +5131,6 @@ de schoevert
 de schoffel
 de schoffelaar
 de schokker
-de scholekster
 de scholekster
 de scholmaat
 de scholtis
@@ -5612,21 +5145,20 @@ de schoomaker
 de schoonberg
 de schoorsteen
 de schop
-de schop
 de schopschijf
 de schoren
 de schorpioen
 de schorrenstraat
 de schoten
 de schothoek
+de schotte
 de schout
-de schout
-de schouw
 de schouw
 de schouwgraaf
 de schoven
 de schovenbinder
 de schraa
+de schrabber
 de schrieken
 de schrijnwerker
 de schrijver
@@ -5644,26 +5176,23 @@ de schutspatroon
 de schutstraat
 de schutte
 de schutter
-de schutter
 de schutterij
 de schutterije
 de schuttershof
 de schuttevaerlaan
 de schuur
-de schã¶ppe
+de schÃ¶ppe
 de seame
 de seilier
 de seine
-de seine
 de seize
-de sering
 de sering
 de seringen
 de serpeling
 de setangel
 de shetlander
+de siep
 de sijs
-de sikkel
 de sikkel
 de sil
 de sile
@@ -5673,14 +5202,12 @@ de simmen
 de simmerkrite
 de simsonstraat
 de singel
-de singel
 de singelhof
 de sint pieter
 de sint willebrordus
 de sipen
 de siptenpad
 de sitterlaan
-de sitterstraat
 de sitterstraat
 de sitterweg
 de sjees
@@ -5692,19 +5219,21 @@ de skeakels
 de skeauwen
 de skelp
 de skeperij
+de skeppe
 de skieding
-de skieppepoel
 de skilbank
+de skodder
 de skou
 de skries
 de skulp
 de skulper
 de skuorre
 de skuorrereed
-de skã¢ns
-de skã»te
-de skã»tmakker
+de skÃ¢ns
+de skÃ»te
+de skÃ»tmakker
 de slaaijen
+de slachte
 de slachten
 de slachterij
 de slag
@@ -5712,12 +5241,12 @@ de slagen
 de slagenweg
 de slaiten
 de slatten
-de sleatswã¢l
+de sleatswÃ¢l
 de sleedoorn
 de slegge
 de slek
 de slenk
-de slenk
+de slenken
 de sleutel
 de sleutelkamp
 de slienger
@@ -5727,11 +5256,9 @@ de slijper
 de slikkenburg
 de slikslede
 de slinger
-de slinger
 de slingerkamp
 de slingeweg
 de slink
-de slinke
 de slinke
 de slinken
 de sloep
@@ -5742,15 +5269,13 @@ de slotweide
 de slufter
 de sluijs
 de sluis
-de sluis
 de sluiskampen
 de sluistocht
 de sluiswachter
 de sluiter
-de sluiter
 de sluys kreek
-de slãºs
-de slã»s
+de slÃºs
+de slÃ»s
 de smagt
 de smak
 de smalle weide
@@ -5758,21 +5283,21 @@ de smalle zijde
 de smalzij
 de smaragd
 de smaragdlibel
+de smarpot
 de smaus
-de smederij
 de smederij
 de smederijgang
 de smeding
 de smeedtoren
 de smeelen
 de smelen
-de smethstraat
+de smelterij
 de smeule
 de smid
 de smidboer
 de smidse
-de smidse
 de smidte
+de smient
 de smis
 de smjunt
 de sneeuwuil
@@ -5780,17 +5305,15 @@ de snel
 de snelbinder
 de snep
 de snieder
-de snieder
 de snijder
 de snik
 de snikke
-de snip
 de snip
 de snipfanger
 de snit
 de snoek
 de snoekbaars
-de snoekbaars
+de snoekcbears
 de snoostraat
 de soal
 de soel
@@ -5800,15 +5323,11 @@ de sonman
 de sonnavillestraat
 de sonneveld
 de sont
-de soom
 de soppeweg
 de sorteur
 de spa
 de spaak
-de spaak
-de spaanders
 de spaarpot
-de spade
 de spade
 de spaier
 de spanakker
@@ -5821,33 +5340,26 @@ de spartaan
 de specerij
 de specht
 de speelman
-de speet
 de speije
 de speldenmaker
-de sperwer
 de sperwer
 de spie
 de spiegel
 de spieker
 de spiering
-de spiering
 de spijk
 de spijker
 de spijkert
 de spijlen
-de spijlen
 de spijnderstoren
 de spiker
 de spil
-de spil
 de spin
-de spinde
 de spinde
 de spindel
 de spinhoek
 de spinne
 de spinnekop
-de spinner
 de spinner
 de spinnerij
 de spinozastraat
@@ -5860,6 +5372,7 @@ de splitting
 de spoarbyls
 de spoelerij
 de spokkeriete
+de sponning
 de spool
 de spoormakerslus
 de sporck
@@ -5867,23 +5380,20 @@ de sporen
 de sporeplein
 de sporesingel
 de sportweide
+de sprang
 de spreeuw
-de spreng
 de spreng
 de sprenkel
 de sprink
-de sprong
 de sprong
 de spruit
 de sprung
 de sprunk
 de staaiweg
 de staal
-de staaltjes
+de staalmeester
 de staart
 de staat
-de staat
-de stad
 de stad
 de stad riga
 de stadspoort
@@ -5905,28 +5415,20 @@ de stapel
 de stapeling
 de stappert
 de star
-de star
 de starckenrode
 de start
-de statendam
 de stater
 de statie
-de statie
-de stator
 de stede
 de steech
 de steeg
-de steeg
-de steeg ab
+de steeg 3
 de steegde
 de steege
-de steege
 de steegen
-de steegh
 de steeghe
 de steek
 de steekse acker
-de steen
 de steen
 de steenakkers
 de steenbaan
@@ -5946,26 +5448,20 @@ de steenkuil
 de steenmaat
 de steenmarter
 de steenoven
-de steenoven
 de steenovens
 de steenuil
 de steenweg
 de steenzager
 de steerne
 de steg
-de steg
-de stege
 de stege
 de stegen
 de stegge
 de steiger
-de steiger
 de steilsprong
-de stek
 de stek
 de steke
 de stekelweie
-de stelle
 de stelle
 de stelling
 de stelling 10
@@ -5975,7 +5471,6 @@ de stelling 13
 de stelling 14
 de stelling 15
 de stelp
-de stelt
 de stender
 de stenen brug
 de stenenmaat
@@ -5993,12 +5488,12 @@ de steven
 de stichtse rand
 de stichtse roe
 de stiel
-de stiel
 de stienplaat
 de stient
 de stiepel
 de stigt
 de stigterstraat
+de stijgbeugel
 de stijl
 de stikels
 de stikke hucht
@@ -6026,10 +5521,9 @@ de stoof
 de stoop
 de stoppelaarstraat
 de stoppelaartuin
-de stoppelaartuin
 de stopper
+de stormvogelslag
 de stoutheuvel
-de stouwe
 de stouwe
 de stove
 de stoven
@@ -6038,27 +5532,22 @@ de straatweiden
 de strandwal
 de strang
 de streek
-de streek
 de streektuinen
 de streekweg
 de streep
 de streepen
 de strekel
-de strekel
-de strekel
 de streng
 de strengen
 de strieblom
+de striem
 de striepe
 de strijd
 de strijp
 de strikel
-de strikel
 de string
 de stringen
-de stringen
 de strip
-de stripe
 de stripe
 de stripmaker
 de stripmakerhof
@@ -6067,55 +5556,55 @@ de strobbel
 de strodekker
 de stroekeld
 de stroet
-de stroet
 de strohuls
-de strook
 de strook
 de strookappe
 de stroom
+de stroomboot
 de strooplikker
 de stroperij
 de strubben
 de strubbenweg
 de struikhei
-de strã¢nljip
-de strã»ken
+de strÃ¢nljip
+de strÃ»ken
 de stuersstraat
 de stuifbergen
 de stuit
+de stuiver
 de stulendreier
 de stuw
 de stuwdam
 de stuwdijk
-de stã»ken
+de stÃ»ken
 de suikerbakker
 de sumpel
 de surmontstraat
-de swaan
 de swaan
 de swaenenborgh
 de swaenlaan
 de swan
 de swanneblom
-de swannepã´le
+de swannepÃ´le
 de swarrelsstraat
-de swarte koai
 de swarte koai
 de swartplan
 de swel
 de swette
+de swettepoel
 de swing
 de swingel
 de swurden
 de swylder
+de syklomeaner
 de syl
 de sylroede
 de symfonie
 de sypel
-de sã¢nharst
-de sã¢nhorst
-de sã¢njes
-de sã¢nnen
+de sÃ¢nharst
+de sÃ¢nhorst
+de sÃ¢njes
+de sÃ¢nnen
 de taanderij
 de taats
 de tabaksschuur
@@ -6153,7 +5642,6 @@ de tempelstraat
 de tenten
 de terminator
 de terp
-de terp
 de terpen
 de terrassen
 de terugblik
@@ -6175,69 +5663,56 @@ de tiemenlaan
 de tiempeal
 de tien hont
 de tiend
-de tiende straat
 de tienden
 de tiendestraat
-de tienhond
 de tienhond
 de tijdgeest
 de tijen
 de tijnagel
 de tijvert
 de til
-de til
 de tilbarten
 de tille
 de tillen
 de timmerijgang
 de timp
-de timp
 de timpe
 de tinge
 de tinnegieter
-de tinnegieter
 de tinneweide
 de tip
-de tip
-de tipakkers
 de tipakkers
 de tippe
-de tippe
-de tjalk
 de tjalk
 de tjilling
 de tjirk
 de tjoele
 de tjonger
 de tocht
-de tocht
 de toe-akker
+de toegang
 de toek
 de toekan
 de toekomst
 de toeloop
 de toer
+de toeren
+de toerist
 de toermalijn
 de toeslag
 de toger
-de tol
 de tol
 de tolboom
 de tollande
 de tolstaak
 de toltoren
 de tolve
-de tolve
 de tondeldoos
 de tongelreep
-de tongelreep
-de tonneduiker
 de toog
-de toom
 de toom
 de toorn
 de toren
-de torenhof
 de torenvalk
 de tormentil
 de tortel
@@ -6245,24 +5720,20 @@ de tourton bruijnsstraat
 de tourton bruynsstraat
 de touwbaan
 de toverdans
-de toverdans
 de traan kokerij
 de traanbok
-de traankokerij
 de traden
 de traen
 de trambaan
 de tramweg
 de treaskes
 de tredde keats
-de tredde keats
 de trekfeart
 de trekschuit
 de trekvaart
 de trepkes
 de tribune
-de tribune
-de triemen
+de trieme
 de trije
 de trije hikken
 de trije roeden
@@ -6270,9 +5741,10 @@ de trije romers
 de triomfboog
 de trippen
 de trisken
+de trochgong
 de trochreed
 de trochsnijing
-de trog
+de troeter
 de trog
 de trommelslager
 de tromp
@@ -6280,9 +5752,8 @@ de trompet
 de trompetter
 de trompettershof
 de tros
-de tros
 de trub
-de trã¢nse
+de trÃ¢nse
 de tsjalk
 de tsjasker
 de tsjems
@@ -6297,22 +5768,20 @@ de tuier
 de tuije
 de tuimelaar
 de tuin
-de tuin
 de tuinbouw
 de tuinderij
+de tuinderijen
 de tuinen
 de tuinfluiter
+de tuinhof
 de tuinstraat
 de tuintjes
 de tuit
 de tulp
-de tulp
 de tulpebeam
-de tunen
 de tunen
 de tuolle
 de tuorrebout
-de tureluur
 de tureluur
 de turfkamp
 de turfoverslag
@@ -6322,37 +5791,30 @@ de turfsteker
 de tussenstraat
 de tuun
 de tuut
-de twaalfde straat
 de twaalfmaat
 de twee gebroeders
 de twee morgen
-de twee provinciã«nbrug
 de twee roeden
-de twee sluizen
 de tweede geerden
-de tweede straat
 de tweeling
-de tweeã«ntwintigste straat
 de twiich
 de twijnder
 de twijnderij
 de twijnen
 de twijnerij
-de twintigste straat
+de twist
 de tye
 de tynje
-de tã´lve
-de tãºfein
-de tãºnen
-de tãºnkerij
-de tãºntsjes
-de tã»ke
+de tÃ´lve
+de tÃºfein
+de tÃºnen
+de tÃºnkerij
+de tÃºntsjes
+de tÃ»ke
 de uilenboom
-de uilenburg
 de uilenburg
 de uiterwaard
 de uitgang
-de uitgeverij
 de uithoek
 de uithof
 de uitkijk
@@ -6364,9 +5826,7 @@ de uitspanning
 de uitvang
 de uitvlugt
 de uitweg
-de uitweg
 de ulekamp
-de untfang
 de untfangst
 de uphof
 de utergerzen
@@ -6375,29 +5835,22 @@ de vaandeldrager
 de vaarboom
 de vaargeul
 de vaart
-de vaart
-de vaart noord
-de vaart oost
-de vaart zuid
 de vaartgraaf
 de vaartweg
 de vaert
 de vaertkant
 de vagerstraat
 de valckelaan
-de valckeplantsoen
 de valckestraat
 de valduif
+de vale waard
 de valendries
 de valeriaan
 de valge
 de valk
-de valk
-de valkenberg
 de valkerij
 de vallei
 de valouwe
-de valreep
 de valuwe
 de van der schuerenlaan
 de van der schuerenmarke
@@ -6405,17 +5858,14 @@ de van der schuerenstraat
 de van der schuerenweg
 de van galen
 de vang
-de vang
 de vankhof
 de varentuin
 de varkensakkers
 de vaste burcht
 de vecht
-de vecht
 de vechtborg
 de vechtbrink
 de vechterstraat
-de vechtgraven
 de vechthage
 de vechthorst
 de vechtrande
@@ -6428,7 +5878,6 @@ de veenbies
 de veender
 de veenderij
 de veenen
-de veenen
 de veenhoop
 de veenhorst
 de veenhuis
@@ -6439,26 +5888,26 @@ de veense tuin
 de veenslag
 de veenties
 de veentjes
+de veenweg
 de veer
 de veerensweide
 de veerkampen
+de veerstoep
 de veersweg
 de veert
 de veertien roeden
-de veertiende straat
 de veiling
 de veilingmeester
 de veken
+de veldakkers
 de velde
 de veldekster
-de velden
 de velden
 de veldeweg
 de veldhoen
 de veldhof
 de veldhuizen
 de veldjes
-de veldkamp
 de veldkamp
 de veldkamp-laan
 de veldkampen
@@ -6470,6 +5919,7 @@ de veldse eng
 de veldse hofstede
 de veldstegge
 de velduil
+de veldwachter
 de veldweide
 de velg
 de velgerd
@@ -6487,12 +5937,8 @@ de venen
 de venloene
 de venmoat
 de venne
-de vennebrug
-de vennekens
 de vennekens
 de vennen
-de vennen
-de vennen-oud
 de vennenweg
 de venneriet
 de vente
@@ -6500,8 +5946,6 @@ de venterkamp
 de verbeelding
 de verbetering
 de verbinding
-de verbinding
-de vereeniging
 de vereeniging
 de vereniging
 de vergert
@@ -6513,20 +5957,18 @@ de vergulde pauw
 de vergulde truffel
 de vergulde valk
 de vergulde wagen
-de verjaegde ruyterweg
 de verlaetweg
-de verlengde blokweg
 de verlenging
 de verrekijker
+de vers
 de versnelling
 de vervening
 de verver
 de ververt
+de vervoering
 de verwachting
 de verwondering
 de vest
-de vest
-de veste
 de veste
 de veste 10
 de veste 11
@@ -6548,27 +5990,18 @@ de vidal de st germainweg
 de vier akkers
 de vier gravinnen
 de vier heemskinderenlaan
-de vier morgen
-de vier tijden
-de vier uitersten
-de vier uitersten
 de vier uitersten
 de vier winden
 de vierakkers
 de vierde hoeve
-de vierde straat
-de vierentwintigste straat
 de vierhoek
 de viermaster
 de viermorgen
-de viermorgen
 de vijf boeken
-de vijfde straat
-de vijfentwintigste straat
 de vijfhoek
 de vijfhont
-de vijftiende straat
 de vijnen
+de vijver
 de vijverdam
 de vijvers
 de vijzel
@@ -6582,7 +6015,6 @@ de vinne
 de vinnen
 de violieren
 de virieusingel
-de virieusingel
 de vischkom
 de vischmarkt
 de visscher
@@ -6591,15 +6023,11 @@ de visscherstraat
 de visserhoeve
 de visserhof
 de visserlaan
-de visserlaan
 de visserpad
 de vissersingel
 de visserstraat
-de visserstraat
 de vissert
-de vissert
-de visã©laan
-de vitselstek
+de visÃ©laan
 de vlaanders
 de vlacie
 de vlakte
@@ -6628,25 +6056,20 @@ de vleijlaan
 de vlet
 de vletterhof
 de vleugel
-de vleut
 de vleyen
 de vliedberg
 de vliegende faam
-de vlieger
 de vlieger
 de vliegerlaan
 de vliegerstraat
 de vliegert
 de vlier
-de vlier
-de vlierbes
 de vlierbes
 de vliert
 de vlies
 de vliet
 de vlieter
 de vlietmolen
-de vlijt
 de vlijt
 de vlijtstraat
 de vlinderhoven
@@ -6659,13 +6082,13 @@ de vloeivelden
 de vloet
 de vloglanden
 de vlonder
-de vlonder
 de vloot
 de vlos
 de vlotbeemden
 de vlotkampweg
 de vlouw
 de vluchtestraat
+de vlugtheuvel
 de voerbaan
 de voerman
 de voetboog
@@ -6673,11 +6096,12 @@ de voeting
 de vogelakkers
 de vogelezang
 de vogelkers
+de vogelvlucht
+de vogelweg
 de vogelweide
 de vogezen
 de volder
 de volger
-de volharding
 de volharding
 de volhardingpad
 de volle handt
@@ -6686,6 +6110,7 @@ de volmolen
 de volte
 de vonder
 de vonderkampen
+de vonk brug
 de vonken
 de voochtstraat
 de vooghtstraat
@@ -6695,23 +6120,22 @@ de voorbeemden
 de voorbeemt
 de voorblazer
 de voorde
-de voorde
 de voorhoede
 de voormars
 de voorn
 de voornekamp
+de voorpost
 de voorposten
 de voorreep
 de voorst
+de voorstad
 de voorste singel
 de voorstenkamp
 de voorstreek
 de voort
-de voort
 de voortmors
 de voortse ring
 de voortstraat
-de voortuin
 de voortweg
 de vooruitgang
 de voorwaarts
@@ -6723,14 +6147,12 @@ de vooysplantsoen
 de vore
 de voren
 de vork
-de vork
 de vorke
 de vorlingen
 de vormenmaker
 de vormer
 de vorrel
 de vorrelvenen
-de vorst
 de vorst
 de vorster
 de vort
@@ -6740,7 +6162,6 @@ de vos van steenwijklaan
 de vos van steenwijkstraat
 de voscuyl
 de vosholen
-de voskamp
 de voskamp
 de vosmoat
 de vosplantsoen
@@ -6753,21 +6174,16 @@ de vrachter
 de vrede
 de vredelaan
 de vredenburg
-de vredenburg
-de vree
 de vree
 de vreelaan
 de vreezeweg
 de vriehof
-de vriendschap
 de vriendschap
 de vries lamstraat
 de vries van heijstplantsoen
 de vrieshof
 de vrieslaan
 de vriesplein
-de vriesplein
-de vriesstraat
 de vriesstraat
 de vriestraat
 de vrijburg
@@ -6785,7 +6201,6 @@ de vroent
 de vroente
 de vroomedijk
 de vroomemarke
-de vroomenlaan
 de vroomstraat
 de vroon
 de vroonhof
@@ -6796,23 +6211,21 @@ de vutter
 de vuurbroak
 de vuurbrug
 de vuurdoorn
-de vuurdoorn
 de vuurjuffer
+de vuurplaats
 de vuursche
 de vuyk
 de waag
-de waag
+de waagsbrug
 de waaij
 de waaijenberg
 de waaikamp
 de waaistap
 de waal
-de waal
 de waal malefijtlaan
 de waal malefijtstraat
 de waard
 de waarde
-de waarden
 de waarden
 de waardenborg
 de waareise
@@ -6821,16 +6234,15 @@ de waart
 de waay
 de wacht
 de wadden
-de wadden
 de wadi
 de waele
 de waelke
 de waelstraat
 de wagenmaker
-de wagenmaker
 de wagenmakerij
 de waghemakerestraat
 de waghemakerstraat
+de waid
 de waide
 de wakel
 de wal
@@ -6841,14 +6253,10 @@ de wals
 de walvisch
 de wam
 de wan
-de wan
 de wandelingen
-de wangen
 de wangen
 de wankum
 de wanmolen
-de wanne
-de wanne
 de wanne
 de warande
 de ward
@@ -6859,13 +6267,13 @@ de warmoezerij
 de warnaar
 de warrebosk
 de warren
-de warren
 de warretjes
 de warring
 de wasaa
 de wasacker
 de waske
 de wassenaarse slag
+de wasserij
 de waterdief
 de watergang
 de waterhoen
@@ -6874,6 +6282,7 @@ de wateringhe
 de waterjuffer
 de waterkamer
 de waterkant
+de waterkuil
 de waterlaat
 de waterlelie
 de waterloop
@@ -6881,7 +6290,6 @@ de waterman
 de watermarsen
 de watermolen
 de waternimf
-de watersnip
 de watersnip
 de watertoren
 de waterval
@@ -6899,23 +6307,18 @@ de weed
 de weedebrink
 de weefstoel
 de weegbree
-de weegbree
 de weege
 de weegschaal
 de weel
-de weel
 de weeldbaan
-de weem
 de weem
 de weeme
 de weer
-de weerd
 de weerd
 de weerden
 de weerdstraat
 de weerdt
 de weerelt
-de weeren
 de weeren
 de weergang
 de weermuur
@@ -6925,12 +6328,12 @@ de weertjes
 de wees
 de weesboom
 de weet
+de weg langs steenhov
 de weg naar walborg
 de wegerd
 de weggebekker
 de wei
 de weid
-de weide
 de weide
 de weide mars
 de weidedijk
@@ -6945,12 +6348,9 @@ de weind
 de weinmakker
 de weitas
 de weitjes
-de weitjes
 de wel
 de welborg
 de welhaak
-de welhaak
-de welle
 de welle
 de wellen
 de wellenberg
@@ -6960,7 +6360,6 @@ de welsh
 de welstede
 de welvaart
 de welving
-de weme
 de wemekamp
 de wemel
 de wendel
@@ -6971,26 +6370,24 @@ de werd
 de were
 de werent
 de werf
-de werf
+de werff
 de werft
 de wering
-de werken
 de werken
 de wermerweg
 de wertjes
 de wertstraat
 de wervel
 de werven
-de werven
 de wesenberg
 de wessel
 de west
 de westerd
+de westereen
 de westeregen
 de westerkluft
 de westlandroute
 de westmaden
-de wetering
 de wetering
 de weteringsbrugmolen
 de weteringsehof
@@ -6998,19 +6395,16 @@ de wetlaan
 de wetsteen
 de wetstein pfisterlaan
 de wetstraat
-de wetstraat
 de wettering
 de wetterkamp
 de wetterwille
 de wetweg
-de wever
 de wever
 de weverij
 de wevershilt
 de weyers
 de wezeboom
 de wezel
-de wezenweg
 de wheem
 de wheeme
 de wheer
@@ -7024,25 +6418,20 @@ de wieber
 de wieck
 de wiecken
 de wiede
+de wiede akker
 de wieden
 de wieder
 de wieg
 de wiek
-de wiek
 de wieke
 de wiekelaar
 de wieken
-de wieken
-de wiekslag
 de wiekslag
 de wiekstraat
 de wiel
-de wiel
 de wieldam
 de wielen
-de wielen
 de wielerbaan
-de wielewaal
 de wielewaal
 de wieling
 de wielse hoeven
@@ -7055,17 +6444,15 @@ de wier
 de wierd
 de wierde
 de wieren
-de wiers
 de wierse
 de wierslaan
 de wiersse
 de wiese
 de wiet
 de wiezeboom
-de wieã«nhof
-de wieã«nhof
-de wieã«r
-de wieã«rt
+de wieÃ«nhof
+de wieÃ«r
+de wieÃ«rt
 de wig
 de wigge
 de wijchert
@@ -7073,15 +6460,14 @@ de wijde blik
 de wijde steeg
 de wijde vliet
 de wijer
-de wijer
 de wijerdstraat
 de wijert
 de wijk
+de wijk 24
 de wijmerts
 de wijn
 de wijnakker
 de wijnbergen
-de wijngaard
 de wijngaard
 de wijnsteker
 de wijper
@@ -7089,7 +6475,6 @@ de wijsstraat
 de wijting
 de wijzend
 de wiken
-de wikke
 de wikke
 de wilbertsdries
 de wildbaan
@@ -7100,7 +6485,6 @@ de wildenberg
 de wildenborch
 de wilderen
 de wildert
-de wildert
 de wildestraat
 de wildkamp
 de wildkampen
@@ -7109,11 +6493,7 @@ de wildschutter
 de wildtlaan
 de wildtstraat
 de wildwal
-de wildwallen
 de wilg
-de wilg
-de wilgen
-de wilgen
 de wilgen
 de wilgepol
 de willem ruysstraat
@@ -7123,7 +6503,6 @@ de wilster
 de wiltstraat
 de wimme
 de wimmeren
-de wimpel
 de wimpel
 de winckelmaat
 de wind
@@ -7135,7 +6514,6 @@ de windturbine
 de windvaan
 de windvang
 de wingerd
-de wingerd
 de winkel
 de winkelakkers
 de winkelman
@@ -7146,20 +6524,17 @@ de winterkoning
 de winterstraat
 de wintstraat
 de wip
-de wippert
 de wipstaart
 de wirden
 de wisboom
 de wiske
 de wispel
 de wissel
-de wissel
 de wit's reed
 de witbogt
 de wite burch
 de withlaan
 de withstraat
-de witstraat
 de witstraat
 de witt hamerstraat
 de witte bergen
@@ -7175,21 +6550,17 @@ de witte valk
 de witte zwaan
 de wittelaan
 de wittenberg
-de wittenberg
 de wittenhagen
 de wittenkade
 de wittenstraat
 de wittestraat
 de wittlaan
 de wittstraat
-de wittstraat
 de witweg
 de wjuk
 de wjukken
 de woarven
 de woerd
-de woerd
-de woert
 de woert
 de woerte
 de woerthe
@@ -7200,15 +6571,15 @@ de wolff van westerrodeweg
 de wolffshoek
 de wolflaan
 de wolfshop
-de wolfsputten
+de wolfskamp
 de wolfsputten
 de wolfstraat
 de wolken
 de wolt
 de wolwasser
 de wolwever
-de wolwever
 de wolzaklaan
+de woongaard
 de woonhaven
 de worteltuin
 de wouden
@@ -7226,12 +6597,11 @@ de wrongel
 de wudze
 de wuijver
 de wulp
-de wulp
 de wulpen
 de wup
 de wurdze
 de wurft
-de wurft
+de wurkpleats
 de wuurde
 de wygeast
 de wyjert
@@ -7243,21 +6613,22 @@ de wym
 de wymerts
 de wynacker
 de wyngaerden
-de wã¢l
-de wã¢lden
+de wynroas
+de wynser oerset
+de wÃ¢l
+de wÃ¢lden
 de ymhof
 de ynfeart
 de ynset
 de yp
-de zaagbok
 de zaagkoele
 de zaaier
+de zaailing
 de zaaiviool
 de zaalberg
 de zaale
 de zaalsteden
 de zaalt
-de zaan
 de zaan
 de zaar
 de zaayer
@@ -7265,19 +6636,19 @@ de zadelmaker
 de zaete
 de zagerij
 de zak
+de zaling
 de zalm
 de zalmen
 de zandakkers
 de zandberg
 de zande
 de zanden
-de zanden
 de zanderij
 de zanderije
+de zanderijen
 de zandhoek
 de zandhoogte
 de zanding
-de zandkampen
 de zandkampen
 de zandkuil
 de zandlooper
@@ -7290,66 +6661,54 @@ de zandvoort
 de zanglijster
 de zarken
 de zate
-de zedde
 de zede
-de zeearend
 de zeeduinen
 de zeeg
 de zeel
 de zeelder
 de zeelt
+de zeemeeuw
 de zeemunnik
 de zeeridder
 de zeester
 de zeeuwlaan
 de zegersloot
 de zegge
-de zegge
-de zeilen
 de zeilen
 de zeiler
 de zeilmakerij
 de zeis
-de zeis
 de zellen
 de zelling
-de zende
 de zende
 de zes
 de zes blokskens
 de zes geerzen
 de zes gehuchten
 de zes molens
-de zes schepel
-de zesde straat
-de zesentwintigste straat
 de zeshonderd
-de zestiende straat
+de zessprong
 de zetten
 de zetter
 de zeulk
 de zeuven vondertjes
 de zeven boompjes
-de zeven heuvelen
-de zeven provinci+n
-de zeven provinciã«n
-de zevende straat
-de zevenentwintigste straat
+de zeven provinciÃ«n
 de zevenhoeven
 de zevenster
-de zeventiende straat
 de zicht
-de zicht
-de ziel
 de ziel
 de ziele
 de ziep
 de zijde
 de zijdereder
 de zijl
+de zijlboot
 de zijlen
 de zijp
 de zijpe
+de zilk
+de zille
 de zilvermeeuw
 de zilversmid
 de zilverspar
@@ -7359,13 +6718,11 @@ de zodeslagen
 de zoeke brink
 de zoeker esch
 de zolder
-de zomerdel
 de zomereik
 de zomp
 de zompe
 de zon
 de zonkade
-de zonnebaars
 de zonnebaars
 de zonnebloem
 de zonnecel
@@ -7374,39 +6731,35 @@ de zonnekamp
 de zonnekroek
 de zonnenberg
 de zonneschijn
-de zonneschijn
 de zool
-de zool
-de zoom
 de zoom
 de zouterij
 de zoutman
-de zuid
 de zuid
 de zuidelijke kampen
 de zuidelijke vennen
 de zuiderlaaik
 de zuidgaard
 de zuidmaten
+de zuidpunt
 de zuiling
 de zuivering
 de zul
 de zulthe
-de zumpel
-de zuurweie
 de zuwe
 de zuylenkamp
 de zuyt bruyn
 de zwaai
 de zwaaikom
 de zwaan
-de zwaan
+de zwaanhof
 de zwaanstraat
 de zwaarden
 de zwaden
 de zwaluw
 de zwaluwstaart
 de zwanebloem
+de zwarte
 de zwarte arend
 de zwarte molen
 de zwarte ruiter
@@ -7422,7 +6775,7 @@ de zwingel
 de zwingelspaan
 de zwollings
 de zwong
-de ã”fset
+de Ã´fset
 de-grote-geusplein
 de-quayborch
 debbemeerstraat
@@ -7451,7 +6804,6 @@ decemberpad
 decimalaan
 decimastraat
 deciushof
-deckersgoedtweg
 deckersstraat
 deckerstraat
 declarantenweg
@@ -7459,22 +6811,21 @@ decor
 decorstraat
 deddingabuurt
 dedelstraat
+dedemsvaart
 dedemsvaartseweg
 dedemsvaartseweg-noord
 dedemsvaartseweg-zuid
 dedemsvaartweg
 dedemsweg
-dederichsheim
 deedingsweerdweg
 deekland
 deel
-deeldensweg
+deelakker
 deelenpad
 deelenseweg
 deelenstraat
 deelenweg
 deelerwoud
-deelgaardsweg
 deelheugte
 deelhorstweg
 deeling
@@ -7490,17 +6841,21 @@ deelvoort
 deelweg
 deemselstraat
 deenebstraat
+deenendries
 deeneplaat
 deeneplaatweg
 deenkenshoeve
 deense hoek
 deense ossenmarkt
 deensestraat
+deensestraat garageboxen
 deenseweg
 deep purplestraat
 deernsstraat
+deersels
 deersum
 deeskerweg
+deest
 deestersteeg
 deestraat
 deeststraat
@@ -7520,6 +6875,7 @@ deiffelen
 deijffelbroekselaan
 deijffelbroekseweg
 deijffelsestraat
+deijlersweg
 deijlerweg
 deijliuslaan
 deijnschestraat
@@ -7546,6 +6902,7 @@ deisel
 dek
 dekamalaan
 dekamaleane
+dekamapad
 dekamastraat
 dekamastrjitte
 dekamawei
@@ -7556,6 +6913,7 @@ dekemastate
 dekemastraat
 dekemawei
 deken b.j. van miertstr
+deken b.j. van miertstraat
 deken baekershof
 deken baekersstraat
 deken batenburgstraat
@@ -7567,7 +6925,6 @@ deken brantsstraat
 deken broekmanlaan
 deken cauthalsstraat
 deken coppensstraat
-deken creemersstraat
 deken de biestraat
 deken de bruijnplein
 deken de hessellestraat
@@ -7588,7 +6945,6 @@ deken fritsenstraat
 deken goossenslaan
 deken gruenwaltstraat
 deken haenraetspad
-deken haenraetsstraat
 deken heijdenstraat
 deken heinenstraat
 deken hennissenstraat
@@ -7620,7 +6976,7 @@ deken rekveltstraat
 deken reuvekamplaan
 deken rhoenstraat
 deken roesstraat
-deken rã¶lkensstraat
+deken rÃ¶lkensstraat
 deken sandersstraat
 deken schmerlingstraat
 deken schmidtstraat
@@ -7668,6 +7024,7 @@ dekhuyzenstraat
 dekkerpassage
 dekkerplein
 dekkersbos
+dekkersdries
 dekkerseweg
 dekkersgaard
 dekkershoek
@@ -7677,7 +7034,6 @@ dekkersland
 dekkersstraat
 dekkerstraat
 dekkersveldweg
-dekkersvoetpad
 dekkersweg
 dekschuit
 dekschuitstraat
@@ -7694,6 +7050,8 @@ delbar
 delbergen
 delbroekweg
 delbuursterweg
+delden
+delden 28
 deldenerdijk
 deldenerstraat
 deldenlaan
@@ -7702,7 +7060,6 @@ deldenseschans
 deldensestraat
 deldenseweg
 deldenstraat
-delderveen
 delderveenweg
 dele
 delengoorweg
@@ -7722,9 +7079,9 @@ delflandpad
 delflandplein
 delflandse poort
 delflandsedijk
-delflandsedijkpad
 delflandseweg
 delflandstraat
+delfsgauwse weyepad
 delfshavensepad
 delfshavenseweg
 delfshavenstraat
@@ -7732,10 +7089,12 @@ delfstoffenweg
 delfstofweg
 delfstraat
 delft
+delft 14
+delft 9
+delft-noord 8
+delftbrug
 delftechpark
 delftlaan
-delftland
-delftlanden
 delftpad
 delftplein
 delftse jaagpad
@@ -7752,12 +7111,13 @@ delftsevaarthof
 delftseveer
 delftseveerweg
 delftsewallen
-delftsewallenpad
 delftsingel
 delftstraat
 delftweg
-delftzichtweg
 delfweg
+delfzicht
+delfzijl
+delfzijl 2
 delfzijlsingel
 delfzijlsterweg
 delfzijlstraat
@@ -7768,7 +7128,6 @@ delhorstpad
 delhuijzenweg
 deliana van weedestraat
 delibesplaats
-delibesstraat
 delibesweg
 delilaan
 delilaplein
@@ -7781,7 +7140,6 @@ delistraat
 deliuslaan
 delkamp
 delkant
-delkensweg
 delkesweg
 dellaertlaan
 dellaertweg
@@ -7789,7 +7147,6 @@ delle
 delle alpihof
 delle dwarsweg
 delleburen
-dellekamp
 dellenbeekstraat
 dellender
 dellendwarsweg
@@ -7818,11 +7175,12 @@ delphipad
 delpratsingel
 delshorst
 delst
+delsteeg
 delstraat
-delsvaart
 delta
 delta boulevard
 delta-industrieweg
+deltabrug
 deltageul
 deltahaven
 deltahoek
@@ -7831,11 +7189,13 @@ deltakade
 deltalaan
 deltapad
 deltapark
+deltapark neeltje jans
 deltaplein
 deltapromenade
 deltasingel
 deltastraat
 deltaweg
+deltawerken
 deltazijde
 delthepad
 delverspad
@@ -7856,8 +7216,8 @@ demertstraat
 demeter
 demeterlaan
 demeterpad
-demeterstraat
 demetrius vikelaslaan
+demetriuspad
 demhof
 demkaweg
 demkespad
@@ -7884,8 +7244,6 @@ den achterhof
 den ackersloot
 den adelszwet
 den akker
-den akker
-den akker
 den alerdinck
 den alerdinckweg
 den alst
@@ -7893,7 +7251,6 @@ den asseldonk
 den baars
 den belleman
 den bels
-den berg
 den berg
 den berghplein
 den berk
@@ -7905,7 +7262,6 @@ den bleek
 den blieklaan
 den bloeyenden wijngaerdt
 den bogerd
-den bogerd
 den bogert
 den boggerd
 den bommel
@@ -7915,12 +7271,12 @@ den bommelsestraat
 den bommelstraat
 den bond
 den bongerd
-den bongerd
 den boogerd
 den boogert
 den borgweg
 den boschlaan
 den boschstraat
+den bous
 den bout
 den brabanderhove
 den brak
@@ -7931,7 +7287,6 @@ den briel
 den brielplein
 den brielstraat
 den brier
-den brink
 den brink
 den broekweg
 den brommertstraat
@@ -7947,16 +7302,15 @@ den burgstraat
 den butter
 den daal
 den dam
-den dam
-den deel
 den deel
 den deken
 den del
+den dikken boom
 den dilleman
-den dissel
 den dissel
 den doel
 den dogdreef
+den dolder 3
 den dolech
 den doleg
 den dolvert
@@ -7968,20 +7322,17 @@ den draal
 den dreef
 den driehoek
 den dries
-den dries
 den drink
 den drul
 den dubbelen
 den duc
 den dueren coop
+den dungen
 den eckelcamp
 den effer
-den effer
-den eigen
 den eik
 den ekel
 den ekelpad
-den ekker
 den ekker
 den ekkert
 den elding
@@ -7989,25 +7340,24 @@ den elshout
 den elst
 den elt
 den elterweg
-den elterweg
 den emau
 den engelsenstraat
 den engelsman
 den engh
 den es
+den esch
 den esker
 den essenburg
 den ezel
 den gouden hoeck
-den greef
 den groten diek
+den haag bezuidenhout 3
+den haag-zuid 12
 den haagstraat
 den haagweg
 den haak
-den haak
 den haas
 den haenstraat
-den ham
 den hamel
 den hamstraat
 den hamweg
@@ -8015,12 +7365,11 @@ den hartogerf
 den heijder
 den heikop
 den helder
+den helder 14
 den helderpad
 den helderstraat
 den herd
-den herd
 den hertigstraat
-den heuvel
 den heuvel
 den heymit
 den hil
@@ -8029,8 +7378,6 @@ den hoef
 den hoeff
 den hoek
 den hoekstraat
-den hoet
-den hof
 den hof
 den hofpad
 den hoge hurk
@@ -8039,10 +7386,10 @@ den hoogenkant
 den hooiberg
 den hool
 den hoorn
+den hoorn 13
 den hoornsterweg
 den horenman
 den horst
-den houw
 den houw
 den huizen
 den hul
@@ -8055,7 +7402,7 @@ den kaat
 den koem
 den lagen oordt
 den oeiep
-den oever
+den oever 14
 den oeverlaan
 den oeverseweg
 den oldenhoek
@@ -8075,26 +7422,21 @@ den ouden hof
 den oudenhof
 den oudert
 den oven
-den overtweg
 den plak
 den reynstraat
 den roover
+den ruygen hoek
 den sliem
-den spittheuvel
-den staeling
 den texstraat
 den texweg
 den tiel
 den tiender
 den tip
-den tip
 den toemet
-den tollstraat
 den toversnest
+den uijlplein
 den uil
-den uitkanter
 den uitvanck
-den urling
 den urling
 den uylhof
 den uyllaan
@@ -8113,12 +7455,10 @@ den zoom
 den-uylborch
 denariehof
 denarius
-denariushof
 denariuspad
 denariusplantsoen
 denariusstraat
 denderhof
-dendermondepad
 dendermondestraat
 denderstraat
 deneb
@@ -8134,11 +7474,9 @@ denemarkendreef
 denemarkenhof
 denemarkenlaan
 denemarkenplein
-denemarkensingel
 denemarkenstraat
 denemarkenweg
 denenburg
-denenweg
 denestraat
 denethor
 dengemansweg
@@ -8192,6 +7530,7 @@ dennenmark
 dennenoord
 dennenoordlaan
 dennenoordpark
+dennenorchidee
 dennenpad
 dennenrode
 dennenrodepad
@@ -8207,16 +7546,15 @@ denneplein
 dennerode
 dennescheerderdreef
 dennestraat
-dennevlam
 denneweg
 dennewegske
 dennewitjeshof
+dennis gaborstraat
 dennis leestraat
 denpasarstraat
 denstraat
 dentgenbachweg
 dentjenshof
-dentjesweg
 denverdreef
 denverplein
 denweg
@@ -8226,7 +7564,7 @@ deperinksweg
 deportatiestraat
 deppenbroekstraat
 deppenbroekweg
-deputã© petersstraat
+deputÃ© petersstraat
 der boede
 der kinderenpad
 derck danielslaan
@@ -8257,8 +7595,7 @@ derde heesterhof
 derde heistraat
 derde helmersstraat
 derde herven
-derde honderd roedeweg
-derde hoon
+derde honderdroedeweg
 derde hugo de grootstraat
 derde hugo de vrieshof
 derde hulkesteinhof
@@ -8266,16 +7603,17 @@ derde kade
 derde kampsweg
 derde katinger
 derde kostverlorenkade
-derde kruisdiep
+derde kristalweg
 derde kruisdiep wz
 derde kruisweg
+derde kwartier
 derde leliedwarsstraat
+derde lommerh weg
 derde looiersdwarsstraat
 derde marnixdwarsstraat
 derde molensteeg
 derde morgen
 derde morgendreef
-derde ontsluitingsweg k
 derde oosterparklaan
 derde oosterparkstraat
 derde reit
@@ -8312,12 +7650,12 @@ derk boeremastraat
 derk bolhuisstraat
 derk brouwerstraat
 derk buismanstraat
+derk de boerweg
 derk kamphuisweg
 derk luddesweg
 derk lutjeboerstraat
 derk mulderweg
 derk nanningstraat
-derk smoes
 derk smoeslaan
 derk smoesstraat
 derk stevensweg
@@ -8332,7 +7670,6 @@ derks
 derksstraat
 derkswater
 derksweg
-derkswg
 dernhorstlaan
 derpsestraat
 derpshei
@@ -8348,16 +7685,14 @@ dertienhuizen
 dertienmorgen
 dertiensedijk
 dertienvat
-des prã©sstraat
+des prÃ©sstraat
 descarteslaan
 descartespad
 descartesstate
 descartesstraat
 desdemonastraat
-desertosingel
 desiderius erasmusstraat
 desiree geeraertstraat
-desirã© leesensstraat
 deskesven
 desmijndijk
 desselaar
@@ -8365,6 +7700,7 @@ desselstraat
 dessinateurplein
 dessinateurstraat
 desteijnstraat
+desteree
 destillatiestraat
 destombestraat
 detertweg
@@ -8400,7 +7736,6 @@ deurneplaats
 deurneseweg
 deurnesingel
 deurnestraat
-deurningerdwarsweg
 deurningeresweg
 deurningerstraat
 deurningerweg
@@ -8412,7 +7747,6 @@ deurze
 deurzerdiep
 deus
 deusonelaan
-deusweg
 deutechemstrjitte
 deutersestraat
 deutlanden
@@ -8424,17 +7758,18 @@ deuverdenseweg
 devel
 develbrug
 develpad
+develpoort
 develsingel
 develsluis
 develstein
 develstraat
 develweg
-develzoom
 devenijnstraat
+deventer 23
 deventer kunstweg
+deventer-oost 24
 deventerachterpad
 deventerdijk
-deventergracht
 deventerpad
 deventerpunt
 deventerschans
@@ -8446,7 +7781,6 @@ deventerweg
 dever
 deverbrink
 deversstraat
-devonhof
 devoonstraat
 devotenhof
 devotenstraat
@@ -8455,9 +7789,9 @@ deweverplein
 deweverstraat
 dewi sartikaplein
 dexter gordonlaan
-deylersweg
 deymanlaan
 deymanstraat
+deynenbeemd
 di cambioweg
 di lassostraat
 diabaas
@@ -8481,14 +7815,12 @@ diadeempad
 diadeemstraat
 diademstraat
 diafragmapad
-diagonaal
-diagonaalgarage
-diagonaaltrap
 diakendiek
 diakenhove
 diakenhuisweg
 diamant
 diamantborch
+diamantbrug
 diamantdijk
 diamantdreef
 diamantdrift
@@ -8504,6 +7836,7 @@ diamantstoep
 diamantstraat
 diamantweg
 diana
+diana alfina
 dianabos
 dianadreef
 dianahof
@@ -8515,11 +7848,12 @@ dianestraat
 diasporalaan
 diasporapad
 diatomastraat
-diazstraat
+diazo
 diazweg
 dibbetsstraat
 dibbetzplantsoen
 dibbitsstraat
+dicentra
 dichterhof
 dichtersbaan
 dichterseweg
@@ -8527,9 +7861,8 @@ dichtershof
 dichtershofje
 dichterslaan
 dichterspad
+dichterspark
 dichtersplein
-dichtersweg
-dick barthweg
 dick boerrigterplein
 dick bospad
 dick bosstraat
@@ -8555,19 +7888,19 @@ dickenslaan
 dickensplaats
 dickensstraat
 dickerijst
+dickerijsterlaan
 dickmansstraat
 dickningerpad
 dickningervoetpad
+dickningestraat
+didam 1
 didamsestraat
 didamseweg
 didamstraat
-didasstraat
 diddenstraat
-dideazoom
 dideldomweg
 diderica mijnssenstraat
 diderik van zierikzeelaan
-diderik van zierikzeeln
 diderik vijghstraat
 diderna
 diderotstraat
@@ -8589,7 +7922,6 @@ diederik van altenastraat
 diederik van havertstraat
 diederik van lentlaan
 diederik van schagenplantsoen
-diederik van teilingenlaan
 diederikdreef
 diederikhof
 diederikpad
@@ -8615,7 +7947,9 @@ diekirchlaan
 diekjansweg
 dieklaan
 diekland
+diekloper
 diekmaat
+diekmanhof
 diekmanspad
 diekmanstraat
 diekmansweide
@@ -8626,9 +7960,11 @@ dielishoek
 dielofslaantje
 dielsfinne
 diemelstraat
+diemen 2
+diemen-noord 1
 diemenlaan
 diemenstraat
-diemer buitendijkschepolder
+diemer ophaalbrug
 diemerbospad
 diemerbroek
 diemerdijkstraat
@@ -8637,7 +7973,6 @@ diemerhof
 diemerkade
 diemermeerstraat
 diemermere
-diemerpark
 diemerparklaan
 diemerplein
 diemerpolderweg
@@ -8652,22 +7987,20 @@ dienstenstraat
 dienstenweg
 dienstkraanpad
 dienstweg
-dienstweg koegorsstraat links
-dienstweg koegorsstraat rechts
+dienstweg koegorsstr l
+dienstweg koegorsstr r
 dienstweg putweg links
 dienstweg putweg rechts
 diep
 diep zand
 diepdal
 diepe hoon
-diepe kuilenstraat
 diepe vaart
 diepegoorsweg
 diepegracht
 diepeling
 diepemorsweg
 diepen
-diepenallee
 diepenbeek
 diepenbeekplantsoen
 diepenbeekstraat
@@ -8700,6 +8033,7 @@ diependaalswegske
 diependaalweg
 diependaelscheweg
 diependallervoetpad
+diependalselaan
 diependalseweg
 diependalsgats
 diependalstraat
@@ -8734,6 +8068,7 @@ diepertseweg
 diepesteeg
 diepestraat
 diepeveenheem
+diepeveenstraat
 diepeweg
 diepgatweg
 diephof
@@ -8747,8 +8082,9 @@ diepsloot
 diepsmeer
 diepsmeerweg
 diepsteeg
+diepsteekweg
+diepsterweg
 diepstraat
-diepstreek
 diepstroeten
 diepswal
 dieptol
@@ -8809,22 +8145,25 @@ dieterenstraat
 dietrich bonhoeffervaart
 diets-heurpad
 dietsveld
+dieuw van vlietstraat
 dieuwert
 dievelaarshoek
 dievelaarslaantje
 dievelings
 dievenpaadje
 dievenpad
+diever 4
 dieverbrug
+dieverseweg
 dieversluis
 dieverstraat
 dieze
 dieze-erf
 diezeborch
-diezedal
 diezekade
 diezelaan
 diezelkamp
+diezenpoorterbrug
 diezeplantsoen
 diezerenk
 diezerhoven
@@ -8835,7 +8174,6 @@ diezerstraat
 diezestraat
 diezestroom
 diezeweg
-difoehof
 diggelaarssteeg
 digit parc
 digitaalpad
@@ -8844,6 +8182,7 @@ digna johannaweg
 dignahoeve
 dignaland
 dijckerhoek
+dijckerhofweg
 dijckersingel
 dijckerwaal
 dijckmansstraat
@@ -8853,10 +8192,11 @@ dijckpotingen
 dijckscampenlaan
 dijenborghsestraat
 dijk
+dijk achter het flaauwe w
+dijk achter het flaauwe werk
 dijk obbicht
 dijk van bommenede
 dijk van de klein hengstdijkpolder
-dijk van den van alsteinpolder
 dijk van kyoto
 dijk- en waardpad
 dijkakker
@@ -8873,11 +8213,12 @@ dijkeindenweg
 dijkenweg zuid
 dijkeputten
 dijkerakkerweg
-dijkeralleã©
-dijkerheideweg
+dijkeralleÃ©
+dijkerhemmerweg
 dijkerhoekseweg
 dijkerhoekweg
 dijkerhof
+dijkerpeelsteeg
 dijkerpeelweg
 dijkerschanspaadje
 dijkershof
@@ -8886,6 +8227,7 @@ dijkerstraat
 dijkervoetpad
 dijkerwaal
 dijkerweg
+dijkfinne
 dijkgang
 dijkgraaf
 dijkgraaf a.m. gelukweg
@@ -8929,6 +8271,7 @@ dijkhuizerweg
 dijkhuizerzandweg
 dijkje
 dijkkamer
+dijkkarelpolder
 dijkkruin
 dijklaan
 dijklaantje
@@ -8946,6 +8289,7 @@ dijkmanszoet
 dijkmanzoet
 dijkmate
 dijkmeent
+dijkmeerlaan
 dijkmeesterpad
 dijkmeesterstraat
 dijkmeijerslaan
@@ -8953,6 +8297,7 @@ dijkoever
 dijkpad
 dijkplan
 dijkplein
+dijkpolderbrug
 dijkpolderlaan
 dijkpolderpad
 dijkpoort
@@ -8967,12 +8312,10 @@ dijksestraat
 dijksgracht
 dijkshoornseweg
 dijkshornhof
-dijkshornsterpad
 dijksingel
 dijkskruin
 dijkslag
 dijkslagen
-dijkslootpad
 dijkslop
 dijkstalweg
 dijksteeg
@@ -8988,7 +8331,6 @@ dijkstoellaan
 dijkstoelpad
 dijkstoelstraat
 dijkstoep
-dijkstoep
 dijkstraat
 dijkstraat-west
 dijkstraatje
@@ -8996,8 +8338,8 @@ dijkstreek
 dijkswal
 dijksweg
 dijkswijk
-dijktunneltje
 dijkumerweg
+dijkval
 dijkveld
 dijkveldpad
 dijkveldstraat
@@ -9005,7 +8347,6 @@ dijkven
 dijkvennenplein
 dijkvoet
 dijkvoetpad
-dijkvoetpad grevenbicht
 dijkvoetpad obbicht
 dijkwacht
 dijkwachter
@@ -9016,6 +8357,7 @@ dijkweg
 dijkwegje
 dijkwegpad
 dijkwegsken
+dijkweide
 dijkweideweg
 dijkwelsestraat
 dijkwelseweg
@@ -9024,7 +8366,6 @@ dijkzicht
 dijkzichtlaan
 dijkzichtstraat
 dijkzichtweg
-dijkzichtzijstraat
 dijlehof
 dijlestraat
 dijnakker
@@ -9033,6 +8374,7 @@ dijnselweg
 dijsselhofplantsoen
 dijsselhofstraat
 dijstelhoef
+dijvoortstraat
 dik trompad
 dik tromplein
 dikbosdwarsweg
@@ -9042,6 +8384,7 @@ dikelsestraat
 dikemaweg
 dikholt
 dikke eikweg
+dikke linde
 dikke turfstraat
 dikkeboomweg
 dikkebuiksweg
@@ -9071,7 +8414,6 @@ diksmuidepad
 diksmuidestraat
 dilakker
 dilbeekpad
-dilgaard
 dilgtplein
 dilgtweg
 diligence
@@ -9095,6 +8437,7 @@ dillelaantje
 dillenburg
 dillenburgdreef
 dillenburgerstraat
+dillenburghof
 dillenburglaan
 dillenburgplaats
 dillenburgplein
@@ -9116,10 +8459,10 @@ dilsenstraat
 dilt
 dilweg
 dimmerlaan
+dina appeldoornlaan
 dina appeldoornpad
 dina appeldoornstraat
 dina sansonpad
-dina sasnonpad
 dina van eekplein
 dinahmightpad
 dinant dijkhuisstraat
@@ -9147,16 +8490,14 @@ dingselweg
 dingshof
 dingshoflaan
 dingshofweg
-dingslaantje
 dingspel
 dingspellaan
 dingspelstraat
 dingspil
-dingsstraat
 dingstal
 dingstede
+dingstedepad
 dingsteepad
-dingsteeweg
 dingstraat
 dingvonderpad
 dinkel
@@ -9173,8 +8514,8 @@ dinsdagse wetering
 dinsdagstraat
 dintel
 dintelborch
-dinteldal
 dintellaan
+dinteloord 24
 dinteloordseweg
 dinteloordstraat
 dintelstraat
@@ -9186,6 +8527,7 @@ dintherveldsestraat
 dinxperlolaan
 dinxperlosestraatweg
 dinxperloseweg
+dinxperloseweg hmp 610
 diny sprockstraat
 dinzerloane
 diodehof
@@ -9193,6 +8535,7 @@ diodeweg
 diogenesstraat
 diomedesstraat
 diomedeweg
+dione
 dionepad
 dioneplantsoen
 dionestraat
@@ -9219,7 +8562,7 @@ dirck franckenszoon pauwstraat
 dirck hoetweg
 dirck hoffstraat
 dirck pomppad
-dirck raphaã«lsz camphuysenstraat
+dirck raphaÃ«lsz camphuysenstraat
 dirck uytenboogaertstraat
 dirck van cleeffsteeg
 dirck van deelenstraat
@@ -9240,18 +8583,17 @@ directeur de gelderstraat
 directeur evertsstraat
 directeur geurtsstraat
 directeur jansenstraat
-directeur janssenstraat
 directeur jochemsstraat
-directeur moerlandsstraat
 directeur petersstraat
 directeur schrijnenstraat
 directeur stassenstraat
 directeur trompstraat
 directeur van beekstraat
 directeur van de vennestraat
-directeur van der mã¼hlenlaan
+directeur van der mÃ¼hlenlaan
 directiekade
 dirgelen
+dirhampad
 dirigentenlaan
 dirigenthof
 dirigentplein
@@ -9276,6 +8618,7 @@ dirk camphuysenstraat
 dirk cornelis vroulandtstraat
 dirk costerplein
 dirk costerstraat
+dirk crabethbrug
 dirk danestraat
 dirk de botsdijk
 dirk de derdelaan
@@ -9288,7 +8631,6 @@ dirk de vosstraat
 dirk dekkerstraat
 dirk deutekompad
 dirk dijkstrastrjitte
-dirk doensweg
 dirk dronkersweg
 dirk duivelsweg
 dirk durrerstraat
@@ -9312,6 +8654,7 @@ dirk jakobsstraat
 dirk jan blomstraat
 dirk janszstraat
 dirk jonkerlaan
+dirk kampstraat
 dirk karsstraat
 dirk kleimanstraat
 dirk klinkertstraat
@@ -9323,9 +8666,9 @@ dirk laanstraat
 dirk loef van hornestr
 dirk loogenstraat
 dirk marcussteeg
-dirk metselaarhaven
+dirk margadantallee
 dirk minnesstraat
-dirk muijsstraat
+dirk muijspad
 dirk noordhoflaan
 dirk ockerpad
 dirk oosthoeklaan
@@ -9338,9 +8681,9 @@ dirk roosenburgpad
 dirk rooslaan
 dirk ruitenbeekstraat
 dirk schrijverstraat
-dirk schã¤ferhof
-dirk schã¤ferplein
-dirk schã¤ferstraat
+dirk schÃ¤ferhof
+dirk schÃ¤ferplein
+dirk schÃ¤ferstraat
 dirk smeetslaan
 dirk smitskade
 dirk smitsstraat
@@ -9360,7 +8703,8 @@ dirk van arestraat
 dirk van clevestraat
 dirk van delenhage
 dirk van den burgweg
-dirk van der aarstraat
+dirk van den doortogestraat
+dirk van den walelaan
 dirk van der knijfstraat
 dirk van der kooijweg
 dirk van der leckstraat
@@ -9368,10 +8712,12 @@ dirk van gheijnlaan
 dirk van hasseltssteeg
 dirk van heinsbergstraat
 dirk van hornestraat
+dirk van kleefstraat
 dirk van meerhemgaarde
 dirk van prooijesingel
 dirk van santhorstweg
 dirk van voorburglaan
+dirk van voortplein
 dirk van wassenaarlaan
 dirk van wassenaarstraat
 dirk van weelaan
@@ -9395,7 +8741,6 @@ dirkje mariastraat
 dirkje van barneveldweg
 dirkjeserf
 dirkjespeer
-dirkjespeerpad
 dirkjespeerstraat
 dirklangendwarsstraat
 dirklangenstraat
@@ -9408,6 +8753,7 @@ dirkslandstraat
 dirksstraat
 dirkstraat
 dirksweg
+dirkzwagerhof
 dirrick gerritszstraat
 disc
 discus
@@ -9458,6 +8804,7 @@ distellaan
 distellaar
 distelmeent
 distelpad
+distelpark
 distelplein
 distelsteiger
 distelstraat
@@ -9495,7 +8842,6 @@ dixielanddreef
 dixielandkade
 dizzy gillespiestraat
 djakartaterras
-djalakstraat
 djambistraat
 django reinhardtrode
 django reinhardtstraat
@@ -9507,16 +8853,16 @@ djeroekstraat
 djerreblom
 djippegatspaed
 djipsleatswei
-djipswã¢l
+djipswÃ¢l
 djipwei
 djokjakartaweg
-doalhã´f
-doarpshã»sleane
+doalhÃ´f
+doarpshÃ»sleane
 doarpsstrjitte
 doarpswei
 dobbe
 dobbedreef
-dobbehã´f
+dobbehÃ´f
 dobbelaan
 dobbeleane
 dobbelerserf
@@ -9528,8 +8874,9 @@ dobbelsteijnstraat
 dobbelsteyn
 dobbelsteynporte
 dobbelsteynstraat
-dobbelã¢n
+dobbelÃ¢n
 dobben
+dobbendalweg
 dobbenstraat
 dobbenwal
 dobbepaad
@@ -9554,14 +8901,12 @@ docklandsweg
 docterskampstraat
 doctor abraham kuyperstraat
 doctor anton philipsweg
-doctor ariensstraat
-doctor ariã«nslaan
-doctor ariã«nsplein
-doctor ariã«nsstraat
+doctor ariÃ«nslaan
+doctor ariÃ«nsplein
+doctor ariÃ«nsstraat
 doctor beckersstraat
 doctor beelstraat
 doctor blookerstraat
-doctor c j k van aalststraat
 doctor c.j.k. v aalststr
 doctor cuypersstraat
 doctor derckxstraat
@@ -9571,7 +8916,6 @@ doctor hekmanstraat
 doctor hoebenstraat
 doctor huntjensstraat
 doctor huub van doorneweg
-doctor huub van doornewg
 doctor keyzerlaan
 doctor kuyperstraat
 doctor lambertsch acker
@@ -9581,6 +8925,7 @@ doctor marie curiestraat
 doctor mollerlaan
 doctor nolenslaan
 doctor nolensstraat
+doctor oortwijn botjeslaan
 doctor ottestraat
 doctor philipslaan
 doctor poelslaan
@@ -9599,7 +8944,7 @@ doctor van dregtstraat
 doctor van kesselstraat
 doctor van mookstraat
 doctor van noortstraat
-documentenfalsificatie
+doctorrandus j borgmanpad
 dodaars
 dodaarslaan
 dodaarsoever
@@ -9611,6 +8956,7 @@ doddegrasweg
 doddendaal
 doddendaallaan
 doddenhoek
+doddersweg
 dode nieuwstraat
 dodedijk
 dodedreef
@@ -9620,11 +8966,11 @@ dodenberg
 dodenhoeksestraat
 dodenweg
 dodesteeg
+dodewaard 36
 dodewaardlaan
 dodewaardsestraat
 dodewaardstraat
 dodeweg
-dodeweg-oost
 dodeweg-west
 dodingawei
 dodo feitamalaan
@@ -9633,19 +8979,18 @@ dodoens-serre
 dodonaeuslaan
 dodonaeusstraat
 dodt van flensburglaan
-doe mere
 doede van amsweerlaan
-doedelzakstraat
 doedereed
 doedes breuning ten catestraat
 doedesstraat
 doedijnstraat
+doedt dekemadyk
 doeffstraat
 doeiakker
 doejenburg
 doeke hellemastrjitte
 doekemawei
-doekeslã¢n
+doekeslÃ¢n
 doel bastion
 doelakkers
 doelakkerstraat
@@ -9653,8 +8998,10 @@ doelakkerweg
 doelbeekseweg
 doeldijk
 doeldreef
+doelebrug
 doelen
 doelenbolwerk
+doelenbrug
 doelendwarsstraat
 doelenerf
 doelengang
@@ -9664,6 +9011,7 @@ doelenlaan
 doelenlaantje
 doelenpad
 doelenplein
+doelensluis 0220
 doelensteeg
 doelenstraat
 doelenveld
@@ -9674,7 +9022,7 @@ doelestraat
 doeleweg
 doelewoud
 doelhof
-doelhã´f
+doelhÃ´f
 doelland
 doelmanstraat
 doelpad
@@ -9684,20 +9032,21 @@ doelwater
 doelweg
 doelweijk
 doelwijck
+doelwijk
 doemakkers
 doemesweg
 doemsdiek
 doen beijenszlaan
+doenbrug
 doene-esweg
 doenkade
 doenkadepad
 doenpad
-doenplein
+doenrade
 doenraderpaadje
 doenraderweg
 doenradestraat
 doensestraat
-doenssenstraat
 doerebout
 doerianstraat
 does
@@ -9707,6 +9056,7 @@ doesburger molenweg
 doesburgerdijk
 doesburgerdijk-west
 doesburgerpad
+doesburgerweg
 doesburgkade
 doesburgpad
 doesburgsedijk
@@ -9714,8 +9064,8 @@ doesburgsepad
 doesburgseweg
 doesburgstraat
 doesburgweg
+doesen
 doeshof
-doeskade
 doeslaan
 doespolder
 doespolderkade
@@ -9723,9 +9073,10 @@ doespolderweg
 doesweien
 doeswerf
 doeszijde
-doetichempad
+doetinchem 26
+doetinchem 3
+doetinchem-oost 4
 doetinchempad
-doetinchemse voetpad
 doetinchemsestraat
 doetinchemseweg
 doetse vliet
@@ -9734,7 +9085,6 @@ doeveberg
 doevelersteeg
 doevelskerc
 doevelsteeg
-doevenbosweg
 doevenkamp
 doevenweg
 doeverenpad
@@ -9757,10 +9107,12 @@ dohmenstraat
 dohnastraat
 dok
 dok van perry
+dokbrug
 dokhavenpad
 dokhof
 dokkade
 dokkumer ie
+dokkumer lokaaltsjepaad
 dokkumer straatweg
 dokkumer trekwei
 dokkumerdiep
@@ -9777,9 +9129,6 @@ dokpad
 dokpolderweg
 dokstraat
 doktasdiek
-dokter  b.j. buurmanstraat
-dokter a de haanstraat
-dokter a van zandijkhof
 dokter a zandijkhof
 dokter a. booijstraat
 dokter a. kuyperweg
@@ -9791,18 +9140,15 @@ dokter akkermansstraat
 dokter aletta jacobsstraat
 dokter allardplein
 dokter andereggstraat
-dokter ariã«nsstraat
 dokter asjeslaan
 dokter b. hornstrasingel
 dokter b.j.buurmanstraat
-dokter b?rstraat
 dokter bakkerenlaan
 dokter bakstraat
 dokter baptiststraat
 dokter bardetplaats
 dokter barentsenstraat
 dokter barnhoornstraat
-dokter barstraat
 dokter bauerstraat
 dokter baumannplein
 dokter baxstraat
@@ -9814,13 +9160,13 @@ dokter beumerstraat
 dokter biegelstraat
 dokter bloemenlaan
 dokter bloemstraat
+dokter blokplantsoen
 dokter blokweg
 dokter blondeelhof
 dokter blumenkampstraat
-dokter boekelmanpad
 dokter bolkesteinstraat
-dokter bolsiuslaan
 dokter bongastrjitte
+dokter bonlaan
 dokter bonstraat
 dokter boomstraat
 dokter borggreveplein
@@ -9830,13 +9176,13 @@ dokter brabersstraat
 dokter braunstraat
 dokter broekhoffstraat
 dokter broodmanstraat
+dokter brugmanplantsoen
 dokter brugmanstraat
 dokter bruinsweg
 dokter brummelkampstraat
-dokter bã¤rstraat
+dokter bÃ¤rstraat
 dokter c lulofsweg
 dokter c. bakkerstraat
-dokter c.bakkerstraat
 dokter catzlaan
 dokter christiaansplein
 dokter christiaansstraat
@@ -9848,7 +9194,6 @@ dokter de bruynstraat
 dokter de grootlaan
 dokter de jonghweg
 dokter de kockstraat
-dokter de liefdehof
 dokter de liefdehof
 dokter de liefdestraat
 dokter de ramlaan
@@ -9864,14 +9209,13 @@ dokter de weverlaan
 dokter de witstraat
 dokter delissenstraat
 dokter denekampweg
-dokter desainlaan
+dokter deumensstraat
 dokter diamantlaan
 dokter doelmanlaan
 dokter dooremansstraat
 dokter duchateaustraat
 dokter duetzlaan
 dokter duyvendakhof
-dokter duyvendakhoff
 dokter e.verstraelenstraat
 dokter eeftinck schattenkerkweg
 dokter engelsoord
@@ -9880,7 +9224,6 @@ dokter eshuisstraat
 dokter esseveldlaan
 dokter f. van den oeverstraat
 dokter felsweg
-dokter fizaanplantsoen
 dokter fokkensstraat
 dokter fokkewei
 dokter frans fouquetstraat
@@ -9891,12 +9234,12 @@ dokter g.h. beensweg
 dokter gallandatstraat
 dokter geuzehof
 dokter gommerslaan
+dokter govaertsplantsoen
 dokter guepinlaan
 dokter h. de vriesplein
 dokter h.g. pluimstraat
 dokter h.j. jagerstraat
 dokter haackstraat
-dokter hamburgerlaan
 dokter hanegraaffhofke
 dokter hanegraaffstraat
 dokter harm brouwerstraat c
@@ -9910,11 +9253,9 @@ dokter heringalaan
 dokter heringastraat
 dokter hermansstraat
 dokter herskade
-dokter herskadee
 dokter heukelmanstraat
 dokter hiemstralaan
 dokter hillenlaan
-dokter hoejenboslaan
 dokter hoekstraat
 dokter holtmannweg
 dokter holtropstraat
@@ -9931,24 +9272,27 @@ dokter ingelseplein
 dokter ingelsestraat
 dokter j. van heuvenweg
 dokter j. veldhuijzen van zantenstraat
-dokter j. veldhuizen van zantenstraat
 dokter j.c. boswijklaan
 dokter jacobzehof
 dokter jansenhof
 dokter jansenstraat
 dokter janssenplein
 dokter jaspershof
+dokter k.l. van der veenlaan
 dokter k.l. vd veenln
+dokter kaanweg
 dokter kanterslaan
 dokter keijserstraat
 dokter keijzerhof
 dokter keijzerstraat
 dokter kerssemakersstraat
+dokter ketsplantsoen
 dokter keukenmeesterstraat
 dokter kijlstradreef
 dokter kijlstraweg
 dokter kijlstrawei
 dokter kimmijserlaan
+dokter klapwijkstraat
 dokter klinkertweg
 dokter kniplaan
 dokter kochstraat
@@ -9957,9 +9301,9 @@ dokter koolhaashof
 dokter koolsstraat
 dokter koomansstraat
 dokter kopstraat
+dokter kortestraat
 dokter kosterstraat
 dokter kroesenring
-dokter kroesenringg
 dokter l.j. bastiaansweg
 dokter landmanstraat
 dokter langendijklaan
@@ -9967,6 +9311,7 @@ dokter lantinkstraat
 dokter larijweg
 dokter ledelstraat
 dokter lemmensstraat
+dokter leo van der laanstraat
 dokter leursstraat
 dokter leurszijstraat
 dokter lijberingstraat
@@ -9977,7 +9322,6 @@ dokter lohmanstraat
 dokter lothlaan
 dokter luijckxstraat
 dokter m van drielplein
-dokter m. rijkenhof
 dokter m. rijkenhof
 dokter maarsinghplein 1933-1997
 dokter maasstraat
@@ -9992,6 +9336,7 @@ dokter meuwissenstraat
 dokter miedemastrjitte
 dokter mijsstraat
 dokter molplein
+dokter morelstraat
 dokter mostartstraat
 dokter mulderstraat
 dokter nanningastraat
@@ -10009,6 +9354,7 @@ dokter p. oosthoekstraat
 dokter p.a. cornethof
 dokter pameijerstraat
 dokter panhuijsenstraat
+dokter parishof
 dokter peelenstraat
 dokter perquinstraat
 dokter piekemalaan
@@ -10020,6 +9366,8 @@ dokter ponthof
 dokter poolstraat
 dokter posthumuslaan
 dokter prakkenleane
+dokter raevenplein
+dokter rahierlaan
 dokter rauppstraat
 dokter reijersstraat
 dokter reilinghplein
@@ -10029,31 +9377,28 @@ dokter rodbardlaan
 dokter ruinenstrjitte
 dokter rupertlaan
 dokter rutgers van der loeffstraat
+dokter ruttenpark
 dokter sabelstraat
-dokter schaepmanplein
 dokter scharffstraat
 dokter schepelstraat
 dokter scheurerlaan
 dokter schmidtstraat
 dokter schoonenbeeklaan
 dokter schoustrastrjitte
-dokter schreuderstraat
-dokter schrã¤derlaan
 dokter schutterstraat
-dokter schuursplantsoen
-dokter schã¶yerstraat
+dokter schÃ¶yerstraat
 dokter siebingasingel
 dokter sillevislaan
-dokter sloetlaan
 dokter slotstraat
 dokter smitslaan
 dokter snijderstraat
 dokter spanjaardweg
-dokter stapensã©astraat
+dokter stapensÃ©astraat
 dokter stavermanstraat
 dokter stegemanhof
 dokter stokkersstraat
 dokter stolteweg
+dokter stuyfzandpad
 dokter tamsmalaan
 dokter tazelaarstraat
 dokter teenstralaan
@@ -10077,16 +9422,12 @@ dokter van der bijlplein
 dokter van der knaaplaan
 dokter van der koppelstraat
 dokter van der moerstraat
-dokter van der moerstraat
 dokter van der stamstraat
-dokter van der windhof
 dokter van dongenkade
-dokter van dongenkadee
 dokter van doornplein
 dokter van dorstenstraat
-dokter van dorstenstraat
+dokter van gelderstraat
 dokter van gelderweg
-dokter van haeringenplantsoen
 dokter van haeringenplantsoen
 dokter van heesweg
 dokter van hoeckelstraat
@@ -10100,7 +9441,6 @@ dokter van noortstraat
 dokter van oirschotstraat
 dokter van peltlaan
 dokter van praagstraat
-dokter van senusdreef
 dokter van stratenweg
 dokter van thienenweg
 dokter van vuurestraat
@@ -10116,10 +9456,7 @@ dokter vlaanderenlaan
 dokter vosstraat
 dokter w a boekelmanpad
 dokter w nijestraat
-dokter w. nijestraat
 dokter w. van der horstlaan
-dokter w.a. boekelmanpad
-dokter w.m. blomsingel
 dokter wachterslaan
 dokter wallerstraat
 dokter wasmannstraat
@@ -10128,7 +9465,6 @@ dokter weederlaan
 dokter welfferpad
 dokter westrastrjitte
 dokter weversstraat
-dokter wiardi beckmanlaan
 dokter wijmansstraat
 dokter willemslaan
 dokter willemsstraat
@@ -10136,7 +9472,6 @@ dokter wilminkstraat
 dokter windemullerweg
 dokter wortelboerstraat
 dokter ypeijlaan
-dokter zandbergendreef
 dokter zoetemanstraat
 dokter zwaanstraat
 dokterlaan
@@ -10158,6 +9493,7 @@ dokweg
 dokwerker
 dokwerkerlaan
 dokwerkerstraat
+dola de jongweg
 dolabrastraat
 dolberg
 dolceplein
@@ -10173,6 +9509,7 @@ dolderweg
 dolentepad
 dolf henkesplein
 dolf nijhoffstraat
+dolf tulpstraat
 dolf van der lindenstraat
 dolfijn
 dolfijnhof
@@ -10181,8 +9518,10 @@ dolfijnpad
 dolfijnpark
 dolfijnstraat
 dolfijnweg
+dolfinariumbrug
 dolgaard
 dolhaantjestraat
+dolhuisgang
 dolhuissteeg
 dolhuissteiger
 dolhuisstraat
@@ -10202,6 +9541,7 @@ dollarhof
 dollebegijnensteeg
 dollegoorweg
 dollehoedsdijk
+dollehoeksedijk
 dollemansstraat
 dollemansweg
 dollerweg
@@ -10216,7 +9556,7 @@ dolomietenweide
 dolomietstraat
 dolonstraat
 dolphiaweg
-dolphijnengang
+dolphijn
 dolphijnstraat
 dolsbergerveldweg
 dolsbergervoetpad
@@ -10226,7 +9566,7 @@ dolstegge
 dolstraat
 dolte
 doltenwei
-doltewã¢l
+doltewÃ¢l
 dom h. van der laanstraat
 dom helder camaraplaats
 dom helder camarastraat
@@ -10236,7 +9576,6 @@ dom s. dubuissonstraat
 domakkerstraat
 domaniale mijnstraat
 dombosch
-dombosweg
 domburghoeve
 domburglaan
 domburgpad
@@ -10249,9 +9588,7 @@ domein
 domeinakker
 domeinenhof
 domeinenstraat
-domeinenveen
 domeinenveenweg
-domeinenwater
 domeinenweg
 domeinlaan
 domeinmolen
@@ -10259,6 +9596,7 @@ domeinpad
 domeinplaatweg
 domeinstraat
 domeinweg
+domela nieuwenhof
 domela nieuwenhuishof
 domela nieuwenhuislaan
 domela nieuwenhuisplantsoen
@@ -10272,19 +9610,17 @@ domenico scarlattilaan
 domeynen
 domies laand
 domiespad
+domina de neelingpad
 dominee alstorphiuspad
 dominee b. toesplein
-dominee b. toespleinn
 dominee bakkerushof
 dominee baxstraat
 dominee beensstraat
-dominee beyers naud)straat
-dominee beyers naudã©straat
+dominee beyers naudÃ©straat
 dominee bleekerhof
 dominee bulensstraat
 dominee buskesstraat
 dominee c van den bergstraat
-dominee c vd bergstraat
 dominee coolsmastraat
 dominee de jonglaan
 dominee h. janzenstraat
@@ -10299,27 +9635,30 @@ dominee j a visscherlaan
 dominee j t doornenbalstraat
 dominee jamesstraat
 dominee janzoniusstraat
+dominee jongebreurzoom
+dominee koklaan
 dominee kopsstraat
 dominee kremerstraat
+dominee m.c. van wijhepad
 dominee meinsmastraat
 dominee nanne zwiepsingel
 dominee otto veeninglaan
 dominee pareauhof
-dominee pieter zandtplantsoen
 dominee riekelhof
 dominee swaluestraat
 dominee thomsonstraat
 dominee van dorpstraat
+dominee van enkwarande
 dominee van ingenstraat
 dominee van krevelenweg
 dominee van meursstraat
 dominee van pellecomstraat
 dominee van rootselaarerve
 dominee versteegtstraat
+dominee vroegindeweijpark
 dominee waardenburgstraat
 dominee's glop
 dominee's hof
-dominee.j a visscherlaan
 domineesakker
 domineesbergweg
 domineesbosje
@@ -10334,14 +9673,15 @@ domineeslaan
 domineeslaantje
 domineespaadje
 domineespad
+domineessingel
 domineessteek
+domineesstraatje
 domineesteeg
 domineestraat
 domineestuin
 domineeswal
 domineesweg
 domineeswei
-dominicanenlaan
 dominicanenplein
 dominicanenstraat
 dominicanenwal
@@ -10359,8 +9699,8 @@ dominicusweg
 dominikanenhof
 dominikanenstraat
 dominosteen
-dominã©pad
-dominã©straat
+dominÃ©pad
+dominÃ©straat
 domisstraat
 domlaan
 dommel
@@ -10390,10 +9730,12 @@ dommelstraat
 dommelstraat-zuid
 dommelstroom
 dommelsvoort
+dommeltunneltje
 dommelveld
 dommelweg
 dommer van poldersveldtstraat
 dommer van poldersveldtweg
+dommerholtsveer
 dommerholtsweg
 dommeringdreef
 dommerskanaal nz
@@ -10435,12 +9777,13 @@ don carloshof
 don carlosstraat
 don emanuelstraat
 don felixhof
-don giovannistraat
+don ferdinandlaan
 don quesopad
 don rualaan
 don sartostraat
 don velascodreef
 donald ducklaan
+donald glaserstraat
 donar
 donarpad
 donarstraat
@@ -10449,6 +9792,7 @@ donatello
 donatellostraat
 donatilaan
 donatus
+donatuslaan
 donatusplein
 donatusstraat
 donau
@@ -10483,12 +9827,10 @@ donderveldstraat
 donderwolk
 donellenlaan
 donge
-dongedal
 dongedijk
 dongedijkseweg
 dongeheuvel
 dongehof
-dongekade
 dongelaan
 dongelsdijk
 dongelte
@@ -10518,6 +9860,7 @@ doniastraat
 doniastrjitte
 doniaweg
 doniawei
+doniawier
 donizettihof
 donizettilaan
 donizettipad
@@ -10532,6 +9875,9 @@ donjonweg
 donjonweide
 donk
 donkbeemd
+donkbrug
+donkdreef
+donkenpad
 donkenweg
 donker curtiushof
 donker curtiuslaan
@@ -10539,13 +9885,14 @@ donker curtiusstraat
 donker curtiusware
 donker duyvisweg
 donkerbos
+donkerbroek
 donkere begijnhof
 donkere gaard
-donkere houtpad
 donkere kade
 donkere laantje
 donkere spaarne
-donkere weegje
+donkere weg
+donkereduinen
 donkeregaard
 donkeregaarde
 donkereind
@@ -10557,8 +9904,6 @@ donkeresteeg
 donkereweg
 donkerewegje
 donkergroen
-donkerhoek
-donkerhofsteeg
 donkerhooiweg
 donkerkade
 donkerpeelkensweg
@@ -10574,7 +9919,6 @@ donkersstraat
 donkersteeg
 donkerstraat
 donkersveld
-donkersvoortsebeek
 donkersvoortsestraat
 donkerveldweg
 donkervliet
@@ -10583,7 +9927,7 @@ donkervoort
 donkervoorterweg
 donkervoortlaan
 donkervoortseloop
-donkerweg
+donkerweide
 donkesven
 donkhof
 donkhorst
@@ -10599,6 +9943,7 @@ donkslagen
 donkstraat
 donkvaart
 donkven
+donkvoort
 donkweg
 donnerlaan
 donnerskamp
@@ -10615,9 +9960,13 @@ donte
 donze visserstraat
 donzel
 donzelstraat
+dooddijk
+doode dijk
 doodeindeweg
+doodenlaan
 doodloop
-doodlopen
+doodloper
+doodloperweg
 doodsdwarsweg
 doodstilsterweg
 doodsweg
@@ -10640,11 +9989,12 @@ doolhoflaan
 doolhofpad
 doolhofstraat
 doolhofweg
-doolingsbemden
 doolstraat
 doolweg
 doomhoeve
+doonakker
 doonheide
+doonpoort
 doonweg
 door de bontestraat
 door den dreesj
@@ -10659,12 +10009,13 @@ doorder veldweg
 doorderweg
 doordraai
 doorenbosch
+doorgaandesteeg
 doorgang
 doorgang 1313
-doorgangshuis
 doorgangspad
 doorkijk
 doorlaat
+doorlaatwerk
 doorloop
 doorlopendedijk
 doorloper
@@ -10695,8 +10046,10 @@ doornbosje
 doornboslaan
 doornbossestraat
 doornbosseweg
+doornbostoren
 doornburg
 doornburgh
+doornburghstraat
 doornburglaan
 doornburgstede
 doorndijk
@@ -10724,6 +10077,7 @@ doornheegde
 doornheg
 doornhoecklaan
 doornhoek
+doornhof
 doornickstraat
 doornik
 doorniklaan
@@ -10742,6 +10096,7 @@ doornluststraat
 doornmeet
 doornpad
 doornroosjestraat
+doornse hoef
 doornseveste
 doornseweg
 doornsingel
@@ -10760,6 +10115,7 @@ doorrid
 doorrit
 doorslag
 doorsnee
+doorsneedraaibrug
 doorsneeweg
 doorsnijding
 doorsteek
@@ -10810,24 +10166,33 @@ dopplerstraat
 dopplerweg
 dopsingel
 dopveldenpad
+dora dolzplein
 dora ebbenhof
+dora lansbergenpad
 dora tamanaplein
 dora tamanastraat
 doradehof
 doradopad
 dorastraat
 doraweg
-dorbeekweg
 dorbeendreef
 dorcamp
 dordogne
 dordognelaan
 dordognestraat
+dordrecht 24
+dordrecht-centrum
+dordrecht-centrum 21
+dordrecht-centrum 21a
+dordrecht-krispijn 4
+dordrecht-staart 2
+dordrecht-stadpolders 3
+dordrecht-sterrenburg 5
+dordrecht-willemsdorp 19
 dordrechtplein
 dordrechtseweg
 dordrechtweg
 dordsedijk
-dordsedk
 dordsedwarsstraat
 dordsestraat
 dordseweg
@@ -10852,6 +10217,8 @@ dori
 dorigweg
 dorine verschureplein
 doris lessinglaan
+doris lessingplein
+doris lessingstraat
 dorkinglaan
 dorlandsweer
 dorlandweg
@@ -10869,7 +10236,6 @@ dorothea-gracht
 dorotheagaarde
 dorotheagang
 dorp
-dorpbroekstraat
 dorpel
 dorpeldijk
 dorpen
@@ -10884,13 +10250,11 @@ dorperhoek
 dorperhoekweg
 dorperhofweg
 dorpermeienweg
-dorperpeelweg
 dorpersdreef
 dorpersveld
 dorperveld
 dorperveldstraat
 dorperveldweg
-dorperweiden
 dorphof
 dorphofpad
 dorppolderweg
@@ -10904,8 +10268,7 @@ dorpsdwarsstraat
 dorpsgaard
 dorpsgraaf
 dorpshaven
-dorpshaven oost
-dorpshaven west
+dorpshellen
 dorpshof
 dorpshuisplein
 dorpshuisstraat
@@ -10918,6 +10281,7 @@ dorpskroft
 dorpslaan
 dorpsloophof
 dorpsmatenstraat
+dorpsomroeper
 dorpspad
 dorpsplein
 dorpsplein 't loug
@@ -10933,7 +10297,6 @@ dorpsstraat holysloot
 dorpsstraat lk
 dorpsstraat vo steenstraat
 dorpsstraat-oost
-dorpsstraat-oost
 dorpsstreek
 dorpsterlanden
 dorpsterweg
@@ -10945,8 +10308,10 @@ dorpsweg
 dorpsweg ransdorp
 dorpswei
 dorpsweide
+dorpswerf
 dorpszicht
 dorpveldweg
+dorpzicht
 dorpzigt
 dorre ilp
 dorrebannetpad
@@ -10962,6 +10327,7 @@ dorreveldweg
 dorreweerde
 dorreweg
 dorrewold
+dorry arts plein
 dors
 dorscamp
 dorser
@@ -10976,7 +10342,6 @@ dorshout
 dorsing
 dorskamp
 dorskampweg
-dorskarsstraat
 dorskarstraat
 dorslaan
 dorsmanstraat
@@ -10996,6 +10361,7 @@ dorsvlegel
 dorsvlegelland
 dorsvlegelpad
 dorsvlegelstraat
+dorsvlegelweg
 dorsvlegelweide
 dorsvloer
 dorsvloerweg
@@ -11005,12 +10371,12 @@ dortestraat
 dorth
 dortherdijk
 dortherweg
-dorthlaan
 dorthstraat
 dortlaan
 dortmuiden
 dortmunderkade
 dortmundstraat
+dortseweg
 dortsmansstraat
 dortsmanstraat
 dortsmondstraat
@@ -11019,7 +10385,6 @@ dorus hoeksplantsoen
 dorus rijkershof
 dorus rijkerskade
 dorus rijkersplein
-dorus rijkersrede
 dorus rijkersstraat
 dorus rijkersweg
 dorus van den elsenhof
@@ -11035,7 +10400,7 @@ doskesakker
 dostalstraat
 dosterdstraat
 dostojevskisingel
-dotinga tãºn
+dotinga tÃºn
 dotingastate
 dotingastraat
 dotter
@@ -11062,10 +10427,10 @@ dotterplantsoen
 dotterstraat
 dotterweg
 dotterweide
+douane
 doublethstraat
 doubletstraat
-douboomweg
-doudart de la grã©ehof
+doudart de la grÃ©ehof
 doude van troostwijkplein
 doude van troostwijkstraat
 douglashof
@@ -11073,12 +10438,10 @@ douglashout
 douglashoutpad
 douglaslaan
 douglassingel
-douglasspar
 douglasweg
 doumaat
 doumalaan
 doumastate
-doumastege
 dourleindreef
 dousbergparcours
 dousbergweg
@@ -11109,7 +10472,7 @@ douwelaan
 douwelerkolkpad
 douwelerkolkweg
 douwelerwetering
-douwelã¢n
+douwelÃ¢n
 douwemastins
 douwemastrjitte
 douwen
@@ -11122,6 +10485,8 @@ douwes dekkerstraat
 douwesplaats
 douwestrjitte
 douwetille
+douwewk
+douwine norelpad
 douwstraweg
 douzapad
 douzastraat
@@ -11138,11 +10503,9 @@ doverau
 doverpad
 doverstraat
 dowemattereed
-doyennã©perenlaan
+doyennÃ©perenlaan
 doys van der doesstraat
 dozystraat
-dr .a. van der willigen sr. laan
-dr a f philipslaan
 dr a j kraaystraat
 dr a kuyperstraat
 dr a. thywissenpad
@@ -11152,9 +10515,7 @@ dr albert schweitzerstraat
 dr albert schweitzerweg
 dr anton philipsstraat
 dr ariensstraat
-dr ariã«nsstraat
-dr ariã«nsstraat
-dr ariã«nstraat
+dr ariÃ«nsstraat
 dr augustijnlaan
 dr b bastiaansestr
 dr beguinlaan
@@ -11162,7 +10523,7 @@ dr berlagelaan
 dr besselinkstraat
 dr boslaan
 dr bossersstraat
-dr brevã©estraat
+dr brevÃ©estraat
 dr c a gerkestraat
 dr cuijpersstraat
 dr cuyperslaan
@@ -11172,10 +10533,8 @@ dr de bruijnlaan
 dr de snooplein
 dr de visserlaan
 dr de visserstraat
-dr de wolfstraat
 dr eeltje halbertsmastraat
 dr ensinkstraat
-dr erensstraat
 dr f.h. reijnderslaan
 dr feijstraat
 dr flemingstraat
@@ -11184,15 +10543,11 @@ dr g a wumkesstraat
 dr g h amshoffweg
 dr g van schouwenlaan
 dr gewinstraat
-dr goossensstraat
-dr guttmannlaan
 dr h colijnstraat
 dr h. colijnlaan
 dr h.j. van mooklaan
-dr h.th. 's jacoblaan
 dr haverkampstraat
 dr haw van der vechtlaan
-dr hermanstraat
 dr hermansweg
 dr hoegenstraat
 dr hoijngstraat
@@ -11222,7 +10577,6 @@ dr l de bruijnstraat
 dr l e van hoornlaan
 dr l pinckersweg
 dr martin luther kinghof
-dr max euwestraat
 dr moonsweg
 dr n. adrianistraat
 dr nolenslaan
@@ -11241,16 +10595,11 @@ dr s k de waardlaan
 dr salkstraat
 dr sauerstraat
 dr schaepmanlaan
-dr schaepmanplein
 dr schaepmansingel
-dr schaepmanstraat
 dr schaepmanstraat
 dr smitstraat
 dr staringstraat
 dr tanslaan
-dr ter haarlaan
-dr v dugterenpad
-dr van beurdenstraat
 dr van den brinkstraat
 dr van der meerstraat
 dr van hengelstraat
@@ -11258,7 +10607,6 @@ dr van wamelstraat
 dr vd broekstraat
 dr verhagenstraat
 dr vitus ringersstraat
-dr vlaanderenlaan
 dr w c h staringstraat
 dr w dreesplein
 dr w dreesstraat
@@ -11275,6 +10623,7 @@ dr wumkeslaan
 dr wumkesstrjitte
 dr zamenhofpad
 dr zamenhofstraat
+dr zwarteveenweg
 dr. a. brediuspark
 dr. a. brediusstraat
 dr. a. de haanstraat
@@ -11291,16 +10640,13 @@ dr. a. van de beekstoep
 dr. a. van der willigen sr. laan
 dr. a. vondelingstraat
 dr. a. zijlmansstraat
-dr. a.d. sacharovlaan
 dr. a.e. remouchampsstraat
 dr. a.f. philipsweg
 dr. a.j.j. van gemertplein
 dr. a.r. holplein
 dr. a.r. holstraat
 dr. abraham kuyperlaan
-dr. abraham kuyperlaan
 dr. abraham kuyperstraat
-dr. ackensplein
 dr. ackensweg
 dr. ahaushof
 dr. ahausstraat
@@ -11314,45 +10660,38 @@ dr. aletta jacobshof
 dr. aletta jacobslaan
 dr. aletta jacobsstraat
 dr. aletta jacobsweg
-dr. alfons ariã«nsstraat
+dr. alfons ariÃ«nsstraat
 dr. allard piersonstraat
-dr. alphons ariã«nsstraat
+dr. alphons ariÃ«nsstraat
 dr. alphons diepenbrockstraat
 dr. ammanstraat
 dr. ant. mathijsenstraat
 dr. anthon van der horstlaan
 dr. anton philipsweg
 dr. arienslaan
-dr. ariã«nslaan
-dr. ariã«nsplein
-dr. ariã«nsstraat
-dr. ariã«nstraat
+dr. ariÃ«nslaan
+dr. ariÃ«nsplein
+dr. ariÃ«nsstraat
+dr. ariÃ«nstraat
 dr. arntzstraat
 dr. b. brongersstraat
-dr. b. kranenburgstr
 dr. b. vaandragerstraat
 dr. banninghof
-dr. banningstraat
 dr. baptiststraat
-dr. barentsenstraat
 dr. bastinghof
 dr. bastingpad
 dr. batenburglaan
 dr. bearda bakkerstraat
 dr. beelstraat
-dr. beguinlaan
 dr. bekenkampstraat
 dr. benthemstraat
 dr. berend ten broeckestraat
-dr. berlagelaan
 dr. beumerplantsoen
 dr. bezoenstraat
 dr. blomstraat
-dr. boekelmanpad
 dr. boekenoogenstraat
 dr. boelmans kranenburgstraat
 dr. bolsiuslaan
-dr. boomstraat
 dr. bosstraat
 dr. boumaweg
 dr. boutensstraat
@@ -11365,7 +10704,6 @@ dr. c. hofstede de grootkade
 dr. c. hofstede de grootstraat
 dr. c. lelyplantsoen
 dr. c. lelyweg
-dr. c. r. hermansstraat
 dr. c. voogdplein
 dr. c.a.j. quantstraat
 dr. c.j.k. van aalstweg
@@ -11373,6 +10711,7 @@ dr. c.r. hermansstraat
 dr. c.w. ittmannpad
 dr. c.w.h. van raaltenpark
 dr. calsstraat
+dr. cappettistraat
 dr. cartier van disselweg
 dr. chris soumokilstraat
 dr. christine baderstraat
@@ -11390,13 +10729,13 @@ dr. d. bosstraat
 dr. d.m. sluyspad
 dr. d.m. van londenstraat
 dr. damstraat
-dr. de blã©courtstraat
+dr. de blÃ©courtstraat
 dr. de brouwerstraat
 dr. de bruijnestraat
 dr. de jongstraat
 dr. de quaystraat
 dr. de quayweg
-dr. de visserlaan
+dr. de visserhove
 dr. de visserlaan
 dr. de visserplein
 dr. de visserstraat
@@ -11410,21 +10749,16 @@ dr. douvenstraat
 dr. dreesflat
 dr. dreeslaan
 dr. dreesstraat
-dr. droesenweg
 dr. droogplein
-dr. duchateaustraat
 dr. duijsenslaan
 dr. e. boekmanstraat
 dr. e. wassenberghstrjitte
-dr. e.h. ebelsweg
 dr. e.h. ebelsweg
 dr. e.j. roelfsemalaan
 dr. ebelsstraat
 dr. eekmanstraat
 dr. eijgenraamstraat
-dr. eijkmanstraat
 dr. eijnattenlaan
-dr. elisabeth kã¼bler-rossplein
 dr. engelhardlaan
 dr. eykmanstraat
 dr. f.w. klaarenbeeksingel
@@ -11439,11 +10773,10 @@ dr. g.a. wumkesstrjitte
 dr. goossensstraat
 dr. grashuisstraat
 dr. gravemeijerstraat
-dr. guljã©straat
+dr. guljÃ©straat
 dr. gunningstraat
 dr. guttmannhof
 dr. gw grijnshof
-dr. h. bavinckplaats
 dr. h. bavinckplaats
 dr. h. blinkstraat
 dr. h. colijnlaan
@@ -11463,16 +10796,13 @@ dr. h.j. olthuisstraat
 dr. h.j. postlaan
 dr. h.j.a.m.schaepmanplein
 dr. h.j.g. hoebenstraat
-dr. h.j.olthuisstraat
 dr. h.p. bremmerpark
 dr. h.p. bremmerstraat
 dr. h.p. heinekenstraat
-dr. h.th. s 'jacoblaan
-dr. h.th. s' jacoblaan
-dr. h.w. tilanusstraat
 dr. hadriaan van neslaan
 dr. harm smeengestraat
 dr. hartmanlaan
+dr. hartogspad
 dr. hartogsweg
 dr. haverkorn van rijsewijkweg
 dr. heijelaan
@@ -11481,11 +10811,9 @@ dr. hein hoeben laan
 dr. hein hoebenlaan
 dr. henrarstraat
 dr. henriette boasstraat
-dr. henriette boasstraat
 dr. hermanslaan
 dr. hermansstraat
 dr. hessel groeneveldstraat
-dr. heyepad
 dr. hockesingel
 dr. holwerdastraat
 dr. hoogenboomlaan
@@ -11494,7 +10822,6 @@ dr. hub frenkenpad
 dr. hub van doorneweg
 dr. huizingastraat
 dr. hustinxlaan
-dr. ir. boomstraat
 dr. ir. bungestraat
 dr. ir. c. lelystraat
 dr. ir. l.g.h. fortuijnrotonde
@@ -11525,7 +10852,6 @@ dr. j.m. den uylboulevard
 dr. j.m. den uyllaan
 dr. j.m. den uylplantsoen
 dr. j.m. den uylplein
-dr. j.m. den uylsingel
 dr. j.m. den uylstraat
 dr. j.m. den uylweg
 dr. j.p. heijelaan
@@ -11540,7 +10866,6 @@ dr. jacob botkeweg
 dr. jacobilaan
 dr. jaegersstraat
 dr. jan berendsstraat
-dr. jan ingen houszplein
 dr. jan ingenhouszplein
 dr. jan koopmanspad
 dr. jan mulderstraat
@@ -11549,19 +10874,18 @@ dr. jan ten brinkstraat
 dr. jan van breemenlaan
 dr. jan van breemenstraat
 dr. jan van den tempellaan
-dr. jan van den tempelln
 dr. janssenslaan
 dr. jj willemsehof
 dr. joh. g. mezgerweg
 dr. johan picardtweg
 dr. johan wagenaarstraat
 dr. joop den uylsingel
-dr. joost halbertsmastr
 dr. joost halbertsmastraat
 dr. joostenstraat
-dr. julius rã¶ntgenlaan
+dr. julius rÃ¶ntgenlaan
+dr. k. van tuijnstraat
 dr. kinglaan
-dr. klompã©laan
+dr. klompÃ©laan
 dr. knippenberghof
 dr. kochlaan
 dr. koekstraat
@@ -11572,10 +10896,9 @@ dr. kortewegstraat
 dr. kortmannstraat
 dr. kortmannweg
 dr. kostersstraat
-dr. kreijenstraat
 dr. kuijperkade
-dr. kuijperlaan
 dr. kuijperstraat
+dr. kuyperbrug
 dr. kuyperhof
 dr. kuyperkade
 dr. kuyperlaan
@@ -11586,6 +10909,7 @@ dr. l.j. rogierstraat
 dr. l.j.f. janssenstraat
 dr. l.l. zamenhoflaan
 dr. lafeberstraat
+dr. langemeijerstraat
 dr. langemeijerweg
 dr. langeveldplein
 dr. leenaersstraat
@@ -11594,19 +10918,17 @@ dr. leijdsstraat
 dr. lelykade
 dr. lelylaan
 dr. lelystraat
-dr. lemmenstraat
 dr. letteplein
 dr. leydsstraat
-dr. lovinklaan
 dr. lovinkstraat
 dr. m.a. tellegenlaan
 dr. m.e. houckstraat
 dr. m.l. kingstraat
 dr. mansveltkade
-dr. marga klompã©hof
-dr. marga klompã©laan
-dr. marga klompã©park
-dr. marga klompã©straat
+dr. marga klompÃ©hof
+dr. marga klompÃ©laan
+dr. marga klompÃ©park
+dr. marga klompÃ©straat
 dr. martin luther kinglaan
 dr. martin luther kingstraat
 dr. martinus van der stoelstraat
@@ -11632,17 +10954,16 @@ dr. oortwijn botjeslaan
 dr. oortwijn botjesstraat
 dr. ottenstraat
 dr. p. c. de brouwerlaan
-dr. p. c. de brouwerstraat
 dr. p. cuyperslaan
 dr. p. hoekstralaan
 dr. p. rinsemastraat
 dr. p. van hoeklaan
 dr. p. van hoekstraat
 dr. p.c. de brouwerstraat
+dr. p.g. bekkeringpad
 dr. p.j. van leeuwenhof
 dr. p.j.h. cuypersplein
 dr. paul janssenweg
-dr. peelenstraat
 dr. peter van anrooijstraat
 dr. philipsstraat
 dr. pieter sipmastraat
@@ -11659,59 +10980,51 @@ dr. r. rijkensstraat
 dr. r. van lutterveltstraat
 dr. r.j. fruinplantsoen
 dr. r.j. fruinstraat
+dr. raaijmaakersstraat
 dr. ramaerlaan
-dr. remmet van lutterveltstraat
 dr. ringersstraat
-dr. rive-straat
 dr. rivestraat
-dr. rodbardlaan
 dr. ruijsstraat
 dr. s'jacoblaan
 dr. s'jacobstraat
 dr. s.r. beertastraat
 dr. saal van zwanenbergsingel
-dr. sabelstraat
 dr. sacharovplaats
-dr. sacharovplaats
-dr. schaepmanlaan
 dr. schaepmanlaan
 dr. schaepmanplantsoen
 dr. schaepmanplein
 dr. schaepmanstraat
-dr. schaepmanstraat
 dr. schaepmanweg
 dr. schoutenlaan
-dr. schrã¤derlaan
+dr. schrÃ¤derlaan
 dr. schuitstraat
 dr. schutlaan
 dr. schweitzerstraat
-dr. schã¶nfeldstraat
+dr. schÃ¶nfeldstraat
 dr. sicco mansholtstraat
+dr. singelenbergpark
 dr. sloetlaan
 dr. sloetstraat
-dr. slotemaker de bruã¯neplein
-dr. slotemaker de bruã¯nestraat
+dr. slotemaker de bruÃ¯neplein
+dr. slotemaker de bruÃ¯nestraat
 dr. slotlaan
 dr. sluijtersweg
 dr. smitstraat
 dr. stamstraat
 dr. struyckenplein
 dr. struyckenstraat
-dr. stã¤rckelaan
+dr. stÃ¤rckelaan
 dr. ten bokkel huininkweg
 dr. ter braaklaan
 dr. ter haarlaan
 dr. th. tjabbesstraat
 dr. thiadensstraat
-dr. thijsselaan
 dr. tijdensstraat
 dr. tilanuslaan
 dr. titus brandsmaplein
 dr. van beurdenstraat
 dr. van campenstraat
 dr. van damstraat
-dr. van de meerendonkstr
-dr. van de meerendonkstraat
 dr. van den bergstraat
 dr. van der feltzlaan
 dr. van der hoevenlaan
@@ -11739,7 +11052,6 @@ dr. vlimmenstraat
 dr. w. dreeshof
 dr. w. dreeslaan
 dr. w. dreesstraat
-dr. w. dreesstraat
 dr. w. kokstrjitte
 dr. w. pleijtestraat
 dr. w. portheinestraat
@@ -11747,12 +11059,12 @@ dr. w.h. van rietschotenstraat
 dr. w.m. verhaarlaan
 dr. wagenaarstraat
 dr. welfferweg
-dr. wiardi beckmanlaan
 dr. wiardi beckmansingel
 dr. wiardi beckmanstraat
 dr. wibautlaan
 dr. wibautstraat
 dr. wiersemahof
+dr. wijtenburglaan
 dr. willem dreeshof
 dr. willem dreeslaan
 dr. willem dreesplantsoen
@@ -11769,36 +11081,27 @@ dr. zamenhoflaan
 dr. zamenhofplein
 dr. zamenhofstraat
 dr.-beelborch
-dr.-marga klompã©borch
+dr.-marga klompÃ©borch
 dr.a.a.jessestraat
 dr.a.c.van raaltestraat
 dr.a.f.philipsstraat
 dr.a.kuyperlaan
-dr.a.m. van de poellaan
 dr.a.th.plantenstraat
 dr.ackensplein
-dr.ariã«nsstraat
+dr.ariÃ«nsstraat
 dr.berlagelaan
 dr.biermansstraat
-dr.brevã©estraat
-dr.c.hofstede d grooterf
-dr.c.hofstede d grootstraat
-dr.cuypersstraat
+dr.brevÃ©estraat
 dr.d.f.scheurleerstraat
 dr.de brouwerlaan
 dr.dreeslaan
-dr.f.h. reijnderslaan
 dr.h.colijnstraat
 dr.hooglandstraat
-dr.j. de koninglaan
 dr.j.th.de visserlaan
-dr.jacobilaan
 dr.jan herman van heekln
-dr.k.d. schã¶nfeldstraat
+dr.k.d. schÃ¶nfeldstraat
 dr.kreijenstraat
 dr.l.f. kampsstraat
-dr.lafeberstraat
-dr.leydsstraat
 dr.m. noordewierstraat
 dr.martin luther kingplein
 dr.meuwissenstraat
@@ -11817,7 +11120,6 @@ dr.schaepmankade
 dr.schaepmanplein
 dr.schaepmanstraat
 dr.scheylaan
-dr.thijsselaan
 dr.tjalmastraat
 dr.v.d.hoevenlaan
 dr.v.kammenstraat
@@ -11833,7 +11135,6 @@ draadbaan
 draadeind
 draadereprijs
 draadnagelweg
-draadrus
 draadrusplein
 draadskolkweg
 draadweg
@@ -11856,12 +11157,10 @@ draaikolk
 draaikolkpad
 draaikom
 draailier
-draaimolen
 draaiom
 draaiomsdreef
 draaiomsweg
 draaischijf
-draaistok
 draaistraat
 draaistroom
 draaitor
@@ -11876,11 +11175,14 @@ drabbelweg
 drabbestraat
 drachme
 drachmenruwe
-drachmeruwe
 drachmesingel
 drachmestraat
 drachmeweg
 dracht
+drachten
+drachten 30
+drachten-centrum 29
+drachten-noord 29
 drachtenpad
 drachtenstraat
 drachterweg
@@ -11889,7 +11191,7 @@ drachtsterplein
 drachtsterweg
 draco
 dracolaan
-draeisterhãºzen
+draeisterhÃºzen
 draepkilweg
 draf
 drafbaan
@@ -11911,7 +11213,7 @@ dragonweg
 dragoonsplein
 dragsholm
 draijerswijk
-drakebã´ch
+drakebÃ´ch
 drakenberg
 drakenburg
 drakenburgerweg
@@ -11935,11 +11237,12 @@ drakestein
 drakesteinstraat
 drakesteinweg
 drakesteyn
+drapenier
 drapenierlaan
+drapeniersbrug
 drapeniersdonk
 drapeniersgaarde
 drapeniersgilde
-drapeniersplein
 drapeniersstraat
 drapenierstraat
 drapenierwei
@@ -11972,6 +11275,7 @@ drechterwaard
 drechtkade
 drechtlaan
 drechtstraat
+drechttunnel
 dreckweg
 dreef
 dreefbrug
@@ -11986,15 +11290,13 @@ dreefseweg
 dreefstraat
 dreefzicht
 drees
-drees  van dordenkade
-drees  van dordenpad
+drees van dordenkade
 dreesborch
 dreesch
 dreesdestraat
 dreeshof
 dreeslaan
 dreespad
-dreespassage
 dreesplein
 dreessencampstraat
 dreessingel
@@ -12033,9 +11335,9 @@ drenthehof
 drenthelaan
 drenthelweg
 drentheplantsoen
-drenthestraat
 drenthweg
-drentsche hofje
+drents
+drents diep
 drentse bellefleur
 drentse mondenweg
 drentse poort
@@ -12061,7 +11363,6 @@ dressuurlaantje
 dreumellaan
 dreumelweg
 dreve
-dreve velderkens
 drevel
 drevelhof
 drevelpad
@@ -12076,13 +11377,12 @@ dreyboom
 dreyenseweg
 dreyershofje
 dribbelheidseweg
+dribbelpad
 drie akersstraat
-drie aschtonnengang
 drie burgpad
 drie decembersingel
 drie eikenbeemden
 drie eikenstraat
-drie engelengang
 drie gebroeders
 drie gezustersdijk
 drie groene eikels
@@ -12093,11 +11393,9 @@ drie kampjes
 drie kolken
 drie kolommenplein
 drie koningenstraat
-drie kooienweg
 drie kuilen voetpad
 drie lindekensdijk
 drie lindekensweg
-drie lindendreef
 drie merenpad
 drie merenweg
 drie minuten
@@ -12105,9 +11403,9 @@ drie morgen
 drie morgenland
 drie octoberstraat
 drie ossensteeg
+drie pijpsterbrug
 drie pistolengang
 drie roe
-drie roemersgang
 drie roemerssteeg
 drie schouwenstraat
 drie stammenweg
@@ -12116,8 +11414,7 @@ drie tolhekken
 drie turkenlaan
 drie weikes
 drie zalmen
-drie+rweg
-drieaâ«rweg
+drieambachtskade
 driebanen
 driebanlaan
 driebanstraat
@@ -12125,6 +11422,7 @@ driebanweg
 driebekje
 driebelterweg
 drieberg
+driebergen 20
 driebergendijk
 driebergenlaan
 driebergenstraat
@@ -12137,6 +11435,7 @@ driebergweg
 drieblad
 driebladhof
 driebokstraat
+driebond 38
 driebondsweg
 drieboomlaan
 drieborg
@@ -12158,6 +11457,7 @@ driegaardsestraat
 driegangpad
 driegemeentenpad
 driegraas
+drieharingenbrug 0320
 drieharingstraat
 drieherenlaan
 drieherenweg
@@ -12170,6 +11470,7 @@ driehoeklaan
 driehoekskamp
 driehoekslaan
 driehoekstraat
+driehoeksveer
 driehoeksweg
 driehoekweg
 driehoeven
@@ -12191,7 +11492,6 @@ driehuizerweg
 driek van erpstraat
 driek van wissenhof
 driek van wissenpad
-driekamp
 driekant
 driekesweg
 driekieftenweg
@@ -12208,11 +11508,8 @@ driekramerssteeg
 driekronensteeg
 driekronenstraat
 driekuilenstraat
-driekuilenweg
 driekus van der giessenhof
-driekusman
 driekwartweg
-driekwartweg-noord
 driel
 drielandendreef
 drielandenhoek
@@ -12228,12 +11525,12 @@ drieloper
 drielse achterdijk
 drielse dobbe
 drielse rijndijk
+drielse veer
 drielse veldweg
 drielse wetering
 drielsedijk
 drielseweg
 drielstraat
-drieluik
 driemanschapskade
 driemanschapslaan
 driemanschapsweg
@@ -12243,7 +11540,6 @@ driemaster
 driemasterstraat
 driemasterwal
 driemasterwerf
-driemerenweg
 driemerkenweg
 driemolendrift
 driemolenhof
@@ -12302,9 +11598,9 @@ drieshof
 drieskamp
 drieske
 drieskensacker
+drieskesacker
 drieslag
 drieslagstraat
-driespad
 driespijnt
 driesporenweg
 driesprong
@@ -12336,6 +11632,7 @@ driesveldlaan
 driesweg
 drietak
 drietand
+drietandbrug
 drietanderlaan
 drietandstraat
 drieteenspecht
@@ -12349,14 +11646,15 @@ drietrompetterstraat
 drieturven
 drievennestraat
 drieveweg
+drievliet 9
 drievogelstraat
 drievriendendwarsstraat
 drievriendenhof
 drievriendenstraat
-driewaardenpad
 drieweg
 driewege
 driewegenhof
+driewegenlaan
 driewegenstraat
 driewegenweg
 drieweghof
@@ -12364,22 +11662,19 @@ driewegje
 driewegpad
 driewegplein
 driewegwissel
-driewegwissel
 driezeeg
-driezumerterp
-drieãƒâ«rweg
-drieã«ndijk
-drieã«nhuizerweg
-drieã«rweg
+drieÃ«ndijk
+drieÃ«nhuizerweg
+drieÃ«rweg
 drift
 driftakkerweg
+driftbrug
 driftje
 driftkwartier
 driftlaan
 driftlakenseweg
 driftstraat
 driftweg
-drijber
 drijbersche es
 drijberseweg
 drijfanker
@@ -12391,8 +11686,8 @@ drijfpad
 drijfriemstraat
 drijfsteen
 drijfweg
+drijfwerk
 drijver
-drijvermast
 drijverschuit
 drijvershof
 drijverslaan
@@ -12416,6 +11711,7 @@ drionhof
 drionpad
 driuwerspaad
 droebertweg
+droech oer de feart
 droefakkers
 droesenweg
 droespolderweg
@@ -12425,6 +11721,7 @@ droevendal
 droevendalsesteeg
 droeveweg
 droge haven
+droge inlaag
 droge mark
 droge wijmersweg
 drogedijk
@@ -12432,6 +11729,7 @@ drogenapsteeg
 drogendijk
 droger
 drogerij
+drogerijbrug
 drogerijweg
 drogersdijk
 drogesestraat
@@ -12440,13 +11738,13 @@ drogteropslagen
 drogterweg
 drogtzee
 drolshagenplein
-dromedarispad
 dromedarisstraat
 dromerdijk
 dromersloot
 dromerstraat
 dromhille
 drommedarislaan
+drommelen
 dromos
 dromweg
 dronenhoek
@@ -12458,9 +11756,10 @@ dronenweg
 drongelenhof
 drongelenplein
 drongelens pad
-dronkaardsweg
+drongelense veer
 dronkelaarseweg
 dronkenmanslaan
+dronrijp 21
 dronrijperstraat
 dronrijphof
 drontenhof
@@ -12477,10 +11776,12 @@ droogbak
 droogbloem
 droogdok
 droogdokkeneiland
+droogdokplein
 droogdokstraat
 droogdokweg
 drooghe bol
 drooghuisstraat
+droogkamer
 droogleever fortuynplein
 droogleverstraat
 droogmakerij
@@ -12494,11 +11795,15 @@ droogstraat
 droogveld
 droogweide
 droogweidervoetpad
+droom
+droomershof
 droomheuvel
+droompark buitenhuizen
 droomtuinlaan
 droonecampstraat
 droopad
 droostraat
+dropfabriek
 droppersweg
 droppinghof
 droppingsstraat
@@ -12529,6 +11834,7 @@ drossaard
 drossaard bernagiestraat
 drossaard van der willigenhof
 drossaard van wesepstraat
+drossaarddreef
 drossaardenblok
 drossaardlaan
 drossaardpad
@@ -12536,6 +11842,7 @@ drossaardruwe
 drossaardslaan
 drossaardslag
 drossaardstraat
+drossaardweg
 drossaartstraat
 drossaartweg
 drossaert de limpensplein
@@ -12578,7 +11885,9 @@ drostplein
 droststeeg
 droststraat
 drostweg
+drouwenerbrug
 drouwenerkade
+drouwenermond
 drouwenerstraat
 drouwenerveen
 drouwenerzand
@@ -12588,16 +11897,17 @@ drs j. lebensstraat
 drs. den uyllaan
 drs. f. bijlweg
 drs. g. jonkerlaan
+drs. gruijterslaan
 drs. hein mandosplaats
 drs. j. borgmanpad
-drs. j. l. moonenstraat
 drs. j. van disweg
 drs. j.l. moonenstraat
-drs. j.van disweg
 drs. k. baasweg
+drs. p-kade
 drs. s. van tuinenleane
 drs. stijkelstraat
 drs. w. van royenstraat
+drs.p veer
 dru-kade
 dru-laan
 druckerlaan
@@ -12618,6 +11928,7 @@ druivenkamp
 druivenkas
 druivenlaan
 druivenmuur
+druivenoogst
 druivenpad
 druivenpers
 druivenserre
@@ -12632,9 +11943,12 @@ drukkerijstraat
 drukkerstraat
 drukkersweg
 drukpers
+drulseweg
 drummenstraat
 drumptse parallelweg
+drumptse zeeg
 drumptselaan
+drunen west 40
 drunenseschans
 drunenseweg
 drunenstraat
@@ -12644,6 +11958,7 @@ drususberg
 drusushof
 drususlaan
 drususstraat
+druten
 drutenkade
 drutenseweg
 drutenstraat
@@ -12656,35 +11971,28 @@ ds a.c. van raalteweg
 ds boersmastraat
 ds boumastraat
 ds carsjenssingel
-ds corn w vd poelstraat
-ds d a van den boschstraat
 ds de grootstraat
 ds de jagerstraat
 ds dijkstraweg
 ds froenplein
 ds griffijnstrjitte
 ds groot-nibbelinkstraat
-ds groot-nibbelinkstraat
 ds h de jagerstraat
 ds h pauwstraat
 ds h ten brinckplantsoen
 ds h van eyck van heslingastrjitte
-ds hanewinkelplaats
-ds hasperstraat
 ds heldringlaan
 ds herm pollaan
 ds herm polplantsoen
 ds hollandstraat
 ds hugenholtzstraat
-ds hw hundlingiuspad
-ds israã«lstraat
+ds israÃ«lstraat
 ds j a visserstraat
 ds j mindenuslaan
 ds j schardamstraat
 ds j van dijkstraat
 ds j wiegersweg
 ds j.r. sybrandistraat
-ds janszenstraat
 ds jl faberstrjitte
 ds keppellaan
 ds kingweg
@@ -12714,14 +12022,12 @@ ds veldhoenlaan
 ds visscherwei
 ds w.l. mulderstraat
 ds westerbeek van eertenstraat
-ds zylstrawei
 ds. a.j.w. vogelaarstraat
 ds. a.w. buningwei
 ds. abernathylaan
 ds. allendorpstraat
 ds. bartelsstraat
 ds. bechtlaan
-ds. bennink boltstraat
 ds. bieshaarstraat
 ds. biesmastrjitte
 ds. bleekerstraat
@@ -12739,7 +12045,6 @@ ds. de beaufortstraat
 ds. de boerwei
 ds. de bouterlaan
 ds. de bresstraat
-ds. de geusstraat
 ds. de geusstraat
 ds. de graaffweg
 ds. de stoppelaarstrjitte
@@ -12772,7 +12077,6 @@ ds. hulsmanplantsoen
 ds. j. hekhuisstraat
 ds. j. kooiplein
 ds. j. mensingapad
-ds. j. schardamstraat
 ds. j.a. visserstraat
 ds. j.j. ketstraat
 ds. j.w.b. cohenstraat
@@ -12785,7 +12089,6 @@ ds. kerstenplein
 ds. kingstraat
 ds. klinckhamerlaan
 ds. kuypersstraat
-ds. l.g.c. ledeboergang
 ds. lamensweg
 ds. liesseliuslaan
 ds. louwe kooymanslaan
@@ -12797,7 +12100,6 @@ ds. martin luther kinglaan
 ds. martin luther kingweg
 ds. martiniuslaan
 ds. medenbachweg
-ds. meijerlaan
 ds. minnemawei
 ds. montijnstraat
 ds. muntinglaan
@@ -12824,7 +12126,6 @@ ds. reitsmastraat
 ds. rijperstraat
 ds. s. huismansleane
 ds. s. huismansstrjitte
-ds. s. huysmansleane
 ds. sanderslaan
 ds. sanderuslaan
 ds. sannesstraat
@@ -12838,7 +12139,6 @@ ds. sleeswijk visserstraat
 ds. sprengerweg
 ds. syperdapad
 ds. t.o. hylkemaweg
-ds. t.o.hylkemaweg
 ds. talmalaan
 ds. talmasingel
 ds. talmastraat
@@ -12850,35 +12150,32 @@ ds. van baerlestraat
 ds. van couwenhovelaan
 ds. van de woestijnehof
 ds. van der veenweg
-ds. van der vegtplein
+ds. van gilstplantsoen
 ds. van gilstweg
 ds. van halsemastraat
 ds. van heusdenstraat
 ds. van koetsveldstraat
 ds. van lunzenlaan
-ds. van meursstraat
 ds. van paddenburghweg
 ds. van petegemstraat
 ds. van rhijnstraat
 ds. van schuylenburglaan
 ds. van velzenstrjitte
+ds. van viegenhof
 ds. van wouwestraat
 ds. veenstraat
-ds. veldhoenlaan
 ds. visscherwei
 ds. w. reindersweg
 ds. w.a.willemseplantsoen
 ds. w.h. van der vegtplein
 ds. wentinkstraat
-ds. wilhelmus ã  brakelstrjitte
+ds. wilhelmus Ã  brakelstrjitte
 ds. wisseweg
 ds. witteveenlaan
 ds. zylstrawei
 ds.b.j.aderstraat
 ds.berkhofweg
-ds.de stoppelaarstrjitte
 ds.h.boersmastraat
-ds.j.a.visscherlaan
 ds.j.p.tazelaarlaan
 ds.laurentiusstraat
 ds.r.h.kuipersstraat
@@ -12892,7 +12189,7 @@ dsm-straat
 dsvhof
 dsvlaan
 du boisstraat
-du celliã©e mullerlaan
+du celliÃ©e mullerlaan
 du commerce
 du meelaan
 du perronhove
@@ -12915,14 +12212,11 @@ dubbeldamseweg zuid
 dubbeldamstraat
 dubbeldankpad
 dubbelde skeer
-dubbeldekker
 dubbeldreef
 dubbelduin
 dubbele arendstraat
 dubbele bellefleur
 dubbele buurt
-dubbele buurt
-dubbele gang
 dubbele poort
 dubbele regel
 dubbele ring
@@ -12934,7 +12228,6 @@ dubbelhof
 dubbelhoflaan
 dubbelhoven
 dubbelinckhoek
-dubbelinckpad
 dubbelink
 dubbelinkdreef
 dubbellooflaan
@@ -12948,14 +12241,12 @@ dubbelsteynlaan west
 dubbelstraat
 dubbeltjesweg
 dubbelweg
-dubbeplein
 dubbestraat
 dubbroek
 dubceksingel
 dubelaarstraat
 dublinhof
 dublinlaan
-dublinpad
 dublinstraat
 dublinweg
 dubloen
@@ -12963,10 +12254,12 @@ dubloendreef
 dubloenhof
 dubloenlaan
 duboisdomein
+dubÄeksingel
 ducaatstraat
 ducaton
 ducdalf
 duchattelstraat
+ducheminlaan
 duckenburgpad
 duckers boulant
 dudenpark
@@ -12986,8 +12279,8 @@ dudokplein
 dudoksingel
 dudokstraat
 duellaan
-duerswã¢ld
-duerswã¢ldmer wei
+duerswÃ¢ld
+duerswÃ¢ldmer wei
 duetlaan
 duetstraat
 duetzstraat
@@ -12998,9 +12291,9 @@ duffelweg
 duffertsweg
 dufourstraat
 dugganstraat
+duifhof
 duifhuis
 duifhuislaan
-duifhuislaantje
 duifhuisstraat
 duifhuisweg
 duifhuizerweg
@@ -13026,11 +12319,14 @@ duikaffuithof
 duikboot
 duikeend
 duiker
+duikerdriescherweg
 duikererf
 duikerhoek
+duikerkade
 duikerlaan
 duikerpad
 duikerplantsoen
+duikerskampweg
 duikersloot
 duikersluis
 duikerstraat
@@ -13078,11 +12374,11 @@ duindoornplein
 duindoornstraat
 duindoornwede
 duindoornweg
+duindorpdam
 duindreef
 duindriftstraat
 duinen
 duinenberg
-duinenbosch
 duinenboschweg
 duinenburg
 duinendaal
@@ -13102,6 +12398,7 @@ duinkampen
 duinkant
 duinkerkelaan
 duinkerken
+duinkerkenbrug
 duinkerkenlaan
 duinkerkenstraat
 duinkerker
@@ -13129,6 +12426,7 @@ duinoordweg
 duinpad
 duinpad 3e blok
 duinpan
+duinpanweg
 duinpark boulevard
 duinparkpad
 duinpieper
@@ -13169,6 +12467,7 @@ duinstraat
 duinstraatje
 duinstruweel
 duinterperpad
+duinterrein schoolpad
 duintjerlaan
 duintjesplein
 duintjesveldweg
@@ -13210,6 +12509,7 @@ duinzand
 duinzicht
 duinzichtlaan
 duinzichtstraat
+duinzijdebij
 duinzoom
 duinzwinstraat
 duiperweg
@@ -13235,13 +12535,14 @@ duit
 duitenhuisstraat
 duithof
 duitlaan
-duitplaats
+duitse grens
 duitse mark
 duitse weistraat
 duitsekampweg
 duitsepoort
 duitsestraat
 duitsetuin
+duitseweg
 duitshofweg
 duitslag
 duitslanddreef
@@ -13273,6 +12574,7 @@ duivelsmeerdijk
 duivelsmeerdwarsdijk
 duivelsput
 duivelsvoetpad
+duiven 28
 duivenakkerstraat
 duivenbergstraat
 duivenbodestraat
@@ -13313,7 +12615,6 @@ duiventoren
 duiventorenbaan
 duiventorenlaan
 duiventorenstraat
-duiventrek
 duivenveld
 duivenvoorde
 duivenvoordestraat
@@ -13329,6 +12630,7 @@ duizeldonksestraat
 duizelseweg
 duizelsteeg
 duizelstraat
+duizend morgen
 duizend roeden
 duizendblad
 duizendbladhof
@@ -13339,6 +12641,7 @@ duizendguldenkruid
 duizendknoop
 duizendknooplaan
 duizendknoopstraat
+duizendkunstpad
 duizendmonnikenstraat
 duizendmorgen
 duizendpoot
@@ -13358,7 +12661,6 @@ dukaatruwe
 dukaatslag
 dukaatstraat
 dukaatvlinder
-dukaatweg
 dukasstraat
 dukasweg
 dukatenburg
@@ -13382,7 +12684,6 @@ dukenburg
 dukenburgstraat
 dukesvoort
 dukkelaarsweg
-dulci septemberpad
 dulciaansingel
 dulcie septemberpad
 dulderbrink
@@ -13419,7 +12720,6 @@ dunantpad
 dunantsingel
 dunantstraat
 dunantweg
-dunatterpaid
 duncanhof
 dunckellaan
 dundelbroek
@@ -13441,6 +12741,8 @@ dunopark
 dunoweg
 dunsedijk
 dunselmanstraat
+dunsveen
+dunsveenweg
 duparcstraat
 duparcweg
 dupesweg
@@ -13448,7 +12750,7 @@ dupondius
 dupondiusstraat
 dupontplein
 dupperstraat
-duprã©pad
+duprÃ©pad
 dupuislaan
 durantepad
 durantestraat
@@ -13508,8 +12810,10 @@ duurswoldlaan
 duurswoldpad
 duurswoldselaan
 duurswoudelaan
+duurzaamheidsplein
 duurzaamheidsring
 duurzaamheidstraat
+duurzaampad
 duuster steegsken
 duustergats
 duval slothouwerstraat
@@ -13530,6 +12834,7 @@ duyfhuys
 duyfken
 duyfraklaan
 duyfrakplein
+duygu asenastraat
 duykenspaalse heiweg
 duykerdam
 duykstraat
@@ -13539,8 +12844,10 @@ duymaer van twistweg
 duyn en daelseweg
 duyncroft
 duyndael
+duyndomein
 duynenberg
-duynmayers kroft
+duynmayerskroft
+duynpoort
 duynsteelaan
 duysburg
 duyst van voorhoutweg
@@ -13548,17 +12855,17 @@ duysterstraat
 duyststraat
 duyvecamp
 duyvekotstraat
+duyvelsgatbrug
 duyvendakstraat
 duyvenvoordestraat
 duyvestein
 duyvesteyn
 duyvesteynhof
 duyvesteynstraat
-dvo?ã¡khof
+dvo?Ã¡khof
 dvohof
 dvorakplaats
-dvoâ¿ã¡khof
-dvoå™ã¡khof
+dvoÅ™Ã¡khof
 dwaallichtje
 dwaalpark
 dwalin
@@ -13572,23 +12879,24 @@ dwars hommelstraat
 dwars jonkerlaantje
 dwars koornbrugsteeg
 dwars moerenpad
-dwars nieuwstraat
 dwars spinhuissteeg
 dwarsakker
 dwarsakkers
 dwarsbleekstraat
 dwarsboomgaardsteeg
 dwarsbree
+dwarsbroekweg
 dwarscamp
 dwarsdeel
 dwarsdiep
-dwarsdiep k
 dwarsdijk
 dwarsdjip
 dwarsdrift
 dwarsduin
+dwarse broekweg
 dwarse teugen
 dwarseind
+dwarserf
 dwarsewei
 dwarsfluit
 dwarsfluitpad
@@ -13597,12 +12905,12 @@ dwarsgang
 dwarsgouw
 dwarsgraafweg
 dwarsgracht
+dwarsgrave
 dwarshaak
 dwarshaer
 dwarshaspel
 dwarshaven
 dwarshuis
-dwarsikker
 dwarskaai
 dwarskade
 dwarskamp
@@ -13614,11 +12922,10 @@ dwarskuulstraat
 dwarslaan
 dwarsland
 dwarsligger
-dwarsligger
 dwarsloane
-dwarsmat
 dwarsnoard
 dwarspad
+dwarsrandweg
 dwarsreed
 dwarsryd
 dwarssingel
@@ -13633,12 +12940,12 @@ dwarstocht
 dwarsvaartweg
 dwarsveld
 dwarsvliet
-dwarsvoetpad
 dwarsvoort
 dwarswal
 dwarswatering
 dwarswateringkade
 dwarsweg
+dwarswijk
 dwarswyk
 dwaze moeders plein
 dwazziewegen
@@ -13659,6 +12966,7 @@ dwergmeerval
 dwergmeeuw
 dwergmispel
 dwergmuis
+dwergotter
 dwergpalmstraat
 dwergplanetenbaan
 dwergroosweide
@@ -13682,6 +12990,7 @@ dwingeland
 dwingelderdijk
 dwingelderveld
 dwingelerweg
+dwingelo 29
 dwingeloostraat
 dwingelooweg
 dwingelostraat
@@ -13698,32 +13007,30 @@ dyksfeart
 dykshoek
 dyksicht
 dykslobbe
-dykslã¢n
+dykslÃ¢n
 dykspaad
 dyksterbuorren
 dyksterhuzen
 dyksterwei
 dykstrjitte
-dykswã¢l
+dykswÃ¢l
 dynamopad
 dynamostraat
 dynamoweg
 dynselakker
 dyonisiuspad
 dyxmanstraat
-dã¤mkesstraat
-dã¤ã¶lkesbergweg
-dã©siehof
-dã©sirã© leesensstraat
-dã¶pperstraat
-dã¶rper tore
-dã¶rperfeldlaan
-dãºnatterpaid
-dãºnoardswei
-dã»bele wite
-dã»belestreek
-dã»belspul
-dã»kdalf
-dã»mnysbosk
-dã¼rst brittlaan
-dã¼ttingstraat
+dÃ¤mkesstraat
+dÃ©sirÃ© leesensstraat
+dÃ¶pperstraat
+dÃ¶rper tore
+dÃ¶rperfeldlaan
+dÃºnatterpaid
+dÃºnoardswei
+dÃ»bele wite
+dÃ»belestreek
+dÃ»belspul
+dÃ»kdalf
+dÃ»mnysbosk
+dÃ¼rst brittlaan
+dÃ¼ttingstraat

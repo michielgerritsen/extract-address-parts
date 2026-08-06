@@ -11,18 +11,19 @@ w h vliegenstraat
 w j klein wassinkstraat
 w j tuijnstraat
 w jaasmasingel
-w jehannes koopmansstr
 w jorritsmastrjitte
 w koningstrjitte
 w kroesestrjitte
 w m a van rijnweg
 w oude aaltensewg
 w p f ghijssenstraat
+w rengerslaan van bar
 w stokvisstraat
 w t van gelderweg
+w v helden kessel
+w v kessel n neer
 w van der knoopdreef
 w van zijlstraat
-w. b. van der veldenstraat
 w. baron straalmanstraat
 w. binckplein
 w. binnemaleane
@@ -30,16 +31,16 @@ w. boumastraat
 w. bruinstraat
 w. damstraat
 w. dassenstraat
-w. de vries robbã©weg
+w. de vries robbÃ©weg
 w. de zwijgerlaan
 w. denijslaan
 w. dreeslaan
 w. dreesstraat
 w. dreesweg
+w. druckerpad
 w. einthovenstraat
 w. frielingstraat
-w. gã¶ttelaan
-w. h. vliegenbos
+w. gÃ¶ttelaan
 w. h. vliegenstraat
 w. kentstraat
 w. kerstenweg
@@ -81,13 +82,12 @@ w.a. scholtenweg
 w.a. van elmptpad
 w.a. van spaenstraat
 w.a. vultostraat
+w.a.scholtensbrug
 w.b. schragestraat
 w.b. tholenstraat
 w.b. van der veldenstraat
-w.b. van der veldenstraatt
 w.biemanspad
 w.binkstraat
-w.c de grootplantsoen
 w.c. beeremansstraat
 w.c. bradelaan
 w.c. de grootplantsoen
@@ -105,7 +105,7 @@ w.g. van de hulststraat
 w.g. van poortenstraat
 w.g. witteveenplein
 w.g. witteveenstraat
-w.g.a.j. rã¶ringstraat
+w.g.a.j. rÃ¶ringstraat
 w.g.f. thomassenweg
 w.h. bollaertstraat
 w.h. bosgrastraat
@@ -117,9 +117,7 @@ w.h. van leeuwenlaan
 w.h. vliegenhof
 w.h. vliegenlaan
 w.h. vliegenstraat
-w.h. zwartallee
 w.h.jordaansingel
-w.h.van ghentstraat
 w.j. bijleveldstraat
 w.j. bitterstraat
 w.j. bladergroenstraat
@@ -127,25 +125,18 @@ w.j. bossenbroekstraat
 w.j. casperspad
 w.j. dethmersweg
 w.j. hofdijkweg
-w.j. klein wassinkstraat
 w.j. knoopstraat
-w.j. kolfflaan
 w.j. kolffstraat
 w.j. ockelslaan
 w.j. van der hooftstraat
-w.j. van der woerd-mollstraat
 w.j. van ghentstraat
-w.kerstenweg
-w.l. dã¶llstraat
+w.l. dÃ¶llstraat
 w.l. penningstraat
 w.l. van nassauweg
 w.l.s. churchillstraat
 w.m. dudokpad
 w.m. dudokstraat
 w.m. dudokweg
-w.m. offringalaan
-w.m.c. regtstraat
-w.m.oppedijkstraat
 w.p. speelmanstraat
 w.p. speelmanweg
 w.v. van wittenhorststraat
@@ -157,7 +148,6 @@ waadseewei
 waadvogelstraat
 waag
 waagdam
-waagdek
 waagdragerhof
 waage naak
 waagejot
@@ -166,7 +156,6 @@ waagmeesterhof
 waagmeesterlaan
 waagmeestershoeve
 waagmeestersstraat
-waagneester
 waagpad
 waagpassage
 waagplein
@@ -179,7 +168,6 @@ waai
 waaiakkerlaan
 waaienberg
 waaier
-waaierdans
 waaierlaan
 waaierpad
 waaierpalmstraat
@@ -205,13 +193,13 @@ waalbandijk
 waalboer
 waalbroek
 waalbroekerweg
-waalbrug
 waalburg
 waalderstraat
 waalderweg
 waaldijk
 waaldrift
 waalenburgsingel
+waalhaven
 waalhaven n.z.
 waalhaven o.z.
 waalhaven w.z.
@@ -228,9 +216,10 @@ waalkenserf
 waallaan
 waaloord
 waalpad
-waalplantsoen
 waalplein
+waalre 33
 waalreseweg
+waalschokker
 waalsdonk
 waalsdorperlaan
 waalsdorperweg
@@ -248,7 +237,12 @@ waalstoep
 waalstraat
 waalstraatpad
 waalstroom
+waalvallei
+waalviaduct
 waalweg
+waalwijk 37
+waalwijk-centrum 38
+waalwijk-oost 39
 waalwijksebaan
 waalwijkseweg
 waalzicht
@@ -274,16 +268,16 @@ waarden
 waardenborchstraat
 waardenborg
 waardenburg
+waardenburg 16
 waardenburgdam
 waardenburglaan
 waardenburgstraat
 waardenlaan
-waardenpad
-waarder lijkweg
-waarder veldweg
+waarderbrug
+waardereiland
 waarderhaven
 waarderhout
-waarderpolder
+waarderpad
 waarderstraat
 waardersweg
 waarderveldweg
@@ -304,6 +298,7 @@ waardmanspad
 waardmeerhof
 waardpolderhoofdweg
 waardpolderstraat
+waardse bunders
 waardsebaan
 waardsedijk
 waardsedijk-oost
@@ -313,7 +308,6 @@ waardsmanscamp
 waardstraat
 waardweg
 waardwei
-waardzicht
 waarlamke
 waarlandsweg
 waarlerweg
@@ -337,16 +331,20 @@ waaygaard
 wabbe wissesstrjitte
 wabenstraat
 wabkumaheerd
+waburgsteeg
 wachelderberg
 wachtdeur
 wachtel
 wachtelbeemden
+wachtelberg
 wachtelenberg
 wachtelenbergweg
 wachtelstraat
+wachten op de brug
 wachtendonckstraat
 wachtendonk
 wachtendonkstraat
+wachterbrug
 wachterhof
 wachterliedplantsoen
 wachterslaan
@@ -354,22 +352,25 @@ wachterstraat
 wachthoevestraat
 wachthoorn
 wachthoornweg
+wachthuislaan
 wachthuisstraat
 wachtmeester
 wachtmeesterstraat
 wachtpost
 wachtpostdijk
 wachtpoststraat
-wachtpostweg
 wachtsluis
 wachtspoor
 wachttoren
+wachttorenlaan
 wachttorenpad
+wachtum 3
 wachtumstraat
 wachtweg
 wackenestraat
 wackersstraat
 wad
+wadbrug
 wadde
 wadden
 waddendijk
@@ -385,14 +386,15 @@ waddenzee
 waddenzeelaan
 waddenzeestraat
 waddepad
-wadderlaan
+waddingerhoorn
+waddingervliet
 waddingswaard
 waddinxveensepad
 waddinxveenstraat
 wade
+wadenoijen 31
 wadenoijenlaan
 wadenoijensemolenpad
-wadenoijnsemolenpad
 wadensteinlaan
 wadensteinsesteeg
 wadestein
@@ -406,7 +408,7 @@ wadwerd
 wadwerderweg
 waechfinne
 waechstege
-waechswã¢l
+waechswÃ¢l
 waeckerpad
 waegemaekersstraat
 waegenburghtplein
@@ -431,9 +433,11 @@ wagemaker-akker
 wagemakerspad
 wagemakerspark
 wagemakerstraat
+wagen
 wagenaarhof
 wagenaarlaan
 wagenaarplein
+wagenaarsbrug
 wagenaarstraat
 wagenaarweg
 wagenberg
@@ -444,8 +448,8 @@ wagenbeurs
 wagenborgerweg
 wagenbroek
 wagenbroeken
+wagenbrug
 wagenbrugge
-wagenburg
 wagendijk
 wagendobbe
 wagendonken
@@ -468,10 +472,8 @@ wagenmakerbaan
 wagenmakerhof
 wagenmakerij
 wagenmakers erf
-wagenmakersbrug
 wagenmakerserf
 wagenmakershoek
-wagenmakershof
 wagenmakerslaan
 wagenmakerspad
 wagenmakersplein
@@ -482,6 +484,7 @@ wagenmakersweg
 wagenmakerswerf
 wagenmakerwei
 wagenman
+wagenmansbrug
 wagenmeester
 wagenpad
 wagenplein
@@ -514,15 +517,16 @@ wagnerplein
 wagnerrode
 wagnersingel
 wagnerstraat
+wagon
 wagonette
 wagonstraat
 wagsbergweg
 wagtendonkpad
 wagtendonkstraat
 wagteveldweg
+wagtmanshof
 waije
 waijensedijk
-waitatiristraat
 wajangstraat
 wakelweg
 waker
@@ -534,9 +538,8 @@ wakkerlaan
 wakkershof
 wakkerstraat
 wal
-walaardt sacrestraat
-walaardt sacrã©pad
-walaardt sacrã©straat
+walaardt sacrÃ©pad
+walaardt sacrÃ©straat
 walakker
 walakkers
 walandweg
@@ -590,7 +593,6 @@ walderstraat
 waldervoetpad
 walderweg
 waldfeuchterbaan
-waldfeuchterbosweg
 waldfeuchterveldpad
 waldfeuchterveldweg
 waldfeuchterweg
@@ -603,9 +605,12 @@ waldhoornplein
 waldhoornstraat
 waldhoornweg
 waldijk
+waldorfstraat
 waldorpstraat
 waldstraat
-walem
+waldwei
+walebrug
+walekotsweg
 walemaatweg
 walemergats
 walemerkerkvoetpad
@@ -617,7 +622,6 @@ walenburghof
 walenburgstraat
 walenburgweide
 walendijk
-walengang
 walenhoek
 walenhoekseweg
 walenkamp
@@ -667,13 +671,12 @@ walingsdijk
 walingstuin
 walingsweg
 walinxweg
-waliã«nsestraat
-waliã«nseweg
+waliÃ«nsestraat
+waliÃ«nseweg
 walk
 walkade
 walkampen
 walkartweg
-walkatenlaan
 walkatenplein
 walker
 walkottelanden
@@ -701,10 +704,12 @@ wallerweg
 wallestein
 wallesteinlaan
 wallinga's-trije
+wallinger esweg
+wallingeresweg
 wallis
 wallisweg
-walloniã«
-walloniã«straat
+walloniÃ«
+walloniÃ«straat
 wallsteijndreef
 wallsteijnpad
 wally moespad
@@ -722,19 +727,20 @@ walnootgaarde
 walnoothof
 walnootlaan
 walnootlint
+walnootpad
 walnootstraat
 walnotendreef
 walnotenhof
 walnotenlaan
 waloen
 walpad
+walpadtunnel
 walpen
 walperterwei
 walplantsoen
 walplein
 walpoort
 walramplantsoen
-walramplein
 walramstraat
 walraven i-straat
 walraven van brederodestraat
@@ -744,6 +750,7 @@ walraven van halllaan
 walraven van hallstraat
 walraven van hallweg
 walravenlaan
+walravenpad
 walravenstraat
 walravestraat
 walruskoog
@@ -760,10 +767,12 @@ walsestraat
 walseweg
 walsland
 walsmolen
+walsoorden
 walsoordensestraat
 walsstukke
 walsteeg
 walstein
+walsteinpark
 walstraat
 walstraatje
 walstraatpassage
@@ -799,7 +808,6 @@ waltersveld
 walterus pijnenborghhof
 walterus van houtstraat
 waltherlaan
-waltherus van houtstraat
 waltingaleane
 waltmanstraat
 waltoren
@@ -809,6 +817,7 @@ waltorenstraat
 waltsje
 waltwilderstraat
 waluwestraat
+walvaartkamp
 walvis
 walvisbaai
 walvischstraat
@@ -858,13 +867,15 @@ wandenpad
 wandersweg
 wandeske
 wandgreppel
+wandgreppelweg
 wandscheerstraat
 wandtapijtenlaan
 wandweg
 wanenberg
+wangari mathaaiweg
 wangerooge
-wangnerstraat
 wangraaf
+waningeweg
 waninkdijk
 wanmakersweg
 wanmand
@@ -913,7 +924,6 @@ wanvoorde
 wanweg
 wanyng
 wapatovliet
-wapen van delftsteeg
 wapen van lochem
 wapendrager
 wapendragerstraat
@@ -926,9 +936,11 @@ wapenstekererf
 wapenstraat
 wapenvelder kerkweg
 wapenvelder zand
+wapenvelderweg
 wapenveldestraat
 wapenveldseweg
 wapenveldstraat
+wapersmadeweg
 wapitistraat
 wapperslaan
 wapserauwen
@@ -943,7 +955,6 @@ war
 warandastraat
 warande
 warandebergstraat
-warandedreef
 warandelaan
 warandepad
 warandeplein
@@ -957,7 +968,6 @@ ward bingleystraat
 wardehofplein
 wardenaarstraat
 warder
-warder weide
 warderhof
 wardervoetpad
 warderweg
@@ -966,7 +976,6 @@ wardsestraat
 wardstraat
 ware
 waregemstraat
-warenarburg
 warenargaarde
 warendorp
 warenveldehoek
@@ -981,6 +990,7 @@ warfveendijk
 wargerinksweg
 warinenpoort
 waringinstraat
+waringstrjitte
 warinxvliet
 warkenseweg
 warkruid
@@ -989,6 +999,7 @@ warmboldinkstraat
 warme beemdenpad
 warme geestpad
 warme hoek
+warmeer
 warmeerweg
 warmelinckweg
 warmelinkshof
@@ -998,12 +1009,15 @@ warmelolaan
 warmelostraat
 warmenbossenweg
 warmenhovenstraat
+warmenhuizen
 warmenhuizerweg
+warmoesbrug
 warmoesdreef
 warmoeshof
 warmoeskade
 warmoesland
 warmoespad
+warmoespark
 warmoesstraat
 warmoestuin
 warmoesweg
@@ -1025,6 +1039,7 @@ warmolt bronningerlaan
 warmoltseiland
 warmoltslaan
 warmoltsstrjitte
+warmond 4
 warmonderf
 warmonderhek
 warmonderweg
@@ -1033,6 +1048,7 @@ warmondplein
 warmondstraat
 warmondsweg
 warmperserij
+warmse water
 warmseweg
 warmtekrachtstraat
 warmtinklaan
@@ -1040,7 +1056,8 @@ warmundastraat
 warmweide
 warnaarslaan
 warnersstraat
-warniahãºzen
+warnflieth
+warniahÃºzen
 warninckhof
 warnsborn
 warnsbornlaan
@@ -1092,14 +1109,15 @@ waskolkweg
 wasmeerstraat
 wasmeerweg
 wasmeesterstraat
+waspik 35
 waspikse weg
 waspiksedijk
 wasplaat
 wassemweg
 wassenaar van obdampark
+wassenaar-kerkehout
 wassenaarsestraat
 wassenaarseweg
-wassenaarseweg (den haag)
 wassenaarstraat
 wassenaarweg
 wassenaer van obdamstraat
@@ -1109,17 +1127,19 @@ wassenaerstraat
 wassenberghstraat
 wassenbergstraat
 wassende maan
-wassende maanshofje
 wasser
 wasserij rheelaantje
 wasserij van houtenhof
 wasserij-annalaan
 wassevendreef
+wassingshoek
+wassink
 wassinkbrinkweg
 wassinkstraat
 wassinkweg
 wasstraat
 wassumpark
+wastobbe
 wastronahof
 wasvenpad
 wasweg
@@ -1127,6 +1147,7 @@ waszinkweg
 water acker
 water en vuurplein
 waterakker
+wateras
 waterbaak
 waterbaan
 waterbalk
@@ -1134,8 +1155,8 @@ waterbassin
 waterbeekstraat
 waterbeemd
 waterbeemdenweg
+waterbekken
 waterbend
-waterberg
 waterbergerhout
 waterbergseweg
 waterbergweg
@@ -1173,9 +1194,9 @@ wateregge
 watereggeweg
 wateren
 waterfront
+waterfrontbrug
+waterfrontpark
 watergang
-watergang van den brande
-watergangpad
 watergangpolderplein
 watergangseweg
 watergat
@@ -1189,7 +1210,6 @@ watergoorweg
 watergraaf
 watergraaflaan
 watergraafsmeerstraat
-watergras
 watergraspad
 waterhalersglop
 waterhamskamp
@@ -1236,7 +1256,7 @@ waterjufferhof
 waterjuffermeent
 waterjufferpad
 waterjufferstraat
-waterkade
+waterkampen
 waterkampenweg
 waterkant
 waterkantstraat
@@ -1252,6 +1272,7 @@ waterkiep
 waterklaver
 waterklaverstraat
 waterkolk
+waterkracht
 waterkring
 waterkuil
 waterkuilen
@@ -1269,14 +1290,11 @@ waterlandlaan
 waterlandplein
 waterlandse hof
 waterlandse morgen
-waterlandse tuinen
 waterlandse zeedijk
 waterlandsebos
 waterlandsepad
 waterlandseweg
-waterlandsezeedijk
 waterlandsingel
-waterlandsluis
 waterlandsweg
 waterlandweg
 waterlaten
@@ -1303,10 +1321,6 @@ waterlijn
 waterlinie
 waterliniedok
 waterliniepad
-waterliniepad i
-waterliniepad ii
-waterliniepad iii
-waterliniepad iv
 waterliniestraat
 waterlinieweg
 waterlinze
@@ -1315,6 +1329,7 @@ waterloo
 waterloolaan
 waterloop
 waterloopje
+waterloopkade
 waterlooplein
 waterlooppad
 waterloopplein
@@ -1323,13 +1338,13 @@ waterloospolder
 waterloostraat
 waterlooweg
 waterlooze werve
+waterlose kruisweg
 waterloseweg
 waterloweg
 waterlus
 waterlustlaan
 watermaalpad
 waterman
-watermanhof
 watermanlaan
 watermanseweg
 watermanstraat
@@ -1380,6 +1395,7 @@ waterpopplaats
 waterput
 waterputhof
 waterputpad
+waterputweg
 waterrad
 waterradmolen
 waterral
@@ -1389,6 +1405,7 @@ waterranonkellaan
 waterreelaan
 waterrijk
 waterrijklaan
+waterrijkpark
 waterrijksepad
 waterrijkweg
 waterroosstraat
@@ -1400,7 +1417,6 @@ watersalamanderhof
 waterschans
 waterschap
 waterschaplaan
-waterschapsheuvel
 waterschapsingel
 waterschapslaan
 waterschapstraat
@@ -1423,9 +1439,10 @@ watersniplaan
 watersnippad
 watersnipplaats
 watersnipstraat
-watersnipstrand
 watersnipweg
 watersnipweide
+watersnuffel
+watersnuffelbrug
 waterspiegel
 waterspiegelplein
 waterspin
@@ -1446,7 +1463,6 @@ watersteeg
 watersticht
 waterstoep
 waterstoepstraat
-waterstofstraat
 waterstokerstraat
 waterstraat
 waterstraatje
@@ -1486,13 +1502,13 @@ watervlietweg
 watervlo
 watervluchtmolen
 watervogel
+watervogels
 watervogelstraat
 watervoort
 watervos
 waterweegbree
 waterweegbreelaan
 waterweg
-waterwegen
 waterwegstraat
 waterweide
 waterweideweg
@@ -1506,7 +1522,9 @@ waterwilg
 waterwinweg
 waterwolf
 waterwolfpad
+waterwolftunnel
 waterwolfweg
+waterzeil
 waterzicht
 waterzijde
 waterzolder
@@ -1517,6 +1535,7 @@ watse eelkesstrjitte
 watsonweg
 wattbaan
 watteaustraat
+wattelsweg
 wattierstraat
 wattlaan
 wattstraat
@@ -1531,6 +1550,7 @@ wauderickweg
 waufsberg
 wautersweg
 wautgershoeve
+wauwelhofje
 wauwelpad
 waver
 waverbancken
@@ -1572,7 +1592,8 @@ weddeloop
 weddepad
 wedderbergenweg
 wedderborg
-wedderhã¶fte
+wedderbrug
+wedderhÃ¶fte
 weddermarke
 wedderstraat
 wedderweg
@@ -1603,6 +1624,7 @@ wedesteinbroek
 wedinkerf
 wedloop
 wedmanstraat
+wedren
 wedstraat
 weduwe van lidtpad
 weduwestraat
@@ -1610,10 +1632,10 @@ wedzebuorren
 wee weneestraat
 weeakkerweg
 weebosch
+weeboscherweg
 weebosscherweg
 weebosserweg
 weeda
-weedehaege
 weedepad
 weedeweg n.z.
 weedeweg z.z.
@@ -1646,6 +1668,7 @@ weegbreeveld
 weegbreeweg
 weegbreeweide
 weegbrug
+weegbrugplein
 weegbrugweg
 weegerweg
 weegje
@@ -1664,6 +1687,7 @@ weehorsterweg
 weekendlaantje
 weekershof
 weekstraat
+weelandveldweg
 weeldenberg
 weeldeweg
 weeldijk
@@ -1702,7 +1726,6 @@ weemveld
 weemweg
 weena
 weena-zuid
-weena-zuid
 weenahof
 weenapad
 weenatunnel
@@ -1720,6 +1743,7 @@ weerakker
 weerbel
 weerbroek
 weerd
+weerdbrug
 weerddries
 weerddwarsstraat
 weerdeel
@@ -1744,10 +1768,8 @@ weerdhofweg
 weerdhuisweg
 weerdijk
 weerdijkweg
-weerdinge
 weerdinger-erfscheidenveen
 weerdingerhaag
-weerdingerkanaal
 weerdingerkanaal nz
 weerdingerkanaal zz
 weerdingermarke
@@ -1779,6 +1801,7 @@ weerepolder
 weerestein
 weeresteinhof
 weeresteinlaan
+weeresteinpad
 weeresteinstraat
 weeresteinweg
 weerestraat
@@ -1802,6 +1825,7 @@ weerkant
 weerklank
 weerkruislaan
 weerlaan
+weerlandhof
 weerlanerstraat
 weermaadsdijk
 weerninklanden
@@ -1826,7 +1850,6 @@ weerstraat
 weersweg
 weerswinkel
 weert
-weertdijkweg
 weerterbaan
 weerterbeekweg
 weerterbos
@@ -1854,9 +1877,11 @@ weerwolf
 weerwolfseind
 weerwolfspad
 weesboom
+weesbrug
 weesdijk
 weesgang
 weeshuisbaan
+weeshuisbrug
 weeshuisgang
 weeshuishof
 weeshuislaan
@@ -1878,6 +1903,7 @@ weesmolenstraat
 weespad
 weesperbinnenweg
 weesperplein
+weespersluiskade
 weesperstraat
 weesperveste
 weesperweg
@@ -1885,24 +1911,63 @@ weesperzandpad
 weesperzijde
 weessteeg
 weessteiger
+weetweg
 weeversplasweg
 weeversstraat
-weeverstraat
 weezebeeksingel
 weezebeeksweg
 weezenhof
 weezenland
-weg
+weg 023
+weg 024
+weg 025
+weg 026
+weg 031
+weg 038
+weg 040
+weg 048
+weg 053
+weg 057
+weg 058
+weg 059
+weg 060
+weg 061
+weg 066
+weg 067
+weg 068
+weg 069
+weg 077
+weg 078
+weg 096
+weg 100
+weg 122
+weg 134
+weg 135
+weg 14500
+weg 17413
 weg 1940-1945
+weg 19500
+weg 19515
+weg 19523
+weg 203
+weg 210
+weg 23610
+weg 262
+weg 270
+weg 284
+weg 322
+weg aan de heid
 weg aan de helgats
 weg aan de leemkuilen
 weg aan den hemelsberg
 weg aan het verlaat
+weg acht h klooster
 weg achter de blenk
 weg achter de es
 weg achter de weide
 weg achter gasthuis
 weg achter genoort
+weg achter groot-genhout
 weg achter grootgenhout
 weg achter het bos
 weg achter het koebroek
@@ -1910,21 +1975,21 @@ weg achter moscowa
 weg achter scheulder
 weg achter sperwershof
 weg achter swier
-weg achter tegels
 weg acker
+weg bunde geulle
 weg der verenigde naties
 weg door 't kamp
 weg door de berendonck
+weg door de boshoek
 weg door de grub
 weg door de jonge boomgaard
-weg door de oude haven
+weg door de passinksteeg
 weg door de plas
 weg door de rijpel
+weg door de vuileriet
 weg door den waterpot
 weg door het boschveld
 weg door het dijkwater
-weg door het gerigt
-weg door housbergven
 weg door jonkerbos
 weg door parrewijn
 weg door van rhemenshei
@@ -1932,21 +1997,23 @@ weg door zuid-salland
 weg en bos
 weg en land
 weg finsterwolderhamrik
-weg helmond-eindhoven
+weg holte wessingh
+weg i de hoeken
 weg in de allemansgading
-weg in de brandlinden
 weg in de elzeter broeken
 weg in de gouverneurspolder
 weg in de maten
 weg in de siepen
 weg in de wegen
+weg in de wouterinapolder
 weg in de zwinpolder
 weg in den berg
+weg lal schaapskooi
 weg langs 't hoogt
 weg langs contelmo
-weg langs d.u.w.-kamp
 weg langs de 12 schepels
 weg langs de begraafplaatsen
+weg langs de carmel
 weg langs de gooiersgracht
 weg langs de grinderkens
 weg langs de heesch
@@ -1956,6 +2023,8 @@ weg langs de strubben
 weg langs de vulensbeek
 weg langs de zeedijk
 weg langs den eikenboom
+weg langs dianaheide
+weg langs hertogenbosch
 weg langs het broek
 weg langs het eikes
 weg langs het hazegrietje
@@ -1965,58 +2034,79 @@ weg langs het kerkhof
 weg langs het lateraalkanaal
 weg langs het vrouwengoed
 weg langs klim en dal
+weg langs pas op
 weg langs stammen
 weg langs zo.zijde spoor
 weg langs zuid zijde spoor
+weg lheebroek hijken
 weg links van de nieuwedijk
+weg n begraafpl
+weg n horne
+weg n kazerne
+weg n koffiepot
+weg n officiers hotel
+weg n picnickplantsoen
+weg n weerdbeemden
 weg naar 't hek
 weg naar 't lange water
 weg naar 't zand
-weg naar aarwinkel
 weg naar assendonk
 weg naar bakel
 weg naar beirendrecht
 weg naar de bleek
+weg naar de bloemen
+weg naar de bosbemden
 weg naar de bremhoogte
 weg naar de bron
 weg naar de dalheimermolen
 weg naar de drie hoeven
+weg naar de ginkel
 weg naar de groene dries
 weg naar de hooiweide
 weg naar de kerkduinen
 weg naar de oude veert
 weg naar de poort
+weg naar de slaap
 weg naar de stenen tafel
 weg naar de tooverberg
 weg naar de val
 weg naar de wetten
 weg naar den dam
+weg naar geldersetoren
 weg naar gooilust
 weg naar grasbroek
 weg naar hartelstein
+weg naar haven
 weg naar heibergen
+weg naar henschotermeer
 weg naar het ganzen ei
 weg naar het gemaal
+weg naar het kerkbosje
 weg naar het stomme kruis
-weg naar hoogkerk
 weg naar kasteel karsveld
 weg naar kerkhof
+weg naar keversberg
 weg naar laren
 weg naar muningsbosch
-weg naar nijhuis
+weg naar nijeberkoop
 weg naar parkwijk
 weg naar rhijnauwen
 weg naar schrevenhof
 weg naar statie
+weg naar trailerhelling
+weg naar vernieuwing
 weg naar vierakker
 weg naar voorst
 weg naar wouw
+weg naar zand
 weg naar zwembad
 weg o/h klein heiveld
 weg om de noord
 weg om de oost
+weg om rosen lintum
+weg onder de eiken
 weg op de egelshoek
-weg op de weerd
+weg op de heuvel
 weg op den heuvel
 weg op het fort
 weg op het gerigt
@@ -2028,10 +2118,19 @@ weg over de dijk
 weg over de dolsberg
 weg over de ezelaar
 weg over de plaats
+weg over de rib
+weg over de zeedijk
 weg over kavel 35
+weg over meijerstuin
 weg over sandbergsveld
+weg par aan rijksweg
+weg par aan rykswg
+weg son-lieshout
 weg ter horst
 weg tot de wetenschap
+weg v 's graveland n utr
+weg v illikhoven n roosteren
+weg v libeek n kelleberg
 weg van 's-graveland naar de vuursche
 weg van 's-graveland naar utrecht
 weg van 's-gravenvoeren naar sint geertruid
@@ -2043,30 +2142,29 @@ weg van de koude heide naar zandvliet
 weg van de roskam naar vlodrop
 weg van de vrede
 weg van de vrijheid
+weg van de westerlan
 weg van den prins willemsberg
 weg van driangel naar torenweg
+weg van elsloo naar gr. meers
 weg van elsloo naar groot meers
 weg van grevenbicht naar obbicht
 weg van heer naar bemelen
 weg van het beeldverhaal
-weg van houthem naar ulestraten
-weg van illikhoven naar roosteren
 weg van kiev
 weg van kleverskerke naar veere
 weg van kodde
 weg van loosdrecht naar de vuursche
 weg van middelburg naar kleverskerke
-weg van montfort naar putbroek
 weg van ongenade
 weg van pleune
 weg van rijckholt naar eckelrade
 weg van rollecate
 weg van roosje
-weg van sint odiliã«nberg naar waldfeucht
+weg van rust
+weg van sint odiliÃ«nberg naar waldfeucht
 weg van twee nijenhuizen
+weg van ulestraten naar schim
 weg van vaesrade naar oppeven
-weg van voorst naar st.janskluis
-weg van â´s-gravenvoeren naar sint geertruid
 weg vd buitenlandse pers
 weg voor de binnenvelden
 weg voor de jagerskampen
@@ -2090,11 +2188,10 @@ wegekker
 wegelaar
 wegeling
 wegeling kraaijenholseweg
-wegeling veerseweg
-wegelingpark
 wegelinkmeedt
 wegelstuk
 wegenbouw
+wegeneng
 wegenschouw
 weggelerstraat
 weggelhorst
@@ -2108,8 +2205,8 @@ wegsken
 wegtersweg
 wegwijs
 wegwijzer
-wehensterzandpad
 wehersterzandpad
+wehl 2
 wehlsedijk
 wehlseweg
 wehmekamp
@@ -2117,33 +2214,33 @@ wehmer beek
 wehmerpad
 wehmerstraat
 wehmestraat
+wehrervoor
 wehrerweg
-wehryweg
 wei van ome karel
 weiakker
 weibuorren
 weiburglaan
 weide
 weide heijning
-weide pracht
 weideakkers
 weidebeek
+weidebeekjuffer
 weidebeemd
-weideblick
 weidebloemenlaan
 weidebloemenweg
 weidebloempad
 weidebloemstraat
+weidebloemtunnel
 weidebocht
 weidebogerd
 weidebrugweg
 weidebuurt
-weidechampignon
 weidedreef
 weideflora
 weidegang
 weidegangweg
 weidegeelster
+weidegeld
 weidegreven
 weidehek
 weidehoek
@@ -2156,7 +2253,6 @@ weidekamp
 weidekervel
 weideklokje
 weidekruidlaan
-weidekruidpad
 weidekruidveld
 weidelaan
 weideland
@@ -2182,6 +2278,7 @@ weiderand
 weidesalie
 weidesingel
 weideslagen
+weidesleep
 weidesteenlaan
 weidestraat
 weideveld
@@ -2211,6 +2308,7 @@ weierspoort
 weiersstraat
 weiersweid
 weiert
+weierveldweg
 weievenseweg
 weigelia
 weigeliadal
@@ -2222,12 +2320,13 @@ weigeliastraat
 weigraaf
 weihoek
 weihoekweg
+weihoeve
 weijbroekweg
-weijdesteeg
 weijen
 weijenbergstraat
 weijenbergweg
 weijenborgerdijk
+weijenhof
 weijenpasweg
 weijenstraat
 weijer
@@ -2247,23 +2346,21 @@ weijerstraat
 weijersweg
 weijerswold
 weijerswold europaweg
+weijerveldweg
 weijerweg
 weijinksweg
 weijkmanlaan
 weijland
 weijpoort
-weijweg
 weikamp
 weikamperweg
 weike van bus
 weikelaantje
 weikenweg
-weikesbrug
 weikespad
 weikesstraat
 weikreek
 weiland
-weilandpad
 weilburglaan
 weilenseind
 weilerstraat
@@ -2286,11 +2383,10 @@ weinmakkerij
 weinmakkerspaad
 weinmakkersstrjitte
 weinterp
-weinweg
 weipaad
+weipaal
 weipad
 weipas
-weipoldersedreef
 weipolderseweg
 weipoort
 weipoortseweg
@@ -2306,7 +2402,6 @@ weissensingel
 weisshorn
 weissmanstraat
 weisteeg
-weisterbeekstraat
 weistraat
 weitakkerstraat
 weitakkersweg
@@ -2343,7 +2438,6 @@ welborchlanden
 weldaad
 weldadigheid
 weldam
-weldamerf
 weldamhof
 weldamlaan
 weldammerbos
@@ -2360,7 +2454,6 @@ weldinkhorst
 weldonk
 weldscamp
 weldsehei
-welduin
 welemanserf
 welemanstraat
 welenmosweg
@@ -2369,6 +2462,7 @@ weleveldstraat
 weleweg
 welfingstrjitte
 welgelegen
+welgelegenbrug
 welgelegendijk
 welgelegenlaan
 welgelegenstraat
@@ -2388,10 +2482,13 @@ welinkdwarsweg
 welinkweg
 welkast
 welkensvenweg
+welkersveen
 well
 wellandweg
+wellant
 welle
 wellebeekweg
+wellebrug
 wellegiesland
 wellekensstraat
 welleman
@@ -2409,14 +2506,17 @@ wellepad
 welleplein
 wellepoort
 wellerondom
+wellerveldweg
 wellerwaard
 wellerweg
 wellerzand
 wellerzandweg
 welleslop
 wellesstraat
+wellestraat
 wellestrijpsedijk
 welleveldsestraat
+wellevliethof
 welleweg
 wellewei
 wellingtonstraat
@@ -2467,7 +2567,6 @@ welsh divisionstraat
 welskerbos
 welskerveen
 welsrijperweg
-welsteeg
 welstraat
 welsumerlaan
 welsumerstraat
@@ -2479,13 +2578,13 @@ welterhuisje
 welterkerkstraat
 welterlaan
 welterstraat
-weltersweide
 weltertuijnstraat
 welterweg
 weltevreden
 weltevredendijk
 weltevredenplein
 weltevredenstraat
+weltevredenweg
 weltevree
 welvaartsdwarsweg
 welvaartstraat
@@ -2527,6 +2626,7 @@ wendelaarstraat
 wendeldijk
 wendelenkamp
 wendeler bentweg
+wendelerdijk
 wendelerweg
 wendelgoorseweg
 wendeling
@@ -2550,7 +2650,7 @@ wengelerafweg
 wengersteeg
 wengeweer
 wengeweg
-wengã©hout
+wengÃ©hout
 weninge
 wenkebachstraat
 wenmaekersstraat
@@ -2589,12 +2689,11 @@ werchensestraat
 werckendetstraat
 werckenslaan
 werdenscheweg
-werdmã¼ller von elggstraat
+werdmÃ¼ller von elggstraat
 werdorperpad
 werdorperwaard
 werelderfgoed
 wereldomroeppad
-wereldsgang
 wereldtuinenlaan
 werendieksepad
 werendijke
@@ -2607,11 +2706,10 @@ weresteijn
 werf
 werf dammes erve
 werf de hoop
-werf van bijvoet
 werf van de biesbosch
 werf van gips
+werf van goedhart
 werf van hippos
-werf van huiskens en van dijk
 werf van koopman
 werf van montan
 werf van pronk
@@ -2641,13 +2739,13 @@ werftseweg
 werftweg
 werfweg
 wergeasterdyk
-wergeland
 werijtweg
 weringedonk
 weringsedijk
 weringweg
 werkbij
 werkdroger
+werkendam 23
 werkendamstraat
 werkendelslaan
 werkenmondestraat
@@ -2663,6 +2761,7 @@ werkhorstlaan
 werkhorststraat
 werkhovenseweg
 werkhovenstraat
+werkhuisbrug
 werkhuislaan
 werkhuisweg
 werkina
@@ -2681,9 +2780,11 @@ werkspoorplein
 werktuigenweg
 werktuigstraat
 werktuigweg
+werkverkeer
 werkweg vlaketunnel
 werkzijde
 werler
+werlerpad
 werlerweg
 wermenbossestraat
 wermersland
@@ -2705,7 +2806,6 @@ werpanker
 werplijn
 werpnet
 werpsterdyk
-werpsterhoeke
 werpsterwei
 werradreef
 werrilaan
@@ -2714,7 +2814,6 @@ werschkensweg
 werstkant
 werststeeg
 wertastraat
-wertemerweg
 werthaboulevard
 werthepaalweg
 wertsteeg
@@ -2722,16 +2821,16 @@ werumeus buninglaan
 werumeus buningstraat
 werve
 werveld
-wervelstraat
 werven
 wervenkampweg
-wervenplantsoen
+wervenpark
 wervenschotsebaan
 wervenweg
 wervepad
 werverdijk
 wervershoofstraat
 werverweg
+wervingshof
 weryweg
 wes beekhuizenweg
 wesch
@@ -2742,7 +2841,9 @@ wesenthorstlaan
 weseper rondweg
 weseperenkweg
 weseperstraat
+weseperveld
 weseperweg
+weseperweide
 weser
 weserhof
 weserlaan
@@ -2776,6 +2877,7 @@ wesselseweg
 wesselsland
 wesselsstraat
 wesselstraat
+wessem 42
 wessemerdijk
 wessemerven
 wessemerweg
@@ -2788,25 +2890,24 @@ west
 west aan zee
 west achterweg
 west aletalaan
-west batterijlaan
 west biesakkersweg
 west breukelderweg
 west buurtstraat
 west havendijk
 west havenstraat
+west kanaalweg
 west kinderdijk
 west kluinveenweg
 west langeweg
+west nieuwlandsedijk
 west nieuwlandseweg
 west ringdijk
-west traverse
 west vaardeke
-west vlisterdijk
 west vrijlandweg
 west weer
 west-abtspolderseweg
-west-australiã«
-west-barriã¨restraat
+west-australiÃ«
+west-barriÃ¨restraat
 west-bermweg
 west-frieslandsingel
 west-groeneweg
@@ -2814,11 +2915,10 @@ west-havendijk
 west-havenstraat
 west-ijsselkade
 west-indischekade
-west-indiã«baan
+west-indiÃ«baan
 west-kerkstraat
 west-krakeelstraat
 west-kruiskade
-west-nieuwlandse weg
 west-om
 west-peterstraat
 west-pietermanstraat
@@ -2844,6 +2944,7 @@ westboutweg
 westbroek
 westbroekerweg
 westbroekpad
+westbroekpark
 westbroekplein
 westbroekse binnenweg
 westbroekse molenweg
@@ -2854,6 +2955,7 @@ westdijk
 westdijkhof
 westdijklaan
 westdijkstraat
+westdorpe
 westdorpe-plein
 westdorperstraat
 westdorplaan
@@ -2863,13 +2965,16 @@ westduinen
 westduinpad
 westduinweg
 westduynen
-westduã«lstraat
+westduÃ«lstraat
 westein
 westeind
 westeinde
 westeindepad
 westeinder
+westeinderdijksloot
 westeinderhof
+westeinderplas
+westeinderplassen
 westeinderweg
 westeindigerdijk
 westeindsedijk
@@ -2878,14 +2983,10 @@ westeindseweg
 westelaarsestraat
 westelbeersedijk
 westelijk achterom
-westelijk en oostelijk weiteveen
 westelijk fietspad r.w. 16
 westelijk halfrond
 westelijk jaagpad
-westelijk kanaaldijkpad
 westelijk kanaalpad
-westelijk nieuw-schoonebeek
-westelijk tuinbouwgebied
 westelijke achterweg
 westelijke bermweg
 westelijke doorsnee nz
@@ -2902,8 +3003,10 @@ westelijke noorderbroekweg
 westelijke oude havendijk
 westelijke parallelweg
 westelijke randweg
+westelijke rondweg
 westelijke schelderijnweg
 westelijke spuikanaalweg
+westelijke-dwarsweg
 westenakker
 westenberg
 westenbergmate
@@ -2924,10 +3027,10 @@ westenengseweg
 westenenkerpark
 westenenkerweg
 westenenkerzijweg
-westenesch
 westenesscherstraat
 westeneynde
 westenholterallee
+westenholterbrug
 westenholterweg
 westenrijk
 westenrijkpolderstraat
@@ -2968,11 +3071,12 @@ westerbergweg
 westerbinnensingel
 westerbleek
 westerblokker
-westerboekelweg
 westerboersweg
 westerbolwerk
+westerbork 31
 westerborkerstraat
 westerborkerveld
+westerboschweg
 westerbosje
 westerbosstraat
 westerbosweg
@@ -2982,6 +3086,7 @@ westerbouwte
 westerbracht
 westerbrink
 westerbroek
+westerbroek 39
 westerbroeken
 westerbroekstraat
 westerbroekweg
@@ -2990,6 +3095,7 @@ westerbuorren
 westerburen
 westerburenweg
 westerburgstraat
+westerbutenweg
 westerbuuren
 westerbuurt
 westerbuurtstraat
@@ -3006,7 +3112,6 @@ westerdiepsterdallen
 westerdiepswal
 westerdijk
 westerdijklaan
-westerdijkpark
 westerdijkshorn
 westerdijkstraat
 westerdok
@@ -3058,12 +3163,14 @@ westergosingel
 westergouw
 westergoweg
 westergracht
+westergrift
 westerguitedijk
 westerhaar
 westerhaarweg
 westerhagelaan
 westerhaghepad
 westerhaven
+westerhavenbrug
 westerhavenstraat
 westerhavenweg
 westerheem
@@ -3086,7 +3193,6 @@ westerhofskamp
 westerhofsteegje
 westerhofstraat
 westerholm
-westerholtsingel
 westerholtstraat
 westerholtsweg
 westerhoofd
@@ -3103,8 +3209,9 @@ westerhovenseweg
 westerhuispad
 westerhuisweg
 westerhuizingerweg
-westerhãºslã¢nne
+westerhÃºslÃ¢nne
 westerich
+westerijckhof
 westerikweg
 westering
 westeringlaan
@@ -3118,6 +3225,7 @@ westerkampweg
 westerkanaaldijk
 westerkeijnweg
 westerkerf
+westerkerkengang
 westerkerklaan
 westerkerksteeg
 westerkerkstraat
@@ -3148,7 +3256,6 @@ westerlandsweg
 westerlandweg
 westerleepad
 westerleeplein
-westerleestraat
 westerlengte
 westerlesebouwten
 westerloane
@@ -3206,7 +3313,6 @@ westerscheveldweg
 westerschouwen
 westerschouwenhof
 westerschouwenpad
-westerse bos
 westerse dijk
 westerse drift
 westerse kamp
@@ -3218,7 +3324,7 @@ westerseveldpad
 westerseweg
 westersingel
 westerskatting
-westerskã¢ns
+westerskÃ¢ns
 westerslag
 westerslop
 westerspoor
@@ -3227,16 +3333,15 @@ westersteeg
 westerstijfselmakerspad
 westerstouwe
 westerstraat
-westerstradweg
 westerstrandweg
 westerstukken
 westerstukkenweg
-westersã¢nning
+westersÃ¢nning
 westert
 westerterpweg
+westertiendweg
 westertorenlaan
 westertseweg
-westertuin
 westertuinen
 westerval
 westervalge
@@ -3260,6 +3365,7 @@ westervenne
 westervesting
 westervoor
 westervoorde
+westervoort 27
 westervoortsedijk
 westerwal
 westerwalstraat
@@ -3271,6 +3377,7 @@ westerweilandweg
 westerwerf
 westerwijk
 westerwijkstraat
+westerwijkweg
 westerwijzend
 westerwindpad
 westerwird
@@ -3297,13 +3404,11 @@ westfalen
 westfalenstraat
 westfields
 westfrankelandsedijk
-westfrankelandsepad
 westfrankelandsestraat
 westfriese hof
 westfriese parkweg
 westfriese zeedijk
 westfriesedijk
-westfriesedijk 35
 westfriesepad
 westfriesland
 westfrisestraat
@@ -3311,9 +3416,7 @@ westfrisiaweg
 westgaag
 westgat
 westgatstraat
-westgerepolder
 westgeulstraat
-westgouweweg
 westgracht
 westgrasdijk
 westgroeneweg
@@ -3336,8 +3439,6 @@ westhoff
 westhofflaan
 westhoffpad
 westhoffstraat
-westhofhaven
-westhofpad
 westhofsezandweg
 westhofweg
 westhoofd
@@ -3346,7 +3447,7 @@ westhove
 westhoven
 westhovenplein
 westhovenseweg
-westindiã«plein
+westindiÃ«plein
 westinghousestraat
 westkaap
 westkade
@@ -3355,6 +3456,7 @@ westkamp
 westkanaaldijk
 westkanaalpad
 westkanaalweg
+westkanaalweg noord
 westkapellehof
 westkapellelaan
 westkapellepad
@@ -3376,11 +3478,11 @@ westlaan
 westlake
 westland
 westlander
+westlanderpad
 westlanderstraat
 westlanderweg
 westlanderwerf
 westlandgracht
-westlandpad
 westlandse bellefleur
 westlandse langeweg
 westlandseplein
@@ -3413,7 +3515,7 @@ westnieuwland
 westoever
 westonstraat
 westpad
-westpark
+westparallel
 westphalingsgoed
 westpier
 westplaatweg
@@ -3423,7 +3525,7 @@ westpoint
 westpolder
 westpolderdijk
 westpolderpad
-westpolderplas
+westpolderplein
 westpolderstraat
 westpoort
 westpoortboulevard
@@ -3462,7 +3564,6 @@ westvlietweg
 westvoorn
 westvoorneweg
 westvoorstraat
-westvoorstraatt
 westwaarts
 westwagenstraat
 westwal
@@ -3473,15 +3574,16 @@ westwijk
 westwijkplein
 westwijkstraat
 westwouderstraat
+westzaanplantsoen
 westzaanstraat
 westzanddijk
+westzanerbrug
 westzanerdijk
 westzanerweg
 westzeedijk
 westziensweg
 westzijde
 westzijderveld
-westzijdeweg
 westzijdsepad
 westzijstraat
 westzoom
@@ -3492,6 +3594,8 @@ wetering west
 wetering-oost
 wetering-west
 weteringallee
+weteringbrug
+weteringcircuit
 weteringdijk
 weteringdreef
 weteringdwarsstraat
@@ -3507,6 +3611,7 @@ weteringpoort
 weteringschans
 weteringsdijk
 weteringsdwarsweg
+weteringse broek
 weteringserf
 weteringsewal
 weteringseweg
@@ -3519,12 +3624,12 @@ weteringsweg
 weteringsweide
 weteringwaard
 weteringweg
+weteringweide
 wetermansweg
 weterschoten
 weth bloemenstraat
 weth bronstraat
 weth buitenhuisstraat
-weth c e th vernooijstraat
 weth c.e.th. vernooijstraat
 weth donkerstraat
 weth h van tarelstraat
@@ -3539,7 +3644,6 @@ weth r a wieggersstraat
 weth rooslaan
 weth slagerstraat
 weth timmermanstraat
-weth tomsonbos
 weth van berkelstraat
 weth van damstraat
 weth vd schansstraat
@@ -3548,11 +3652,9 @@ weth wassebaliestraat
 weth. beerentshof
 weth. berbeelaan
 weth. bressersstraat
-weth. bronstraat
 weth. camphuislaan
 weth. daamenplein
 weth. donkersweg
-weth. f.p.j. camphuislaan
 weth. feskensstraat
 weth. g. reindersstraat
 weth. g.h. scherpenlaan
@@ -3585,7 +3687,6 @@ weth.reuverslaan
 weth.theunissenhof
 weth.van den berglaan
 weth.zonnenbergstraat
-wethouder a. bakkerplantsoen
 wethouder a.g. dekkerlaan
 wethouder a.p.elshoutplein
 wethouder abrahamspad
@@ -3611,7 +3712,6 @@ wethouder breekstraat
 wethouder broekenstraat
 wethouder broekmanstraat
 wethouder broersstraat
-wethouder brouwerstraat
 wethouder bruensstraat
 wethouder buningstraat
 wethouder burgers-stee
@@ -3629,7 +3729,6 @@ wethouder de bruinlaan
 wethouder de greeflaan
 wethouder de jongstraat
 wethouder de joodestraat
-wethouder de klerkhof
 wethouder de klerkhof
 wethouder de roosplein
 wethouder de vosplein
@@ -3650,13 +3749,10 @@ wethouder ed. polakstraat
 wethouder eijkemansstraat
 wethouder elhorststraat
 wethouder f.e. meerburg sr. kade
-wethouder feskensstraat
-wethouder fierman eduard meerburg senior kade
 wethouder fijenpad
 wethouder fischerplantsoen
 wethouder frankeweg
 wethouder frederikspad
-wethouder g. mulderstraat
 wethouder g.j. kuiperstraat
 wethouder g.mulderstraat
 wethouder gelderlandlaan
@@ -3669,7 +3765,6 @@ wethouder groenewegenstraat
 wethouder grootstraat
 wethouder gruppenstraat
 wethouder h euvingstraat
-wethouder h. h. korteboslaan
 wethouder h.h. korteboslaan
 wethouder h.j.j. vlaskamplaan
 wethouder h.j.ten raestraat
@@ -3677,19 +3772,17 @@ wethouder haantjesstraat
 wethouder hagenstraat
 wethouder hamacherplein
 wethouder hamsterlaan
-wethouder harmsenpad
 wethouder harteminkpad
 wethouder hartmannbrug
 wethouder hassingstraat
 wethouder heeringstraat
-wethouder heijnensstraat
 wethouder heinsbergenplein
+wethouder hillenaarplantsoen
 wethouder hillenaarplnts
 wethouder hillenstraat
 wethouder hinnenlaan
 wethouder hol plantsoen
 wethouder hollaan
-wethouder hoogendijk-tunnel
 wethouder horstman sportpark
 wethouder huismanlaan
 wethouder in 't veldstraat
@@ -3723,7 +3816,7 @@ wethouder kuijperhoek
 wethouder kuijpersstraat
 wethouder kuipersstraat
 wethouder kuitstraat
-wethouder kã¶niglaan
+wethouder kÃ¶niglaan
 wethouder l. veemanweg
 wethouder lanenstraat
 wethouder lansinkstraat
@@ -3732,14 +3825,13 @@ wethouder lemmenstraat
 wethouder lindersstraat
 wethouder loeffenstraat
 wethouder lommenstraat
-wethouder m j van den  hatertstraat
+wethouder m j van den hatertstraat
 wethouder m. van doorninckweg
 wethouder maartje biermanstraat
 wethouder marcuslaan
 wethouder massinkstraat
 wethouder materhof
 wethouder mattheestraat
-wethouder meertensstraat
 wethouder michelshof
 wethouder mooringstraat
 wethouder nasslaan
@@ -3751,10 +3843,9 @@ wethouder noppenlaan
 wethouder notenplein
 wethouder olthoflaan
 wethouder p woltersstraat
-wethouder paulssenlaan
 wethouder paulushof
 wethouder peetershof
-wethouder pijsstraat
+wethouder poletbrug
 wethouder potstraat
 wethouder pubbenstraat
 wethouder raamsstraat
@@ -3780,9 +3871,8 @@ wethouder schootslaan
 wethouder schotveldlaan
 wethouder schoutenweg
 wethouder schramalaan
-wethouder schurgersstraat
 wethouder schuurmanslaan
-wethouder schã¶nepad
+wethouder schÃ¶nepad
 wethouder seegersplein
 wethouder seelenstraat
 wethouder serrurierstraat
@@ -3807,7 +3897,6 @@ wethouder timmermanpark
 wethouder tomsonbos
 wethouder tra plein
 wethouder trienekensstraat
-wethouder trompersstr
 wethouder trompersstraat
 wethouder twaalfhovenstraat
 wethouder van akenstraat
@@ -3826,7 +3915,6 @@ wethouder van den burgstraat
 wethouder van den doolstraat
 wethouder van den eijndenstraat
 wethouder van den wildenbergstraat
-wethouder van der burgstraat
 wethouder van der liendelaan
 wethouder van der polstraat
 wethouder van der vaartlaan
@@ -3838,11 +3926,9 @@ wethouder van dijkstraat
 wethouder van doornweg
 wethouder van eschstraat
 wethouder van essenweg
-wethouder van essenweg
 wethouder van gamerenstraat
 wethouder van gentplein
 wethouder van haperenstraat
-wethouder van hekezenlaan
 wethouder van hekezenlaan
 wethouder van heldenstraat
 wethouder van ierlantstraat
@@ -3860,7 +3946,6 @@ wethouder van santestraat
 wethouder van soestbergenstraat
 wethouder van thiellaan
 wethouder van wellaan
-wethouder van wellstraat
 wethouder van wellstraat
 wethouder van wijckstraat
 wethouder veenkamplaan
@@ -3898,7 +3983,7 @@ wethouder-van der valkstraat
 wethoudershof
 wethouderskade
 wethouderslaan
-wethã¢lder beerdastrjitte
+wethÃ¢lder beerdastrjitte
 wetland
 wetselderstraat
 wetsteen
@@ -3914,12 +3999,13 @@ wetterkant
 wetterkoelenweg
 wetterkrite
 wettermunt
-wettermã»ne
+wettermÃ»ne
 wetterroas
 wetterskipsdyk
 wettersteinstraat
+wettertoer
 wettertoerwei
-wettertãºn
+wettertÃºn
 wetterwille
 wettringerlaan
 wetzerveld
@@ -3945,6 +4031,7 @@ wevelaakweg
 wevelaan
 wevelgemstraat
 wevelsdaal
+wevelsheiweg
 wevelswaaldijk
 wevelswalepad
 wevelsweg
@@ -3958,8 +4045,9 @@ weverijweg
 weverkamp
 wevermarke
 weverpad
+weverpark
 weversbaan
-weversblãªd
+weversblÃªd
 weversborgdijk
 weversboschweg
 weversburen
@@ -3979,6 +4067,7 @@ wevershoek
 wevershoekstraat
 wevershof
 wevershorn
+weverskaarde
 weverskade
 weverskamp
 weverskat
@@ -3987,6 +4076,7 @@ weverslaan
 weversland
 weverslo
 weverspad
+weverspark
 weversplaats
 weversplein
 weversrijge
@@ -4001,12 +4091,10 @@ weversteeg
 weversterp
 weverstraat
 weversveld
-weversvelddijk
 weversven
 weversweg
 weverswei
-weverswã¢l
-wevertweg
+weverswÃ¢l
 wevervoetpad
 weverweg
 weverwei
@@ -4015,6 +4103,7 @@ wevestraat
 wewwelstad
 wewwelstadpad
 weyenberg
+weyenburg
 weyerbeemd
 weyerland
 weyerweg
@@ -4023,7 +4112,6 @@ weyevlietplein
 weyevlietweg
 weymarstraat
 weymouthstraat
-weypad
 weystraat
 weytackers
 weytjesvoetpad
@@ -4048,7 +4136,6 @@ wezelstraat
 wezelveen
 wezelweide
 wezemaal
-wezenbrug
 wezengoed
 wezenkamp
 wezenlaan
@@ -4056,6 +4143,7 @@ wezenland
 wezenstraat
 wezenweg
 wezenweid
+wezep 17
 wezepad
 wezeper veste
 wezeperberg
@@ -4065,8 +4153,10 @@ wezerhof
 wezerstraat
 wezerweg
 wezeweg
+wezup
 wezuperstraat
 wezuperweg
+wg schelde ryn kan
 wg-plein
 wheedijk
 wheedwarsweg
@@ -4092,6 +4182,7 @@ wherekant
 whereplantsoen
 whistlerstraat
 whitestraat
+wiarda
 wiardapad
 wiardaplantage
 wiardastraat
@@ -4104,11 +4195,11 @@ wibauthof
 wibautlaan
 wibautstraat
 wibbelinksdijk
+wibbina roelofsstraat
 wibenaheerd
 wibergstraat
 wibo lanslaan
 wiborgeiland
-wiborgsteiger
 wibrand geertsstraat
 wibrandastate
 wibrandaweg
@@ -4135,7 +4226,6 @@ wickenburghseweg
 wickenburghspad
 wickenburglaan
 wickenburgstraat
-wickraderweg
 widdershovenstraat
 wide steech
 wide stege
@@ -4144,6 +4234,7 @@ widelanken
 widooiestraat
 widukindstraat
 wiebachstraat
+wiebe koopstraweg
 wiebe wesselspad
 wiebenerweg
 wiebengapad
@@ -4163,8 +4254,6 @@ wiedenbroeksingel
 wiedenland
 wieder
 wiederhorsten
-wiederveldweg
-wiederweg
 wiedesteiger
 wiedestraat
 wiedewei
@@ -4173,6 +4262,7 @@ wiedicksbeekweg
 wiefferweg
 wiefkerpad
 wiefkerweg
+wiegbrug 0173
 wiegelraderstraat
 wiegelraderweg
 wiegelraede
@@ -4190,7 +4280,6 @@ wiegersmastraat
 wiegersmawei
 wiegersstraat
 wiegersweg
-wiegert
 wiegmannstraat
 wiegmanweg
 wiejerd
@@ -4211,7 +4300,6 @@ wiekenplein
 wiekenseweg
 wiekenstraat
 wiekenweg
-wiekermaat
 wiekermaatweg
 wiekermedenweg
 wiekerseweg
@@ -4234,7 +4322,7 @@ wielakkerstraat
 wielandstraat
 wielantstraat
 wielblok
-wielder
+wielborgpad
 wielderdorpstraat
 wielderslaan
 wieldersstraat
@@ -4260,6 +4348,7 @@ wielen
 wielendwinger
 wielengahof
 wielenlaan
+wielenpaad
 wielenpad
 wielenstraat
 wielenweg
@@ -4267,6 +4356,7 @@ wieler
 wielerbaan
 wielerkamp
 wielerstraat
+wielerstukweg
 wielerveldweg
 wielesteijn
 wielestein
@@ -4294,13 +4384,13 @@ wielingenstraat
 wielingenweg
 wielkamp
 wielladerstraat
-wielmakershof
 wielmakersteeg
 wielpad
 wielploeg
 wielrenner
 wielrenpad
 wielrenstraat
+wielrijt
 wielse kamp
 wielsekade
 wielseweg
@@ -4310,7 +4400,7 @@ wielspaad
 wielspinstraat
 wielsterdyk
 wielstraat
-wieltje van collã©e
+wieltje van collÃ©e
 wielweg
 wielwei
 wiemanstraat
@@ -4318,7 +4408,6 @@ wiemelheugte
 wiemelhoek
 wiemerinkweg
 wiemers
-wiemersdel
 wiemesmeerplein
 wiemselweg
 wienbargsteeg
@@ -4349,6 +4438,9 @@ wierbeek
 wierbroeken
 wierdaweg
 wierde
+wierden 32
+wierden-noord 2
+wierden-west
 wierdensestraat
 wierdenseweg
 wierdeplein
@@ -4373,6 +4465,7 @@ wierickepad
 wierickerschans
 wierickestraat
 wierickewijk
+wieringapad
 wieringen
 wieringenhof
 wieringenlaan
@@ -4385,10 +4478,13 @@ wieringermeer
 wieringermeerlaan
 wieringermeerpolder
 wieringermeerstraat
+wieringerranddijk
 wieringerrandweg
 wieringerstraat
+wieringerwaardpad
 wieringerwaardstraat
 wieringerwaardweg
+wieringerwerf 13
 wieringsepad
 wieringsestraat
 wieringskamp
@@ -4399,10 +4495,12 @@ wierkstraat
 wierlaan
 wierplas
 wierren
+wierringerrandweg
 wiersdijk
 wierse
 wiersedreef
 wierselaan
+wierser
 wiersse
 wiersserallee
 wiersserbroekweg
@@ -4413,15 +4511,15 @@ wierstraat
 wiersweg
 wierswei
 wiertdijkje
+wiertshof
 wiertsstraat
 wierum
 wierumerschouwsterweg
 wierumerwei
 wierweg
-wies boonzaaierstraat
-wies boonzaaijerstraat
 wies kreukniethage
 wies vaessenbaan
+wies van sleeuwenhof
 wieschertsweg
 wieselse enkweg
 wieselse kampweg
@@ -4438,14 +4536,15 @@ wietske tademalaan
 wietze mulderreed
 wietze noormanlaan
 wieuwens
-wieã«nbroek
-wieã«npassage
-wieã«nstraat
-wieã«nwaegsken
-wieã«nweg
+wieÃ«nbroek
+wieÃ«npassage
+wieÃ«nstraat
+wieÃ«nwaegsken
+wieÃ«nweg
 wifferinkweg
 wiganc
 wigbold van ewsumstraat
+wigboldhof
 wigboldinck
 wigboldstraat
 wigbolt ripperdastraat
@@ -4467,12 +4566,14 @@ wigleweg
 wigstraat
 wiiddraai
 wiidswei
-wiidswã¢l
+wiidswÃ¢l
 wijbo fijnjestraat
 wijbosch
 wijboschstraat
 wijbosscheweg
 wijbrand de geeststraat
+wijchen
+wijchen 1a
 wijchenseweg
 wijchgelsheimlaan
 wijckelerweg
@@ -4509,8 +4610,6 @@ wijde veldweg
 wijde wade
 wijde watersteeg
 wijde wormer
-wijde-veldpad
-wijde-veldpad
 wijdeblik
 wijdebrugsteeg
 wijdehof
@@ -4520,9 +4619,9 @@ wijdenespad
 wijdenesserstraat
 wijdenesstraat
 wijdepoort
-wijdepoort thans mariastraat
 wijdesteeg
 wijdeveldstraat
+wijdewormer 3
 wijdewormerplein
 wijdschildlaan
 wijdschildpad
@@ -4540,6 +4639,8 @@ wijenweg
 wijer
 wijerdweg
 wijereind
+wijersakker
+wijershof
 wijershoflaan
 wijerspad
 wijersstraat
@@ -4548,6 +4649,7 @@ wijert
 wijffelterbroekdijk
 wijgert kooijlaan
 wijhendaalseweg
+wijhese veer
 wijheseweg
 wijhestraat
 wijhezicht
@@ -4561,12 +4663,13 @@ wijk 7
 wijk 8
 wijk aan duinerweg
 wijk aan duinpad
-wijk aan zeeã«rweg
+wijk aan zeeÃ«rweg
 wijk de brabander
 wijkamplaan
 wijkbaan
 wijkdijk
 wijkerbaan
+wijkerbrug
 wijkergouw
 wijkerlaan
 wijkermeerhof
@@ -4577,6 +4680,8 @@ wijkersloot
 wijkerslootweg
 wijkerstein
 wijkerstraatweg
+wijkertunnel
+wijkerwaard
 wijkerweg
 wijkerwoldweg
 wijkevoort
@@ -4585,6 +4690,7 @@ wijkhovepad
 wijkhuijsweg
 wijkmeestersdreef
 wijkpark bangaerde
+wijkpark transvaal
 wijkplaats
 wijkse bol
 wijkselaan
@@ -4594,7 +4700,7 @@ wijkstraat
 wijkveld
 wijkweg
 wijlder reimweg
-wijlermeerstraat
+wijlhuizenseweg
 wijlre
 wijlre gerichtweg
 wijlseweg
@@ -4606,6 +4712,7 @@ wijmersplantsoen
 wijmersweg
 wijmerts
 wijmpje koopmanstraat
+wijnaardenweg
 wijnaendtspad
 wijnakker
 wijnakkers
@@ -4634,7 +4741,6 @@ wijnbergstraat
 wijnbergweg
 wijnbes
 wijnbesgaarde
-wijnbeshof
 wijnbesplantsoen
 wijnbesstraat
 wijnboomlaan
@@ -4655,7 +4761,6 @@ wijnesteijnstraat
 wijnesteinlaan
 wijneveld
 wijngaard
-wijngaardcamp
 wijngaarde
 wijngaarden
 wijngaarden bolwerk
@@ -4665,6 +4770,7 @@ wijngaardpad
 wijngaardplein
 wijngaardsberg
 wijngaardscamp
+wijngaardsedijk
 wijngaardsesteeg
 wijngaardseweg
 wijngaardsgracht
@@ -4676,17 +4782,18 @@ wijngaardsstraatje
 wijngaardstraat
 wijngaardsvoetpad
 wijngaardsweg
-wijngaardsweg1
 wijngracht
 wijnhaven
 wijnhoffstraat
 wijnhofstraat
 wijnhornsterstraat
+wijnhovenlaan v arc
 wijnhovenstraat
 wijnhoverhofweg
 wijnhuisstraat
 wijnie jabaaijlaan
 wijningsstraat
+wijnjewoude
 wijnkade
 wijnkamp
 wijnkanspad
@@ -4695,7 +4802,6 @@ wijnkelderlaan
 wijnkelderweg
 wijnkers
 wijnkersstraat
-wijnkoopsbaai
 wijnkoper
 wijnkopersgilde
 wijnkoperstraat
@@ -4705,7 +4811,7 @@ wijnmalenlaan
 wijnmalenplantsoen
 wijnmalenstraat
 wijnmanlaan
-wijnoldy daniã«lslaan
+wijnoldy daniÃ«lslaan
 wijnpeer
 wijnpeerhoef
 wijnpeerpad
@@ -4733,7 +4839,6 @@ wijnvat
 wijnverlater
 wijnwaarden
 wijnweg
-wijsdomruwe
 wijsdomsruwe
 wijsenbeekweg
 wijsentkade
@@ -4746,10 +4851,10 @@ wijstgrond
 wijsthoek
 wijststraat
 wijtenhofstraat
-wijtenhorstkampweg
 wijtenhorstweg
 wijtensstraat
 wijtgraaf
+wijthmen
 wijting
 wijtingstraat
 wijtlangerweg
@@ -4778,6 +4883,7 @@ wikkemeen
 wikkepad
 wikkeplein
 wikkerinkweg
+wikkerse
 wikkestraat
 wikketuin
 wikkeveld
@@ -4788,10 +4894,10 @@ wiksel
 wikselaarseweg
 wikveld
 wil andriessenstraat
-wil temmingpromenade
-wil velders-vlasblomhaghe
-wil velders-vlasblomkade
-wil vinjã©straat
+wil houbenhof
+wil merkiespark
+wil van der burgtstraat
+wil vinjÃ©straat
 wilaarderburen
 wilack
 wilbert kerkhofstraat
@@ -4813,15 +4919,11 @@ wilddreef
 wilde bertrampad
 wilde eendstraat
 wilde gagel
-wilde hoeven
 wilde hoppad
 wilde kampweg
-wilde kat
-wilde plaats
 wilde rijstvliet
 wilde rucolavliet
 wilde veenen
-wilde veenenpad
 wilde weitweg
 wilde wingerd
 wilde wingerdlaan
@@ -4833,6 +4935,7 @@ wildehornstersingel
 wildekamp
 wildekampseweg
 wildekampsweg
+wildeland
 wildelandenplein
 wildelandenstraat
 wildemaetstraat
@@ -4844,6 +4947,7 @@ wildemansteeg
 wildemanstraat
 wildemanweg
 wildenberg
+wildenberg/militaire aansluit
 wildenbergsweg
 wildenborch
 wildenborchallee
@@ -4894,11 +4998,13 @@ wildforster
 wildforsterlaan
 wildforsterweg
 wildforstlaan
+wildgraaf
 wildhage
 wildheuvel
 wildhoeflaan
 wildhoek
 wildhoeve
+wildinghe
 wildinghelaan
 wildingsteeg
 wildingstraatje
@@ -4974,6 +5080,7 @@ wilgenkade
 wilgenkamp
 wilgenkampstraat
 wilgenkampweg
+wilgenkatjesvaart
 wilgenlaan
 wilgenlaantje
 wilgenlei
@@ -5027,13 +5134,14 @@ wilgstate
 wilgstraat
 wilgweg
 wilhelm linnemannstraat
-wilhelm rã¶ntgenstraat
+wilhelm rÃ¶ntgenstraat
 wilhelm tellhof
 wilhelm tellplaats
 wilhelm tellstraat
 wilhelm van herlestraat
 wilhelmietenstraat
 wilhelmilaan
+wilhelmina bladergroenpad
 wilhelmina bladergroenstraat
 wilhelmina bladergroenweg
 wilhelmina blombergplein
@@ -5041,13 +5149,14 @@ wilhelmina druckererf
 wilhelmina druckerhoeve
 wilhelmina druckerhof
 wilhelmina druckerlaan
-wilhelmina druckerpad
 wilhelmina druckerstraat
 wilhelmina druckertuin
 wilhelmina druckerweg
+wilhelmina drupsteenplantsoen
 wilhelmina geevestraat
 wilhelmina hofman-pootstraat
 wilhelmina nijhoffstraat
+wilhelmina pelinckweg
 wilhelmina sangersstraat
 wilhelmina schweickhardtplein
 wilhelmina smitstraat
@@ -5056,10 +5165,10 @@ wilhelmina van haeftendreef
 wilhelmina van pruisenlaan
 wilhelmina van pruisenweg
 wilhelmina voorwindenkade
+wilhelminabrug
 wilhelminadijk
 wilhelminadreef
 wilhelminadwarsweg
-wilhelminahoeve
 wilhelminahof
 wilhelminahofweg
 wilhelminakade
@@ -5079,7 +5188,6 @@ wilhelminasluis
 wilhelminastichting
 wilhelminastraat
 wilhelminastrjitte
-wilhelminatorenvoetpad
 wilhelminaveld
 wilhelminaweg
 wilhelminawijk
@@ -5087,11 +5195,11 @@ wilhelminawyk
 wilhelminazijstraat
 wilhelmshavenweg
 wilhelmsweg
+wilhelmus johannes kraanst
 wilhelmus kervelstraat
 wilhelmus leemansstraat
 wilhelmus peekhof
 wilhelmushof
-wilhelmushofâ¿â¿
 wilhelmuspad
 wilkemaheerd
 wilkemaweg
@@ -5121,12 +5229,13 @@ willekensdreef
 willekeur
 willem 't hartplein
 willem 't hartstraat
-willem 1 straat
+willem albert wagenaarpad
 willem albertsvaart nz
-willem albertsvaart zz
+willem alexanderbrug
 willem alexanderheem
 willem alexanderhof
 willem alexanderlaan
+willem alexanderpad
 willem alexanderplantsoen
 willem alexanderplein
 willem alexandersingel
@@ -5137,12 +5246,11 @@ willem andriessenstraat
 willem andriessenweg
 willem arntszkade
 willem arntszlaan
-willem arond?usstraat
 willem arondeusstraat
-willem arondã©usstraat
+willem arondÃ©usstraat
 willem augustinstraat
 willem baerdesenstraat
-willem bakkersgang
+willem bakkerwegje
 willem balkemastraat
 willem barendszlaan
 willem barendszoonstraat
@@ -5181,6 +5289,7 @@ willem bontekoesingel
 willem bontekoestraat
 willem bosmalaan
 willem botsstraat
+willem boumanhof
 willem bouwhuispad
 willem boyeweg
 willem braasemstraat
@@ -5196,7 +5305,6 @@ willem c. brouwerlaan
 willem claijstraat
 willem clockgieterstraat
 willem coepijnstraat
-willem cornelisz  schoutenstraat
 willem cornelisz schoutenstraat
 willem coxlaan
 willem crijnsstraat
@@ -5216,9 +5324,9 @@ willem de kooning allee
 willem de kooningstraat
 willem de lillestraat
 willem de merodestraat
-willem de mã©rodehove
-willem de mã©rodelaan
-willem de mã©rodestraat
+willem de mÃ©rodehove
+willem de mÃ©rodelaan
+willem de mÃ©rodestraat
 willem de nobelaerlaan
 willem de poorterstraat
 willem de rijkelaan
@@ -5234,7 +5342,6 @@ willem de zwijgerplantsoen
 willem de zwijgerplein
 willem de zwijgersingel
 willem de zwijgerstraat
-willem de zwijgerstraat
 willem de zwijgerweg
 willem deckersstraat
 willem degenstraat
@@ -5242,13 +5349,11 @@ willem dekkerstraat
 willem dicbierstraat
 willem diemerplein
 willem diemerstraat
-willem diephoutpad
 willem dijkstraat
 willem dingeldeinstraat
 willem doppenplein
 willem draijerstraat
 willem dreeserf
-willem dreeserfâ¿â¿
 willem dreeshof
 willem dreeslaan
 willem dreespad
@@ -5266,11 +5371,13 @@ willem dudoklaan
 willem dudokplein
 willem dudokweg
 willem duysplaats
+willem duysvijver
 willem egbertsstraat
 willem eggertstraat
 willem egmondstraat
 willem einthovenlaan
 willem einthovenstraat
+willem elschotplaats
 willem elsschothof
 willem elsschothove
 willem elsschotlaan
@@ -5315,11 +5422,11 @@ willem horstingstraat
 willem hovylaan
 willem hovystraat
 willem hubertstraat
-willem hussemstraat
 willem i laan
 willem i straat
 willem i-laan
 willem i-plein
+willem idenburglaan
 willem idenburgpad
 willem ii singel
 willem ii straat
@@ -5328,24 +5435,19 @@ willem ii-passage
 willem ii-plein
 willem ii-straat
 willem iii laan
-willem iii laan
 willem iii straat
 willem iii-laan
-willem iii-laan
 willem iii-straat
-willem in de coevoetstraat
-willem j. kolfflaan
 willem j.baron van gentplein
 willem jacobstraat
 willem jan jonkerlaan
 willem jansenstraat
-willem janszstraat
+willem jehannes koopmansstrjitte
 willem joorenstraat
 willem joseph van ghentstraat
 willem kalfflaan
 willem kalffstraat
 willem kalfstraat
-willem kes-plantsoen
 willem keslaan
 willem kesplantsoen
 willem kesstraat
@@ -5371,29 +5473,27 @@ willem kroezestraat
 willem kromhoutstraat
 willem kruyshaarstraat
 willem kuijperstraat
-willem landrehof
-willem landrestraat
-willem landrã©hof
-willem landrã©laan
-willem landrã©pad
-willem landrã©plein
-willem landrã©straat
+willem landrÃ©hof
+willem landrÃ©laan
+willem landrÃ©pad
+willem landrÃ©plein
+willem landrÃ©straat
 willem leevendstraat
 willem leijtestraat
 willem litjenshof
 willem littelstraat
+willem lodewijk passage
 willem lodewijkhof
 willem lodewijklaan
 willem lodewijkstraat
 willem lodewijkstrjitte
-willem lorã©straat
-willem lorã©weg
+willem lorÃ©straat
+willem lorÃ©weg
 willem maarsehof
 willem mantelstraat
 willem mariastraat
 willem marishof
 willem marislaan
-willem marisrade
 willem marisstraat
 willem mechteldstraat
 willem mertenspad
@@ -5463,7 +5563,8 @@ willem schoutenstraat
 willem schutslaan
 willem schuurmanlaan
 willem schuylenburglaan
-willem schã¼rmannstraat
+willem schweitzerplnts
+willem schÃ¼rmannstraat
 willem sengershof
 willem sijpesteijnstraat
 willem silviusstraat
@@ -5494,6 +5595,7 @@ willem van abcoudelaan
 willem van abcoudeplein
 willem van aelststraat
 willem van alcmadestraat
+willem van althuisweg
 willem van arenbergstraat
 willem van ariestraat
 willem van arkellaan
@@ -5509,7 +5611,6 @@ willem van cleeflaan
 willem van coulsterstraat
 willem van criepstraat
 willem van de laarhof
-willem van de veerstraat
 willem van de veldekade
 willem van de veldelaan
 willem van de veldestr.
@@ -5537,6 +5638,7 @@ willem van der voetstraat
 willem van der zaandreef
 willem van der zaanstraat
 willem van der zaenstraat
+willem van dierenstraat
 willem van dragtplein
 willem van duvenvoordestraat
 willem van egmontlaan
@@ -5566,9 +5668,7 @@ willem van konijnenburglaan
 willem van konijnenburgstraat
 willem van kouwenerf
 willem van kuijkstraat
-willem van lanschot
 willem van lanschotlaan
-willem van lanschotplein
 willem van leenpad
 willem van leusdenlaan
 willem van lutterveldstraat
@@ -5587,18 +5687,18 @@ willem van oranjelaan
 willem van oranjeplein
 willem van oranjestraat
 willem van oranjeweg
+willem van ospark
 willem van otterloolaan
 willem van otterloostraat
 willem van outhoornlaan
 willem van outhoornstraat
-willem van rijswijckstr
+willem van rijswijckstraat
 willem van ruysbroeckstraat
 willem van saendenstraat
 willem van steenberchstraat
 willem van velsenstraat
 willem van weldammelaan
 willem van windenstraat
-willem van zijlplein
 willem van zuylenstraat
 willem verbeekerf
 willem verbernestraat
@@ -5658,15 +5758,17 @@ willemijngang
 willemijntje de kooterkade
 willemina waltmanhof
 willeminksweg
-willemkevoetpaden
 willemlaan
 willempoldersedijk
 willempolderseweg
 willems fopsstraat
 willemsbeekweg
 willemsbos
+willemsbrug
+willemsbrug 0151
 willemsdijk
 willemselaan
+willemsen naaldhoutweg
 willemserf
 willemsgang
 willemshoek
@@ -5690,6 +5792,7 @@ willemspoort
 willemsstraat
 willemsstreek
 willemstad
+willemstad 23
 willemstraat
 willemstrjitte
 willemstunnel
@@ -5698,6 +5801,7 @@ willemsweg
 willenskade
 willensplein
 willeskop
+willeskopperpoort
 willeskopstraat
 willevenstraat
 willi martinalistraat
@@ -5709,7 +5813,6 @@ william boothstraat
 william bragghof
 william braggstraat
 william brewstersteeg
-william faulknerstraat
 william harveystraat
 william herschelstraat
 william jamesstraat
@@ -5723,6 +5826,7 @@ williamsperenlaan
 williamstraat
 willibrordlaan
 willibrordpad
+willibrordplantsoen
 willibrordplein
 willibrordrotonde
 willibrordstraat
@@ -5734,8 +5838,6 @@ willibrordusstraat
 willibrordustuin
 willibrordusweg
 willibrordweg
-willichpaadje
-willichstraatje
 willie dixonstraat
 willie hillenstraat
 willie wortelstraat
@@ -5760,13 +5862,13 @@ willinklanden
 willinkplein
 willinkstraat
 willis lambstraat
+willlem bakkerweg
 willy albertistraat
 willy andriessenstraat
+willy brandtbrug
 willy brandtlaan
 willy brandtpad
 willy brandtplein
-willy brandtstraat
-willy caronstraat
 willy corsaripad
 willy den oudenstraat
 willy dolsstraat
@@ -5776,10 +5878,9 @@ willy lagermanstraat
 willy martensstraat
 willy mullenskade
 willy posthumushaghe
-willy pã©tillonstraat
+willy pÃ©tillonstraat
 willy sluiterstraat
 willy sluiterweg
-willy van breemensstraat
 willy van breemenstraat
 willy van den berkstraat
 willy van heusdenhof
@@ -5807,7 +5908,7 @@ wilrijkstraat
 wils broggelstraat
 wilsesteeg
 wilsfoort
-wilshuysen
+wilshuijsen
 wilslaan
 wilsondreef
 wilsonerf
@@ -5823,6 +5924,7 @@ wilsterstrjitte
 wilsumersteeg
 wilsveen
 wilsvoortweg
+wilt tjaardapaad
 wilteindstraat
 wiltenburg
 wiltenkamp
@@ -5841,17 +5943,17 @@ wiltinksbrug
 wiltjesklinten
 wiltonstraat
 wiltsangh
-wiltshirebrug
 wiltskamp
 wiltslaan
 wiltzanghlaan
 wim beermanstraat
 wim berkelmansstraat
 wim binkenhof
+wim bleijenbergzoom
 wim boonsstraat
 wim brugmanstraat
 wim de kwanthof
-wim de kã¶rverstraat
+wim de kÃ¶rverstraat
 wim duisenbergplantsoen
 wim gerreselaan
 wim harzinghof
@@ -5863,6 +5965,7 @@ wim kanplein
 wim kansingel
 wim kanstraat
 wim lagendaalpad
+wim letschertbrug
 wim meilinkhof
 wim mensinkstraat
 wim meuldijklaan
@@ -5871,7 +5974,7 @@ wim petersstraat
 wim reindershof
 wim reinderslaan
 wim richtstraat
-wim rã¶therlaan
+wim rÃ¶therlaan
 wim schuhmacherhof
 wim sonneveldlaan
 wim sonneveldplein
@@ -5879,12 +5982,11 @@ wim sonneveldstraat
 wim speelmanplein
 wim speelmanstraat
 wim suermondtstraat
-wim t. schippersplaatsje
 wim t. schippersplein
-wim thomassenhaven
 wim thomassenstraat
 wim van baaststraat
 wim van de kappellehof
+wim van der geesthof
 wim van estlaan
 wim van estpad
 wim van eststraat
@@ -5908,15 +6010,12 @@ winakker
 winamerdyk
 winand staringstraat
 winandusstraat
-winckelderstraat
 winckelen
 winckelgaard
 winckelpad
 winckelpoort
 winckelstraat
 winckelweg
-windagstraat
-windakker
 windas
 windasstraat
 windaustraat
@@ -5926,7 +6025,7 @@ windbord
 windbrugstraat
 winde
 windelaar
-windenergiestraat
+windenergieweg
 windepad
 windeplein
 windermade
@@ -5957,6 +6056,7 @@ windjammer
 windjammerdijk
 windjammersingel
 windkracht
+windkrachtstraat
 windlaan
 windlust
 windlusthof
@@ -5983,10 +6083,10 @@ windmolenveldweg
 windmolenven
 windmolenweg
 windmolenzijweg
+windoweg
 windpeluw
 windraak
 windrakerberg
-windrakerweg
 windrecht
 windroos
 windrooskade
@@ -6001,9 +6101,8 @@ windsorhof
 windsteeg
 windstilte
 windstraat
-windsurfpad
 windtunnelkade
-windturbinepad
+windturbinepad a27
 windturbineweg
 windvaan
 windvang
@@ -6015,6 +6114,7 @@ windwijzer
 windzoom
 windzwever
 wine
+wing wahpad
 wingerd
 wingerdhoek
 wingerdhof
@@ -6026,6 +6126,7 @@ wingerdse donk
 wingerdstraat
 wingerdwal
 wingerdweg
+wingtapper
 winhofflaan
 winia's reed
 winia-ikkers
@@ -6033,11 +6134,9 @@ winjewaweg
 winkel
 winkelakker
 winkelakkers
-winkelbergsweg
 winkelbergweg
 winkelcentrum
 winkelcentrum coevering
-winkelcentrum de schoof
 winkelcentrum galecop
 winkelcentrum hoogzandveld
 winkelcentrum woensel
@@ -6046,11 +6145,11 @@ winkelerweg
 winkelerzand
 winkelhaak
 winkelhagen
-winkelhagengang
 winkelhoek
 winkelhoeve
 winkelhof
 winkelkamp
+winkellaan
 winkelmaad
 winkelmadepark
 winkelmadeweg
@@ -6077,9 +6176,11 @@ winkelveld
 winkelveldstraat
 winkelwaard
 winkelweg
+winkelweg te
 winkelzeesedreef
 winkelzeeseweg
 winkenven
+winkesweg te
 winkewijertlaan
 winkler prins passage
 winkler prinshof
@@ -6093,6 +6194,7 @@ winnipegdreef
 winnipegstraat
 winonahstraat
 winricusstraat
+winschoten 47
 winschotenpad
 winschotenstraat
 winschoter hogebrug
@@ -6111,6 +6213,7 @@ winston churchilllaan
 winston churchillstraat
 winstongaarde
 winstonstraat
+winsum
 winsumerdiep
 winsumermeeden
 winsumerstraatweg
@@ -6128,7 +6231,6 @@ wintercyclaam
 winterdijk
 winterdijkstraat
 wintereik
-wintererf
 wintergaarde
 wintergaats
 wintergaatspaedje
@@ -6218,13 +6320,16 @@ wipstrikpark
 wiptoen
 wipweg
 wirdsterterp
+wirdum 16
 wirdumerdijk
 wirdumermeedenweg
+wirdumerpoortsbrug
 wirdumerpoortsdwinger
 wirdumerweg
 wiringherlant
 wirixstraat
 wiro heesterspad
+wiro thuis pad
 wirostraat
 wisboom
 wisboomhof
@@ -6232,9 +6337,9 @@ wisbroek
 wisch
 wischluiweg
 wischmei
+wisenniabrug
 wisent
 wisentstraat
-wisenttocht
 wisentweg
 wisentweide
 wiske
@@ -6258,7 +6363,6 @@ wisselaar
 wisseldijk
 wisselhof
 wisselhout
-wisselhout
 wisseling
 wisselinkweg
 wisselkom
@@ -6266,14 +6370,11 @@ wissellaan
 wissellaantje
 wisseloord
 wisseloordlaan
-wisseloordpad
 wisseloordplein
 wisselpad
 wisselplaats
 wisselseweg
 wisselslag
-wisselspoor
-wisselstraat
 wisselstraat
 wisselstroom
 wisselt
@@ -6283,10 +6384,10 @@ wisselwei
 wisselwerking
 wissemicherweg
 wissendijke
+wissengrachtervoetpad
 wissengrachtweg
 wissenkerkepad
 wissenweg
-wisserhofweg
 wissesdwinger
 wisseven
 wissewekken
@@ -6308,7 +6409,6 @@ witacker
 witakker
 witbankstraat
 witbeek
-witblauw
 witbloemstraat
 witbol
 witbolgras
@@ -6321,6 +6421,8 @@ witboomstraat
 witbrantlaan oost
 witbrantlaan west
 witbreuksweg
+witbroekerweg
+witbrug a
 witdammen
 witdonk
 wite burch
@@ -6330,6 +6432,7 @@ wite mar
 wite muonts
 witewei
 witgensweg
+witgoordreef
 witgoudweg
 witgrub
 withagen
@@ -6340,9 +6443,9 @@ withagsmedenweg
 withagsveldweg
 withagsweg
 withamhof
+withamstraat
 witharenweg
 witheggerweg
-withenluststraat
 witherenstraat
 witherenweg
 withoedenveem
@@ -6368,6 +6471,7 @@ witlofveld
 witmakersstraat
 witmandwarsweg
 witmanweg
+witmarsum 16
 witmarsumerweg
 witmoeren
 witmoesdijk
@@ -6399,13 +6503,14 @@ witstoom
 witte arend
 witte baan
 witte bank
+witte bergen
 witte bergenbaan
-witte bes
 witte bijlweg
 witte bleek
 witte brug
 witte brugstraat
 witte dam
+witte de withbrug
 witte de withhof
 witte de withlaan
 witte de withplein
@@ -6453,14 +6558,13 @@ witte paardweg
 witte pad
 witte paters
 witte put
-witte reinspad
+witte reinsweg
 witte ring
 witte rozenstraat
 witte ruiterpad
 witte ruiterweg
 witte singel
 witte spaanstraat
-witte steen
 witte valkenstraat
 witte valkstraat
 witte van der laan
@@ -6484,7 +6588,6 @@ witte zandweg
 witte zee
 witte zeeweg
 witte zwaanhof
-witte-hondpad
 wittebeltsweg
 wittebergstraat
 wittebergweg
@@ -6497,7 +6600,6 @@ wittebroodslaantje
 wittebroodstraat
 wittebrug
 wittebrugstraat
-wittebrugweg
 wittedijk
 wittehemelweg
 wittejufferstraat
@@ -6522,25 +6624,24 @@ wittenbrink
 wittenburg
 wittenburgergracht
 wittenburgerkade
+wittenburgerlaan
 wittenburgerweg
 wittenburgstraat
 wittendijk
 wittendijkweg
 wittenerf
 wittenhorstlaan
-wittenhorststraat
 wittenkamp
 wittenoordseweg
+wittens weide
 wittensteen
 wittenstein
 wittensteinpark
 wittensteinse allee
-wittensteinseallee
 wittensteinstraat
 wittensteyn
 wittenweg
 wittepaalweg
-wittepaardsteeg
 wittepalenweg
 witteplakdijk
 witterbroek
@@ -6566,6 +6667,7 @@ witteveenstraat
 witteveensweg
 witteveenweg
 wittevrouwen
+wittevrouwenbrug
 wittevrouwenkade
 wittevrouwensingel
 wittevrouwenstraat
@@ -6597,7 +6699,6 @@ witwatersrand
 witwerkerstraat
 witzand
 witzandpad
-wiã«rsweg
 wj v erpers roijaardsstraat
 wjitteringswei
 wjuk
@@ -6624,7 +6725,6 @@ woelwijk
 woelwijklaan
 woelwijkstraat
 woendershof
-woenderskamp
 woensbergweg
 woensdagstraat
 woensdrechthof
@@ -6635,6 +6735,7 @@ woenselsestraat
 woerd
 woerdakkers
 woerden
+woerden 14
 woerdenpad
 woerdenplein
 woerdense verlaat
@@ -6645,7 +6746,6 @@ woerdes
 woerdlaan
 woerdplein
 woerdsestraat
-woerdseweg
 woerdstraat
 woeringenlaan
 woeringenstraat
@@ -6661,7 +6761,9 @@ woeste
 woeste grond
 woeste hoefweg
 woeste polder
+woestehoeve
 woestenbergseweg
+woestenburg
 woestendijk
 woestenes
 woestenhof
@@ -6684,6 +6786,7 @@ wogmeer
 wogmeerdijk
 wogmeerstraat
 wogmergouw
+wognum 10
 wognumerpad
 wognumerplantsoen
 wognumerstraat
@@ -6696,11 +6799,11 @@ wolberg
 wolbergstraat
 wolberskamp
 wolbersstraat
-wolbersstraat
 wolbert
 wolbertdijk
 wolbertsdijk
 wolbertsmate
+wolbertstraat
 wolbertusstraat
 wolbes landen
 wolbij
@@ -6712,7 +6815,6 @@ wolbrantskerkweg
 wolbrinkweg
 wolbroekenpad
 wold 10
-wold 11
 wold 12
 wold 13
 wold 14
@@ -6731,7 +6833,6 @@ wold 26
 wold 27
 wold 28
 wold aaweg
-woldberg
 woldbergerhout
 woldberglaan
 woldbergstraat
@@ -6740,12 +6841,11 @@ wolddiep
 wolddijk
 woldenburg
 woldenburgseweg
+wolderse wever
 wolderweg
 wolderwijd
 wolderwijdpad
-wolderwijkpad
 woldeveld
-woldgraaf
 woldjerspoorweg
 woldjerweg
 woldkade
@@ -6753,8 +6853,8 @@ woldlaan
 woldlakeweg
 woldmeenthepad
 woldmeentherand
-woldmeerpad
 woldmeerweg
+woldpad
 woldpark
 woldplantsoen
 woldplein
@@ -6768,7 +6868,6 @@ woldweg
 woldzoom
 wolf en hertzdahlstraat
 wolfaartssteeg
-wolfaartssteeg thans springweg
 wolfakkerstraat
 wolfdijk
 wolfend
@@ -6791,14 +6890,14 @@ wolfeynde
 wolff en dekenlaan
 wolff en dekenplein
 wolff en dekenstraat
-wolff gabriã«lsweg
-wolffenspergerplaats
+wolff gabriÃ«lsweg
 wolffsmolen
 wolfgang paulistraat
 wolfgang pauliweg
 wolfgangstraat
 wolfgarensweg
 wolfgatschestraat
+wolfgatsebaan
 wolfhaag
 wolfhagen
 wolfhagenderbroek
@@ -6815,6 +6914,7 @@ wolfkaterweg
 wolfkuilseweg
 wolfmaatsduk
 wolfpad
+wolfpadbrug
 wolfplaats
 wolfraadstraat
 wolfraam
@@ -6832,18 +6932,15 @@ wolfsbargerweg
 wolfsberg
 wolfsbergenweg
 wolfsbergweg
-wolfsbossche zijweg
 wolfsbosscheweg
 wolfsbossingel
 wolfsbosstraat
 wolfsbree
 wolfsculen
-wolfsdel
 wolfsdijk
 wolfsdonk
 wolfsdonklaan
 wolfsdreef
-wolfsdriesweg
 wolfseind
 wolfsenstraat
 wolfsenwaard
@@ -6921,6 +7018,7 @@ wolkammersstraat
 wolkammersstreek
 wolkammerstraat
 wolkammerweg
+wolkenboog
 wolkendek
 wolkenhemel
 wolkenveld
@@ -6947,6 +7045,7 @@ wolleweverstraat
 wollingboerweg
 wollinghuizerweg
 wolmaransstraat
+wolmarpad
 wolphaartsdijkseveer
 wolphaartsweg
 wolphaertsbocht
@@ -6973,7 +7072,6 @@ wolter heukelslaan
 wolter jagerswijk
 wolter ten catestraat
 wolter ter haarstraat
-wolter van heijdenstraat
 wolter visscherstraat
 wolter vynckeweg
 wolter westerhuesstraat
@@ -7007,13 +7105,13 @@ woltingepad
 woltmanstraat
 woltsingel
 wolvedyk
+wolvega 8
 wolvegasterweg
 wolvegastraat
 wolvejagtpad
 wolvenakker
 wolvenbos
 wolvenburg
-wolvenburgpad
 wolvendijk
 wolvendonk
 wolvengang
@@ -7065,6 +7163,7 @@ wolzakstraat
 wommelgemhof
 wommelserweg
 wondedwarsweg
+wonderbrug
 wonderfontein
 wonderklauwpad
 wonderkuilhof
@@ -7092,13 +7191,11 @@ woolderesweg
 woolderweg
 wooldhof
 wooldrikshoekweg
-wooldrikspark
 wooldriksweg
 wooldseweg
 wooldstraat
 woolsdijk
 woolthuisweg
-woonark "de swaen" nabij lingebrug
 woonboulevard
 woonhavenpad
 woonkreek
@@ -7117,7 +7214,7 @@ woortmanslaan
 wopkeloane
 wopkemawei
 wopkeshof
-wopkje kooistralã¢n
+wopkje kooistralÃ¢n
 wordenseweg
 wordenweg
 wordragensestraat
@@ -7128,16 +7225,18 @@ workumertrekweg
 workumpad
 workumstraat
 wormdalweg
+wormensebrug
 wormer
-wormerhoek
 wormerpad
 wormerplein
 wormerringdijk
 wormerstraat
+wormerveer
 wormerveerstraat
 wormerveste
 wormerweg
 wormgoorlaan
+wormoever
 wormpad
 wormserlaan
 wormserstraat
@@ -7163,9 +7262,9 @@ wortelenpad
 wortelhaven
 wortelmarkt
 wortelsteeg
+wortelsteeke
 wortelstegenweg
 wortelstraat
-wortelweg
 worth rhedenseweg
 wortkamp
 wortmanlaan
@@ -7177,16 +7276,13 @@ wottelweg
 woubrechterf
 woubruggepad
 woubruggestraat
-woubrugseweg
 woud
 woud wetering
-woud-harnasch
 wouda
 woudaap
 woudaappad
 woudagemaal
 woudakker
-woudakkker
 woudbergpad
 woudbes
 woudbloemlaan
@@ -7225,6 +7321,7 @@ woudriksland
 woudrust
 woudrustlaan
 woudse hout
+woudse juf
 woudse wallepad
 woudsedijk
 woudsedijk-noord
@@ -7245,20 +7342,22 @@ woudveen
 woudveld
 woudweeren
 woudweg
+woudwegbrug
 woudwetering
 woudzoom
+woudzweverpad
+woumansgeer
 wout hilhorsthof
-wout smeuldersgaarde
 wout van de waterlaan
 wout van heusdensingel
 wout van vliethof
 wout wagtmanserf
 wout wagtmanshof
 wout wagtmanspad
+woutblokpad
 wouter berendsweg
 wouter berthoutlaan
 wouter blomstraat
-wouter crabethstraat
 wouter hollemanplein
 wouter jacobszerf
 wouter jansenstraat
@@ -7268,7 +7367,6 @@ wouter oemlaan
 wouter reijndersstraat
 wouter sluislaan
 wouter smitstraat
-wouter uten goijenlaan
 wouter uten goyelaan
 wouter van bloklandlaan
 wouter van damstraat
@@ -7282,7 +7380,6 @@ wouter van langherakelaan
 wouter van troostwijkstraat
 wouter van wijklaan
 wouterij
-wouterjansweg
 wouterkensveld
 wouterland
 wouterplasstraat
@@ -7292,7 +7389,6 @@ woutersgraafweg
 wouterskamp
 wouterskampen
 woutersstraat
-wouterstraat
 woutersweg
 woutertje pietersepad
 woutertje pietersestraat
@@ -7316,6 +7412,7 @@ wouwerstraat
 wouwertweg
 wouwhof
 wouwse plantage
+wouwse plantage 25
 wouwsestraat
 wouwsestraatweg
 wouwseweg
@@ -7325,10 +7422,12 @@ wrakkenweg
 wrang
 wrangelaan
 wrangeweg
+wrattenbijterbrug
 wredehof
 wright
 wrightlaan
 wrijfschaalpad
+wringeweg
 writsaarthof
 writsaert
 wroetende mol
@@ -7337,7 +7436,9 @@ wrongelstraat
 ws boterdiep oz
 ws herestreek
 wttewaall van stoetwegenstraat
+wubbo ockelshof
 wubbo ockelskade
+wubbo ockelslaan
 wuijvert
 wuitekampweg
 wuiver
@@ -7345,6 +7446,7 @@ wulfaertstraat
 wulferinksweg
 wulfert floorlaan
 wulfinghstraat
+wulfsedijk
 wulfsein
 wulfsepad
 wulfterweg
@@ -7358,6 +7460,7 @@ wullenhovenstraat
 wullenweg
 wulmenstraat
 wulp
+wulp erf
 wulpdal
 wulpdonk
 wulpenbek
@@ -7396,6 +7499,7 @@ wurfbainlaan
 wurgedyk
 wuskevoort
 wusterweg
+wuta
 wuustemoat
 wuustersgoed
 wuustweg
@@ -7403,10 +7507,11 @@ wuustwezelstraat
 wuusweg
 wuysterstraat
 wuyvenhaerd
-ww trekweg
+ww kamp
 wyandottelaan
 wyandottestraat
 wybe van croninghapad
+wybengaloane
 wyberbuurseweg
 wyborgstraat
 wycher van russellstraat
@@ -7420,8 +7525,11 @@ wycker smedenstraat
 wyde veldpad
 wyenburg
 wyger martensstrjitte
+wyk 09e
+wyk 15e
+wyk 16e
 wykein
-wylde seringhã´f
+wylde seringhÃ´f
 wylde swan
 wylde tulpstrjitte
 wyldekamp
@@ -7433,9 +7541,9 @@ wyldsang
 wyler
 wylerbaan
 wylerbergpark
-wylermeerstraat
 wylgebeampaad
 wylgekamp
+wylgenhÃ´f
 wylgestrjitte
 wylgewei
 wylp
@@ -7443,19 +7551,20 @@ wylpstrjitte
 wylrehofweg
 wylster
 wymeersterweg
+wynedasingel
 wyniastrjitte
 wyns
 wynser binnepaed
 wynserdyk
 wynzerdyk
+wysantpad
 wytemalaan
 wytemastraat
 wytemaweg
-wytenhorstweg
 wytharst
-wythãºsterwei
-wytlã¢nsdykje
-wytlã¢nspaed
+wythÃºsterwei
+wytlÃ¢nsdykje
+wytlÃ¢nspaed
 wytmarsumer feart
 wytse foppesstrjitte
 wytse peetswei
@@ -7464,16 +7573,14 @@ wytsmastraat
 wytsmaweg
 wytze van camminghastrjitte
 wza pad
-wã¢lddyk
-wã¢ldgieltsje
-wã¢ldstrjitte
-wã¢ldwei
-wã¢likkers
-wã¢lnãºtpaad
-wã¢lsterslãºs
-wã¢ltsje
-wã¢nswerterdyk
-wãªverskamp
-wã¶hrmannhof
-wã»nsstelling
-wã¼stelaan
+wÃ¢lddyk
+wÃ¢ldgieltsje
+wÃ¢ldstrjitte
+wÃ¢ldwei
+wÃ¢likkers
+wÃ¢lnÃºtstrjitte
+wÃ¢nswerterdyk
+wÃªverskamp
+wÃ¶hrmannhof
+wÃ»nsstelling
+wÃ¼stelaan

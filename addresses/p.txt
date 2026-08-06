@@ -1,6 +1,6 @@
 p a de genestetlaan
+p broederssluis 215
 p c boogaerdtstraat
-p c boutenssingel
 p c boutensstraat
 p c de vinckstraat
 p c hooftgracht
@@ -13,45 +13,38 @@ p debyeplein
 p dubbeldamstraat
 p en r terrein
 p f catsstraat
-p f von sieboldlaan
 p g otterweg
 p j de kokstraat
-p j isra„´lweg
+p j isra√´lweg
 p j oudplein
 p j troelstralaan
 p j troelstrastraat
 p j warmerdamstraat
 p j zweegersplein
 p lieftinckplein
-p m winkstraat
-p n quarles v uffordln
 p s gerbrandystraat
+p van de wallendam
 p van houtlaan
 p van vollenhovenlaan
 p w janssenweg
-p. a. kramerhof
+p+r muiden
+p+r science park
 p. bakkerstraat
 p. behrenserf
 p. bergmanstraat
 p. beugelstraat
 p. boorsmastraat
 p. breughelstraat
-p. c. hooftstraat
 p. calandweg
 p. cuyperslaan
 p. de coubertinweg
 p. de hooghstraat
 p. de jongstelaan
 p. de voostraat
-p. debyelaan
-p. debyeplein
-p. den oudenstraat
 p. dijkstraplein
 p. ellingstraat
 p. engelvaartstraat
-p. f. von sieboldlaan
 p. flintstraat
-p. g. cremerstraat
 p. groenenboomstraat
 p. hans frankfurthersingel
 p. hellendaalstraat
@@ -61,7 +54,7 @@ p. kwakstraat
 p. lieftincklaan
 p. lieftinckpad
 p. lieftinckstraat
-p. mondriaanlaan
+p. ligtvoetstraat
 p. mulderplantsoen
 p. oosterleestraat
 p. ottstraat
@@ -81,7 +74,6 @@ p. verhagenstraat
 p. vermeulenstraat
 p. waijerstraat
 p. werthweynstraat
-p. wesselingstraat
 p. westdorpstraat
 p. wierengaweg
 p. wijbengastrjitte
@@ -111,7 +103,6 @@ p.c. boutenskade
 p.c. boutenslaan
 p.c. boutenspad
 p.c. boutensstraat
-p.c. boutenstraat
 p.c. de brouwerstraat
 p.c. hooftkade
 p.c. hooftlaan
@@ -123,15 +114,13 @@ p.c. spruijtstraat
 p.c. staalweg
 p.c. valentinstraat
 p.c. van rijnplantsoen
-p.c.bothstraat
 p.c.boutensstraat
 p.c.hooftplein
 p.c.hooftstraat
 p.c.quantstraat
 p.d. de vosstraat
-p.de jongstelaan
+p.e. kramerstraat
 p.e. tegelbergplein
-p.e.kramerstraat
 p.f. bergmansstraat
 p.f. von sieboldlaan
 p.g. ballingslaan
@@ -140,8 +129,9 @@ p.g. obermanstraat
 p.g. van nieuwkerkpad
 p.g. van nieuwkerkstraat
 p.g.van tienhovenstraat
+p.h. brug
 p.h. kuijpersplein
-p.h. kuijpersstraat
+p.h. saanlaan
 p.h. ter meulenplantsoen
 p.h. van rijnstraat
 p.j. bliekstraat
@@ -150,13 +140,16 @@ p.j. de kokstraat
 p.j. eloutstraat
 p.j. geldermanstraat
 p.j. haagenstraat
+p.j. jonkerspad
 p.j. korverstraat
 p.j. lomanlaan
 p.j. lomanplein
 p.j. meertensstraat
-p.j. no„´l bakerstraat
+p.j. no√´l bakerstraat
+p.j. oudgarage
 p.j. oudlaan
 p.j. oudpad
+p.j. oudpark
 p.j. oudplein
 p.j. oudstraat
 p.j. oudweg
@@ -164,18 +157,15 @@ p.j. smitsstraat
 p.j. ter beekstraat
 p.j. troelstrastraat
 p.j. troelstraweg
-p.j.c. gabri„´llaan
-p.j.c.gabri„´lgaarde
+p.j.c. gabri√´llaan
+p.j.c.gabri√´lgaarde
 p.j.gorteweg
 p.j.h. cuypersstraat
 p.j.m. aalbersestraat
 p.j.oudstraat
-p.j.r. moddermanlaan
 p.j.w. beltjeslaan
 p.j.w. debijestraat
 p.j.wierstrastrjitte
-p.j.zweegersplein
-p.k. pelstraat
 p.k.pelstraat
 p.l. marnettestraat
 p.l. takkade
@@ -185,8 +175,8 @@ p.m. dillenstraat
 p.m. hackstraat
 p.m. van gentstraat
 p.m.r. versteeghstraat
+p.n. duivenvoordenlaantje
 p.n. kruiswijkstraat
-p.n. van eyckhof
 p.o. brouwerstraat
 p.p. rubensplein
 p.paulussenstraat
@@ -198,7 +188,6 @@ p.turcqstraat
 p.w. janssenlaan
 p.w.a.cort van der lindenstraat
 p.walmastrjitte
-p1, p2, p3
 p30 straat
 p40 straat
 pa hoeklaan
@@ -206,9 +195,8 @@ pa pinkelmanstraat
 pa van der steurlaan
 pa van der steurstraat
 pa verkuijllaan
-pa verkuyllaan
 paadje
-paadje van duizend tre„™
+paadje van duizend tre√™
 paadje van praat
 paadweg
 paaihurken
@@ -238,6 +226,8 @@ paalhoofd
 paalkamp
 paalkrans
 paalkuil
+paalkuilveld
+paalkuilweg
 paalmaatsdijk
 paalmansdijk
 paalmansweg
@@ -254,7 +244,6 @@ paaltjesweg
 paalveld
 paalweg
 paalwerk
-paanderenstraat
 paandersdijk
 paandijksestraat
 paantjensstraat
@@ -268,7 +257,6 @@ paarakkerpad
 paard van marken
 paardebijsters
 paardebloem
-paardebloem erf
 paardebloemlaan
 paardebloempad
 paardebloemstraat
@@ -292,8 +280,10 @@ paardenbloem
 paardenbloem erf
 paardenbloemdreef
 paardenbloemerf
+paardenbloemplein
 paardenbloemsingel
 paardenbloemstraat
+paardenbloemweide
 paardenblok
 paardenboonhof
 paardenbos
@@ -308,17 +298,19 @@ paardenhoeve
 paardenkamp
 paardenkamplaan
 paardenkampzoom
-paardenkastanje
 paardenkastanjeplein
 paardenkerkhofwegeling
 paardenkop
 paardenlaan
 paardenmarkt
+paardenmolen
 paardensprongstraat
+paardenstaart
 paardensteeg
 paardenstraat
 paardentram
 paardentramhof
+paardentunnel
 paardenveld
 paardenvest
 paardenwal
@@ -328,9 +320,12 @@ paardenweg
 paardenwei
 paardenweide
 paardepad
+paardepijp
 paardestaarterf
 paardesteeg
 paardestraat
+paardetangedijk
+paardeveldje
 paardewas
 paardeweegje
 paardeweg
@@ -371,15 +366,15 @@ paasheuvelweg
 paashoefsedijk
 paashuisdijk
 paaskamp
-paaskampen
 paaskampstegge
 paaslandweg
 paaslelie
+paaslohof
 paasloostraat
 paasloregel
 paasloweg
-paaslo„´r allee
-paaslo„´rweg
+paaslo√´r allee
+paaslo√´rweg
 paasveen
 paasvuurweg
 paasweg
@@ -412,7 +407,10 @@ pachtersweide
 pachterwaard
 pachthoeve
 pachtvelden
+pachtweg
+pad
 pad 1865
+pad achter volkstuin liss
 pad acker
 pad door dalenoord
 pad door de noordschebuurtpolder
@@ -431,18 +429,14 @@ pad op de kamp
 pad van 16 april 1944
 pad van abeltje
 pad van alting
+pad van altruda
 pad van amiens
 pad van arendsoog
+pad van bigot
 pad van bremmer
 pad van cyrene
-pad van cyrene
-pad van de illegale pers
 pad van de mast
 pad van de mensenrechten
-pad van de onbekende heldin
-pad van de onbekende heldin-haghezijde
-pad van de onbekende heldin-oeverzijde
-pad van de onbekende heldin-strandzijde
 pad van de staatsschuur
 pad van de stijl
 pad van dertig
@@ -450,12 +444,11 @@ pad van devon
 pad van dikkertje dap
 pad van drechtje
 pad van geert
+pad van het zwarte goud
 pad van jip en janneke
 pad van jongejan
 pad van kunst
-pad van meurs
 pad van montfort
-pad van mourits
 pad van ot en sien
 pad van oudshoorn
 pad van overvoorde
@@ -471,15 +464,15 @@ pad van zes
 pad van zwijnsbergen
 padakker
 padakkers
+padakkersweg
 padangstraat
 padberglaan
 padbree
 padbrugseweg
-paddegat
 paddegatsteeg
 paddegraafweg
-paddehof
 paddemoes
+paddenbrug
 paddenburg
 paddenhoolseweg
 paddenlaantje
@@ -490,6 +483,7 @@ paddenstoelenhof
 paddenstoelenlaan
 paddenstoelenplaats
 paddenstoelenstede
+paddenvoorden
 paddepad
 paddepoel
 paddepoelseweg
@@ -505,9 +499,10 @@ padenbos
 paderbornstraat
 paderewskipad
 padevoortseallee
+padhuis
 padhuis europaweg
+padhuizerweg
 padje
-padje van janus van jefkes
 padje van janus van sjefkes
 padjedijk
 padjes
@@ -516,14 +511,12 @@ padlaan
 padland
 padlandsweg
 padmoes
-padova
 padoxlaan
 paduahof
 padualaan
 paduaplein
 paduastraat
 paduaweg
-padvelden
 padvinderslaantje
 padvinderstraat
 padvindsterslaan
@@ -538,6 +531,7 @@ paereplein
 paesplasweg
 paets van troostwijkstraat
 paetsstraat
+paetzoldstraat
 paganelstraat
 paganinidreef
 paganinihof
@@ -575,10 +569,10 @@ pakhuisplein
 pakhuisstraat
 pakhuisweg
 pakingehof
-pakistanstraat
 pakkebierhofstraat
 pakkebierweg
 pakkenhof
+pakkenladerdreef
 pakkerijsteeg
 pakkerwei
 pakket onderweg
@@ -586,6 +580,7 @@ pakketboot
 pakketweg
 pakopseweg
 pakschuitwerf
+pakschuurlaan
 paktuinen
 pakveldstraat
 pal maleterstraat
@@ -600,12 +595,12 @@ palaestraweg
 palairetstraat
 palamedesstraat
 palamedesweg
-palankastraat
 palantir
 palarstraat
 palatijn
 palatijnhof
 palderseweg
+paleisbrug
 paleiskade
 paleismuur
 paleispoort
@@ -624,7 +619,6 @@ palenbergstraat
 palenrij
 palenstein
 palenweg
-paleoliet
 palermohof
 palermopad
 pales
@@ -635,7 +629,6 @@ palestinaweg oost
 palestinaweg-oost
 palestrina
 palestrinalaan
-palestrinapad
 palestrinaplaats
 palestrinaplantsoen
 palestrinarode
@@ -656,6 +649,7 @@ palingdreef
 palingfuik
 palinggracht
 palingpad
+palingrokerij
 palingrokerssteeg
 palingstraat
 palingweg
@@ -678,6 +672,7 @@ pallaesstraat
 pallande
 pallandtplein
 pallas
+pallas athenekade
 pallas atheneplein
 pallas-athenedreef
 pallasbaan
@@ -691,13 +686,12 @@ pallastweg
 pallasweg
 pallegarsteweg
 pallert
+palletplein
 palletweg
 pallick van hoevellaan
-pallieterburg
 pallietergaarde
 pallieterplein
 pallieterstraat
-pallisade
 palm
 palmanovastraat
 palmarlaan
@@ -723,18 +717,19 @@ palmenweg
 palmestein
 palmesteynstraat
 palmgracht
-palmhaag
 palmhoevepad
 palmhof
 palmhout
 palmhoutstraat
 palmkool
 palmlaan
+palmpol
 palmpolstraat
 palmslag
 palmslagruwe
 palmstraat
 palmsuikerweg
+palmvenseweg
 palmvogellaan
 palmweg
 palmyra
@@ -767,7 +762,6 @@ paltzerweg
 paltzstraat
 paludanushof
 paludanussteeg
-paludanusstraat
 paludanusweg
 paludestraat
 palumbusplaats
@@ -786,6 +780,7 @@ pampasgraslaan
 pampert
 pampertstraat
 pampus
+pampusbrug
 pampusdreef
 pampushaven
 pampushavenweg
@@ -800,10 +795,8 @@ pampuszigt
 panaalsteeg
 panagoulispad
 panakker
-panakkers
 panakkersdreef
 panakkerse veldweg
-panakkersweg
 panamahof
 panamakade
 panamalaan
@@ -813,6 +806,7 @@ panamastraat
 panberg
 panbos
 pancerstraat
+panchulisteeg
 pancrasgorsedijk
 pancrasgorseweg
 pancrasplantsoen
@@ -836,12 +830,14 @@ pandgang
 pandgat
 pandhof
 pandijk
+pandimsteeg
 pandoerpad
 pandora
 pandoradreef
 pandorapad
 pandorastraat
 pandorinastraat
+panelenweg
 panfluit
 panfluithof
 panfluitstraat
@@ -853,7 +849,6 @@ panheelstraat
 panhoefweg
 panhoes
 panhoeveweg
-panhuijs
 panhuijsenpad
 panhuis
 panhuislaan
@@ -865,6 +860,7 @@ panhuys
 panhuyshof
 panhuysstraat
 panjanplein
+panjerd
 panjerdpad
 panjerdweg
 pankenstraat
@@ -872,12 +868,12 @@ pankoek
 pankruitpad
 panksdijkje
 panna
+pannastraat
 pannebakkerstraat
 panneboeter
 panneboeterstraat
 pannegat
 pannekeetweg
-pannekoek
 pannekoekendijk
 pannekoekendijkje
 pannekoekenkamp
@@ -887,6 +883,7 @@ pannekoeksestraat
 pannekoeksterweg
 pannekoekstraat
 panneman
+pannenbakkerij
 pannenbakkerijen
 pannenbakkersstraat
 pannenberg
@@ -910,6 +907,7 @@ panneoven
 pannepad
 pannerden
 pannerdense waard
+pannerdensebanddijk
 pannerdensedijk
 pannerdenseweg
 pannerdenstraat
@@ -917,14 +915,15 @@ panneroodstraat
 pannesheiderstraat
 pannesheuvel
 panneshofstraat
+pannesjopweg
 panneslagerstraat
 pannestaartweg
 pannestraat
 panneveld
 pannewal
 panneweg
-pannewerk
 panningerveld
+pannisbergweg
 pannisserweide
 panorama
 panoramaberg
@@ -968,9 +967,11 @@ papaverveld
 papaverweerd
 papaverweg
 papaverzijde
+papavialaan
 papayapad
 papedijk
 papegaai
+papegaaibrug
 papegaaiduiker
 papegaaiduikerplein
 papegaaienburg
@@ -978,7 +979,6 @@ papegaaienburgpad
 papegaaienburgweg
 papegaaienlaan
 papegaailaan
-papegaaiplein
 papegaaisbolwerk
 papegaaistraat
 papegaaiweg
@@ -1001,7 +1001,6 @@ papenbeek
 papenberg
 papenbergseweg
 papenblik
-papenbos
 papenbroek
 papenbroekpad
 papenbroekssteeg
@@ -1016,6 +1015,8 @@ papendonk
 papendorpsepad
 papendorpseweg
 papendrecht
+papendrecht 1
+papendrecht 23
 papendrechtlaan
 papendrechtsestraat
 papendrechtstraat
@@ -1026,7 +1027,6 @@ papengas
 papengracht
 papenhaag
 papenhagenweg
-papenheul
 papenhoef
 papenhoeflaan
 papenhoek
@@ -1041,12 +1041,12 @@ papenkampsweg
 papenlantstraat
 papenmuts
 papenpad
-papenpoldersedijk
+papenpoldersedijk 1
+papenpoldersedijk 2
 papenpoldersedijk iii
 papenrijt
 papenslagweg
 papensteeg
-papensteegje
 papenstraat
 papenstraatje
 papentorenvest
@@ -1082,10 +1082,11 @@ papiermoerbeilaan
 papiermoerbeipad
 papiermolen
 papiermolenlaan
+papiermolenpad
 papiermolenstraat
 papiermolenstreek
 papiermolenweg
-papierm„ªne
+papierm√ªne
 papierschepper
 papierstraat
 papierweg
@@ -1103,7 +1104,7 @@ paprikastraat
 paprikaweg
 papsouwselaan
 papyrusdreef
-papyrush„¥f
+papyrush√¥f
 papyruslaan
 papyruspad
 papyrusplantsoen
@@ -1121,12 +1122,12 @@ paradijs
 paradijsappel
 paradijsappelpad
 paradijsappelstraat
+paradijsbrug
 paradijske
 paradijslaan
 paradijspad
 paradijsplein
 paradijspoort
-paradijsselpark
 paradijssluis
 paradijssteeg
 paradijsstraat
@@ -1138,8 +1139,6 @@ paradijsvogelhof
 paradijsvogelpad
 paradijsvogelstraat
 paradijsvogelweg
-paradijsvogelweg-oost
-paradijsvogelweg-west
 paradijsweg
 paradot
 paradys
@@ -1147,7 +1146,6 @@ paradyske
 parafeustraat
 parakkerweg
 parallel boulevard
-paralleldreef
 parallelpad
 parallelroede
 parallelstraat
@@ -1155,6 +1153,7 @@ parallelstraat-oostzijde
 parallelstraat-oudleusen
 parallelstraat-westzijde
 parallelweg
+parallelweg a6
 parallelweg a9
 parallelweg den helder
 parallelweg ls
@@ -1170,25 +1169,22 @@ parallelweg westzijde
 parallelweg zuid
 parallelweg-noord
 parallelweg-oost
-parallelweg-oost
-parallelweg-west
 parallelweg-west
 parallelweg-zuid
 parallelwei
+parallelwg
 paramaribohof
 paramariboplein
 paramaribostraat
 paramariboweg
 paramasiebaan
-paramentenplein
 paramentenstraat
-paran„°dreef
+paran√°dreef
 parasolpad
 parc bruxelles
 parc de zwijger
 parc du soleil
 parc imstenrade
-parc sandur
 parc tichelt
 parcivallaan
 parcivalring
@@ -1233,7 +1229,6 @@ parelstoep
 parelstraat
 parelvisserspad
 parelvissersstraat
-parelvissersweg
 parelweg
 parelwegje
 parijsboulevard
@@ -1252,24 +1247,28 @@ park beresteyn
 park berkenoord
 park beukenhof
 park bijdorp
+park blanckenborg
 park bloeyendael
 park boswijk
 park broekheurne
-park brussel
-park buitenplaats
+park coldenhove
 park craijenstein
+park de braacken
+park de dwarsgouw
 park de elsberg
 park de eschhorst
 park de griffioen
 park de horion
 park de horn
 park de kempervennen
+park de klapstoel
 park de koppel
 park de kotten
 park de luwe stek
 park de moucheron
-park de moucheron
+park de noord
 park de polderpad
+park de put
 park de tipmast
 park de werve
 park de wervelaan
@@ -1278,24 +1277,32 @@ park den eng
 park die leythe
 park doggersbank
 park dolce vita
+park dubbelsteyn
 park eikenheuvel
+park elsbroek
 park forum
 park glorieux
 park groenhart
 park groot leerust
 park hertenwei
 park het groene hart
+park het mallegat
+park hooghkamer
 park hoogstraaten
 park hoornwijck
 park houtrijk
 park in de mehre
+park julianaweide
+park kanaalzoom
 park klinkenberg
 park kromme mijdrecht
 park leeuwenberghlaan
 park leeuwensteijn
-park ligthof
 park loverendale
+park matilo
+park molentocht
 park nabij
+park noordhoekse wiel
 park oase
 park oog in al
 park oosterspaarn
@@ -1307,16 +1314,17 @@ park paasberg
 park reeburg
 park reygersbergh
 park rodichem
+park rusthoff
 park sans souci
 park schoonoord
+park selwerd
 park seminarie
 park sofia
 park sonnevanck
 park sparrendaal
-park te horn
 park ter roomleij
 park toorenvliedt
-park van den dominee
+park valkenberg
 park van nieuwenhove
 park veldzigt
 park verheijen
@@ -1329,24 +1337,19 @@ park weldam
 park welgelegen
 park westerweide
 park wissel
-park ypenburg
 park zomerlust
-park zwartven
+park zuiderveld
+parkakker
 parkallee
+parkbos
+parkboulevard
 parkdreef
 parkdwarsstraat
-parkeergarage brink
-parkeergarage doevenkamp
-parkeergarage flevostraat
 parkeergarage irene
-parkeergarage muntmeesterhof
-parkeergarage schoutstraat
-parkeergarage sluis
 parkeergarage st jan
-parkeergarage stadhuis
-parkeergarage westerdreef
 parkeerplaats 't bergske
 parkeerplaats 't gasthoes
+parkeerplaats bie de k√∂ster
 parkeerplaats kwelplas
 parkeerterrein energiehuis
 parkeerterrein grotestraat noord
@@ -1365,6 +1368,8 @@ parkhove
 parkietendonk
 parkietlaan
 parkietstraat
+parkiettulp
+parkje lugtigheid
 parkkade
 parkkamp
 parklaan
@@ -1388,7 +1393,7 @@ parksterbolwerk
 parksterdwarsweg
 parksterreed
 parkstraat
-parkvliet
+parktunnel
 parkwachters
 parkway
 parkweg
@@ -1404,6 +1409,7 @@ parkzichtlaan
 parkzijde
 parkzoom
 parlaan
+parlaanbrug
 parlevinker
 parlevinkerpad
 parlevinkershoeve
@@ -1416,6 +1422,7 @@ parmastraat
 parmenidesstraat
 parmentierlaan
 parmentierpad
+parmentierpassage
 parmentierplein
 parmentierstraat
 parmentiersvak
@@ -1440,11 +1447,10 @@ parnonlaan
 parochieweg
 paros
 parosstraat
-parreh„¥f
+parreh√¥f
 parrestraat
 parrewijnscheweg
 parsakker
-parsifal
 parsifaldreef
 parsifalpad
 parsifalplaats
@@ -1460,16 +1466,13 @@ partituurlaan
 partituurweg
 partuurstraat
 parurestraat
-parvatipad
 parvatistraat
-parzicht
-par„©pad
+par√©pad
 pas
 pas buiten
 pas de deuxpad
 pas-buiten
 pas-opweg
-pas-veldweg
 pasakker
 pasar malamstraat
 pasbaan
@@ -1478,17 +1481,16 @@ pasbrink
 pascal
 pascal visschersstraat
 pascalbaan
+pascalbrug
 pascalerf
 pascallaan
 pascalpad
 pascalplein
 pascalsingel
 pascalstraat
-pascaltuin
 pascalweg
 paschalishof
 paschalispad
-pascher harriestraat
 pascher harstraat
 pascherhof
 pasdam
@@ -1534,12 +1536,9 @@ pasquelaan
 passaat
 passage
 passage de pit
-passage des belges
-passage des mouleurs
-passage du chemin de fer
 passage kapel
 passage koninklijke marechaussee
-passage mari„´nburg
+passage mari√´nburg
 passage molenpoort
 passage riche
 passage zuidpoort
@@ -1547,7 +1546,6 @@ passagestraat
 passageuleweg
 passantenkamp
 passartweg
-passarvoetpad
 passavantlaan
 passchier bollemanhaven
 passchier bollemanweg
@@ -1559,6 +1557,7 @@ passenberg
 passendalepad
 passendalestraat
 passepartout
+passerelle
 passerelstraat
 passerhof
 passerhofweg
@@ -1566,7 +1565,6 @@ passerstraat
 passestraat
 passewaaigracht
 passewaaij
-passewaaijse hogeweg
 passewaayse hogeweg
 passeweg
 passiebloem
@@ -1581,7 +1579,6 @@ passtukkenpad
 past aldenhuijsenstraat
 past biermansstraat
 past daemenstraat
-past de vochtplein
 past dubarstraat
 past eijckstraat
 past erckensstraat
@@ -1589,57 +1586,42 @@ past eykenweg
 past haesenstraat
 past hellemonsstraat
 past hermansstraat
-past kerboschlaan
-past kerstenstraat
 past kremersstraat
 past lenaersstraat
 past losenstraat
 past max leessensstraat
 past pompestraat
-past tijssenstraat
 past tissenstraat
-past van berkelstraat
-past van de kampstraat
-past van de mortelstraat
 past van heldenplein
-past van ierlandstraat
 past van roesselstraat
-past van teteringstraat
 past vd heijdenstraat
-past vullinghsplein
 past willemsstraat
 past woutersstraat
-past zegersstraat
 past. bolsiusstraat
 past. bronsgeeststraat
 past. c.m. van everdingenstraat
 past. clercxstraat
-past. debijestraat
 past. esserstraat
 past. geurtsstraat
 past. heerkensdreef
-past. hendriksstraat
 past. hoemoetstraat
 past. huijbenplein
-past. jansenstraat
 past. jeukenstraat
 past. kampstraat
 past. kengenstraat
 past. lemmensstraat
-past. notermansstraat
 past. philipponastraat
 past. van basten batenburglaan
-past. van boxtellaan
 past. van der sterrenstraat
 past. van haarenstraat
 past. van vroonhovenstr
+past. van vroonhovenstraat
 past. verbakelstraat
 past. verhoeffpark
-past.aldenhuijsenstraat
 past.hoefnagelsstraat
-pastel
 pastelblauw
 pastellaan
+pastelpad
 pastelstraat
 pastelweg
 pasterijereed
@@ -1654,10 +1636,11 @@ pasteursingel
 pasteurstraat
 pasteurweg
 pastinaak
+pastinaakpad
 pastinaakstraat
 pastinaakvoorde
-pasto bogersplein
 pastoar ten bokumstrjitte
+pastoerswei
 pastoor a. van erpstraat
 pastoor a.c. damesstraat
 pastoor a.j.p. de bondtstraat
@@ -1701,8 +1684,6 @@ pastoor boelaarsstraat
 pastoor boelenslaan
 pastoor boelensstraat
 pastoor bogaertsstraat
-pastoor bogersplein
-pastoor bollenstraat
 pastoor bolscherstraat
 pastoor bontestraat
 pastoor bosstraat
@@ -1718,7 +1699,6 @@ pastoor brockenstraat
 pastoor broersstraat
 pastoor brounsstraat
 pastoor brouwersstraat
-pastoor brouwerstraat
 pastoor bruggemanlaan
 pastoor brugmanstraat
 pastoor bruijnenstraat
@@ -1732,7 +1712,7 @@ pastoor claassenstraat
 pastoor clarijsstraat
 pastoor cleerbesemlaan
 pastoor cloquetstraat
-pastoor coendersh„¥f
+pastoor coendersh√¥f
 pastoor cohustraat
 pastoor conincxstraat
 pastoor coolenplein
@@ -1742,7 +1722,6 @@ pastoor coxstraat
 pastoor cramerstraat
 pastoor cremersstraat
 pastoor creusenplantsoen
-pastoor daalmansplantsoen
 pastoor danielpad
 pastoor de bakkerstraat
 pastoor de beeckstraat
@@ -1775,10 +1754,10 @@ pastoor den rondenstraat
 pastoor deperinkweg
 pastoor dierickstraat
 pastoor dijkmansstraat
-pastoor dinckelsstraat
 pastoor dingsplein
 pastoor dirvenstraat
 pastoor dobbeleijnstraat
+pastoor dobbelsteenstraat
 pastoor doensstraat
 pastoor dolmansstraat
 pastoor dolsstraat
@@ -1791,7 +1770,7 @@ pastoor drummenstraat
 pastoor duchampsstraat
 pastoor duckweilerweg
 pastoor duffhaussplein
-pastoor dus„©eplein
+pastoor dus√©eplein
 pastoor e aalbertszlaan
 pastoor ellerstraat
 pastoor elsenstraat
@@ -1804,10 +1783,11 @@ pastoor erphagenstraat
 pastoor eshuisstraat
 pastoor fabritiusstraat
 pastoor feletstraat
-pastoor foragi„´nstraat
+pastoor foragi√´nstraat
 pastoor fransestraat
 pastoor freybeuterstraat
 pastoor frischestraat
+pastoor frissenplein
 pastoor frissenstraat
 pastoor fronhoffstraat
 pastoor gadiotstraat
@@ -1818,6 +1798,7 @@ pastoor geelenplein
 pastoor geenenstraat
 pastoor geerdinkstraat
 pastoor geertmanstraat
+pastoor gerard claassensplein
 pastoor gerardsstraat
 pastoor gerrishof
 pastoor gielenstraat
@@ -1826,15 +1807,14 @@ pastoor gillisstraat
 pastoor gloerichstraat
 pastoor gommersstraat
 pastoor goossensstraat
-pastoor goswijn „† castrostraat
+pastoor goswijn √† castrostraat
 pastoor gowthorpestraat
-pastoor graatplein mhm
 pastoor graatweg
 pastoor greijmansstraat
 pastoor gribnaustraat
 pastoor grijslaan
 pastoor grimmeltstraat
-pastoor g„∂rtzstraat
+pastoor g√∂rtzstraat
 pastoor h.c.maatstraat
 pastoor haazevoet-pad
 pastoor habetsstraat
@@ -1843,6 +1823,7 @@ pastoor haesenstraat
 pastoor hagenstraat
 pastoor halmansstraat
 pastoor hanraetsstraat
+pastoor hardingpad
 pastoor harkxplein
 pastoor haseldonklaan
 pastoor havinkstraat
@@ -1857,7 +1838,7 @@ pastoor heusschenstraat
 pastoor hoekstraat
 pastoor hoekx-singel
 pastoor hoflandstraat
-pastoor hon„©estraat
+pastoor hon√©estraat
 pastoor hootsmansstraat
 pastoor hopperlaan
 pastoor hordijkstraat
@@ -1888,10 +1869,8 @@ pastoor janssens van calmthoutweg
 pastoor janssensplantsoen
 pastoor janssensstraat
 pastoor janssenstraat
-pastoor janssensweg
 pastoor jansstraat
 pastoor jaspersplein
-pastoor jeukenstraat
 pastoor jilesenstraat
 pastoor joannes aussemsstraat
 pastoor joannes moreesstraat
@@ -1901,14 +1880,13 @@ pastoor joorenplein
 pastoor joostenstraat
 pastoor jos petersstraat
 pastoor jurgensstraat
-pastoor jurri„´nsstraat
+pastoor jurri√´nsstraat
 pastoor jutenlaan
 pastoor kampstraat
 pastoor kannelaan
 pastoor kaulhausenstraat
 pastoor kengenstraat
 pastoor kerckerstraat
-pastoor kerssemakersstr
 pastoor kerssemakersstraat
 pastoor kerstenstraat
 pastoor kesselsstraat
@@ -1942,7 +1920,6 @@ pastoor lanckohrstraat
 pastoor lancrietstraat
 pastoor langedijkstraat
 pastoor lathouwersstraat
-pastoor lauteslagerstr
 pastoor lauteslagerstraat
 pastoor le blancstraat
 pastoor lebensstraat
@@ -1950,7 +1927,6 @@ pastoor leesensstraat
 pastoor leijtenstraat
 pastoor lemeerstraat
 pastoor lemmensstraat
-pastoor lenderspad
 pastoor leonardus canisiusstraat
 pastoor leursstraat
 pastoor linssenstraat
@@ -1988,8 +1964,8 @@ pastoor mulderstraat
 pastoor mulkenshof
 pastoor mullendersstraat
 pastoor mutsaersstraat
-pastoor m„∂lderstraat
-pastoor m„ºskenshof
+pastoor m√∂lderstraat
+pastoor m√ºskenshof
 pastoor neujeanstraat
 pastoor nevestraat
 pastoor nicolaas creftenstraat
@@ -2009,7 +1985,7 @@ pastoor ossestraat
 pastoor palsstraat
 pastoor pankenstraat
 pastoor peeperkornstraat
-pastoor pelgr„∂mlaan
+pastoor pelgr√∂mlaan
 pastoor pendersstraat
 pastoor penningstraat
 pastoor petershofje
@@ -2018,7 +1994,6 @@ pastoor petrus stevensstraat
 pastoor peutestraat
 pastoor pieckweg
 pastoor pielsstraat
-pastoor piggenlaan
 pastoor piggenlaantje
 pastoor pigmanspad
 pastoor pinckersstraat
@@ -2041,9 +2016,8 @@ pastoor reijnenhof
 pastoor reijnenstraat
 pastoor reijnsstraat
 pastoor reintjesstraat
-pastoor rein„©straat
+pastoor rein√©straat
 pastoor reulinkstraat
-pastoor ribberghstraat
 pastoor rientjesstraat
 pastoor rieterstraat
 pastoor rietraweg
@@ -2062,12 +2036,11 @@ pastoor rutjesstraat
 pastoor ruttenhofje
 pastoor ruttenstraat
 pastoor ruttenweg
-pastoor r„∂lingstraat
-pastoor r„∂selaersplein
+pastoor r√∂lingstraat
+pastoor r√∂selaersplein
 pastoor sandersstraat
 pastoor sandkuylstraat
 pastoor santfoortstraat
-pastoor sartonstraat
 pastoor savelbergstraat
 pastoor savenijelaan
 pastoor schaafsplein
@@ -2084,7 +2057,7 @@ pastoor schijnsstraat
 pastoor schippersstraat
 pastoor schlangenpad
 pastoor schleidenstraat
-pastoor schl„ºterstraat
+pastoor schl√ºterstraat
 pastoor schmeitsstraat
 pastoor schneiderstraat
 pastoor schoenmaeckersstraat
@@ -2145,7 +2118,6 @@ pastoor swinkelsstraat
 pastoor takkenstraat
 pastoor te platestraat
 pastoor te rielestraat
-pastoor teeuwenstraat
 pastoor terwindtstraat
 pastoor tetterodestraat
 pastoor teubnerstraat
@@ -2162,11 +2134,11 @@ pastoor tindemansstraat
 pastoor trinesstraat
 pastoor tummersstraat
 pastoor v.d. eindestraat
-pastoor v.d. heijdenlaan
 pastoor v.d. venstraat
 pastoor vaessenstraat
 pastoor van akenstraat
 pastoor van angerenstraat
+pastoor van ars pad
 pastoor van arslaan
 pastoor van arsplein
 pastoor van arsstraat
@@ -2185,11 +2157,9 @@ pastoor van breugelstraat
 pastoor van cruchtenstraat
 pastoor van crugtenlaan
 pastoor van cuykstraat
-pastoor van de boomstraat
 pastoor van de boorenplein
 pastoor van de boschstraat
 pastoor van de bultstraat
-pastoor van de kampstraat
 pastoor van de loolaan
 pastoor van de mortelstraat
 pastoor van de rietstraat
@@ -2200,13 +2170,10 @@ pastoor van delftlaan
 pastoor van den bergstraat
 pastoor van den boogaardstraat
 pastoor van den boomstraat
-pastoor van den boomstraat
-pastoor van den brandhof
 pastoor van den brandhof
 pastoor van den broekstraat
 pastoor van den heuvelstraat
 pastoor van den houtstraat
-pastoor van den hurkplein
 pastoor van den hurkplein
 pastoor van der aalaan
 pastoor van der burglaan
@@ -2221,14 +2188,13 @@ pastoor van der steenstraat
 pastoor van der vaartweg
 pastoor van der voortlaan
 pastoor van der weidenstraat
-pastoor van der weidenstraat
 pastoor van der zandtstr
+pastoor van der zandtstraat
 pastoor van der zijlestraat
 pastoor van dijkplein
 pastoor van doorenstraat
 pastoor van doornstraat
 pastoor van dunstraat
-pastoor van eekelenstraat
 pastoor van eekelenstraat
 pastoor van eijndhovenstraat
 pastoor van eijsstraat
@@ -2250,7 +2216,6 @@ pastoor van hapertstraat
 pastoor van heesbeenstraat
 pastoor van herckstraat
 pastoor van herdegomstraat
-pastoor van hoeflaan
 pastoor van hoekpad
 pastoor van hooffstraat
 pastoor van hooijdonklaan
@@ -2278,7 +2243,6 @@ pastoor van oppenstraat
 pastoor van poortenstraat
 pastoor van rielstraat
 pastoor van rijckelstraat
-pastoor van rooijplein
 pastoor van rooijplein
 pastoor van rossumstraat
 pastoor van santestraat
@@ -2309,7 +2273,6 @@ pastoor verbuntstraat
 pastoor verburchweg
 pastoor verburghlaan
 pastoor verburghweg
-pastoor verburghweg-noord
 pastoor vercoulenstraat
 pastoor vereeptstraat
 pastoor verhagenstraat
@@ -2330,7 +2293,6 @@ pastoor vervaetpad
 pastoor vervoortstraat
 pastoor vinkesteynstraat
 pastoor vissersstraat
-pastoor visserstraat
 pastoor voetspad
 pastoor vogelsplein
 pastoor vogelsstraat
@@ -2340,9 +2302,9 @@ pastoor vredendaalpad
 pastoor vroomansstraat
 pastoor vroomstraat
 pastoor vullersstraat
-pastoor vullinghsplein
 pastoor vullinghsstraat
 pastoor w. hellemonsstr
+pastoor w. hellemonsstraat
 pastoor walstrastraat
 pastoor wassenbergstraat
 pastoor weijsstraat
@@ -2381,6 +2343,7 @@ pastoors akker
 pastoors erf
 pastoorsakker
 pastoorsbiest
+pastoorsblok
 pastoorsbos
 pastoorsbosje
 pastoorsdijk
@@ -2403,6 +2366,7 @@ pastoorsweg
 pastoorszandweg
 pastor bogersplein
 pastor brenninkmeijerstraat
+pastor knubbenplein
 pastor stockmannhof
 pastorale
 pastoralehof
@@ -2429,16 +2393,16 @@ pastorij-erf
 pastorijakker
 pastorijbuorren
 pastorije
-pastorijeh„¥f
+pastorijeh√¥f
 pastorijelannen
-pastorijel„¢n
+pastorijel√¢n
 pastorijereed
 pastorijerweg
 pastorijfinne
 pastorijlaan
 pastorijleane
 pastorijloane
-pastorijl„¢n
+pastorijl√¢n
 pastorijpaed
 pastorijreed
 pastorijsingel
@@ -2457,7 +2421,9 @@ pasveerweg
 pasveld
 pasveldweg
 pasweg
-patagoni„´dreef
+patacker
+patagonhof
+patagoni√´dreef
 patagonstraat
 patagonweg
 patakondreef
@@ -2508,7 +2474,6 @@ pater dr. neijensstraat
 pater ebersweihlerstraat
 pater eijmardweg
 pater eric rodenburgpad
-pater eric rodenburgpad
 pater erich wasmannpad
 pater eustachiuslaan
 pater eymardstraat
@@ -2536,7 +2501,6 @@ pater kreitenstraat
 pater kusterspad
 pater kustersstraat
 pater kustersweg
-pater l. a. bleysstraat
 pater l.a. bleysstraat
 pater laurentstraat
 pater leijdekkersstraat
@@ -2545,8 +2509,8 @@ pater luijtenpad
 pater m. wolffstraat
 pater mendelpad
 pater meulendijksstraat
-pater m„ºhrenplein
-pater nicod„©musstraat
+pater m√ºhrenplein
+pater nicod√©musstraat
 pater nottenstraat
 pater op 't hooghof
 pater pelzersstraat
@@ -2554,8 +2518,7 @@ pater petersstraat
 pater petrusstraat
 pater pirehof
 pater pirestraat
-pater p„∂ttgensstraat
-pater r. d. kloegstraat
+pater p√∂ttgensstraat
 pater r.d. kloegstraat
 pater regoutlaan
 pater rijkenstraat
@@ -2572,7 +2535,6 @@ pater schreursstraat
 pater schuurmanstraat
 pater sebald lindersstraat
 pater smitsstraat
-pater staessenpad
 pater staessenspad
 pater steeghplein
 pater stormstraat
@@ -2580,17 +2542,16 @@ pater taksweg
 pater ten winkelstraat
 pater thijssenstraat
 pater thijsstraat
-pater tilliestraat
 pater tulpstraat
 pater ullingsstraat
 pater vaessenstraat
 pater van boxtelweg
-pater van de elsenpad
 pater van den bergstraat
 pater van den elsenlaan
 pater van den elsenpad
 pater van den elsenplein
 pater van den elsenstr
+pater van den elsenstraa
 pater van den elsenstraat
 pater van den elzenstraat
 pater van den heuvelstraat
@@ -2603,7 +2564,6 @@ pater van meursstraat
 pater van ruthstraat
 pater van stiphoutstraat
 pater van vlerkenstraat
-pater vd elsenstraat
 pater veldmanlaan
 pater verhaagstraat
 pater verschurenstraat
@@ -2622,12 +2582,14 @@ paterastraat
 paterijstraat
 paternostersteeg
 paternosterstraat
+paterplantsoen
 patersbaan
 patersbos
 patersbrug
 paterserf
 patersgang
 patersgas
+patershoek
 patershof
 paterskuil
 paterslaan
@@ -2635,7 +2597,8 @@ paterspaadje
 paterspad
 patersplein
 paterspoel
-patersr„ªntsje
+patersruntsje
+patersr√ªntsje
 patersstraat
 patersteeg
 paterstraat
@@ -2652,6 +2615,7 @@ paterswoldseweg
 pathmosplein
 pathmossingel
 pathmosstraat
+patiel
 patijnenburg
 patijnestraat
 patijnstraat
@@ -2659,18 +2623,19 @@ patijnweg
 patio
 patioplein
 patiostraat
-pati„´ntiestraat
-pati„´ntieweg
+pati√´ntiestraat
+pati√´ntieweg
 patmos
 patmosdreef
 patmosstraat
 patoustraat
 patriaplein
 patriarchstraat
+patriastraat
 patrice lumumbastraat
 patriciushof
 patriciuslaan
-patrici„´rslaan
+patrici√´rslaan
 patrick blackettstraat
 patriis
 patrijs
@@ -2681,6 +2646,7 @@ patrijsgang
 patrijshoek
 patrijshof
 patrijslaan
+patrijslaantje
 patrijslande
 patrijspad
 patrijsplantsoen
@@ -2723,11 +2689,11 @@ patronaatsplein
 patronaatsstraat
 patronaatstraat
 patroon
+patroonheilige
 patroonstraat
 patroonsweg
 patrouille pad noord
 patrouille pad zuid
-patrouille pad zuid/ patrol path south
 patrouillepad
 patrys
 pattagon
@@ -2735,8 +2701,8 @@ pattersonstraat
 pattimurastraat
 pattistpark
 pattonstraat
+pattontunnel
 pattonweg
-pauk
 paukenhof
 paukenlaan
 paukenpad
@@ -2756,15 +2722,14 @@ paul captijnlaan
 paul christiaan fluhof
 paul christiaan flustraat
 paul citroenstraat
-paul c„©zannehof
-paul c„©zannestraat
+paul c√©zannehof
+paul c√©zannestraat
 paul delvauxstraat
 paul desmondsingel
 paul diracstraat
 paul dukasstraat
 paul emsensstraat
-paul gabri„´lstraat
-paul gaugainhof
+paul gabri√´lstraat
 paul gauguinhof
 paul guillaumestraat
 paul h spaakerf
@@ -2772,19 +2737,18 @@ paul hankarstraat
 paul heijhof
 paul henri spaakring
 paul henri spaakstraat
+paul hufkade
 paul huflaan
-paul hufstraat
 paul kleestraat
 paul krugerkade
 paul krugerlaan
 paul krugerplein
 paul krugerstraat
 paul krugerweg
-paul kr|gerstraat
-paul kr„ºgerbrug
-paul kr„ºgerlaan
-paul kr„ºgersdreef
-paul kr„ºgerstraat
+paul kr√ºgerbrug
+paul kr√ºgerlaan
+paul kr√ºgersdreef
+paul kr√ºgerstraat
 paul linckehof
 paul lodewijkx rotonde
 paul meijsstraat
@@ -2796,6 +2760,7 @@ paul rodenkohof
 paul rodenkolaan
 paul rodenkostraat
 paul rubensstraat
+paul schoemakerstraat
 paul scholtenrode
 paul scholtensingel
 paul scholtenstraat
@@ -2804,13 +2769,13 @@ paul schuitemahof
 paul schuitemastraat
 paul steenbergenlaan
 paul steenbergenstraat
+paul van borkplantsoen
 paul van kempenstraat
 paul van ostaijenlaan
 paul van ostaijensingel
 paul van ostaijenstraat
 paul van ostayenstraat
 paul van schaiklaan
-paul van schaikstraat
 paul van vlissingenstraat
 paul van zeelandlaan
 paul van zeelandstraat
@@ -2820,12 +2785,12 @@ paul whitemansingel
 paul windhausenstraat
 paul windhausenweg
 paul-henri spaaklaan
-paul-henri spaakplein
 paula koppelaarstraat
 paulaland
 paulihof
 paulijnenveld
 paulina van crombruggehof
+paulina van crombruggenhof
 paulina van weellaan
 paulinadijk
 paulinalaan
@@ -2860,7 +2825,6 @@ paulus folkertsma herne
 paulus gielmansstraat
 paulus hollestraat
 paulus holtenstraat
-paulus jans kleijstraat
 paulus lamanstraat
 paulus moreelsestraat
 paulus pietersstraat
@@ -2883,6 +2847,7 @@ paulus van hemertstraat
 paulus van loolaan
 paulus van vianenstraat
 paulusberg
+paulusbrug
 paulusdal
 paulusdonk
 paulushoekseweg
@@ -2891,7 +2856,6 @@ pauluskampen
 pauluskerkplein
 pauluslaan
 paulusland
-paulusplein
 paulusplein
 paulussenhof
 paulusstraat
@@ -2927,7 +2891,6 @@ pauwelstraat
 pauwelsweer
 pauwenburg
 pauwendaal
-pauwendans
 pauwenhoeve
 pauwenhof
 pauwenhofstraat
@@ -2935,6 +2898,7 @@ pauwenkamp
 pauwenlaan
 pauwenlaantje
 pauwenpad
+pauwenplein
 pauwenstein
 pauwenstraat
 pauwenveld
@@ -2951,6 +2915,7 @@ pauwoogpad
 pauwoogvlinder
 pauwoogweide
 pauwpoort
+pauwschelling
 pauwsteeg
 pauwstraat
 pauwtje
@@ -2970,7 +2935,6 @@ paviljoensgracht
 paviljoenshof
 paviljoenslaan
 paviljoenslaantje
-paviljoenslaantje
 paviljoenstraat
 paviljoensweg
 paviljoentjalk
@@ -2988,7 +2952,9 @@ pealskar
 pean
 peansterdyk
 pearl buck-erf
+pearl bucklaan
 pearl buckplaats
+pearl buckstraat
 pearl s. buckstraat
 pearsonhof
 pearsonlaan
@@ -3011,9 +2977,10 @@ peddenakker
 peddendieksken
 peddepoel
 pedersenpad
+pedrekudreef
 pedro cabralstraat
 pedro de medinalaan
-pedro luis bri„≥nstraat
+pedro luis bri√≥nstraat
 pedro nunesstraat
 peeberg
 peebos
@@ -3026,7 +2993,6 @@ peelbeemd
 peelbergweg
 peelderpad
 peeldijk
-peeldijkje
 peeleik
 peeleindseweg
 peelheideweg
@@ -3039,6 +3005,7 @@ peelkanaalweg
 peelkant
 peelke
 peelken
+peelkensstraat
 peelkensweg
 peelkesakker
 peelklamp
@@ -3052,10 +3019,9 @@ peelmanserf
 peelmeester
 peelo
 peelo oost
-peelo„´respad
-peelo„´rweg
+peelo√´respad
+peelo√´rweg
 peelpad
-peelpaterstraat
 peelrand
 peelrijt
 peelrijtweg
@@ -3075,6 +3041,7 @@ peelveldlaan
 peelven
 peelvenweg
 peelweg
+peen en uipad
 peer de schuimerhof
 peerakker
 peerboltestraat
@@ -3096,19 +3063,21 @@ peereboomsweg
 peerenbergscheweg
 peerenboom
 peerenboomse steeg
-peerenboomstraat
 peerhegge
+peerheuvel tiend
 peerhofstraat
 peerke donderspad
 peerke donderspark
 peerke klinkstraat
 peerke slitspad
 peerke verkuijlenstraat
+peerkensdries
 peerkesbos
 peerlenburg
 peerlenburgh
 peerlkamplaan
 peermos
+peerrekolk
 peersingel
 peersteeg
 peerweg
@@ -3153,6 +3122,7 @@ peitkreek
 peitzenberg
 peizerbaan
 peizerdiep
+peizerpad
 peizerweg
 pekelderstraat
 pekeldijk
@@ -3164,20 +3134,20 @@ pekelmeerpad
 pekelplein
 pekelsteiger
 pekelwerk
+pekhuisbrug
 pekingdreef
 pekingsingel
 pekjongen
 pekkendam
 pekkeriet
-pekmanshi„´m
+pekkogel
+pekmanshi√´m
 peksteelpad
 pekstraat
 pelargoniumstraat
 peldenstraat
 pelenerf
 pelerin
-pelerinstraat
-peletonsdok
 pelgang
 pelgrimpad
 pelgrimsborch
@@ -3201,6 +3171,8 @@ pelikaansingel
 pelikaanstraat
 pelikaanweg
 pelincksweg
+pelinckweg
+pelistersteeg
 pelkweg
 pellehof
 pellekaanstraat
@@ -3211,8 +3183,9 @@ peller
 pellerij
 pellersplein
 pelleweg
-pell„©aspad
-pell„©asplaats
+pellipad
+pell√©aspad
+pell√©asplaats
 pelmersheideweg
 pelmeulenpadsje
 pelmolen
@@ -3225,8 +3198,9 @@ pelmolenplantsoen
 pelmolensstraat
 pelmolenstraat
 pelmolenweg
-pelm„ªnewei
+pelm√ªnewei
 peloton
+pelotonlaan
 pelotonsdok
 pels rijckenpark
 pels rijckenstraat
@@ -3235,6 +3209,7 @@ pelschans
 pelseland
 pelsendijk
 pelserbrug
+pelserbrugje
 pelserstraat
 pelsertstraat
 pelsestraat
@@ -3248,6 +3223,7 @@ pelsterdwarsstraat
 pelstersstraat
 pelsterstraat
 pelstraat
+peltafel
 peltenburgstraat
 pelterpad
 peltlaan
@@ -3274,7 +3250,7 @@ penitentenhof
 penitentenpad
 penitentenpoort
 penitentenstraat
-pennebrinksweg
+pennebrinksdijk
 pennegoorpad
 pennekamplaan
 pennekart
@@ -3282,7 +3258,6 @@ pennekert
 pennekrogtje
 pennemes
 pennendijk
-pennengang
 pennersstraat
 penneven
 pennincstraat
@@ -3302,6 +3277,7 @@ penninglaan
 penningpad
 penningruwe
 penningsdijk
+penningsingel
 penningslag
 penningstraat
 penningsveer
@@ -3309,12 +3285,12 @@ penningweg
 penninksbrugweg
 penninkshof
 penninkskottenweg
+penninkslaantje
 penninkstraat
 penninksweg
 pennstate
 pennyhof
 penrisstraat
-penschrijversgang
 penseel
 penseelkever
 penseelpad
@@ -3324,7 +3300,6 @@ pensionaris
 pensionarispad
 pensionarisstraat
 pensmarkt
-pensorishof
 pensteen
 pensteenstraat
 penstraat
@@ -3336,9 +3311,9 @@ pentropsdijk
 pepelsbergervoetpad
 pepelwijenweg
 peperboleet
-peperboom
 peperboomstraat
 peperbos
+peperbrug 0281
 peperbus
 peperdijk
 peperdonk
@@ -3349,8 +3324,10 @@ pepergaweg
 peperkamp
 peperkampweg
 peperkers
+peperkoekgang
 peperkoekweg
 pepermolenerf
+pepermuntpad
 pepermuntstraat
 pepermuntweg
 peperpotpad
@@ -3398,7 +3375,6 @@ peppelkade
 peppellaan
 peppelmansdijk
 peppelpad
-peppelpadpeppelpad
 peppelpas
 peppelplein
 peppelrode
@@ -3412,7 +3388,6 @@ peppelwede
 peppelweg
 peppengouw
 peppinghof
-pepterstraat
 perahof
 perastraat
 perceval
@@ -3431,7 +3406,6 @@ pereboomsteeg
 pereboomweg
 pereboomweie
 peregaard
-peregaarde
 peregrijn
 peregrinus vogelsstraat
 peregrinusstraat
@@ -3440,11 +3414,14 @@ perelaar
 perelaer
 pereland
 perenakker
+perenberceau
 perenbongerd
+perenboogerd
 perenboom
 perenboompad
 perenboomstraat
 perendreef
+perenerf
 perengaard
 perengaarde
 perenhof
@@ -3490,6 +3467,7 @@ permekestraat
 permstraat
 pernambucodreef
 pernambucolaan
+pernis 17a
 pernisplaats
 pernisse hoofd
 pernisse sloepdijk
@@ -3499,7 +3477,7 @@ pernisser molenweg
 pernissestraat
 pernisseweg
 pernisstraat
-pern„©straat
+pern√©straat
 perobahout
 perosihof
 perosiplaats
@@ -3511,6 +3489,7 @@ perroenweg
 perron
 perronlaan
 perronpad
+perronplein
 perronstraat
 perronweg
 perronwei
@@ -3518,19 +3497,20 @@ perronzijde
 perrottastraat
 perryweg
 persant snoepweg
-persephon„©straat
+persephon√©straat
 persepolishof
 perseus
 perseuslaan
 perseusstraat
 persglashof
-persieltsjel„¢n
+persieltsjel√¢n
 persijn
 persijnhof
 persijnlaan
 persijnstraat
 persimoenstraat
 persingensestraat
+persingse veer
 persiuspad
 persoonsdam
 persoonshaven
@@ -3542,7 +3522,6 @@ persstraat
 perswei
 persyn van ouwendijcklaan
 perudreef
-perupark
 peruplantsoen
 perweide
 perwijs
@@ -3570,7 +3549,6 @@ pesakerweg
 peschbeemdenstraat
 pescher vaart
 peschstraat
-peschweg
 peseta
 pesetadreef
 pesetalaan
@@ -3582,35 +3560,42 @@ pesserdijk
 pessershof
 pesserslaan
 pesserstraat
-pessert
 pesserveldweg
 pesserweg
 pestalozzihof
 pestalozzistraat
 pestelpad
 pesthuislaan
+pesthuistunnel
+petasites
 petegemstraat
+petemayenbrug 0317
 petemoederslaan
 petenbos
 peter benensonstraat
 peter benoitpark
 peter benoitstraat
 peter corneliusstraat
-peter cuyperplein
+peter cuijperstraat
 peter de gekstraatje
 peter de gorterstraat
+peter debyeplantsoen
+peter debyestraat
+peter dirksentunnel
 peter dorleijnplein
 peter duymstraat
 peter ebbenweg
 peter gielenstraat
 peter habetsweg
 peter huyssenslaan
+peter j. sterkenburg
 peter janssenweg
 peter martensstraat
 peter meistersstraat
 peter mulderstraat
 peter mullensweg
 peter noorwitspad
+peter oosthoekgracht
 peter paul rubenslaan
 peter paul rubenspad
 peter paul rubensstraat
@@ -3649,14 +3634,19 @@ peter van thaborplein
 peter van velpenlaan
 peter vineloolaan
 peter vinkpad
+peter volwaterpad
 peter willstraat
 peter wotkehof
 peter zuidhove
 peter zuidlaan
 peter zuidstraat
+peterbrug
+peterburgseweg
 peterhof
 petersakker
 petersburg
+petersburghof
+petersburgsingel
 petersburgstraat
 petersdijk
 peterselie
@@ -3670,10 +3660,11 @@ petershemstraat
 petershof
 peterskamplaan
 peterskampweg
+peterslaan
 petersland
 peterspad
 petersplaats
-petersp„®„®jke
+petersp√®√®jke
 petersstraat
 petersteeg
 peterstraat
@@ -3691,18 +3682,18 @@ petroleumhavenstraat
 petroleumhavenweg
 petroleumweg
 petronella brugsmastraat
-petronella ketelpromenade
+petronella herfstlaan
 petronella moenslaan
 petronella moenspad
 petronella moensstraat
 petronella moensstrjitte
 petronella moensweg
-petronella mulderstraat
 petronella van hoornstraat
+petronella van saksendreef
 petronella van saxenstraat
 petronella van seijstplaats
-petronella vo„ªtepad
-petronella vo„ªtestraat
+petronella vo√ªtepad
+petronella vo√ªtestraat
 petronellaweg
 petronillastraat
 petroniuspad
@@ -3728,6 +3719,7 @@ petrus groeniastraat
 petrus hendrikszstraat
 petrus hotton-serre
 petrus kockstraat
+petrus kuntzbrug
 petrus loosjesstraat
 petrus lutgershof
 petrus lutgerspad
@@ -3741,7 +3733,6 @@ petrus steenkampweg
 petrus steyaertlaan
 petrus trousselotstraat
 petrus van der veldenstraat
-petrus van der veldestraat
 petrus van eijnattenlaan
 petrus van emmerickstraat
 petrus van schendelstraat
@@ -3765,7 +3756,8 @@ pettendijk
 pettenmakerstraat
 pettenpad
 pettenstraat
-petterh„∫sterdyk
+petterh√∫sterdyk
+petterpad
 petteveltlaan
 petunia
 petuniadal
@@ -3784,7 +3776,6 @@ peukseweg
 peuldreef
 peulenakker
 peulenlaan
-peulenplaats
 peulenplein
 peulenstraat
 peulenstraat-zuid
@@ -3793,6 +3784,9 @@ peuleyen
 peulkespad
 peulland
 peulsteen
+peulwijk west
+peulwijk-oost
+peulwijk-west
 peulwijksekade
 peur
 peurssensstraat
@@ -3804,6 +3798,7 @@ peut
 peutekamp
 peutenweg
 peuterdijk
+peutersweg
 peutgensweg
 peutingerpad
 peutweg
@@ -3818,7 +3813,6 @@ peyserhof
 peysstraat
 pfeifferstraat
 pfinztalstraat
-pg v nieuwkerkpad
 ph p cappettilaan
 ph. lindemanstraat
 phaesmaweg
@@ -3835,12 +3829,10 @@ phileas foggstraat
 philibert grimaudpad
 philidorstraat
 philip de croystraat
-philip de konick
 philip de koninck
 philip frankplein
 philip klingestraat
 philip popelweg
-philip sad„©epad
 philip van almondestraat
 philip van der goesstraat
 philip van dijkhof
@@ -3888,6 +3880,7 @@ philips van sint polstraat
 philips van wassenaerln
 philips vingboonsstraat
 philips willem van oranjestraat
+philips willembrug
 philips willemlaan
 philips willemplantsoen
 philips willemsingel
@@ -3899,7 +3892,6 @@ philipsdaalder
 philipsdaalderhof
 philipsdam
 philipsenstraat
-philipsflat
 philipsgulden
 philipsguldenhof
 philipshoofjesweg
@@ -3913,6 +3905,7 @@ philipswijk
 philitelaan
 philomenahof
 philosofenallee
+phiny dickbrug
 phiny dickgracht
 phloxlaan
 phloxplein
@@ -3925,9 +3918,11 @@ phoenixlaan
 phoenixplaats
 phoenixring
 phoenixstraat
+phoenixtuin
 phoenixweg
 phohistraat
 pholas
+phragmitis
 pi schefferstraat
 piaamstraat
 piacenzastraat
@@ -3947,8 +3942,8 @@ pibo van domapaad
 picardenlaan
 picardie
 picardiehof
-picardi„´
-picardi„´straat
+picardi√´
+picardi√´straat
 picardstraat
 picardtstraat
 picardushofstee
@@ -3966,8 +3961,8 @@ piccolopad
 piccolostraat
 picenistraat
 pickensteeg
-pick„©plein
-pick„©straat
+pick√©plein
+pick√©straat
 picoweg
 picushof
 piebewei
@@ -3985,7 +3980,6 @@ piekevalpad
 piekezijlstraat
 piekstraat
 pieldyk
-pielsbergweg
 pienemanstraat
 pienterpad
 piepenbeltweg
@@ -4004,14 +3998,12 @@ pieperweg
 piepke
 pier
 pier afrika
-pier amerika
-pier azi„´
+pier azi√´
 pier christiaanswei
 pier europa
 pier heemstrastraat
 pier hylckeshof
 pier panderhof
-pier panderplein
 pier panderstraat
 pier panderweg
 pier prinslaan
@@ -4020,7 +4012,6 @@ pier vlasmapad
 pier wensemiusstraat
 pier winsemiusleane
 pierebaan
-pierebaanbrug
 pierebolruwe
 pierenkampweg
 pierestraat
@@ -4047,8 +4038,8 @@ pierre de coubertinpad
 pierre de coubertinplein
 pierre dresenstraat
 pierre h. duboisstraat
-pierre hornixstraat
 pierre huyskensplein
+pierre ii
 pierre janssenstraat
 pierre kemphove
 pierre kemppark
@@ -4067,7 +4058,8 @@ pierrenaads paedje
 pierrestraat
 piershilstraat
 piersland
-piersl„¢n
+piersl√¢n
+piersonbrug
 piersonhof
 piersonhorst
 piersonlaan
@@ -4119,11 +4111,11 @@ piet heinshof
 piet heinstraat
 piet heintunnel
 piet heinweg
-piet hendrikspad
 piet hendrikxpad
 piet heynlaan
 piet heynpad
 piet heynplein
+piet heynsbrug
 piet heynsplein
 piet heynstraat
 piet ikelaarpad
@@ -4137,9 +4129,11 @@ piet kooremanstraat
 piet kraakstraat
 piet kramerzoom
 piet kranenbergpad
+piet kroef peelpark
+piet kroeflaan
 piet krollaan
 piet kuiperlaan
-piet k„∂hlerstraat
+piet k√∂hlerstraat
 piet lanserhof
 piet laroostraat
 piet leermakersstraat
@@ -4148,7 +4142,6 @@ piet leusenstraat
 piet malherbestraat
 piet mertenshof
 piet miedemaweg
-piet moddermanhage
 piet moddermanpad
 piet moeskopspad
 piet moeskopsstraat
@@ -4163,9 +4156,7 @@ piet mondriaanstraat
 piet muyselaarstraat
 piet nakstraat
 piet nanpad
-piet obermanstraat
 piet ottstraat
-piet paaltjenshof
 piet paaltjenspaad
 piet paaltjenspad
 piet paaltjensplein
@@ -4177,7 +4168,7 @@ piet retiefstraat
 piet rodenburgstraat
 piet romboutlaan
 piet rotlaan
-piet r„∂merlaan
+piet r√∂merlaan
 piet slagerstraat
 piet smithof
 piet smitkade
@@ -4190,9 +4181,11 @@ piet soerstraat
 piet soerweg
 piet stalmeierstraat
 piet stoffelenstraat
+piet struijkstraat
 piet struijkweg
 piet stuurmanweg
 piet tijsmastraat
+piet tijstermanlaan
 piet toepoelweg
 piet troosterlaan
 piet van astenstraat
@@ -4201,8 +4194,7 @@ piet van breemenstraat
 piet van damlaan
 piet van de polsingel
 piet van der hemstraat
-piet van der lindengaarde
-piet van der lindenstr
+piet van der lindenstraat
 piet van der meerhof
 piet van der veldenstraat
 piet van der vossenstraat
@@ -4219,11 +4211,12 @@ piet van molpad
 piet van thielplein
 piet van wijkgaarde
 piet van wijngaerdtlaan
-piet vd lindengaarde
+piet van woerkumhof
 piet verhoevenpad
 piet verslootstraat
 piet vinkplantsoen
 piet voskuilenstraat
+piet vossenweg
 piet wasemkade
 piet wiedijkstraat
 piet zwarthof
@@ -4244,7 +4237,6 @@ pieter appelplein
 pieter basstraat
 pieter baststraat
 pieter bedijnstraat
-pieter belsstraat
 pieter bernagiestraat
 pieter bieremastraat
 pieter biesiotpad
@@ -4266,7 +4258,6 @@ pieter braaijweg
 pieter bregmanlaan
 pieter bregmanpad
 pieter breugellaan
-pieter breugelstraat
 pieter breughelhof
 pieter breughellaan
 pieter breughelplein
@@ -4297,16 +4288,16 @@ pieter cornelisz hooftlaan
 pieter cornelisz. hooftstraat
 pieter corneliszoon hooftlaan
 pieter cortpad
-pieter cuypersstraat
-pieter d' honthof
 pieter d' hontlaan
 pieter dantumastrjitte
 pieter de clercqstrjitte
+pieter de hoochbrug
 pieter de hoochlaan
 pieter de hoochplaats
 pieter de hoochstraat
 pieter de hoochweg
 pieter de hooghhage
+pieter de hooghkade
 pieter de hooghlaan
 pieter de hooghplein
 pieter de hooghstraat
@@ -4328,15 +4319,16 @@ pieter de voisstraat
 pieter dekkersstraat
 pieter dekkerstraat
 pieter densstraat
-pieter doelmanstraat
 pieter durksstrjitte
 pieter duvelaer van campenstraat
 pieter ecrevissestraat
 pieter feddesstraat
 pieter florisstraat
+pieter florisz couckdreef
 pieter floriszpad
-pieter floriszstraat
+pieter floriszplein
 pieter fransenhof
+pieter gelpkeplein
 pieter gerritszn visstraat
 pieter gerritz speckhof
 pieter ghijsenlaan
@@ -4345,7 +4337,6 @@ pieter goosstraat
 pieter gootjesstraat
 pieter groenpad
 pieter grootstraat
-pieter habetsweg
 pieter hammeveldijk
 pieter hellendaalerf
 pieter hellendaalweg
@@ -4377,7 +4368,6 @@ pieter jellessingel
 pieter jochemswal
 pieter johan tijkenstraat
 pieter joostenlaan
-pieter kaashoekpad
 pieter kaashoekstraat
 pieter karel drossaartstraat
 pieter keijlaan
@@ -4407,7 +4397,6 @@ pieter latensteinstraat
 pieter lieftincklaan
 pieter lieftinckstraat
 pieter lieftinckweg
-pieter litjensweg
 pieter lodewijk takstraat
 pieter loopuytstraat
 pieter louwersestraat
@@ -4420,9 +4409,7 @@ pieter meinersstraat
 pieter molijnlaan
 pieter molijnstraat
 pieter mondriaanlaan
-pieter mondriaanrade
 pieter mondriaanstraat
-pieter mulderplantsoen
 pieter mulierpad
 pieter neefspad
 pieter nieuwlandstraat
@@ -4436,7 +4423,6 @@ pieter oudelandstraat
 pieter oudhof
 pieter oudlaan
 pieter paapstraat
-pieter pasmahof
 pieter pauluslaan
 pieter pauluspad
 pieter paulusstraat
@@ -4487,16 +4473,18 @@ pieter stuitjestraat
 pieter stuyvesantstraat
 pieter stuyvesantweg
 pieter taemszstraat
-pieter tanj„©straat
+pieter tanj√©straat
 pieter theeuwenlaan
 pieter twentlaan
 pieter v slingelandtstr
 pieter van aschstraat
+pieter van beerspad
 pieter van beersstraat
 pieter van bleyswijkstraat
 pieter van botlantlaan
 pieter van cuyckstraat
 pieter van damstraat
+pieter van de wallstraat
 pieter van den heuvelpad
 pieter van den hoogenbandstraat
 pieter van den zandestraat
@@ -4512,11 +4500,9 @@ pieter van der meulenlaan
 pieter van der plasstraat
 pieter van der sallempad
 pieter van der wallenstraat
-pieter van der werfpad
+pieter van der wallstraat
 pieter van der werfstraat
-pieter van eijckheem
 pieter van eyckheem
-pieter van ginnekenstr
 pieter van ginnekenstraat
 pieter van hemerenplantsoen
 pieter van ijpelaarstraat
@@ -4525,7 +4511,6 @@ pieter van lisselaan
 pieter van lunepad
 pieter van musschenbroekstraat
 pieter van oldenborghlaan
-pieter van oldenborghln
 pieter van osstraat
 pieter van rijsselstraat
 pieter van slingerlandstraat
@@ -4555,6 +4540,7 @@ pieter wilms weelweg
 pieter woutersestraat
 pieter woutersstraat
 pieter zeemanlaan
+pieter zeemanpad
 pieter zeemanpark
 pieter zeemanstraat
 pieter zeemanweg
@@ -4569,6 +4555,8 @@ pieternel koomansstraat
 pieternella brandhorststraat
 pieternelletje
 pieternelweg
+pieterpad
+pieterplaatsje
 pietersberg
 pietersbergpad
 pietersbergseweg
@@ -4580,6 +4568,7 @@ pietersdijk
 pieterseliesteeg
 pieterseliestraat
 pieterseliewaltje
+pietersenpad
 pietershoek
 pietershof
 pietershofweg
@@ -4590,6 +4579,7 @@ pieterskerkstraat
 pieterslaan
 pietersonstraat
 pieterspad
+pieterspadje
 pietersplein
 pietersrif
 pieterssteeg
@@ -4599,12 +4589,13 @@ pieterswaard
 pietersweer
 pietersweg
 pieterswiel
-pietervanvollenhovenstraat
+pietertje snoeckweg
 pieterveld
 pieterzijlsterweg
 pietje baltusstraat
 pietje bellpad
 pietje bellstraat
+pietje de fluiterhof
 pietje miedeweg
 pietje pluisplantsoen
 pietje van jan plein
@@ -4682,7 +4673,6 @@ pijnackerstraat
 pijnakker
 pijnappellaan
 pijnappelsche poort
-pijnbank
 pijnboom
 pijnboomdreef
 pijnboomhof
@@ -4703,11 +4693,12 @@ pijpbakkerssteeg
 pijpbloem
 pijpebakkerstraat
 pijpekruidlaan
+pijpelaan
 pijpenklopperstraat
-pijpenklopperstraat‚ø‚ø
 pijpenmakersweg
 pijpenpad
 pijpenstraat
+pijpenstrootje
 pijpereind
 pijperhof
 pijperlaan
@@ -4728,6 +4719,7 @@ pijpplein
 pijpsterweg
 pijpstraat
 pikedyk
+pikelkoep
 pikemar
 pikesyl
 piket
@@ -4744,7 +4736,7 @@ pikmar
 pikoletstraat
 pikoreistraat
 pikpotweg
-pikp„¥llewei
+pikp√¥llewei
 piksenbrink
 piksenweg
 pilarenlaan
@@ -4758,11 +4750,9 @@ pilgrimstraat
 pillenweg
 pillinkpad
 pillinkstraat
-pilmus
 piloot stormstraat
 pilootweg
 pilotenespel
-pilotenhulp
 pilotenlaan
 pilotenpad
 pilotenstraat
@@ -4770,13 +4760,11 @@ pilotenweg
 pilsestraat
 pilsumerwad
 pilvarenstraat
+pilzegge
 pim de wijspad
-pim foftuynplaats
-pim forftuynplaats
 pim fortuynplaats
 pim jacobsstraat
 pim mulierlaan
-pim mulierpad
 pim mulierstraat
 pim mulierwei
 pimentdonk
@@ -4793,6 +4781,7 @@ pimperneldonk
 pimpernelstraat
 pimpernelweg
 pimpernootpaadje
+pina bauschplein
 pinakel
 pinashof
 pinaskade
@@ -4801,8 +4790,8 @@ pinasstraat
 pinasweg
 pinatuboplein
 pincelweg
-pinckartplein
 pindosstraat
+pindosweg
 pineind
 pinetumpad
 pinetumweg
@@ -4813,15 +4802,17 @@ pingjumerstraat
 pinglestraat
 pingosingel
 pingsdorfhof
-piniadyk
+piniastrjitte
 pink
 pink floydstraat
 pinkelbergen
 pinkelseweg
 pinkenbergseweg
+pinkenland
 pinkenpad
 pinkenwei
 pinkewad
+pinkpop-plein
 pinkslo
 pinkstelaarseweg
 pinksterbloem
@@ -4858,8 +4849,9 @@ pinusoord
 pinweg
 pinxtenstraat
 pinxterstraat
-pin„®llaan
+pin√®llaan
 pioen
+pioendahlia
 pioendreef
 pioenenweg
 pioenhof
@@ -4869,10 +4861,12 @@ pioenrooslaan
 pioenroosstraat
 pioenstraat
 pioentuin
+pioentulp
 pioenvallei
 pioenveld
 pioenweg
 pionier
+pioniersbrug
 pioniershoek
 pioniershof
 pionierskruid
@@ -4888,7 +4882,6 @@ pipegaal
 pipeluurseweg
 piper cubpad
 piperaai
-pipernelstraat
 pippeling
 pippelinghof
 pippelingstraat
@@ -4896,7 +4889,6 @@ pippeloentje
 pippertsestraat
 pippijn van herstalstraat
 piraat
-piraatje
 piraatstraat
 piraeuserf
 piraeushaven
@@ -4908,16 +4900,17 @@ piramideplein
 pirandellostraat
 piranesipad
 piranesistraat
-pirateneiland
 piratenpad
 piratenweg
 pirellipad
 piri reisplein
 piri reisweg
 piriet
+pirinsteeg
 pirkweg
 pirola
 pirolastraat
+pironpad
 pironstraat
 pisanostraat
 pisartlaan
@@ -4925,6 +4918,7 @@ pisastraat
 piskhoarnedyk
 pissarrohof
 pissummerweg
+pistachestraat
 pistoletdreef
 pistoletstraat
 pistoriusstraat
@@ -4935,11 +4929,12 @@ piter jehanneswei
 piter jellesstrjitte
 piter rindertsreedsje
 piter terpstrawei
-piterp„¥lle
+piterp√¥lle
 pitershof
 pitplein
 pitrietstraat
 pitrus
+pitrushof
 pitruslaan
 pitrusvaart
 pitschlaan
@@ -4956,6 +4951,7 @@ pius xii-plein
 piushaven
 piushof
 piuslaan
+piuspark
 piusplein
 piusstraat
 piustuin
@@ -4964,13 +4960,14 @@ pixelhof
 pizarrolaan
 pizarrostraat
 pj troelstrastraat
+pjotr kapitsastraat
 plaagslagen
 plaam
 plaarstraat
 plaat
 plaatjes
-plaatkade
 plaats
+plaats achthoven
 plaats langeveld
 plaats van het journaal
 plaats van middendorp
@@ -4984,7 +4981,6 @@ plaatstraat
 plaatweg
 plaatwerker
 plaatwerkerstraat
-place des belges
 placiusstraat
 placotiweg
 pladellastraat
@@ -5002,7 +4998,6 @@ plaggenslagweg
 plaggensteeg
 plaggenstekersweg
 plaggenstraat
-plaggenveld
 plaggenveldsdijk
 plaggenweg
 plaggenweide
@@ -5028,7 +5023,6 @@ plakslagseweg
 plakstraat
 plakweg
 plan herkingen west
-plan hofstede
 planbaan
 planciusdreef
 planciushof
@@ -5051,11 +5045,10 @@ planetenlaan
 planetenpad
 planetenpark
 planetenplein
-planetensingel
 planetenstraat
 planetenveld
 planetenweg
-planeto„Øde
+planeto√Øde
 planken wambuis
 planken wambuisweg
 planken wammessteeg
@@ -5064,14 +5057,12 @@ plankenpad
 planker
 plankerf
 planketent
-plankier
 plankjesland
 plankpad
 plankstraat
-plankwolk
 planodonk
 plantage
-plantage all„©e
+plantage all√©e
 plantage badlaan
 plantage centrum
 plantage doklaan
@@ -5083,6 +5074,7 @@ plantage parklaan
 plantage westermanlaan
 plantage willem iii
 plantagebaan
+plantagebrug
 plantagegeer
 plantagehof
 plantagekade
@@ -5090,8 +5082,8 @@ plantagelaan
 plantagepolder
 plantagestraat
 plantageweg
+plantago
 plantagobeemd
-plantanenlaan
 plantboorstraat
 plantendijk
 plantenhove
@@ -5103,6 +5095,7 @@ plantenstraat
 plantentuinen
 plantentuinlaan
 plantenweg
+planterpad
 plantersgraaf
 planterslaan
 plantheklaan
@@ -5125,6 +5118,7 @@ plantsoen welgelegen
 plantsoen-noord
 plantsoen-oost
 plantsoen-west
+plantsoenbrug
 plantsoendwarsstraat
 plantsoengracht
 plantsoenlaan
@@ -5138,14 +5132,17 @@ plantsoenweg
 plantweg
 plasdijk
 plashofstraat
+plasierloane
 plasmansweg
 plasoord
 plaspoelkade
 plaspoelpolderpad
 plaspoelstraat
+plasromboutbrug
 plasse
+plassengebied
 plassenpad
-plassenweg
+plassepadje
 plasseweg
 plassingel
 plassteeg
@@ -5160,7 +5157,6 @@ plaszicht
 plaszoom
 plataan
 plataanbeek
-plataanbrug
 plataandreef
 plataanhof
 plataanhout
@@ -5186,9 +5182,11 @@ platanenweg
 platanus
 platbodem
 platboslaan
+platbuikbrug
 plateau
 plateau der verenigde naties
 plateau van minsk
+plateau van nicosia
 plateauweg
 plateel
 plateelbakkerstraat
@@ -5205,7 +5203,6 @@ platerstraat
 plateweg
 platewegje
 platformweg
-platglas
 platielstraat
 platielweg
 platijkweg
@@ -5217,13 +5214,11 @@ platinaweg
 platinawerf
 platinum
 platohof
-platoh„¥f
+platoh√¥f
 platolaan
 platostraat
-platotuin
 platoweg
 plats
-platsbeekervoetpad
 platsbeekweg
 platschelp
 platschelpenbank
@@ -5240,6 +5235,7 @@ platte fjouwer
 platte knoop
 platte molendijk
 platte schenkel
+platte stenenbrug
 plattebaan
 plattedel
 plattedijk
@@ -5250,6 +5246,7 @@ platteellaan
 platteelstraat
 plattegraaf
 plattekoeksteech
+plattenakker
 plattenberg
 plattenborgstraat
 plattenburg
@@ -5276,6 +5273,7 @@ plautusstraat
 plaveensehof
 plaveenseweg
 plaveierwei
+plaveiplantsoen
 plaveistoker
 plavuizenweg
 plaza
@@ -5283,11 +5281,9 @@ plazuidplein
 plechelmastraat
 plechelmusstraat
 plecht
-plechtaak
 pleegsterdijk
 plegtsweg
 pleiaden
-pleiadendreef
 pleiadenlaan
 pleiadenplantsoen
 pleiadenstraat
@@ -5305,13 +5301,12 @@ plein 1 febr 1953
 plein 13
 plein 1455
 plein 15 augustus
-plein 15 augustus
-plein 15 februari
 plein 1799
 plein 1803
 plein 1813
 plein 1817
 plein 1918
+plein 1919
 plein 1923
 plein 1940
 plein 1940-1945
@@ -5321,13 +5316,17 @@ plein 1945 - 1995
 plein 1946
 plein 1953
 plein 1957
+plein 1960
 plein 1969
+plein 1971
 plein 1992
+plein 1999
 plein 2000
 plein 40-45
 plein 700
 plein almere
 plein de mate
+plein de valk
 plein delftzicht
 plein eendragt
 plein emaus
@@ -5338,7 +5337,6 @@ plein leo xiii
 plein loods 24
 plein luxemburg
 plein montmaertre
-plein sint petrus banden
 plein soleil
 plein spanje '36-'39
 plein van 's-gravenhout
@@ -5348,7 +5346,7 @@ plein van zuid
 plein vierwinden
 plein vogelzang
 plein welgelegen
-plein west-indi„´
+plein west-indi√´
 plein-983
 plein-zuid
 pleinbuurt
@@ -5363,7 +5361,6 @@ pleinwand
 pleinweg
 pleisterplaats
 pleistraat
-pleitpolder
 pleiweg
 plejadenlaan
 plejadenplein
@@ -5376,7 +5373,6 @@ plekweversweg
 plempdijk
 plenariumstraat
 plenkershoven
-plenkertstraat
 pleretstraat
 plesmanhage
 plesmanhof
@@ -5399,6 +5395,7 @@ plettenburgplantsoen
 pletter
 pletterij
 pletterijkade
+pletterijpad
 pletterijstraat
 pletterijweg
 pletterstraat
@@ -5459,6 +5456,7 @@ ploegkras
 ploeglaan
 ploeglanderweg
 ploegmakers-erf
+ploegpad
 ploegschaar
 ploegseweg
 ploegspoor
@@ -5471,16 +5469,20 @@ ploegwei
 ploegwiek
 ploemenwegske
 ploenstraat
+plofwal
+plokkerpad
 plompe toren
 plompencamp
 plompertstraat
 plompertweg
 plompetorenbrug
 plompetorengracht
+plompetorenweg
 plompmarsweg
 plompstraat
 plomsigge
 plonderijen
+ploni schulteplein
 ploossche hof
 ploosterstraat
 plotinusstraat
@@ -5489,7 +5491,6 @@ plotterweg
 plugeind
 pluggematen
 pluijmaekersstraat
-pluim-es
 pluimdijk
 pluimenburgsestraat
 pluimenmeent
@@ -5512,7 +5513,7 @@ pluimswijk
 pluimzegge
 pluimzeggekreek
 pluimzeggelaan
-pluisbergweg
+pluis
 pluisheuvel
 pluit
 pluizenmeer
@@ -5520,6 +5521,8 @@ pluk van de pettefletpad
 plukkerspad
 plukmadeseweg
 plukmadestraat
+pluktuin
+plummer boschveldweg
 plutarchusstraat
 pluto
 plutobaan
@@ -5549,8 +5552,8 @@ pluvierstraat
 pluviusstraat
 pluymakersstraat
 pluympot
-pl„§ske
-pl„∫sterdyk
+pl√§ske
+pl√∫sterdyk
 pm winkstraat
 pnemstraat
 poaitrije
@@ -5575,6 +5578,7 @@ poelakkerpad
 poelakkers
 poelakkerweg
 poelbos
+poelbrug
 poelbuurt
 poelderhof
 poeldersdijk
@@ -5592,14 +5596,12 @@ poeldonkweg
 poeldrik
 poeldyk
 poelebrug
-poeleiland
 poelekes
 poelen
 poelen-hendrikspad
 poelenbosweg
 poelenburg
 poelenburgerlaan
-poelenburgerlaantje
 poelenburgh
 poelenburglaan
 poelenburgplantsoen
@@ -5621,23 +5623,25 @@ poelhaven
 poelhekkelaan
 poelhekkestraat
 poelhoeve
+poelhof
 poelhuttersslatdijk
-poelh„∫zen
+poelh√∫zen
 poeliestraat
 poelkade
 poelkampstraat
 poelkampsweg
 poelkensdijk
+poelkikkerstraat
 poelkolkdijk
 poelkruidstraat
 poelmanstraat
+poelmarkt
 poelmolenpad
 poelmolenweg
 poeloever
 poelpad
 poelplaats
 poelplein
-poelpolder
 poelpolderstraat
 poelruit
 poelruiter
@@ -5647,7 +5651,9 @@ poelruitlaan
 poelruitstraat
 poelsestraat
 poelshof
+poelsingel
 poelslaan
+poelsloane
 poelsnep
 poelsnip
 poelsniplaan
@@ -5664,8 +5670,6 @@ poelvoordestraat
 poelwaai
 poelwaaidreef
 poelweg
-poelweide
-poelwetering
 poelweteringpad
 poelwijckstraat
 poelwijk
@@ -5677,7 +5681,6 @@ poemastraat
 poemaweg
 poensgen en wesselstraat
 poepershoek
-poepskade
 poesdreef
 poesiatstraat
 poeskespad
@@ -5686,7 +5689,6 @@ poestpad
 poetengraadshof
 poetjesvenbaan
 poeyenstraat
-pofessor oudplein
 poffersweg
 poggebeltweg
 poggenbeekstraat
@@ -5697,6 +5699,7 @@ poirtersstraat
 pol
 pol de monthove
 polakhof
+polakkenbrug
 polakkenweg
 polakker
 polakkers
@@ -5727,12 +5730,14 @@ polbrug
 polder
 polder klinkerland
 polder oudendijk
+polder tongplaat
 polderbaan
 polderbaanpad
 polderboom
 polderboskdyk
 polderbrink
 polderbroek
+polderbrug
 polderburg
 polderdijk
 polderdistrict
@@ -5741,6 +5746,7 @@ polderdwarspad
 polderdwarsweg
 polderdyk
 polderhaakdwarsweg
+polderhaakhof
 polderhaakweg
 polderhoeve
 polderhof
@@ -5750,11 +5756,12 @@ polderke
 polderlaan
 polderlaan noord
 polderland
+polderlint
 poldermansstraat
 poldermanstraat
 poldermeester
-poldermeesterhof
 poldermeesterplein
+poldermeesterslaan
 poldermeesterslag
 poldermeesterstraat
 poldermolen
@@ -5764,16 +5771,23 @@ poldermolenpad
 poldermolenplein
 poldermolenstraat
 poldermolenweg
+polderoever
 polderpad
+polderpark cronesteyn
+polderparkpad
 polderpeil
 polderplein
 polderrotonde
+poldersbos
+polderschuit
 poldersdijk
 poldersedijk
 poldersekade
 poldersemolenweg
+polderseweg
 poldershoek
 polderslaan
+polderslootpad
 poldersmeetlaan
 polderstraat
 poldersweegje
@@ -5809,7 +5823,6 @@ polijsterij
 polijsterweg
 polingstraat
 polistenweg
-polistraat
 polka
 polkabaai
 polkahof
@@ -5825,21 +5838,22 @@ pollartstraat
 polle
 polleboersweg
 pollegottepad
-polleh„∫skeeil„¢n
+polleh√∫skeeil√¢n
 pollekamp
 pollekespad
 pollen
 pollenbrink
 pollendal
 pollendam
+pollendijk
 pollenekker
 pollenhei
 pollenseveenweg
 pollenseweg
 pollenstein
+pollenveld
 pollenweg
 pollepad
-pollermarke
 pollesteeg
 pollesteyn
 polleveenseweg
@@ -5874,6 +5888,7 @@ polsehof
 polselaan
 polseweg
 polshof
+polslag
 polslandstraat
 polsleatwei
 polspad
@@ -5907,12 +5922,11 @@ pomonapad
 pomonaplein
 pomonastraat
 pomonaweg
-pomonostraat
 pompe v meerdervoortstraat
 pompe van meerdervoortsingel
 pompe van meerdervoortstraat
-pompebl„™d
-pompebl„™dstrjitte
+pompebl√™d
+pompebl√™dstrjitte
 pompedijkje
 pompeji
 pompejus
@@ -5958,6 +5972,7 @@ pompsteeg
 pompstertocht
 pompsterweg
 pompstraat
+pompstuk
 pompveldsekade
 pompwater
 pompweg
@@ -5969,6 +5984,7 @@ pondspeer
 pondspeergaarde
 pondstraat
 pondweg
+pongastate
 pongastrjitte
 pongeweg
 ponjaardruwe
@@ -5977,19 +5993,28 @@ ponser
 ponserpad
 ponserstraat
 ponswielweg
+pont
+pont akersloot
+pont de woude
 pont neuf
+pont neufpad
+pont van aart
 pontanuslaan
 pontanusstraat
 pontdyk
 ponte di rialto
 ponte vecchio
+pontederia
 pontegatsvoetpad
 pontegatsweg
+pontenbrug
 pontendam
 pontiaanstraat
 pontianakstraat
 pontil
 pontilijn
+pontje ham
+pontje steur
 pontjespad
 pontoisestraat
 pontonbrug
@@ -6013,9 +6038,9 @@ poolboer
 poolcirkel
 poolcirkelstraat
 poolland
+poollicht
 poolmanpad
 poolmanserf
-poolmanserf'
 poolmanshof
 poolmansweg
 poolmanweg
@@ -6043,7 +6068,6 @@ poolstraat
 poolsweg
 poolswijk
 poolvos
-poolvosweg
 poolweg
 poolzee
 poolzeestraat
@@ -6054,9 +6078,9 @@ poonwerf
 poort
 poort halfweg
 poort hil
-poort napoleon
 poort van bielars
 poort van diepen
+poort van groningen
 poort van midden gelderland blauw
 poort van midden gelderland geel
 poort van midden gelderland groen
@@ -6074,10 +6098,8 @@ poortcamp
 poortdijk
 poortdijkstraat
 poortdreef
-poorten van hoop
 poortenaarlaan
 poorter
-poorter's janlaan
 poortereind
 poorterhof
 poorterij
@@ -6100,6 +6122,7 @@ poorthoek
 poorthoeve
 poorthof
 poorthofsweg
+poorthuis
 poorthuisstraat
 poorthuys
 poortje van verlaan
@@ -6112,14 +6135,15 @@ poortlandplein
 poortmanpad
 poortmanstraat
 poortmanswijk
-poortmolen
 poortmolenstraat
 poortplein
 poortse bos
+poortsingel
 poortskamp
 poortstadpad
 poortsteeg
 poortstraat
+poortstuk
 poortugaalsestraat
 poortugaalseweg
 poortugaalstraat
@@ -6136,7 +6160,6 @@ poortwegje
 poortweide
 poortweijdt
 poortweydt
-poortwijkstoep
 poostweg
 poot van metz
 pootakkerweg
@@ -6158,6 +6181,7 @@ popelmanslaan
 popelstraat
 poperingestraat
 popeweg
+popeyebrug
 popeyepad
 popeyestraat
 popkensburg
@@ -6166,9 +6190,11 @@ popkenweg
 popkereed
 popko bielstraat
 popko ufkensstraat
+popmansbrug
 popmawal
 popmawijk
 popovstraat
+poppebrug
 poppekerkseweg
 poppelaar
 poppeldonk
@@ -6186,7 +6212,7 @@ poppendamseweg
 poppendansbrug
 poppendijke
 poppenharelaan
-poppenh„∫zen
+poppenh√∫zen
 poppenkinderenburgseweg
 poppenoordweg
 poppenroedestraat
@@ -6216,6 +6242,7 @@ populierenkade
 populierenlaan
 populierenlaantje
 populierenpad
+populierenplaats
 populierenplein
 populierenstraat
 populierenweg
@@ -6233,33 +6260,32 @@ porder
 porfier
 porfierdijk
 porfierstraat
-porh„∂rn
+porh√∂rn
 porikweg
 porporastraat
 porrenaerstraat
 porrenhofstraat
+porselein
+porseleinlaan
 porseleinstraat
 porseleinvlinder
+porseleinvlinderstraat
 porseleinzwampad
 port broclede
 port saidweg
 port scaldis
-port z?lande
-port zelande
-port z„©lande
-port-natal ovonde
+port z√©lande
 port-natalplein
 port-natalweg
 port-saidstraat
 porta
 porta basilica
 porta castra
-porta isola
 porta pia
 porta tegula
 porta toga
-portaal
 portalaan
+portapad
 portbeemden
 portelabaan
 portelstraat
@@ -6276,12 +6302,14 @@ portingaweg
 portlanderdijk
 portlandse baan
 portlandse zeedijk
+portlandsebrug
 portlandsepad
 portlandstraat
 portlandweg
 portmawei
 porto buenolaan
 porto genova
+portobello
 portonnekuilstraat
 portoricodreef
 portsmuiden
@@ -6314,13 +6342,12 @@ postakkers
 postbaan
 postberg
 postbodepad
-postbus
+postbrug
 postdam
 postdijk
 postdostrjitte
 postduif
 postduifstraat
-postduifweg
 postduivenveld
 postdwarsweg
 postekampke
@@ -6330,6 +6357,7 @@ postelein
 posteleindreef
 posteleinpad
 posteleinserf
+posteleinstraat
 posteleinveld
 posteleinvlinder
 postelhoekweg
@@ -6361,7 +6389,6 @@ postgang
 postheuvel
 posthoek
 posthoorn
-posthoorngang
 posthoornsbredehoek
 posthoornseweg
 posthoornslak
@@ -6401,6 +6428,7 @@ postmeesterwei
 postpaadje
 postpad
 postpaertstraat
+postrijdersgang
 postsleperstraat
 poststede
 poststeeg
@@ -6447,6 +6475,7 @@ potgieterstraat
 potgieterweg
 pothaarsweg
 pothastlaan
+pothoek
 pothoffstraat
 pothofsweg
 pothofweg
@@ -6458,8 +6487,8 @@ pothstraat
 pothuis
 pothuissteeg
 pothuizerweg
-poth„∫ssyreed
-poth„∫swyk
+poth√∫ssyreed
+poth√∫swyk
 poting
 potjesberg
 potjesdam
@@ -6473,7 +6502,6 @@ potlodenlaan
 potmaat
 potmanpad
 potmanswegeling
-potmanswegelingg
 potmarge
 potmargepaad
 potmargewal
@@ -6482,7 +6510,6 @@ potmeer
 potoven
 potroede
 potronsdijk
-potscherven
 potsenmaker
 potsenweg
 potsgildewegje
@@ -6508,7 +6535,6 @@ pottenbakkerlaan
 pottenbakkerpad
 pottenbakkersdonk
 pottenbakkersgang
-pottenbakkerslaan
 pottenbakkersoven
 pottenbakkerssingel
 pottenbakkerssteegje
@@ -6516,8 +6542,10 @@ pottenbakkersstraat
 pottenbakkerstraat
 pottenbakkersveste
 pottenbakkersweg
+pottenbakster
 pottenbergen
 pottenbergerweg
+pottendijk oz
 pottendijk wz
 pottenkade
 pottenmarkt
@@ -6529,9 +6557,10 @@ potterieplein
 potteriestraat
 potterlaan
 potterpad
+pottersbrug
 potterschans
 potterslaan
-pottersl„¢n
+pottersl√¢n
 pottersplein
 potterspromenade
 pottersstraat
@@ -6556,26 +6585,22 @@ poulencstraat
 pouliestraat
 poulinkstraat
 pouwekamp
-pouwel a. vospad
 pouwel vospad
 pouwelslaan
 pouwelssteeg
 poyckstraat
-po„´zieplantsoen
-po„´ziestraat
+po√´zieplantsoen
+po√´ziestraat
 pr beatrixlaan
-pr bernhardlaan
 pr bernhardstraat
 pr bernhardweg
 pr christinastraat
 pr clauslaan
 pr clausstraat
-pr constantijn promenade
 pr frederik hendrikstraat
 pr hendriklaan
 pr hendrikstraat
 pr irenelaan
-pr johan friso promenade
 pr julianastraat
 pr karelweg
 pr margrietstraat
@@ -6588,11 +6613,8 @@ pr willem alexanderpln
 pr willem alexanderstr
 pr willem alexanderstraat
 pr willem-alexanderstr
-pr. beatrixstraat
+pr. alexander 16
 pr. bernhardstraat
-pr. irenestraat
-pr. margrietstraat
-pr. marijkestraat
 pr. willem-alexanderstraat
 pr.beatrixlaan
 pr.beatrixstraat
@@ -6613,6 +6635,7 @@ praalheuvel
 praam
 praamgracht
 praamkade
+praampad
 praamplein
 praamstraat
 praamweg
@@ -6623,7 +6646,6 @@ praatweg
 pracanalaan
 prachtriet
 prachtvlinders
-prado
 pradolaan
 praebsterkamp
 praediniussingel
@@ -6635,7 +6657,6 @@ prairiegras
 prairievalk
 prakkenlaan
 prakkestraat
-praktizijnruwe
 pramenpad
 prandinga
 prandingaweg
@@ -6670,14 +6691,12 @@ predikherenstraat
 preekberg
 preekherengang
 preekhillaan
-preekweg
-preesterl„¢nswei
+preesterl√¢nswei
 preistingestraat
 preistraat
 preiveld
 prelaat brantenstraat
 prelaat penningsstraat
-prelaat van de bergplein
 prelaat van den bergplein
 prelaat van dinterstraat
 prelaatweg
@@ -6694,7 +6713,6 @@ preludeweg
 prem
 prems
 prenkweg
-prent
 prenthoeve
 prentsnijdershorst
 pres j.f. kennedystraat
@@ -6712,12 +6730,11 @@ president kennedyplantsoen
 president kennedyplein
 president kennedysingel
 president kennedystraat
-president kr„ºgerstraat
+president kr√ºgerstraat
 president paterstraat
 president reitzlaan
 president rooseveltlaan
 president rooseveltstraat
-president rooseveltviaduct
 president rooseveltweg
 president steijnstraat
 president steinstraat
@@ -6751,7 +6768,6 @@ preutelsteeg
 preutersweg
 prevotlaan
 priamoslaan
-priamsingel
 priamuslaan
 priamusstraat
 prickart
@@ -6768,7 +6784,6 @@ prieelvogelweg
 priel
 priem
 priemeind
-priemhoven
 priemkruid
 priempad
 priemsteeg
@@ -6789,18 +6804,16 @@ prikkebeenpad
 prikkebospaid
 prikkedaem
 prikkedam
-prikkeltje
 prikkengat
 prikkenis
 prikker
 prikkewei
+prikklokstraat
 prikkorf
-prikpad
 prikpolder
-prikwaard
+prikwaardweg
 prikwei
 prilleweg
-primausstraat
 primella
 primo levihof
 primula
@@ -6814,7 +6827,6 @@ primulaplein
 primulastraat
 primulatuin
 primulaveld
-primulaweg
 primus van gilspark
 primus van gilsstraat
 primusstraat
@@ -6843,7 +6855,7 @@ princetonlaan
 princetonplein
 princeweg
 principaalhof
-princ„©ehof
+princ√©ehof
 prinkweg
 prins albertlaan
 prins alexandererf
@@ -6853,31 +6865,31 @@ prins alexanderplein
 prins alexanderstraat
 prins alexanderweg
 prins bernardlaan
-prins bernhardbrug
 prins bernhardhoek
 prins bernhardhof
 prins bernhardkade
 prins bernhardlaan
-prins bernhardlaantje
 prins bernhardpark
 prins bernhardplantsoen
 prins bernhardplein
 prins bernhardsingel
 prins bernhardstraat
+prins bernhardviaduct
 prins bernhardweg
 prins bisschoplaan
 prins bisschopsingel
+prins clausbrug
 prins clausdreef
 prins claushof
 prins clauskade
 prins clauslaan
 prins clauspad
-prins clauspark
 prins clausplantsoen
 prins clausplein
 prins claussingel
 prins clausstraat
 prins clausweg
+prins constantijn promenade
 prins constantijnhof
 prins constantijnlaan
 prins constantijnstraat
@@ -6894,11 +6906,12 @@ prins frederikdreef
 prins frederiklaan
 prins frederikplein
 prins frederikstraat
+prins frederikweg
 prins frisohof
 prins frisolaan
 prins frisostraat
 prins frisoweg
-prins hendrikdwarsstraat
+prins hendrikbrug
 prins hendrikerf
 prins hendrikkade
 prins hendriklaan
@@ -6908,6 +6921,7 @@ prins hendrikplein
 prins hendrikstraat
 prins hendrikweg
 prins hessen casselstraat
+prins johan friso promenade
 prins johan frisolaan
 prins johan frisoplaats
 prins johan frisostraat
@@ -6931,11 +6945,12 @@ prins van lignestraat
 prins van luikstraat
 prins van oranje
 prins van oranjelaan
-prins van oranjepassage
 prins van oranjestraat
 prins van wiedlaan
 prins willem alexander plantsoen
+prins willem alexander promenade
 prins willem alexander sportpark
+prins willem alexanderbrug
 prins willem alexanderdijk
 prins willem alexanderhof
 prins willem alexanderlaan
@@ -6948,12 +6963,10 @@ prins willem v straat
 prins willem van oranjehof
 prins willem van oranjelaan
 prins willem van oranjestraat
-prins willem van oranjestraatt
 prins willem-alexander kade
 prins willem-alexanderhof
 prins willem-alexanderlaan
 prins willem-alexanderln
-prins willem-alexanderpad
 prins willem-alexanderpark
 prins willem-alexanderplantsoen
 prins willem-alexanderplein
@@ -6971,6 +6984,7 @@ prins-bernhardstraat
 prins-mauritslaan
 prinsbisdomstraat
 prinschelaan
+prinsebrug
 prinsegracht
 prinseheuvellaan
 prinsehoeflaan
@@ -6978,14 +6992,16 @@ prinsekaai
 prinsekade
 prinsemolenpad
 prinsen bolwerk
-prinsen schouw
+prinsen hoven
 prinsenbaan
 prinsenbaan zijpad-oost
+prinsenbeemd
 prinsenberg
 prinsenbos
 prinsenbosch
 prinsenboschlaan
 prinsenboslaan
+prinsenbrug
 prinsenburg
 prinsendaalder
 prinsendaalderhof
@@ -7000,6 +7016,7 @@ prinsenhil
 prinsenhoef
 prinsenhoefstraat
 prinsenhoek
+prinsenhoevebrug
 prinsenhoeven
 prinsenhof
 prinsenhofje
@@ -7013,8 +7030,8 @@ prinsenkade
 prinsenkamp
 prinsenkampsweg
 prinsenlaan
+prinsenland
 prinsenlandsepad
-prinsenliefhebbersgang
 prinsenmaatweg
 prinsenpad
 prinsenpark
@@ -7025,6 +7042,7 @@ prinsenpolderflat
 prinsenpolderstraat
 prinsenpoort
 prinsensingel
+prinsensluis 0060
 prinsenstal
 prinsensteeg
 prinsensteerten
@@ -7036,39 +7054,37 @@ prinsenweer
 prinsenweg
 prinsenweide
 prinsenweier
-prinsenzeeg
 prinsepark
 prinses alexia julianapad
+prinses alexia promenade
 prinses alexiahof
 prinses alexialaan
 prinses alexiastraat
 prinses amalia hoek
+prinses amalia promenade
+prinses amaliabrug
 prinses amaliahof
 prinses amalialaan
 prinses amaliapad
-prinses amaliapark
 prinses amaliaplaats
 prinses amaliaplantsoen
 prinses amaliaplein
 prinses amaliasingel
 prinses amaliastraat
-prinses amaliaviaduct
 prinses annalaan
+prinses ariane promenade
 prinses ariane wilhelminapad
 prinses arianehof
 prinses arianelaan
 prinses arianepad
 prinses arianestraat
 prinses beatrixdreef
-prinses beatrixhaven
 prinses beatrixhof
 prinses beatrixkade
 prinses beatrixlaan
-prinses beatrixpad
 prinses beatrixpark
 prinses beatrixplantsoen
 prinses beatrixplein
-prinses beatrixsingel
 prinses beatrixsluis
 prinses beatrixstraat
 prinses beatrixweg
@@ -7079,7 +7095,6 @@ prinses catharina-amalialaan
 prinses catharina-amaliaplein
 prinses catharina-amaliastraat
 prinses christinalaan
-prinses christinaplantso
 prinses christinaplantsoen
 prinses christinaplein
 prinses christinastraat
@@ -7109,10 +7124,9 @@ prinses margrietlaan
 prinses margrietpad
 prinses margrietplantsoen
 prinses margrietplein
-prinses margrietplnts
 prinses margrietsingel
 prinses margrietstraat
-prinses margrietstraatt
+prinses margriettunnel
 prinses margrietweg
 prinses margrietwijk
 prinses maria stuartstraat
@@ -7135,14 +7149,12 @@ prinses maximahaven
 prinses maximalaan
 prinses maximaplein
 prinses maximastraat
-prinses maximaweg
-prinses m„°xima-erf
-prinses m„°ximahof
-prinses m„°ximaplein
-prinses m„°ximasingel
-prinses m„°ximastraat
-prinses m„°ximaweg
-prinses paulineweg
+prinses m√°xima-erf
+prinses m√°ximahof
+prinses m√°ximaplein
+prinses m√°ximasingel
+prinses m√°ximastraat
+prinses m√°ximaweg
 prinses van lotharingenstraat
 prinses van polenstraat
 prinses wilhelminalaan
@@ -7150,13 +7162,9 @@ prinses wilhelminasingel
 prinses wilhelminastraat
 prinses wilhelminaweg
 prinses-beatrixlaan
-prinses-beatrixweg
 prinses-irenelaan
-prinses-irenestraat
 prinses-margrietlaan
-prinses-margrietstraat
 prinses-marijkelaan
-prinses-marijkestraat
 prinsesappel
 prinsessegracht
 prinsessekade
@@ -7200,7 +7208,6 @@ prior teeuwenstraat
 prior van milstraat
 priorhof
 priorij
-priorijlaan
 priorindreef
 priorlaan
 priorstraat
@@ -7215,17 +7222,15 @@ prismastraat
 pritterweg
 privaslaan
 privaspad
-pri„´el
+pri√´el
 pro patriastraat
 processiepark
 processiesteeg
 processievoetpad
 processieweg
 processieweg-oost
-processieweg-west
 processorstraat
 proculusstraat
-procureursdreef
 procureurweg
 productiepad
 productiestraat
@@ -7234,13 +7239,14 @@ productweg
 produksjewei
 produktiestraat
 produktieweg
-proefeilandpark
 proefpolder
 proefsteen
 proeftoenpad
 proeftuin
 proeftuinlaan
 proeftuinweg
+proeft√∫n
+proefveldweg
 proekshof
 prof aalberselaan
 prof aalbersestraat
@@ -7251,13 +7257,8 @@ prof dr c winklerstraat
 prof dr cleveringastraat
 prof dr geziena van der molenstraat
 prof dr j e bogaerslaan
-prof feldmannweg
-prof feldmanweg
 prof gerbrandyplein
-prof granpre molierelaan
-prof j bogaerslaan
 prof klaas steurplantsoen
-prof linssenlaan
 prof mekelstraat
 prof mulderslaan
 prof ridderbosstraat
@@ -7276,6 +7277,7 @@ prof. asserlaan
 prof. asserstraat
 prof. asserweg
 prof. beelhoek
+prof. berghoefweg
 prof. bijhouwerstraat
 prof. bijvoetlaan
 prof. blinkweg
@@ -7310,12 +7312,9 @@ prof. dr. j.d. v.d. waalsweg
 prof. dr. j.h. van 't hoffweg
 prof. dr. kramerslaan
 prof. dr. m. w. beyerinckstraat
-prof. dr. m.g.m. embrechtslaan
 prof. dr. magnuslaan
 prof. dr. obbinkstraat
 prof. dr. ornsteinlaan
-prof. dr. p. rompus ramos olivariumpad
-prof. dr. p. rompus ramos olivariumpad
 prof. dr. p. rompus ramos olivariumpad
 prof. dr. p. zeemanweg
 prof. dr. p.j. crutzenlaan
@@ -7341,8 +7340,8 @@ prof. fischerlaan
 prof. fockema andreaelaan
 prof. gerbrandylaan
 prof. gerbrandystraat
-prof. granpr„© moli„®relaan
-prof. granpr„© moli„®restraat
+prof. granpr√© moli√®relaan
+prof. granpr√© moli√®restraat
 prof. grijnslaan
 prof. gunninglaan
 prof. h. bavinckstraat
@@ -7352,17 +7351,15 @@ prof. heymansstraat
 prof. hofsteestraat
 prof. holwardastrjitte
 prof. hoogewerfflaan
-prof. horowitzstraat
 prof. huetlaan
-prof. huetstraat
 prof. hugo de vrieslaan
-prof. hu„®tstraat
-prof. hu„´tstraat
+prof. huizingastraat
+prof. hu√´tstraat
 prof. j.h. bavincklaan
 prof. j.w. dieperinklaan
 prof. jan bronnerlaan
 prof. johanna westerdijklaan
-prof. jonkerlaan
+prof. johanna westerdijkstraat
 prof. jordanlaan
 prof. jordanpad
 prof. junkerslaan
@@ -7414,9 +7411,9 @@ prof. oudflat
 prof. oudlaan
 prof. oudpark
 prof. oudstraat
-prof. p. s. gerbrandyweg
 prof. p.h. buismanlaan
 prof. p.j. blokstraat
+prof. p.s. gerbrandyweg
 prof. paul scholtenlaan
 prof. pellaan
 prof. ph. kohnstammstraat
@@ -7435,7 +7432,7 @@ prof. rommeflat
 prof. rommehoek
 prof. rommelaan
 prof. rutgersstraat
-prof. r„∂ntgenstraat
+prof. r√∂ntgenstraat
 prof. schermerhornlaan
 prof. schermerhornpark
 prof. schermerhornstraat
@@ -7462,6 +7459,7 @@ prof. thurlingsstraat
 prof. tinbergenlaan
 prof. titus brandsmalaan
 prof. titus brandsmastr
+prof. titus brandsmastraat
 prof. treubstraat
 prof. tulpplein
 prof. tulpstraat
@@ -7511,8 +7509,6 @@ prof.b.fridsmastrjitte
 prof.cobbenhagenstraat
 prof.dr. j.e. de quaystraat
 prof.dr.b.l. feringadam
-prof.dr.m.w.beyerinckstr
-prof.dr.titus brandsmaln
 prof.h.c. van hallpad
 prof.h.c. van hallstraat
 prof.mr. b.m. teldersstraat
@@ -7532,7 +7528,6 @@ professor asselbergsstraat
 professor asserlaan
 professor asserstraat
 professor b. m. teldersweg
-professor b. m.teldersweg
 professor bellefroidstraat
 professor blokstraat
 professor boerhaaveweg
@@ -7541,7 +7536,6 @@ professor boumanstraat
 professor brandsmaweg
 professor bromstraat
 professor bronkhorstlaan
-professor brouwerdreef
 professor brouwerlaan
 professor brummelkampstraat
 professor camperstraat
@@ -7554,8 +7548,7 @@ professor cobbenhagenstraat
 professor cornelissenstraat
 professor crahaystraat
 professor cumulusstraat
-professor d bl„©courtstraat
-professor d bl„©courtstraat.
+professor d bl√©courtstraat
 professor de jongstraat
 professor de langen wendelsstraat
 professor de moorplein
@@ -7579,7 +7572,7 @@ professor eykmanhof
 professor gelissensingel
 professor gelissenstraat
 professor gerbrandyweg
-professor gimbr„®relaan
+professor gimbr√®relaan
 professor goossenslaan
 professor hanneronstraat
 professor henketplein
@@ -7612,7 +7605,7 @@ professor kouwerstraat
 professor krausstraat
 professor lorentzlaan
 professor lorentzstraat
-professor lor„©straat
+professor lor√©straat
 professor lupardistraat
 professor martensstraat
 professor mekelstraat
@@ -7653,13 +7646,13 @@ professor struijckenstraat
 professor teldersstraat
 professor terlingenstraat
 professor thomassenstraat
-professor titus brandsmalaan
 professor tydemanstraat
 professor uilkensweg
 professor ulricus huberstraat
 professor van 't hofflaan
 professor van benedenstraat
 professor van buchemlaan
+professor van de brinkstraat
 professor van der grintenlaan
 professor van der grintenstraat
 professor van der heijdenstraat
@@ -7669,9 +7662,7 @@ professor van der veldenstraat
 professor van der waalslaan
 professor van der waalspad
 professor van der waalsstraat
-professor van der waalsstraat
 professor van ginnekenstraat
-professor van groesbeekstraat
 professor van italliestraat
 professor van melsenpad
 professor van reeslaan
@@ -7679,15 +7670,14 @@ professor van swindenstraat
 professor van tillweg
 professor van weliestraat
 professor vd veldenstraat
-professor vd waalsstr
 professor venemastraat
 professor verbernelaan
 professor vitringastraat
-professor von k„°rm„°nstraat
+professor von k√°rm√°nstraat
 professor wassenberghplein
 professor wassenberghstraat
 professor waterinkstraat
-professor w„∂belstraat
+professor w√∂belstraat
 professor zeemanplantsoen
 professor zeemanstraat
 professor zernikelaan
@@ -7703,12 +7693,13 @@ prokofjevpad
 prokofjevstraat
 prolkade
 promenade
+promenade park
 promenadelaan
 promenadepad
 promenadeplein
 prometheusplein
 prometheusstraat
-prommeh„¥f
+prommeh√¥f
 promotor
 pronckstraat
 pronkenburg
@@ -7742,6 +7733,7 @@ proost hugostraat
 proost richardstraat
 proost willemstraat
 proostdijerdwarsweg
+proostdijlaan
 proostdijlaantje
 proostdijsteeg
 proostdijstraat
@@ -7750,7 +7742,6 @@ proostdijweg
 proostenhof
 proostensteeg
 proostenweg
-proosthof
 prooststraat
 proostweg
 proostwetering
@@ -7759,9 +7750,10 @@ propaanweg
 propellerpad
 propellerstraat
 properziastraat
+propijn
+propstrasingel
 propusstraat
 proserpinestraat
-prosperweg
 prosperweg i
 prosperweg ii
 prossinkhof
@@ -7769,12 +7761,15 @@ protonenlaan
 protonstraat
 protonweg
 protterpraat
-protterstrjitte
+prov
+prov weg
+prov wg
 provence
 provencehof
 provencelaan
 provencestraat
 proveniersblok
+proveniersbrug
 proveniershof
 proveniershuis
 provenierslaan
@@ -7786,36 +7781,45 @@ proveniersstraat
 provenierstraat
 proveniersveld
 provinciaal fietspad
-provinciale  weg
+provinciale rondweg
 provinciale straatweg
 provinciale weg
-provinciale weg
-provinciale weg n 252
+provinciale weg - oost
 provinciale weg n206
 provinciale weg n216
 provinciale weg n310
+provinciale weg n366
+provinciale weg n374
 provinciale weg n375
+provinciale weg n381
+provinciale weg n391
 provinciale weg n851
 provinciale weg oost
-provinciale weg oost
 provinciale weg roermond-posterholt
-provinciale weg s1
-provinciale weg west
 provinciale weg zuid
 provincialeweg
+provincialeweg - oost
+provincialeweg -oost
+provincialeweg 338
+provincialeweg 5
 provincialeweg n201
 provincialeweg n205
 provincialeweg n214
-provincialeweg n216
+provincialeweg n215
 provincialeweg n267
-provincialeweg n293
-provincialeweg n302
+provincialeweg n276
+provincialeweg n281
+provincialeweg n317
 provincialeweg n320
 provincialeweg n332
+provincialeweg n338
+provincialeweg n340
+provincialeweg n361
 provincialeweg n428
+provincialeweg n452
+provincialeweg n482
 provincialeweg noord
 provincialeweg oost
-provincialeweg purmerend-buitenhuizen
 provincialeweg west
 provincialeweg westzaan-westgraftdijk
 provincialeweg zaandam-castricum
@@ -7823,19 +7827,20 @@ provincialeweg zuid
 provincialeweg zuna
 provincialeweg-oost
 provincialeweg-zuid
+provincialewg
+provincialewg n361
 provincienlaan
-provinciepassage
 provincieroute
 provincieweg
-provinci„´nbaan
-provinci„´nlaan
+provinci√´nbaan
+provinci√´nlaan
 provisoriestraat
 provisorstraat
 provooststraat
+provwg
 prozastraat
 prozeeweg
 prudens van duysestraat
-prudhommestraat
 pruikemakersdreef
 pruikenmakerstraat
 pruikmakershoek
@@ -7862,7 +7867,6 @@ pruimestraat
 pruimlaan
 pruisenbergen
 pruisenpad
-pruisenstraat
 pruisisch blauw
 pruisische veldweg
 pruiskesweg
@@ -7875,7 +7879,7 @@ prunus
 prunusdreef
 prunushage
 prunushof
-prunush„¥f
+prunush√¥f
 prunuskade
 prunuslaan
 prunuspad
@@ -7887,25 +7891,22 @@ prutweg
 pruylenborg
 prysterikker
 prystershoek
-pr„©vinairestraat
-pr„©vinaireweg
-pr„ºgelweg
-pr„ºmelaan
+pr√©vinairestraat
+pr√©vinaireweg
+pr√ºgelweg
+pr√ºmelaan
 pskovlaan
 psv-laan
 psv-paadje
-psvlaan
 ptolemaeuslaan
 ptolemaeusstraat
 ptr hafkenscheidstraat
-ptr van den elsenstraat
 ptt straat
 puccini
 puccinidreef
 puccinihof
 puccinilaan
 puccinipad
-puccinipassage
 pucciniplaats
 pucciniplein
 puccinistraat
@@ -7914,7 +7915,9 @@ pucklaan
 puddelerweg
 pudongstraat
 pudongweg
+puente jans brug
 puerto ricostraat
+puffelinckpad
 puiflijkpad
 puijendijk
 puik en duin
@@ -7927,20 +7930,25 @@ puitsestraat
 puitstraat
 puivenakkerweg
 pukweg
+pullawaypad
+pullebok
 pullegang
 pullen
 pullestraat
 pullstraat
+pulmonaria
 pulpehoeve
 pulperdonk
-pulsi balonishof
 pulsstraat
+pulsterstraat
 pultrumpaed
 pulverplaats
 pulvertorenstraat
+pumoriplein
 punder
 pundershoeve
 pungel
+punseliehof
 punt
 punt sniep
 puntbeekweg
@@ -7989,17 +7997,18 @@ punter 48
 punter 49
 punterdiep
 punterhof
+punterpad
 punterspad
 punterstraat
 puntersweg
 punterweg
 punterwerf
+puntgorspad
 punthuizerweg
 puntkolk
 puntkroos
 puntmos
 puntmosstraat
-puntpad
 puntpoortstraat
 puntstraat
 puntweg
@@ -8010,19 +8019,23 @@ purcellpad
 purcellstraat
 purmer
 purmer zuidlaantje
+purmerbos
 purmerbospad
 purmerdijk
 purmerdijk e
 purmerdijk m
+purmerend 5
+purmerend-noord 6
+purmerend-zuid 4
 purmerenderweg
 purmerenderweg m
 purmerendstraat
-purmerhoek
 purmerhof
 purmerlaan
 purmerland
 purmerpad
 purmerplein
+purmerringvaart
 purmersteenweg
 purmerstraat
 purmerweg
@@ -8031,6 +8044,7 @@ purperbeer
 purperforel
 purperhei
 purperhoedenveem
+purperorchidee
 purperregenstraat
 purperreiger
 purperreigerlaan
@@ -8041,7 +8055,6 @@ purpervlinderstraat
 purperwier
 purus
 pustheiweg
-pustweg
 putakker
 putbergstraat
 putbergweg
@@ -8056,12 +8069,10 @@ putgang
 putgats
 putgenkske
 putgraaf
-putherberg
 putherweg
 puthoeke
 puthoekseweg
 puthof
-putjesweg
 putkamp
 putkilweg
 putkop
@@ -8083,16 +8094,18 @@ putskamp
 putsmastins
 putsmolentje
 putsteeg
+putsteegje
 putstraat
 putsvoetpad
+putswalsterlaan
 putsweg
 putsweggerveldweg
+putte
 puttelaan
 puttelaar
 putten
 puttendijk
 puttenerallee
-puttenerdijk
 puttenerdijkje
 puttenerpad
 puttenkamppad
@@ -8100,7 +8113,6 @@ puttenkampstraat
 puttenpostweg
 puttensedreef
 puttensestraat
-puttensteeg
 puttenstein
 puttensteinsveldweg
 puttenstraat
@@ -8118,6 +8130,7 @@ putterpad
 putterplaats
 putterplantsoen
 putterplein
+putterringdijk
 puttersakker
 puttersbos
 puttersbospad
@@ -8136,6 +8149,7 @@ putterweg
 putteweye
 putting
 puttingstraat
+puttingweg
 puttmanskrib
 putveestraat
 putveld
@@ -8156,20 +8170,20 @@ pygmalionhof
 pygmalionlaan
 pygmalionpad
 pygmalionstraat
-pyke kochlaan
 pyke kochpad
 pykeswegje
 pylkwiersterpaad
 pyloon
 pylsstraatje
 pynasplein
+pynebrug
 pynepoort
 pynssen van der aalaan
 pyntorenstraat
 pypkedyk
 pypkewei
 pypsterbuorren
-pypsterh„¥f
+pypsterh√¥f
 pypsterstikke
 pypsterwei
 pyramide
@@ -8177,12 +8191,9 @@ pyramideboomgaard
 pyramidedreef
 pyramideweg
 pyramusstraat
-pyree„´nlaan
-pyreneeenlaan
-pyrenee„´n
-pyrenee„´nlaan
-pyrenee„´nstraat
-pyrene„´nlaan
+pyrenee√´n
+pyrenee√´nlaan
+pyrenee√´nstraat
 pyriet
 pyrietstraat
 pyrmontstraat
@@ -8199,20 +8210,21 @@ pythagorasplantsoen
 pythagorasstraat
 pythagorasweg
 pytheas
+pythonbrug
 pythonstraat
-pytsjep„¥lle
-p„®se schorre
-p„© hawinkelsstraat
-p„©rigordlaan
-p„¥le
-p„¥lewei
-p„¥lle
-p„¥llepaed
-p„¥llereed
-p„¥llesingel
-p„¥llewei
-p„∂ppinkpad
-p„∂ttersweg
-p„∫ndyk
-p„ªsterpaad
-p„ªsterwei
+pytsjep√¥lle
+p√®se schorre
+p√© hawinkelsstraat
+p√©rigordlaan
+p√¥le
+p√¥lewei
+p√¥lle
+p√¥llepaed
+p√¥llereed
+p√¥llesingel
+p√¥llewei
+p√∂ppinkpad
+p√∂ttersweg
+p√∫ndyk
+p√ªsterpaad
+p√ªsterwei

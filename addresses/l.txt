@@ -1,9 +1,11 @@
+l dijk
 l j m beelplein
-l janszn. kosterstr
+l klein keulevaart
 l manintveldstraat
+l meentweg
+l reeweg
 l verdoornstraat
 l w de blecourtstraat
-l&#252;beck
 l'amistraat
 l'exitpad
 l'ortyestraat
@@ -15,7 +17,6 @@ l. hagedoornstraat
 l. hillesumstraat
 l. huismanstraat
 l. meijerstraat
-l. pasteurweg
 l. pietersestraat
 l. roodbaardstraat
 l. rotgansstraat
@@ -27,22 +28,21 @@ l. springerstraat
 l. ten catelaan
 l. van berkstraat
 l. van deijsselstraat
+l. van der linde albertszoonw
 l. van der veenstraat
 l. van der wielstraat
 l. van sonsbeeckstraat
 l. van vuurdestraat
 l. van wijkplein
 l. verweelstraat
-l. von bã¶nninghausenstraat
+l. von bÃ¶nninghausenstraat
 l. wijersstraat
 l. wildschutstraat
 l. wilkensstraat
-l. wilkenstraat
 l. zocherplantsoen
 l.a. braakstraat
 l.b. pearsonstraat
 l.c. van der vlugtstraat
-l.c. van der vlugtweg
 l.g. molenaarstraat
 l.h. pottstraat
 l.j. costerstraat
@@ -50,7 +50,6 @@ l.j. imminkstraat
 l.j. timmerstraat
 l.j. zielstraweg
 l.j.a. hoogenboomstraat
-l.j.e. kreuknietlaan
 l.j.m. beelstraat
 l.m. van noppenstraat
 l.o.-laan
@@ -59,14 +58,12 @@ l.ph. michonlaan
 l.r. beijnenlaan
 l.stekstraat
 l.t.m.-weg
-la bohemeplantsoen
-la bohemestraat
-la bohã¨medreef
-la bohã¨meplantsoen
+la bohÃ¨medreef
+la bohÃ¨meplantsoen
 la bonne aventure
 la courtinehof
 la croixstraat
-la dã©fense
+la dÃ©fense
 la fontaineplein
 la fontainestraat
 la guardiaweg
@@ -76,7 +73,7 @@ la pazdreef
 la pazstraat
 la reinelaan
 la reinestraat
-la riviã¨restraat
+la riviÃ¨restraat
 la travee
 la traviata
 la traviatadreef
@@ -85,10 +82,9 @@ laacertstraat
 laad en zaad
 laadweg
 laafnet
-laag abbenraay veldweg
 laag bolwerk
-laag boskoop
 laag dalemseweg
+laag geldrop
 laag gubbelstraat
 laag heukelomseweg
 laag mosae forum
@@ -96,7 +92,6 @@ laag raadstede
 laag spul
 laag strijp
 laag vaartje
-laag veldweg
 laag vonderen
 laag werveld
 laag zand
@@ -108,7 +103,6 @@ laagakker
 laagakkerstraat
 laagakkerweg
 laagbos
-laagboskoopseweg
 laagbroekseweg
 laagbroekstraat
 laagduurswoude
@@ -125,7 +119,6 @@ laagerfseweg
 laagewei
 laagfrankrijk
 laaghagen
-laaghalen
 laaghalerstraat
 laaghalerveen
 laaghalerveld
@@ -168,6 +161,7 @@ laagveldsestraat
 laagven
 laagwaalderweg
 laagwater
+laagwebrigervoetpad
 laagweg
 laagzijde
 laaibeemden
@@ -177,12 +171,14 @@ laakboulevard
 laakdijk
 laakduiker
 laakerveld
+laakhof
 laakkade
 laakmorsweg
 laakoever
 laakpad
 laakse dam
 laakse eind
+laakse hoek
 laakse hof
 laakse laan
 laakse oever
@@ -212,13 +208,11 @@ laan 1944
 laan 1945
 laan 1948
 laan 1954
-laan 40-45
 laan ampsen
 laan bloys van treslong
-laan blussã© van oud alblas
+laan blussÃ© van oud alblas
 laan copes van cattenburch
 laan corpus den hoorn
-laan d verenigde naties
 laan de goede herder
 laan de wijze
 laan der artillerie
@@ -226,6 +220,7 @@ laan der boede
 laan der bronstijd
 laan der commando's
 laan der continenten
+laan der draverij
 laan der hesperiden
 laan der hoven
 laan der ijzertijd
@@ -253,7 +248,6 @@ laan hart van zuid
 laan hertewijk
 laan hofrust
 laan in 't oosten
-laan in de drink
 laan in den drink
 laan leijdekkers
 laan naar 't klooster
@@ -264,7 +258,7 @@ laan nieuwer-amstel
 laan olieslagers
 laan ons genoegen
 laan op zuid
-laan oud-indiã«gangers
+laan oud-indiÃ«gangers
 laan rozenburg
 laan te blotinghe
 laan te rhijnhof
@@ -275,12 +269,10 @@ laan ten rode
 laan ten roode
 laan ter catten
 laan tussen land en tuin
-laan va sofia
 laan van 's-gravenhout
 laan van 's-gravenmade
 laan van 't haantje
 laan van adrichem
-laan van aida
 laan van albert's hoeve
 laan van algarve
 laan van alkemade
@@ -294,16 +286,16 @@ laan van arenstein
 laan van assumburg
 laan van athene
 laan van athlone
-laan van australiã«
+laan van australiÃ«
 laan van avant-garde
 laan van avegoor
-laan van aã¯da
+laan van aÃ¯da
 laan van barbestein
 laan van barcelona
 laan van bath
 laan van beek en royen
 laan van beens
-laan van belgiã«
+laan van belgiÃ«
 laan van bentvelsen
 laan van berendrecht
 laan van bergama
@@ -319,9 +311,7 @@ laan van blois
 laan van blommerweert
 laan van blotenburg
 laan van boekesteijn
-laan van boer bos
 laan van bol'es
-laan van bordeaux
 laan van boreel
 laan van borgele
 laan van borgvliet
@@ -368,11 +358,7 @@ laan van de poolse brigade
 laan van de ram
 laan van de rode baretten
 laan van de sport
-laan van de sterrenbeelden
 laan van de stier
-laan van de verenigde provinci?n
-laan van de verenigde provincien
-laan van de verenigde provinciã«n
 laan van de vrede
 laan van de vrijheid
 laan van decima
@@ -382,7 +368,6 @@ laan van delfvliet
 laan van denizli
 laan van der kroft
 laan van deshima
-laan van devon
 laan van diaspora
 laan van dick laan
 laan van diepenvoorde
@@ -406,9 +391,9 @@ laan van eschede
 laan van europa
 laan van everswaard
 laan van fasna
-laan van florence
 laan van floris de vijfde
 laan van frans
+laan van galesloot
 laan van gherwin
 laan van gildestein
 laan van grebenstein
@@ -418,11 +403,12 @@ laan van gunterstein
 laan van haagvliet
 laan van haamstede
 laan van havezathen
+laan van hebron
 laan van heemstede
 laan van heldenburg
 laan van henegouwen
 laan van henkenshage
-laan van het indisch verzet
+laan van herstel
 laan van het kinholt
 laan van het kwekebos
 laan van het omniversum
@@ -434,11 +420,11 @@ laan van hooglede
 laan van hoogwolde
 laan van hoornwijck
 laan van hout
-laan van hã¶vell tot westerflier
-laan van indiã«
+laan van hÃ¶vell tot westerflier
+laan van indiÃ«
 laan van insulinde
 laan van iserlohn
-laan van kanaã¤n
+laan van kanaÃ¤n
 laan van kans
 laan van kernhem
 laan van kerschoten
@@ -455,7 +441,7 @@ laan van kovelswade
 laan van kronenburg
 laan van kuipershof
 laan van kvl
-laan van kã¸ge
+laan van kÃ¸ge
 laan van laag kanje
 laan van langenhorst
 laan van langerhuize
@@ -463,6 +449,8 @@ laan van lansbergen
 laan van leeuwenstein
 laan van leeuwesteyn
 laan van leidschenveen
+laan van leijenburg
+laan van leijvennen
 laan van lekkerkerk
 laan van lezoux
 laan van lichtenberg
@@ -475,7 +463,8 @@ laan van luxemburg
 laan van maarschalkerweerd
 laan van magisch realisme
 laan van malkenschoten
-laan van mariã«ndael
+laan van marckenburg
+laan van mariÃ«ndael
 laan van maten
 laan van mathenesse
 laan van mecklenburg
@@ -495,13 +484,11 @@ laan van neder helbergen
 laan van nederhoven
 laan van nieuw blankenburg
 laan van nieuw groenhove
-laan van nieuw land
 laan van nieuw meerten
 laan van nieuw oosteinde
 laan van nieuw rozenburg
 laan van nieuw-guinea
-laan van nieuw-oost-indiã«
-laan van nieuw-rozenburg
+laan van nieuw-oost-indiÃ«
 laan van nieuw-zeeland
 laan van nieuw-zuid
 laan van nieuwenhove
@@ -512,12 +499,13 @@ laan van nootdorp
 laan van norfolk
 laan van norma
 laan van nuenhem
-laan van oceaniã«
-laan van oost-indiã«
+laan van oceaniÃ«
+laan van oost-indiÃ«
 laan van oostenburg
 laan van oostergeest
+laan van oranje-nassau
 laan van orden
-laan van osnabrã¼ck
+laan van osnabrÃ¼ck
 laan van osseveld
 laan van othene
 laan van oud raadwijk
@@ -560,13 +548,15 @@ laan van sarajevo
 laan van sarsina
 laan van scheltema
 laan van scheut
+laan van schonauwen
 laan van schuylenburch
-laan van schã¶ndeln
+laan van schÃ¶ndeln
 laan van seldensate
 laan van selis
 laan van sevenstar
 laan van sint jan
 laan van sion
+laan van sizo
 laan van snelrewaard
 laan van soestbergen
 laan van sofia
@@ -580,7 +570,7 @@ laan van straatsburg
 laan van suchtelen van de haare
 laan van surrey
 laan van swaensteijn
-laan van tasmaniã«
+laan van tasmaniÃ«
 laan van tata
 laan van tergooi
 laan van tolkien
@@ -597,16 +587,14 @@ laan van vijverberg
 laan van vlaanderen
 laan van vogelenzang
 laan van vollenhove
-laan van vollering
 laan van voorburg
 laan van vredenoord
 laan van vredestein
 laan van waalhaven
 laan van walburg
-laan van walloniã«
+laan van walloniÃ«
 laan van warschau
 laan van wateringse veld
-laan van wateringseveld
 laan van welgelegen
 laan van welhorst
 laan van weltevreden
@@ -628,13 +616,14 @@ laan van zeeman
 laan van zeestraten
 laan van zevenhuizen
 laan van zodiak
+laan van zon en schild
 laan van zonnehoeve
 laan van zuid hoorn
 laan van zuidbroek
 laan van zuiderhoeven
 laan van zuilenveld
+laan van zusters van jmj
 laan van zwethof
-laan vaticaanstad
 laan walcheren
 laan weldadigheid
 laanacker
@@ -656,8 +645,6 @@ laantje
 laantje achter wilhelmina
 laantje naar parijs
 laantje van alberts
-laantje van alverna
-laantje van andorra la vella
 laantje van anton pieck
 laantje van bakker
 laantje van battenoord
@@ -668,7 +655,6 @@ laantje van bruijn
 laantje van calis
 laantje van cumberland
 laantje van daantje
-laantje van de 14 uilen
 laantje van de jong
 laantje van de lapjeskat
 laantje van de spin sebastiaan
@@ -682,23 +668,20 @@ laantje van heijenbrock
 laantje van het schaap veronica
 laantje van hilhorst
 laantje van hynckes
-laantje van israels
-laantje van israã«ls
+laantje van israÃ«ls
 laantje van jetses
 laantje van kaarsgaren
 laantje van kempen
-laantje van korteweg
 laantje van laguna
 laantje van lasonder
 laantje van levenslust
 laantje van loeber
 laantje van majoor
-laantje van mannoury
-laantje van mater
 laantje van middenhoeve
 laantje van moerman
 laantje van osnabrugge
 laantje van osterhaus
+laantje van over holland
 laantje van oversteegen
 laantje van peel
 laantje van pieter bas
@@ -716,11 +699,12 @@ laantje van vos
 laantje van vredebest
 laantje van westdorp
 laantje van westerbro
-laantje van westerbroâ â 
 laantje zonder eind
 laantjespad
 laantjesweg
+laanweer
 laanweg
+laanwijk
 laanzicht
 laanzichtstraat
 laanzichtsweg
@@ -732,7 +716,6 @@ laapersweg
 laar
 laar-enk
 laarakker
-laarakker noord
 laarakkerdijk
 laarakkerstraat
 laarakkerweg
@@ -748,12 +731,13 @@ laarderschans
 laarderweg
 laardijk
 laardonk
+laareindse loop
 laaressingel
 laaresstraat
-laarestunnel
 laarhoeksweg
 laarhof
 laarhofplein
+laarhoven
 laarhuisweg
 laarkamp
 laarmanhof
@@ -761,7 +745,9 @@ laarmanskamp
 laarmanstraat
 laarmanweg
 laarpark
+laarplein
 laarsdijk
+laarse dam
 laarse heistraat
 laarsepad
 laarseweg
@@ -778,6 +764,10 @@ laarwoudpad
 laarwoudstraat
 laarwout
 laarzenmakerstraat
+laarzenpad
+laarzenpad 1
+laarzenpad 2
+laarzenpad 3
 laat
 laatbank
 laatbankstraat
@@ -788,22 +778,28 @@ laathofpad
 laathofruwe
 laathofstraat
 laathovenlaan
+laatstebrug
+laatvliegerpad
 laatweg
 laauwikpad
 laauwikstraat
+laaxumerdijk
 laaxumstraat
 labadistendyk
 laban deurloostraat
+labbegat
 labbegatsevaartweg
 labdiekpad
 labeurweg
+labor vincitpad
+labor vincitplantsoen
 labora
 laboratoriumplein
 laboratoriumstraat
 laboratoriumweg
 laborweg
-labouchã¨relaan
-labourã©straat
+labouchÃ¨relaan
+labourÃ©straat
 labradordreef
 labradoriet
 labradorietdreef
@@ -811,10 +807,12 @@ labradorstroom
 labriehof
 labrijnstraat
 labroek
+labyrint
 labyrintstraat
 lachappellestraat
-lacomblã©straat
+lacomblÃ©straat
 lacon
+lacourdestede
 lactariaweg
 ladderbaai
 ladderbeekstraat
@@ -830,6 +828,7 @@ laeken van burenstraat
 laekerbospad
 laekwerterwei
 laene
+laerd
 laerd en saerd
 laerveld
 laervoetpad
@@ -881,6 +880,7 @@ lage elt
 lage eltenseweg
 lage engweg
 lage enkweg
+lage erfbrug
 lage esch
 lage eschweg
 lage esweg
@@ -912,9 +912,9 @@ lage horst
 lage huis
 lage inkweg
 lage kamp
-lage kamp
 lage kanaaldijk
 lage kant
+lage kantweg
 lage kaviksweg
 lage klappenberg
 lage klompweg
@@ -950,14 +950,12 @@ lage nieuwstraat
 lage oldersdijk
 lage pad
 lage panakker
-lage park
 lage raam
 lage rampertseweg
 lage randweg
 lage riem
 lage rijndijk
 lage schaafsebosweg
-lage schaft
 lage scheiddijk
 lage schoense
 lage sluiswal
@@ -974,18 +972,15 @@ lage veld
 lage velden
 lage veldweg
 lage vierschaar
-lage vijver
 lage vlakte
 lage vlakteweg
 lage vleutweg
 lage vuurscheweg
 lage waard
 lage wal
-lage wal
 lage weerd
 lage weg
 lage wei
-lage weide
 lage weide
 lage weidjes
 lage weidtje
@@ -1001,7 +996,6 @@ lage zand
 lage zandschel
 lage zandsestraat
 lage zegge
-lage zeggestraat
 lage zegstraat
 lage zijde
 lagebaan
@@ -1021,7 +1015,6 @@ lagegrond
 lagehaarsedijk
 lageheideweg
 lageheiweg
-lagehoek
 lagekade
 lagekamp
 lagekampweg
@@ -1029,6 +1022,7 @@ lagekerk
 lagelaan
 lageland
 lageland pad
+lagelanden
 lagelandsepad
 lagelandseweg
 lagelandsterweg
@@ -1045,7 +1039,6 @@ lagenhof
 lagenhofweg
 lagenoord
 lagenweg
-lagerbergbrug
 lagerbosweg
 lagersstraat
 lagerstraat
@@ -1053,6 +1046,7 @@ lagervoetpad
 lagerweide
 lagerwey bospad
 lagestede
+lagesteeg
 lagestraat
 lagestuift
 lagestuk
@@ -1060,6 +1054,7 @@ lagestukken
 lagevaert
 lageveen
 lageveld
+lageveldsestraat
 lageveldseweg
 lageveldsweg
 lageveldweg
@@ -1072,6 +1067,7 @@ lagewaard
 lagewald
 lageweg
 lagewegje
+lagewei
 lageweid
 lageweidepad
 lageweideplantsoen
@@ -1086,9 +1082,10 @@ lagezoom
 lagoenstraat
 lagosweg
 laguitensebaan
+laguna
 lagune
 lagunesingel
-lahndal
+lahemaalaan
 lahnstraat
 lahoredreef
 lahrhoeveweg
@@ -1101,6 +1098,7 @@ laing's nekstraat
 lakei
 lakeienoever
 lakeilaan
+lakeiseweg
 lakemanstraat
 lakemanweg
 lakemondsestraat
@@ -1108,8 +1106,6 @@ lakenblekerstraat
 lakenburg
 lakenburgstraat
 lakendijk
-lakendijkweg
-lakenhal
 lakenhallen
 lakenhalstraat
 lakenkopersgilde
@@ -1121,14 +1117,15 @@ lakenraam
 lakenshoefstraat
 lakensnijdersgilde
 lakensteeg
+lakenstein
 lakenstraat
 lakenveld
 lakenvelder
 lakenvelderlaan
 lakenvelderpad
 lakenvelderstraat
-lakenvelderweg
 lakenvelderweide
+lakenverwersbrug
 lakenweversplein
 lakenweversstraat
 lakerinksweg
@@ -1140,11 +1137,8 @@ lakeweg
 lakeweidenweg
 lakkerij
 lakkerskamp
-lakmestraat
-lakmoesgang
-lakmã©straat
+lakmÃ©straat
 lakpad
-lakswerd
 lalainglaan
 lalleweer
 lalostraat
@@ -1202,12 +1196,12 @@ lambertus hortensiusstraat
 lambertus huisengastraat
 lambertus struikstraat
 lambertus van bommelweg
+lambertus van der meerstraat
 lambertus zijlpad
 lambertus zijlplein
 lambertusheufke
 lambertushof
 lambertuslaan
-lambertuspassage
 lambertusplein
 lambertusstoep
 lambertusstraat
@@ -1225,25 +1219,21 @@ lambrechtsenstraat
 lambrechtsstraat
 lambrechtstraat
 lambrechtsveld
+lambrekijn
 lambrekven
 lambroekweg
 lamelerdijk
-lamelerweg
 lameroen
 lamersgriend
 lamerskamp
 lamersveld
-lamgatsebrug
 lamgroen
 lamme van dieseplein
-lammenschanspark
 lammenschansplein
 lammenschansweg
 lammensstraat
 lammerbrug
 lammerdel
-lammerdelweg
-lammerenberg
 lammerenburgweg
 lammerenhof
 lammerenpad
@@ -1298,6 +1288,7 @@ lampertheimstraat
 lampetpoort
 lampetsteeg
 lampewegje
+lampion
 lampionstraat
 lampisteriestraat
 lampjestraat
@@ -1315,8 +1306,8 @@ lamstraat
 lamstraatje
 lamsvelden
 lamsweg
-lamã¨risstraat
-lamã©rislaan
+lamÃ¨risstraat
+lamÃ©rislaan
 lanakenstraat
 lanakerweg
 lancashire
@@ -1327,7 +1318,6 @@ lancasterhof
 lancasterplein
 lancasterstraat
 lanceerplaats
-lanceloetpad
 lanceloetstraat
 lancelotpad
 lancelotstraat
@@ -1336,7 +1326,7 @@ lanciersstraat
 lanckerweg
 lanckhorstlaan
 land in zicht
-land kanaã¤n
+land kanaÃ¤n
 land van altena
 land van belofte
 land van cocagneplein
@@ -1344,12 +1334,10 @@ land van cuijkstraat
 land van de markt
 land van esseweg
 land van eyckstraat
-land van gelder
 land van herve
 land van heusden
 land van horn
 land van jakes
-land van kessel
 land van kleef
 land van maat
 land van ravensteinstraat
@@ -1380,6 +1368,7 @@ landbouwpad
 landbouwplein
 landbouwstraat
 landbouwweg
+landbouwweg springertpolder
 landbuurt
 landdijk
 landdrost
@@ -1415,19 +1404,14 @@ landgoed
 landgoed backershagen
 landgoed de paltz
 landgoed de wittenburg
-landgoed duivenvoorde
-landgoed eikenrode
-landgoed goedenraad
 landgoed klein keulevaart
 landgoed middachten
-landgoed nederhoven
-landgoed sandenburg
-landgoed singraven
-landgoed vilsteren
+landgoed oostbosch
 landgoedallee
-landgoederenpad
 landgoedlaan
 landgraaf
+landgraaf-noord
+landgraaf-oost
 landgraafstraat
 landheer
 landheerlaan
@@ -1447,6 +1431,8 @@ landje van top
 landjonker
 landjuweel
 landkaartje
+landkaartjehof
+landkaartjespad
 landkamp
 landlaan
 landleeuw
@@ -1488,9 +1474,9 @@ landrietendijk
 landriteweg
 landrop
 landrust
-landrã©laan
-landrã©pad
-landrã©straat
+landrÃ©laan
+landrÃ©pad
+landrÃ©straat
 lands welvaren
 landsard
 landsardseweg
@@ -1543,9 +1529,6 @@ landstrekenlaan
 landstrekenweg
 landsweg
 landswerf
-landszoom
-landszoompad-noord
-landszoompad-zuid
 landtong
 landuwerweg
 landvast
@@ -1567,7 +1550,6 @@ landweerswal
 landweertweg
 landweerveld
 landweerweg
-landweerweg nabij het grenskantoor
 landweg
 landweringstraat
 landzicht
@@ -1578,11 +1560,13 @@ landzigt
 landzijde
 lanecamp
 lanen
+lanenburg
 lanenburgpassage
 lanesloot
 lang grachtje
 lang hout
 lang paedtsje
+lang parkeren
 lang' ein
 langaarseweg
 langaerderdyk
@@ -1592,6 +1576,7 @@ langakkerschans
 langakkersweg
 langakkerweg
 langbeemdstraat
+langboog
 langbos
 langbree
 langbroek
@@ -1615,6 +1600,7 @@ lange achterzijde
 lange acker
 lange akker
 lange akkers
+lange akkersesteeg
 lange akkersweg
 lange amerikaweg
 lange annastraat
@@ -1628,7 +1614,6 @@ lange beestenmarkt
 lange begijnestraat
 lange beijerd
 lange bellingstraat
-lange bergweg
 lange betteweg
 lange biesakkersweg
 lange bisschopstraat
@@ -1642,13 +1627,11 @@ lange boomweg
 lange boonestraat
 lange bosweg
 lange breestraat
-lange bretten
 lange brink
 lange brinkweg
 lange broekstraat
 lange broekweg
 lange brouwerstraat
-lange brug
 lange brug
 lange brugstraat
 lange bunder
@@ -1681,6 +1664,7 @@ lange geere
 lange geestlaan
 lange geldersekade
 lange gewant
+lange golf
 lange goorstraat
 lange graaf
 lange gracht
@@ -1728,7 +1712,6 @@ lange jansstraat
 lange jerden
 lange juffer
 lange jufferstraat
-lange kade
 lange kavel
 lange kerkdam
 lange kerkpad
@@ -1745,6 +1728,7 @@ lange laanweg
 lange lakenstraat
 lange landen
 lange landweg
+lange laning
 lange lauwerstraat
 lange leane
 lange leidsedwarsstraat
@@ -1790,7 +1774,6 @@ lange oosterstraat
 lange opstal
 lange paalweg
 lange pad
-lange park
 lange parkpad
 lange parkstraat
 lange pijpsteeg
@@ -1860,6 +1843,7 @@ lange tuinstraat
 lange turf
 lange uitweg
 lange vaart
+lange vechtbrug
 lange veemarktstraat
 lange veenteweg
 lange veerstraat
@@ -1960,6 +1944,7 @@ langehoutsweg
 langeindsche maatweg
 langeindsestraat
 langejacht
+langekade
 langekamp
 langekamppad
 langekampweg
@@ -1967,9 +1952,9 @@ langekerkstraat
 langelaan
 langelaar
 langeland
+langelandbrug
 langelandpad
 langelandsedijk
-langelandsepad
 langelandseweg
 langelandsterweg
 langeleegte
@@ -1979,23 +1964,19 @@ langelersdijk
 langelilleweg
 langelo
 langelobrink
-langeloerduinen 3
-langeloerduinen g
-langeloerweg
 langeloseveenweg
-langeloã«rduinen 1
-langeloã«rduinen 2
-langeloã«rduinen 3
-langeloã«rduinen 4
-langeloã«rduinen 5
-langeloã«rduinen g
-langeloã«rduinen l
-langeloã«rweg
+langeloÃ«rduinen 1
+langeloÃ«rduinen 2
+langeloÃ«rduinen 3
+langeloÃ«rduinen 4
+langeloÃ«rduinen 5
+langeloÃ«rduinen g
+langeloÃ«rduinen l
+langeloÃ«rweg
 langelsestraat
 langemaad
 langemaatsweg
 langemearsterpaad
-langemeasterpaad
 langemeer
 langemeerstraat
 langemeet
@@ -2003,7 +1984,6 @@ langemeetstraat
 langemeijerpad
 langemeijerstraat
 langemoor
-langen akker
 langen akker voetpad
 langen dries
 langenakker
@@ -2018,6 +1998,7 @@ langenbergseweg
 langenbergweg
 langenboomseweg
 langenboomstraat
+langenbroek
 langendaal
 langendam
 langendamsedijk
@@ -2028,6 +2009,8 @@ langendijkstraat
 langendoenhof
 langendonksedijk
 langendonkweg
+langendreef
+langenecker
 langengriend
 langenhof
 langenholterdijk
@@ -2041,10 +2024,12 @@ langenkamp
 langenkampweg
 langenoordstraat
 langenreijn
+langeoog
 langepad
 langepas
 langeplaat
 langepolderweg
+langepoortstraat
 langeraarseweg
 langeraarstraat
 langerak
@@ -2057,14 +2042,15 @@ langereijt
 langereis
 langereisstraat
 langereit
+langerekse leij
 langereweg
 langerhorstweg
 langerhuizenweg
 langerijm
 langerijp
 langerijst
-langerodepad
 langertsteeg
+langertsweg
 langesingel
 langeslag
 langesloot
@@ -2076,9 +2062,9 @@ langesteijn
 langesteinseweg
 langestraat
 langestreek
-langestreek od noord
 langestreek om de noord
-langesã¢n
+langestukkenweg
+langesÃ¢n
 langetaam
 langetuin
 langevaart
@@ -2090,15 +2076,14 @@ langevelderlaan
 langevelderslag
 langevelderweg
 langeveldpad
-langeveldsepad
 langeveldsloo
 langeveldsloostraat
-langeveldslostraat
 langeveldstraat
 langeven
-langevenseweg
 langeviele
+langevielebinnenbrug
 langevielebolwerk
+langevielebuitbrug
 langevielesingel
 langevieleweg
 langeville
@@ -2106,6 +2091,7 @@ langevlak
 langevliet
 langevoorenstraat
 langevoortsweg
+langewaard
 langeweegje
 langeweer
 langeweerdstraat
@@ -2119,7 +2105,6 @@ langeweide
 langeweideweg
 langewelle
 langewerf
-langewerk
 langeweydt
 langewijck
 langewijk
@@ -2130,7 +2115,7 @@ langewolderweg
 langewoldlaan
 langewoldstraat
 langewyk
-langewã¢l
+langewÃ¢l
 langezand
 langezandhof
 langezijde
@@ -2141,7 +2126,6 @@ langgrousterwei
 langgrub
 langhaag
 langhaagweg
-langhanlaan
 langheckweg
 langheggerweg
 langhei
@@ -2156,8 +2140,8 @@ langhuis
 langhuislaan
 langhuispad
 langhuisterweg
-langhãºsterdyk
-langhãºsterwei
+langhÃºsterdyk
+langhÃºsterwei
 langiusdijk
 langkamp
 langkamperpad
@@ -2165,9 +2149,10 @@ langkamplaan
 langkampweg
 langkatstraat
 langlaar
-langlã¢nspaad
+langlÃ¢nspaad
 langmaatweg
 langmadijk
+langmanweg
 langmost
 langnekstraat
 langoort
@@ -2177,7 +2162,6 @@ langpaed
 langpoort
 langrepelpad
 langs de akker
-langs de baan
 langs de baan
 langs de beek
 langs de bogen
@@ -2191,27 +2175,26 @@ langs de houdstraat
 langs de korte vliet
 langs de kreek
 langs de lijn
-langs de lijn
 langs de ling
-langs de oude tiend
 langs de palen
 langs de raephorst
 langs de rijn
 langs de sjut
 langs de tocht
-langs de vaart
 langs de veestraat
 langs de wal
 langs de wedden
 langs de werf
 langs de wetering
-langs de wieã«rd
+langs de wieÃ«rd
+langs de wijde almpad
 langs het bosch
 langs het spoor
 langs wal
 langsakker
 langschoten
 langschoterweg
+langsduin
 langshanlaan
 langshelling
 langshof
@@ -2244,6 +2227,7 @@ langwaersterwei
 langwagen
 langwarderdyk
 langwaterstraat
+langweerdervaart
 langweerpad
 langweide
 langwert
@@ -2258,6 +2242,7 @@ lankelaar
 lankerdijk
 lankerenseweg
 lankerseweg
+lankerthof
 lankertsweg
 lankerweg
 lankesstraat
@@ -2276,6 +2261,7 @@ lannervalk
 lanneversweg
 lanneverweg
 lanphenlaan
+lans
 lanseloetstraat
 lansenpad
 lanshof
@@ -2285,8 +2271,6 @@ lansiershof
 lansiersstraat
 lansiersveld
 lansiersweg
-lansing
-lansingerveld
 lansinghageweg
 lansingpad
 lansingstraat
@@ -2299,14 +2283,17 @@ lanslotus van heerstraat
 lanspad
 lanspunt
 lansruwe
+lansweg
 lantaarndijk
 lantaarnopsteker
 lantaarnstede
 lantaarnstraat
+lantaarntjebrug
 lantaarnvaart
 lantentijmen
 lanterdijk
 lanterdweg
+lantermansweide
 lantheer
 lanthersweg
 lantie
@@ -2320,7 +2307,7 @@ lanxmeersestraat
 lanzarote
 lanzarotestraat
 laone
-laonepaã¢t
+laonepaÃ¢t
 lapdijk
 lapedyk
 lapidothstrjitte
@@ -2334,6 +2321,8 @@ lapland
 lappenafweg
 lappenpad
 lapper
+lappestraatje
+lappiesweg
 lapvoet
 lardinoisstraat
 larekamp
@@ -2369,7 +2358,6 @@ lariksstraat
 lariksweg
 larikszoom
 larinkmars
-larisplein
 larix
 larixdreef
 larixhof
@@ -2394,6 +2382,7 @@ larvenhof
 larvik
 larvikstraat
 lascarpad
+laser
 laseurpad
 laskowskilaan
 laskwerd
@@ -2410,7 +2399,6 @@ lastageweg
 lastdragerstraat
 lastig eendstraat
 lastmanpad
-latboogstraat
 latenstein
 latensteinse middenweg
 latensteinse rondweg
@@ -2425,6 +2413,7 @@ latherusstraat
 lathmerstraat
 lathmerweg
 lathumse afweg
+lathumse veerpad
 lathumse veerweg
 lathumsedijk
 lathumseveerpad
@@ -2438,17 +2427,16 @@ latijns-amerikalaan
 latijnse schoolstraat
 latijnzeil
 latiumpad
+latjesbrug
 latkampstraat
 latonalaan
 latourlaan
 latourpad
 latsmaleane
 lattakia-erf
-lattakia-erf
 lattropbrink
 lattropperstraat
 latyrusstraat
-lau mazirelhaghe
 lau mazirellaan
 lau mazirelstraat
 lau mazirelweg
@@ -2461,6 +2449,7 @@ lauernessestraat
 laura ashleystraat
 laura bassihof
 laura hoeve
+laura wernet-paskelhof
 laura-juliastraat
 laurabosweg
 laurahof
@@ -2550,17 +2539,19 @@ lauweriksstraat
 lauwers
 lauwersdijk
 lauwersdwarsweg
-lauwershof
 lauwershofpad
 lauwersmangang
 lauwersmeer
 lauwersmeerpad
 lauwersmeerweg
+lauwersoog - schiermonnik
+lauwersoog 7
 lauwerspad
 lauwersseewei
 lauwersstraat
 lauwersteeg
 lauwerstraat
+lauwersveer
 lauwerswal
 lauwersweg
 lauwerswelle
@@ -2581,6 +2572,7 @@ lavasteen
 lavastraat
 lavasveld
 lavasweg
+lavazand
 lavei
 laveibos
 laveibosstraat
@@ -2617,9 +2609,9 @@ lavindelheide
 lavinia fontanahof
 laviniastraat
 lavoisierstraat
+lavrijssenpad
 lawei
 laweijstraat
-laweiplein
 laweiplein
 laweisreed
 laweistraat
@@ -2632,6 +2624,7 @@ lazaristenstraat
 lazarus mullerlaan
 lazarusbocht
 lazaruskade
+lazaruspad
 lazarussteeg
 lazerijstraat
 lazuriet
@@ -2653,32 +2646,30 @@ le maitreweg
 le pooleweg
 le sage ten broeklaan
 le sage ten broekstraat
-le sage ten broekstraat
 le tourmalet
 lea smulderssingel
 leanderlaan
 leane
-leap
 learewei
 learloaier
 learloaijersstrjitte
 learmole
-learmã»ne
-leasestraat
+learmÃ»ne
 lebbenbruggedijk
 lebeauhof
 lebeaustraat
 lebretshoeveweg
 lebretweg
 lebuinusstraat
-lebuã¯nuslaan
-lebuã¯nusstraat
+lebuÃ¯nuslaan
+lebuÃ¯nusstraat
 lech walesahof
 lechstraat
 lecksdijk
 ledalaan
 ledaplantsoen
 ledastraat
+ledderhof
 ledderkenstraat
 ledderweg
 lede
@@ -2703,14 +2694,13 @@ ledige stede
 leeberg
 leebrugpad
 leechein
-leechlã¢n
+leechlÃ¢n
 leechpaed
 leede
 leededwarsstraat
 leedepad
 leedestraat
 leedeweg
-leedijk
 leedijkerhout
 leedjes
 leedsstraat
@@ -2733,8 +2723,8 @@ leeghwaterpark
 leeghwaterpassage
 leeghwaterplein
 leeghwaterschans
-leeghwatersluis
 leeghwaterstraat
+leeghwatertunnel
 leeghwaterweg
 leegraaf
 leegsterweg
@@ -2746,6 +2736,8 @@ leehoeve
 leehove
 leeijen-erf
 leek
+leek 34
+leek lijndiensten bus 34
 leekbeemdweg
 leekbusweg
 leekeerd
@@ -2764,7 +2756,6 @@ leemakker
 leemakkers
 leemakkersweg
 leemans
-leemanskade
 leemansplein
 leemansschans
 leemansstraat
@@ -2772,6 +2763,7 @@ leemansweg
 leembaan
 leemberg
 leembergerhout
+leembrug
 leembruggenstraat
 leembruggerweg
 leemculeweg
@@ -2787,6 +2779,7 @@ leemhamel
 leemhof
 leemhorst
 leemhorstdijk
+leemhorsterweg
 leemhorststraat
 leemhuisweg
 leemidden
@@ -2797,6 +2790,7 @@ leemkampweg
 leemkoel
 leemkoele
 leemkoelen
+leemkoeleweg
 leemkolkweg
 leemkruierpad
 leemkuil
@@ -2813,10 +2807,12 @@ leemkuylen
 leemkuylweg
 leemlandseweg
 leemolen
+leemoven
 leempad
 leemplaats
 leemplasweg
 leemptstraat
+leemputstraat
 leemputten
 leemputtenbrug
 leemputtenpad
@@ -2830,8 +2826,8 @@ leemskuilen
 leemskuilendijk
 leemskuilenweg
 leemslagenweg
+leemsputten
 leemsteeg
-leemsteeg a
 leemstraat
 leemvaert
 leemveld
@@ -2851,16 +2847,15 @@ leen timprotonde
 leen van der houwenstraat
 leen van hoofpad
 leen van ooijenlaan
-leen van ooijenstraat
 leen ventestraat
 leen zwinkelshof
 leenaert nicasiusdwarsstraat
 leenaert nicasiusstraat
 leenakker
 leenakkersweg
+leende 35
 leenderbos
 leenderboslaan
-leenderbospad
 leenderdwarsstraat
 leenderdwarsstraat 1e zijpad
 leenderdwarsstraat 2e zijpad
@@ -2880,6 +2875,7 @@ leendert donkerstraat
 leendert edelmanlaan
 leendert hellenberghof
 leendert keesmaathof
+leendert keesmaatpad
 leendert langstraathof
 leendert legersteestraat
 leendert meeszstraat
@@ -2902,6 +2898,7 @@ leendestraat
 leenes land
 leeneweg
 leengoed
+leenheer
 leenheerstraat
 leenherenstraat
 leenhoeve
@@ -2938,6 +2935,7 @@ leerambachtstraat
 leerbroekse kerkweg
 leerbroekseweg
 leerbroekstraat
+leerdam 29
 leerdamhof
 leerdampad
 leerdamseweg
@@ -2945,12 +2943,11 @@ leerdamstraat
 leerdreef
 leergang
 leergracht
-leerhoevestraat
 leerinkbeek
 leerinkbeekstraat
 leerinkstraat
 leerke ven
-leerlinggarage
+leerlaan
 leerlinghof
 leerlooier
 leerlooierij
@@ -2968,13 +2965,14 @@ leermos
 leermosstraat
 leeropperheideweg
 leerpad
+leerpark
 leerparkpromenade
 leerplein
 leerschaar
+leerse marks heideweg
 leerspiegel
 leersumhoeve
 leersumse veld
-leersumse veldplaats
 leersumse veldplaats
 leersumseberg
 leersumsestraatweg
@@ -2986,9 +2984,7 @@ leerweg
 leesjongenstraat
 leesonhof
 leesonweg
-leespad
 leest
-leestense enkweg
 leestense rondweg
 leestensedreef
 leestensepad
@@ -2998,7 +2994,10 @@ leeststraat
 leeteinde
 leetgensstraat
 leeuw
-leeuwarden-louwsmeer zuid
+leeuwarden 24
+leeuwarden-noord 23
+leeuwarden-oost 26
+leeuwarden-zuid 25
 leeuwardenlaan
 leeuwardenplein
 leeuwardensestraat
@@ -3012,11 +3011,14 @@ leeuwarderstraatweg
 leeuwarderweg
 leeuwebek
 leeuwebekstraat
+leeuwebrug
 leeuwenakker
 leeuwenakkerweg
+leeuwenbekje
 leeuwenbeklaan
 leeuwenbekpad
 leeuwenbekstraat
+leeuwenbektuin
 leeuwenbekweg
 leeuwenberg
 leeuwenbergweg
@@ -3026,6 +3028,8 @@ leeuwenbrug
 leeuwenburg
 leeuwenburgerlaan
 leeuwenburgh
+leeuwenburglaan
+leeuwenburgsingel
 leeuwenburgstraat
 leeuwencamp
 leeuwendaal
@@ -3052,11 +3056,12 @@ leeuwenkamp
 leeuwenkuil
 leeuwenkuilsweg
 leeuwenlaan
+leeuwenleen
+leeuwenschelling
 leeuwenstein
 leeuwensteinlaan
 leeuwensteinplein
 leeuwensteinseweg
-leeuwensteinstraat
 leeuwenstraat
 leeuwentand
 leeuwenveenseweg
@@ -3095,8 +3100,10 @@ leeuwerkeslaan
 leeuwerpad
 leeuwerweg
 leeuwesteijn
+leeuwesteynpad
 leeuwesteynpoort
 leeuwetand
+leeuweveerke
 leeuwkenstraat
 leeuwkesdries
 leeuwkesgraaf
@@ -3109,11 +3116,12 @@ leewerveltweg
 leferinkweg
 lefershoek
 lefertweg
-lefã©bureplein
+lefÃ©bureplein
 legakker
 legakkerpad
 legatostraat
 legauke
+legdijk
 lege bosse
 lege doakenweg
 lege hearewei
@@ -3130,7 +3138,6 @@ legemarstersingel
 legemeersterweg
 legerland
 legerstraat
-legert
 legerweg
 legerzijweg
 legerzoom
@@ -3154,7 +3161,6 @@ legionairsplaats
 legipont
 legipontlaan
 legmeerdijk
-legmeerdijk-amstelveen
 legmeerplein
 legmeerstraat
 legolaan
@@ -3169,14 +3175,14 @@ leguijt
 leguitsedijk
 leguitsedreef
 leguitseweg
-leh!rstraat
 leharkade
 leharlaan
 leharstraat
 lehmbruckstraat
 lehmkuhlstraat
-lehã¡rstraat
+lehÃ¡rstraat
 lei
+lei hoenpoel
 lei kluitmansstraat
 leiakker
 leibeek
@@ -3196,10 +3202,16 @@ leidekkerssteeg
 leidekkersstraat
 leidekkerstraat
 leidekkersweg
+leiden
+leiden 7
+leiden 8
+leiden 8b
+leiden-oost 6a
 leidenlaan
 leidenstraat
 leidenweg
 leidepad
+leiderdorpsebrug
 leidijk
 leidijk-oost
 leidijkreed
@@ -3213,12 +3225,15 @@ leidingstraat noord
 leidingstraat zuid
 leidjeskamp
 leidsche poort
+leidschendam
+leidschendam 8
 leidschendamseweg
 leidschendamstraat
 leidschenveensepad
 leidse rijn
-leidse schouw
 leidse slootweg
+leidsebosje
+leidsebrug
 leidsedreef
 leidsegracht
 leidsekade
@@ -3236,7 +3251,6 @@ leidsevaartweg
 leidseveer
 leidseveertunnel
 leidsewallen
-leidsewallenpad
 leidseweg
 leidsezijstraat
 leiduinstraat
@@ -3252,7 +3266,6 @@ leienhuisweg
 leienplein
 leiensingel
 leiestraat
-leieweg
 leif eriksonstraat
 leif erikssonstraat
 leiffenderhofweg
@@ -3262,9 +3275,9 @@ leifruit
 leigraaf
 leigraafpad
 leigraafseweg
-leigraafweg
 leij
 leijakkerplein
+leijbroek
 leijdsweg
 leije
 leijen
@@ -3274,7 +3287,6 @@ leijenhof
 leijenhorst
 leijensreed
 leijensteinstraat
-leijenstocht
 leijenstraat
 leijenweg
 leijepad
@@ -3298,9 +3310,9 @@ leijsendwarsstraat
 leijsenhoek
 leijsenstraat
 leijsingweg
-leijstenstraat
 leijweg
 leijzoom
+leikant
 leike
 leikeswei
 leikoelseweg
@@ -3313,6 +3325,7 @@ leimuiderdijk
 leimuiderweg
 leinserondweg
 leinwijckpad
+leiroos
 leise leane
 leisendelweg
 leisenweg
@@ -3333,10 +3346,10 @@ lek
 lekbandijk
 lekbospad
 lekboulevard
+lekbrug oost
+lekbrug west
 lekdijk
 lekdijk oost
-lekdijk oost
-lekdijk west
 lekdijk west
 lekdijk-oost
 lekdijk-west
@@ -3383,30 +3396,30 @@ leliehof
 leliehofstraat
 leliekeverstraat
 lelielaan
-leliendaalsedreef
-leliendaalseweg
 leliendaalstraat
 lelienlaan
 leliepad
 lelieplein
 leliesingel
+leliesluis 061
 leliesteeg
 leliestraat
 lelietje-van-dalenstraat
 lelietuin
+lelietulp
 lelievaart
 lelieveld
 leliewaltje
 lelieweg
 lelimanstraat
-leliã«ndaal
-leliã«ndaalsedreef
-leliã«ndaalseweg
-leliã«ndaleweg
-leliã«ngaard
-leliã«nhuyze
-leliã«nsingel
-leliã«nstein
+leliÃ«ndaal
+leliÃ«ndaalsedreef
+leliÃ«ndaalseweg
+leliÃ«ndaleweg
+leliÃ«ngaard
+leliÃ«nhuyze
+leliÃ«nsingel
+leliÃ«nstein
 lellenstermaar
 lellensterweg
 lelsstraat
@@ -3415,6 +3428,11 @@ lelyboskade
 lelypad
 lelypark
 lelyschans
+lelystad 10
+lelystad 13
+lelystad-airport 9
+lelystad-noord 11
+lelystadstraat
 lelystraat
 lelyweg
 lem dulstraat
@@ -3431,9 +3449,9 @@ lemenburg
 lemenstraat
 lemenweg
 lemerij
-lemerijweg
 lemferdinge
 lemferdingerlaan
+lemgo
 lemiers-rijksweg
 lemierserberg
 lemkensstraat
@@ -3444,25 +3462,23 @@ lemmekampsweg
 lemmender
 lemmenesweg
 lemmenhoek
-lemmenseweg
 lemmenskampweg
 lemmenslaan
 lemmensstraat
 lemmensweg
 lemmenweg
+lemmer 17
 lemmeraak
 lemmerbrink
+lemmerbrug
 lemmerhengst
 lemmerhof
 lemmerkade
 lemmerpad
-lemmerseweg
 lemmerstraat
 lemmerweg
-lemmeweg
 lemmingkoog
 lemmingweide
-lemna
 lemnosdreef
 lemoen
 lemoenappel
@@ -3515,19 +3531,19 @@ lenghengang
 lenghenhof
 lenghenstraat
 lengsbroek
+lengspad
 lengteduin
 lengtewal
 lengweg
 leni sarishof
 lenie blindstraat
-lenie sarishof
+lenie dickepad
 leningradplaats
 leningradweg
 leningsbeekweg
 lenna
 lennaert nijghpad
 lennard gruijtersstraat
-lennart nijghpad
 lennastraat
 lenningenhof
 lennisheuvel
@@ -3536,6 +3552,7 @@ lenny tristanostraat
 lensheuvel
 lenshoek
 lenshoekdijk
+lenshoeklaan
 lensinkweg
 lenssengats
 lensveltlaan
@@ -3547,7 +3564,6 @@ lenteakker
 lentebloem
 lenteblok
 lentebries
-lentedans
 lentegaarde
 lentegroen
 lentehof
@@ -3556,7 +3572,6 @@ lenteklokje
 lenteklokjestraat
 lentelaan
 lenteleven
-lentelinksweg
 lentemorgen
 lentepad
 lentepark
@@ -3586,6 +3601,7 @@ lentseveld
 lentstraat
 lentzinckserve
 leo ascherhof
+leo de weijshof
 leo dohmenstraat
 leo dongelmansstraat
 leo driessenstraat
@@ -3607,11 +3623,11 @@ leo ottplaats
 leo polakweg
 leo smitstraat
 leo steenhuisoord
-leo ten brinkeweg
 leo toepoelstraat
 leo twijnstrastraat
 leo van der weijdenstraat
 leo van dorstpad
+leo van oudheusdenpad
 leo voogdweg
 leo vromanpark
 leo xiii straat
@@ -3636,7 +3652,9 @@ leonard springerpad
 leonard springerstraat
 leonard stassenstraat
 leonard van vechelstraat
+leonardlaan
 leonardo da vincihof
+leonardo da vincilaan
 leonardo da vinciplein
 leonardo da vincistraat
 leonardostraat
@@ -3659,7 +3677,6 @@ leonorelaan
 leonorestraat
 leons
 leopardistraat
-leopold haffmansstraat
 leopold sondagstraat
 leopold van der kunstraat
 leopold van limburg stirumstraat
@@ -3669,16 +3686,13 @@ leopoldstraat
 leostraat
 lepehof
 lepelaar
+lepelaarbrug
 lepelaarhoek
 lepelaarhof
 lepelaarlaan
 lepelaarpad
 lepelaarpark
 lepelaarplantsoen
-lepelaarsbospad i
-lepelaarsbospad ii
-lepelaarsbospad iii
-lepelaarsbospad iv
 lepelaarshof
 lepelaarsingel
 lepelaarsoord
@@ -3690,8 +3704,8 @@ lepelaerstraat
 lepelblad
 lepelbladstraat
 lepelbladveld
+lepelbrug
 lepelenburg
-lepelenburgpad
 lepelkesweg
 lepelkruidhof
 lepelkruisstraat
@@ -3717,9 +3731,9 @@ lerinkshofweg
 leropperweg
 lerschenstraat
 les dunes
-les knight-pad
 lesbosstraat
 lesje
+leslumbuorren
 lesothostraat
 lesplaats
 lesschenbroekstraat
@@ -3756,6 +3770,7 @@ letteriestraat
 letterpad
 lettersnijderpad
 letterveldweg
+letterzetter
 letterzetterhof
 lettingastate
 letzekampe
@@ -3771,7 +3786,6 @@ leukdervoetpad
 leukenhof
 leukenstraat
 leukerhof
-leukerschans
 leukerschansstraat
 leukerstraat
 leukerveld
@@ -3779,6 +3793,7 @@ leukerweg
 leukeshoef
 leumehofstraat
 leumolen
+leunen
 leunestraat
 leuneweg
 leunisdijk
@@ -3802,6 +3817,8 @@ leurseweg
 leursstraat
 leursvoetpad
 leusbroekerweg
+leusden 7
+leusden-zuid 6
 leusdenhof
 leusdensepad
 leusderend
@@ -3829,11 +3846,13 @@ leutinkveldweg
 leutinkweg
 leutscherstraat
 leutsestraat
+leuvebrug
 leuvehaven
 leuvehoofd
 leuvenaarstraat
 leuvenheimsestraat
 leuvenhoek
+leuvenhorst
 leuvenhorststraat
 leuvenlaan
 leuvenplein
@@ -3845,17 +3864,20 @@ leuvenstein
 leuvenstraat
 leuvensveldseweg
 leuvenumse beek
+leuvenumse bos
 leuvenumsebeek
 leuvenumseboslaan
 leuvenumsepad
 leuvenumseveld
 leuvenumseweg
+leuvenveld
 leuverinkstraat
 leuvert
 leuvinksveldweg
 leuwerkeweg
 lev landauhof
 lev landaustraat
+levada
 levanger
 levanter
 levantkade
@@ -3868,6 +3890,7 @@ levenkamp
 levensboom
 levensboompad
 levenspad
+levensstrijddijk
 levensstrijdweg
 leverkruid
 leverkruidstraat
@@ -3875,7 +3898,6 @@ leverkruidweg
 levermos
 levermosstraat
 leveroyse heideweg
-leveroysebrug
 leveroysedijk
 leveroyseweg
 leverstraat
@@ -3888,19 +3910,26 @@ levinkskamp
 levroy
 levylaan
 lewedijk
+lewenborg 3
 lewestraat
+lewieze
 lewis howard latimerweg
+lewishof
 lewiskade
 lex althoffstraat
 lex brandstraat
+lex en edo hornemannplantsoen
 lex karsemeijerpad
-lex karsemeijerstraat
 lex ten kleystraat
+lex van deldenbrug
+lexkesveer
+lexmond 26
 lexmonderwaard
 lexmondpad
 lexmondplaats
 lexmondsestraatweg
 lexmondstraat
+leybeemd
 leyborch
 leydijk
 leydtwech
@@ -3931,6 +3960,7 @@ lhee
 lheebroek
 lheebroekerweg
 lheebroekerzandweg
+lheedermade
 lheeweg
 lia doranastraat
 liaslaan
@@ -3944,13 +3974,13 @@ libanonweg
 libau-eiland
 libeek
 libekerstraat
+libekerweg
 libel
 libelkleuven
 libelle
 libellegang
 libellelaan
 libellemeent
-libellendans
 libellenlaan
 libellenpad
 libellenstraat
@@ -3965,22 +3995,23 @@ liberatorstraat
 liberiastraat
 liberstraat
 libertasstraat
-libiã«straat
+libertypark
+libiÃ«straat
 libourellaan
 libra
+librapad
 librastraat
 librije
 librijesteeg
 librijestraat
+liburne
 lichtbaaklaan
-lichtbanen
 lichtboei
 lichtboom
 lichte
 lichte kade
 lichtegaard
 lichtegaarde
-lichtemansgang
 lichtenauerlaan
 lichtenbeek
 lichtenbeltweg
@@ -4025,6 +4056,7 @@ lichttorenstraat
 lichttorenweg
 lichtval
 lichtwachter
+lichtwerkstraat
 liciniuslaan
 lickebaertpad
 lide tulpsingel
@@ -4032,6 +4064,7 @@ lidewijdepad
 lidewijdestraat
 lidlum
 lidlumerwei
+lido
 lidoplein
 lidostraat
 lidrus
@@ -4042,6 +4075,7 @@ liduinapark
 liduinaplein
 liduinatuin
 lidwinahof
+lidwinaplantsoen
 lidwinastraat
 lidwinaweg
 liebeek
@@ -4070,6 +4104,7 @@ lieferingestraat
 lieferinkweg
 liefhovendijk
 liefkendwarsstraat
+liefkens
 liefkenshoek
 liefkenshoekpad
 liefkenshoekschestraat
@@ -4087,6 +4122,7 @@ lieftinckstraat
 lieftinkweg
 liekendonk
 liekendonksesteeg
+liemanhof
 liemdobben
 liemdyk
 liemeer
@@ -4096,6 +4132,7 @@ liemerige wei
 liemers
 liemersallee
 liemerslust
+liemersplein
 liemerssingel
 liemersweg
 liemkoele
@@ -4108,7 +4145,6 @@ lien gisolfstraat
 lienackers
 lienaertsstraat
 liendenhof
-liendenhofpad
 liendenlaan
 liendense singel
 liendensedijk
@@ -4126,7 +4162,6 @@ lienstukkenweg
 liensveldstraat
 lient
 lienweid
-lienweidpad
 lieoever
 lier
 lierbeek
@@ -4138,6 +4173,7 @@ lierderstraat
 lierdwarsweg
 lierenbout
 lierenstraat
+lierenweg v henken
 liergouw
 lieringsedijk
 lieropsedijk
@@ -4149,6 +4185,7 @@ lies
 lies bakhuyzenlaan
 lies de kruijffgaarde
 lies frankenweg
+lies langereisstraat
 liesakkers
 liesberg
 liesbergerhout
@@ -4157,15 +4194,16 @@ liesbergstraat
 liesbeth den uylstraat
 liesbeth listpad
 liesbeth ribbius peletierpad
-liesbeth ribbius-peletierpad
 liesbeth ribbiuspad
 liesbeth ribbiusstraat
 liesbeth tilanusland
 liesbeth tilanusplein
 liesbeth tilanusstraat
 liesbethpad
+liesbethsteech
 liesbethstraat
 liesbos
+liesboschbrug
 liesboschpad
 liesbosdreef
 liesboslaan
@@ -4176,6 +4214,7 @@ liesbosweg
 liesbroekstraat
 liesdaalweg
 liesdel
+liesdelsluis 0207
 liesdijk
 liesdreef
 lieseind
@@ -4194,6 +4233,7 @@ lieskamp
 lieskes wengs
 liesmonde
 liesmortel
+liessel 37
 liesselseweg
 liesseltseweg
 liessentstraat
@@ -4211,6 +4251,7 @@ liesweg
 lietingplein
 lietingsestraat
 lietingstraat
+liets dwarsweg
 lietsweg
 lieuwe jellingastrjitte
 lieuwe klazes leane
@@ -4224,7 +4265,6 @@ lieve vrouwe gracht
 lieve vrouwegracht
 lieve vrouwekerkhof
 lieve vrouwenerf
-lieve vrouwenpad
 lieve vrouwenplein
 lieve vrouwentrappen
 lieve vrouwepad
@@ -4285,9 +4325,9 @@ liezeweg
 lifgerusstraat
 ligne
 lignelaan
-lignepad
 lignestraat
 ligneweg
+ligplaats
 ligt
 ligteind
 ligtelijnweg
@@ -4296,13 +4336,13 @@ ligtenbergerweg
 ligtenbergstraat
 ligterinkweg
 ligteveld
+ligtharthof
 ligthartstraat
 ligthof
 ligtsedreef
 ligtvoetsweg
 ligulastraat
 liguster
-ligusterbaan
 ligusterberg
 ligusterbes
 ligusterhaag
@@ -4328,7 +4368,6 @@ lijmbeekstraat
 lijmerij
 lijmers
 lijmkoker
-lijmpersdonk
 lijmziederwei
 lijn
 lijn helmond-venlo
@@ -4341,7 +4380,6 @@ lijnbaanhof
 lijnbaanpassage
 lijnbaanplantsoen
 lijnbaanplein
-lijnbaansbrug
 lijnbaansgracht
 lijnbaanshof
 lijnbaanssteeg
@@ -4355,6 +4393,7 @@ lijndenplein
 lijndenstraat
 lijndenweg
 lijnderdijk
+lijndiensten bus
 lijndje
 lijndonk
 lijndonkseweg
@@ -4376,8 +4415,8 @@ lijnt
 lijntjemeet
 lijntjesstraat
 lijntstraat
-lijnvaart
 lijnweg
+lijnwerkplaats
 lijnzaad
 lijnzaad-oord
 lijnzaadakker
@@ -4385,6 +4424,7 @@ lijnzaaddreef
 lijnzaadstraat
 lijnzaadveld
 lijnzaadweg
+lijsanderpad
 lijsbet eelantsplein
 lijsbeth tijsweg
 lijsbeth van villeynstraat
@@ -4416,8 +4456,6 @@ lijsterhofstraat
 lijsterlaan
 lijsterpad
 lijsterplantsoen
-lijsterplein
-lijstersingel
 lijsterstraat
 lijsterveld
 lijsterweg
@@ -4437,10 +4475,9 @@ lillehammer
 lillehammerplantsoen
 lillostraat
 lilly van spengenpad
-lima
 limalaan
+limanstraat
 limapad
-limarã­
 limastraat
 limaweg
 limbahout
@@ -4460,25 +4497,23 @@ limburgiastraat
 limburglaan
 limburgpad
 limburgse bellefleur
+limburgse jagers
 limburgsestraat
 limburgseweg
 limburgsingel
 limburgstraat
 limcostraat
 limes
-limes-lus
 limesbaan
+limesbrug
 limespad
 limesstraat
 limfalaan
 limfjord
 limietlaan
 limietpad
-limietstraat
 limietweg
 limietweg-oost
-limietwg
-limmeldergang
 limmelderweg
 limmenstraat
 limmer laen
@@ -4500,13 +4535,9 @@ limpergstraat
 limperslaan
 lina radkepad
 lina roetert steenbruggenstraat
-lina roetert steenbruggestraat
 linatebaan
-linatebaan platformzijde-oost
-linatebaan platformzijde-west
 linatestraat
 lincolndomein
-lincolndreef
 lincolnlaan
 lincolnplein
 lincolnstraat
@@ -4522,11 +4553,9 @@ lindeakkers
 lindebaan
 lindebergstraat
 lindeboom
-lindeboomengang
 lindeboomlaan
 lindeboomplein
 lindeboomseweg
-lindeboomsgang
 lindeboomstraat
 lindeboomsweg
 lindeboomweg
@@ -4535,6 +4564,7 @@ lindebuurt
 lindedijk
 lindedreef
 lindegracht
+lindehagen
 lindehoeve
 lindehoevelaan
 lindehof
@@ -4591,11 +4621,11 @@ lindenhorst
 lindenhorststraat
 lindenhoutseweg
 lindenhove
-lindenhovestraat
 lindenkruis
 lindenkruishof
 lindenlaan
 lindenlaantje
+lindenlust
 lindenoord
 lindenpad
 lindenpark
@@ -4621,7 +4651,6 @@ linderflier
 linderhof
 lindermatenweg
 lindersstraat
-lindersstraatje
 linderteseweg
 linderveld
 linderveld west
@@ -4633,6 +4662,7 @@ lindeseweg
 lindesingel
 lindestate
 lindestraat
+lindestuk
 lindestukken
 lindevoort
 lindewal
@@ -4650,20 +4680,15 @@ lindtsebenedendijk
 lindtsedijk
 lindtsestraat
 lindtstraat
-lindweg
 linebeamleane
 lineleane
 linepaad
 linertonstraat
+lingbergweg
 linge
 linge singel
 lingebos
-lingedal
 lingedijk
-lingedonk
-lingefietspad  zuid
-lingefietspad noord
-lingefietspad zuid
 lingegraaf
 lingehorst
 lingekant
@@ -4687,7 +4712,6 @@ lingsendijk
 lingsesdijk
 lingsespad
 lingsforterweg
-lingspad
 lingsterhofweg
 lingsweg
 linhorst homankanaal
@@ -4701,6 +4725,7 @@ linieijzer
 liniekampen
 linielaantje
 liniepad
+liniepont
 liniepontpad
 linieschans
 liniestraat
@@ -4709,7 +4734,6 @@ liniewal
 linieweg
 liniushof
 linkensweg
-linker hoon
 linker rottekade
 linker rottekadehof
 linker veerdam
@@ -4732,7 +4756,7 @@ linnaeusplein
 linnaeusstraat
 linnaeusweg
 linne
-linneauspad
+linne 21
 linnemansstraat
 linnen
 linnenplein
@@ -4744,12 +4768,11 @@ linnenweversstraat
 linnenweverstraat
 linnerhof
 linnerveld
-linnerveldpad
 linnerweerdsweg
 linnerweg
 linnewever
-lino
 linoleumstraat
+linquendabrug
 linschotensingel
 linschotenstraat
 linschoterpoort
@@ -4787,7 +4810,6 @@ lintumpad
 lintveldebrink
 lintveldseweg
 lintweg
-linus paulingstraat
 linus paulingweg
 linze
 linzen-oord
@@ -4796,6 +4818,7 @@ liobastraat
 lioenpad
 lion cachethof
 lion cachetstraat
+lion schulmanstraat
 lionderstuk
 lionel barthof
 lionstraat
@@ -4810,11 +4833,10 @@ lippe biesterfeldstraat
 lippe-biesterfeldstraat
 lippe-biesterfeldweg
 lippe-detmoldplein
-lippedal
 lippehorst
 lippenoordweg
 lippensweg
-lippenwã¢lde
+lippenwÃ¢lde
 lippepad
 lipperkerkstraat
 lipperstpad
@@ -4830,12 +4852,14 @@ lipsker
 lipskerweg
 lipsosdreef
 lipsstraat
+liquidambar
 lire
 lirestraat
 lireweg
+liriodendron
 lis
 lisa dahmen - ottenheijmstraat
-lisbaan
+lisbaanplein
 lisbloemplein
 lisbloemstraat
 lisboa
@@ -4849,6 +4873,8 @@ lisdoddestraat
 lisdoddeveld
 lisdoddeweg
 lisdreef
+lise meitnerbrug
+lise meitnerhof
 lise meitnerpad
 lise meitnerstraat
 lise meitnerweg
@@ -4875,10 +4901,10 @@ lissabonpromenade
 lissabonring
 lissabonstraat
 lissabonweg
+lisse
 lissebeemd
 lissebonsepad
 lissefortven
-lissendijk
 lissenmeent
 lissensteyndreef
 lissenvaart
@@ -4894,13 +4920,11 @@ lissevenlaan
 lissevoort
 lisstraat
 listerhof
-listzpad
 lisven
 lisvensedijk
 lisvoort
 lisweg
 lisztgaarde
-liszthof
 lisztlaan
 lisztpad
 lisztplein
@@ -4915,6 +4939,7 @@ litherweg
 lithiumweg
 litho
 lithograaf
+lithografenplein
 lithoijense dijk
 lithoijenstraat
 lithoyenseweg
@@ -4926,7 +4951,6 @@ litouwenplein
 litouwenstraat
 litscherboord
 litscherveldweg
-litsdyk
 litsenbergweg
 litsenhof
 litserstraat
@@ -4945,6 +4969,7 @@ liuwesingel
 livarstraat
 liverpoolstraat
 liverpoolweg
+liviahof
 livingstonehage
 livingstonehof
 livingstonelaan
@@ -4964,18 +4989,19 @@ lizzy van dorpweg
 ljip
 ljiploane
 ljippeblom
-ljippenstã¢l
+ljippenstÃ¢l
 ljipstrjitte
 ljochtewei
 ljochtmisdyk
 ljouwerterdyk
 ljouwertertrekwei
-ljubljanaplein
+ljouwterdyk
 ljubljanapromenade
 ljurk
 ljurkstrjitte
 lloyd multiplein
 lloyd webberhof
+lloyd wrightsingel
 lloydhoofd
 lloydkade
 lloydkwartier
@@ -4993,6 +5019,7 @@ loakendiek
 loayerstrjitte
 lobattostraat
 lobbekenstorenstraat
+lobbelaan
 lobbendijk
 lobbenhoef
 lobbenhoeve
@@ -5007,7 +5034,6 @@ lobelialaan
 lobeliapad
 lobeliaplein
 lobeliastraat
-lobeliaweg
 lobelius-serre
 lobeliuslaan
 lobeliusstraat
@@ -5023,11 +5049,13 @@ locatellikade
 locatellilaan
 locatellistraat
 locatiepad
+lochem 26
 lochemhoeve
 lochemseberg
 lochemsestraat
 lochemseweg
 lochemstraat
+lochjesweg
 locht
 lochtenberg
 lochtenborg
@@ -5050,7 +5078,6 @@ locksweer
 locomobielstraat
 locomotief
 locomotiefboulevard
-locomotiefpad
 locomotiefsteeg
 locomotiefstraat
 locomotiefwei
@@ -5063,11 +5090,11 @@ lodderlandsedijk
 loddero
 lodderstraat
 loddersweer
+lode peetersstraat
 lode zielenshove
 lodeizengaarde
 lodeizenstraat
 loden kamer
-lodenbeemden
 lodenvloer
 loderlaan
 loderstraat
@@ -5088,7 +5115,6 @@ lodewijk roelandtstraat
 lodewijk rogierhof
 lodewijk tripstraat
 lodewijk van beierenstraat
-lodewijk van deijssellaan
 lodewijk van deijsselstraat
 lodewijk van deysseldreef
 lodewijk van deysselhof
@@ -5097,7 +5123,6 @@ lodewijk van deyssellaan
 lodewijk van deysselstraat
 lodewijk van duurenstraat
 lodewijk van hamelstraat
-lodewijk van nassaustraat
 lodewijk van nassaustraat
 lodewijk van praetstraat
 lodewijk van velthemstraat
@@ -5111,7 +5136,6 @@ lodiek landen
 lodijck
 lodijk
 lodijkepad
-lodijkepark
 lodijkestraat
 lodo van hamelpad
 lodo van hamelstraat
@@ -5123,6 +5147,7 @@ loeffplein
 loeffstraat
 loefzij
 loefzijde
+loek casperslaan
 loek elfferichweg
 loek lansdorpstraat
 loek nelissenstraat
@@ -5136,8 +5161,8 @@ loena
 loenapad
 loenastraat
 loenen
+loenen 23
 loenendreef
-loenense beek
 loenense beek
 loenensebeek
 loenenseboslaan
@@ -5152,11 +5177,9 @@ loenermark
 loenerveld
 loenerveste
 loenhofstraat
-loenhorst
 loenhorsterweg
 loenhoutstraat
 loensweg
-loenys van lancveltlaan
 loenys van lancveltlaan
 loerangelsestraat
 loerbeekseweg
@@ -5164,7 +5187,6 @@ loerhaze
 loerhazenweg
 loeriksepad
 loerikseweg
-loeriksezandpad
 loermanakker
 loes van marlestraat
 loes van overeemlaan
@@ -5176,15 +5198,12 @@ loet c. barnstijnstraat
 loetbos
 loete
 loetestraat
-loeteweg
 loethe
 loethoeli-erf
 loethoelilaan
 loevemicherweg
 loevenhoutsedijk
 loevenich
-loevensteingracht
-loevensteinkade
 loevensteinlaan
 loevestein
 loevesteingracht
@@ -5195,10 +5214,10 @@ loevesteinplaats
 loevesteinse randweg
 loevesteinsingel
 loevesteinstraat
-loevestraat
 loezekamp
 loffertweg
 lofoten
+lofotenbrug
 lofotenweg
 loganbes
 logerij
@@ -5252,7 +5271,6 @@ loilseweg
 loire
 loiredal
 loirelaan
-loirelaan
 loirestraat
 loirestroom
 loireweg
@@ -5260,6 +5278,8 @@ lok
 lokaalspoor
 lokaalweg
 lokbossen
+lokbrug
+lokeendbrug
 lokenstraat
 lokeren
 lokerenpassage
@@ -5272,21 +5292,21 @@ lokhorsterduin
 lokhorsterland
 lokhorsterweg
 lokhorstlaan
+lokhorstplein
 lokhorststraat
 lokhorstweg
 lokistraat
+lokkant
 lokkantseweg
 lokkemientjeweg
 lokken
 lokkenstraat
 lokkerberg
 lokkerdreef
-lokkershoek
 lokkershofweg
 lokkerstraat
 lokkersweg
 lokkertsemolenweg
-lokomotiefpad
 lokomotiefstraat
 loksheuvelseweg
 loksleane
@@ -5297,16 +5317,17 @@ lokweg
 lokzijlskamp
 lola quirecpad
 lolkema's laene
-lolkjeslã¢n
+lolkjeslÃ¢n
 lollebeekweg
 lollestraat
 lollius ademalaan
 lollumerweg
 lomanlaan
-lomansdijkje
+lomansdijk
 lomanskamp
 lomanskampweg
 lomanstraat
+lombardbrug
 lombardenstraat
 lombardhof
 lombardi
@@ -5314,8 +5335,10 @@ lombardialaan
 lombardije
 lombardijenlaan
 lombardijenpad
+lombardijepad
 lombardijestraat
 lombardijeweg
+lombardijsepad
 lombardijseweg
 lombardje
 lombardkade
@@ -5324,7 +5347,6 @@ lombardpad
 lombardpassage
 lombardplein
 lombardpoort
-lombardshofje
 lombardsteeg
 lombardstraat
 lombardstraatje
@@ -5335,17 +5357,20 @@ lombok
 lombokdwarsstraat
 lomboklaan
 lombokpad
+lombokplantsoen
 lombokstraat
 lombokweg
 lomeijerplein
-lommelbergvoetpad
 lommelpad
 lommelsedijk
 lommelstraat
+lommer broekweg
 lommerbaan
 lommerbergen
+lommerboschweg
 lommerdsteeg
 lommergroen
+lommerheiveldweg
 lommerhof
 lommerlaan
 lommerlaantje
@@ -5354,20 +5379,23 @@ lommerlustlaan
 lommeroord
 lommerpad
 lommerrijk
+lommerrijkpad
 lommerstraat
 lommertsteeg
+lommerweg
 lommestraatje
 lomodisweg
 lomondlaan
 lomondmeer
 lompenkramersgas
 lomstraat
-lomã©straat
+lomveldweg
+lomÃ©straat
+lona
 lonapark
 lonbar petrilaan
 loncke-plantsoen
 londen
-londenboulevard
 londenhaven
 londenhof
 londenlaan
@@ -5385,11 +5413,12 @@ loneresweg
 lonerrotonde
 lonerstraat
 longbuorren
+longerhousterdyk
 longinapad
 longinastraat
 longkruid
 longkruidstraat
-longkrã»dstrjitte
+longkrÃ»dstrjitte
 longobardenweg
 longoliusstraat
 longroomweg
@@ -5397,9 +5426,10 @@ longway
 loninkvoetpad
 lonismaat
 loniusstraat
+lonje
 lonjeweg
-lonjã©
-lonjã©flat
+lonjÃ©
+lonjÃ©flat
 lonneker markeweg
 lonneker molenweg
 lonneker steumke
@@ -5408,7 +5438,6 @@ lonnekerbrugstraat
 lonnekeresweg
 lonnekermeerweg
 lonnekerspoorlaan
-lonnekerspoorpad
 lonnekerstraat
 lonnekerveldweg
 lonnekerweg
@@ -5420,15 +5449,16 @@ loo-ackers
 loo-akker
 looakker
 looakkers
-looakkerweg
 loobeek
 loobeekdal
 loobeekweg
 loobos
+looboschweg
 loobrink
+loobrug
+looburg
 loodbusruwe
 loodgieter
-loodgietersgang
 loodgieterssteeg
 loodgietersstraatje
 loodglans
@@ -5443,7 +5473,6 @@ loods bali
 loods borneo
 loods celebes
 loods holland
-loods java
 loodsboot
 loodsenpad
 loodsgracht
@@ -5461,11 +5490,11 @@ loodyk
 loodzetter
 looerheideweg
 loofaert
+loofbospad
 loofdakstraat
 loofgang
 loofhout
 loofhoutpad
-loofhoutweg
 loofklapper
 loofrietweg
 loofschouwstraat
@@ -5487,6 +5516,7 @@ looiakkerstraat
 looieind
 looieindseweg
 looienhoek
+looiensweg
 looier
 looierbroek
 looierbroekzijweg
@@ -5495,7 +5525,6 @@ looierij
 looierijstraat
 looierijweg
 looiersboom
-looiersbrug
 looiersbuurt
 looiersdreef
 looiersgaarde
@@ -5524,9 +5553,11 @@ looijerstraat
 looijkesbospad
 looijveweg
 looikolkstraat
+looikuil
 looimolenstraat
 looimolenweg
 looipad
+looische graafweg
 looisehoeve
 looiseweg
 looistraat
@@ -5537,7 +5568,6 @@ looizicht
 look
 lookant
 looker molen
-lookerenkweg
 lookerheiweg
 lookerplei
 lookersdijk
@@ -5572,6 +5602,7 @@ loonse baan
 loonse hei
 loonse molenstraat
 loonse spinderspad
+loonse steeg
 loonse waard
 loonsebaan
 loonsedijk
@@ -5588,7 +5619,6 @@ loopakker
 loopbergenseweg
 loopbruglaan
 loopeend
-loopgravenlinie
 loopheuvel
 loopkantstraat
 loopkever
@@ -5596,6 +5626,7 @@ looplantsoen
 looppad
 loopplank
 loopschansstraat
+loopschoor
 loopsteegje
 loopstraat
 loopstukken
@@ -5639,8 +5670,6 @@ loosteresweg
 loosterweg
 loosterweg noord
 loosterweg zuid
-loosterweg-noord
-loosterweg-zuid
 loostraat
 loostreeplaan
 loosven
@@ -5680,12 +5709,11 @@ loozerheideweg
 loozermars-noord
 loozermars-zuid
 loozeweg
-looã«ind
-looã«nkpad
-looã«nkweg
-looã«r enkweg
-looã«rmark
-lopende sloot
+looÃ«ind
+looÃ«nkpad
+looÃ«nkweg
+looÃ«r enkweg
+looÃ«rmark
 lopendediep
 lopens
 lopense
@@ -5721,7 +5749,6 @@ lorentz
 lorentzbaan
 lorentzdijk
 lorentzdreef
-lorentzflat
 lorentzhof
 lorentzkade
 lorentzlaan
@@ -5732,11 +5759,11 @@ lorentzschans
 lorentzstraat
 lorentzweg
 loretostraat
-lori)straat
 loridanshof
 lorien
+lorisstraat
 loristraat
-loriã©straat
+loriÃ©straat
 lorkeboomstraat
 lorkeersweg
 lorkenstraat
@@ -5751,6 +5778,7 @@ lorreinenstraat
 lorreman
 lorrie
 lorriegarage
+lorriespoor
 lorriestraat
 lorskensstraat
 lorsweg
@@ -5760,7 +5788,6 @@ lortzingstraat
 lorweg
 los angelesstraat
 losannastraat
-losbaan
 loseweg
 loshaven
 loshof bankierbaan
@@ -5776,13 +5803,13 @@ losse acker
 lossers voetpad
 lossersedijk
 lossersestraat
-lossing
 lossingpad
 losvloerstraat
 loswal
 loswalpad
 loswalweg
 losweg
+lot hagenstraat
 lotbroekerweg
 lotersbergweg
 lotharingen
@@ -5791,12 +5818,12 @@ lotharingenweg
 lothariuslaan
 lothariusstraat
 lots heufweg
+lotsbrug
 lotstukken
 lotsweg
 lotsydreef
 lotte bartschathof
 lotte beesedijk
-lotte beesekade
 lotte beesestraat
 lotte stam-beesepad
 lotte stam-beesestraat
@@ -5808,12 +5835,11 @@ lottinge
 lottinglaan
 lottingstraat
 lottistraat
-lottumseweg
-lotus
 lotusberg
 lotusbloem
 lotusbloemstraat
 lotusbloemweg
+lotushof
 lotuslaan
 lotusplantsoen
 lotusstraat
@@ -5822,13 +5848,13 @@ lotustuin
 lotusvallei
 lotusvliet
 lotweg
+lou andreas-salomÃ©straat
 lou bandystraat
-lou castellostraat
 lou costellostraat
 lou jansenplein
 lou maertenslaan
 lou seerdenlaan
-lou sã¢nen
+lou sÃ¢nen
 loubergweg
 loubuorren
 loudelsweg
@@ -5860,37 +5886,37 @@ louis bouwmeesterstraat
 louis braillelaan
 louis braillestraat
 louis buelenspad
+louis chrispijnbrug
 louis chrispijnstraat
 louis couperusdreef
 louis couperushof
 louis couperushove
 louis couperuslaan
-louis couperusplaats
 louis couperusplein
 louis couperussingel
 louis couperusstraat
 louis d'orlaan
-louis davidscarrã©
+louis davidscarrÃ©
 louis davidslaan
 louis davidsstraat
+louis de boisotstraat
 louis de bourbonstraat
-louis de funã¨sstraat
+louis de funÃ¨sstraat
 louis de visserplein
 louis de visserstraat
 louis delruellestraat
 louis dobbelmannweg
 louis doedelstraat
-louis dâ€™orlaan
+louis donkersplein
 louis eijssenweg
-louis eliasstraat
 louis elsevierstraat
-louis en morgenplein
+louis elseviersviaduct
 louis ferronstraat
 louis frequinhof
 louis gimberglaan
 louis haanstraat
-louis hartzplein
 louis hartzstraat
+louis j. welterbrug
 louis jansenplein
 louis kahnstraat
 louis kookenweg
@@ -5898,6 +5924,8 @@ louis loyensstraat
 louis marie jaminhof
 louis moorhof
 louis naarstigstraat
+louis nÃ©elpad
+louis nÃ©elstraat
 louis pasteurlaan
 louis pasteurpad
 louis pasteurstraat
@@ -5917,9 +5945,7 @@ louis royerstraat
 louis saalbornlaan
 louis saalbornstraat
 louis schottingstraat
-louis ten catelaan
 louis toeboschrode
-louis van der maesenstraat
 louis van gasterenstraat
 louis van roodelaan
 louis van tulderstraat
@@ -5940,14 +5966,16 @@ louise de colignysingel
 louise de colignystraat
 louise hardenbergsingel
 louise heep paed
+louise hengeveltlaan
 louise henriettestraat
-louise henriã«ttelaan
-louise henriã«ttestraat
+louise henriÃ«ttelaan
+louise henriÃ«ttestraat
 louise julianalaan
 louise kerlinghof
 louise kerlingstraat
 louise marie loeberplantsoen
 louise michelstraat
+louise schim van der loeffweg
 louise stratenusstraat
 louise wentland
 louise wentstraat
@@ -5963,7 +5991,6 @@ louiseweg
 loupiaclaan
 lourdeserf
 lourdeshof
-lourdespad
 lourdesplein
 lourdesstraat
 lourens bogtmanstraat
@@ -5978,8 +6005,7 @@ louvre
 louvrelaan
 louw doniastraat
 louwdijk
-louwenpoort
-louwer om'e tãºn
+louwer om'e tÃºn
 louwerenberg
 louwersdonk
 louwerse's wegeling
@@ -5995,12 +6021,10 @@ louwrens penninghof
 louwrens penningstraat
 louwschepoort
 louwsmarwei
-louwsmeer-herbayum
 louwsmeerstraat
 louwtjes kaa
 louwvlakte
 lovaniostraat
-lovendaal
 lovendaalhoeve
 lovendaalseweg
 lovenholm
@@ -6029,7 +6053,7 @@ lovinkbeek
 lovinklaan
 lovinkstraat
 lovinkweg
-lovã¨nseweg
+lovÃ¨nseweg
 loweg
 lowellpad
 lowerik
@@ -6043,12 +6067,11 @@ loysonstraat
 lozedijk
 lozekampsteeg
 lozekampsteeg zijpad
-lozekampsteegpad
 lozerlaan
 lozerweg
 lozeschorweg
 lozestoep
-loã«ngasterlaan
+loÃ«ngasterlaan
 lt-generaal foulkeslaan
 lt. andersonstraat
 luanalaan
@@ -6060,22 +6083,19 @@ lubberstraat
 lubbertjesweg
 lubbingerweg
 lubecker bocht
-lubeckstraat
 luberg
 lubertus van beekstrjitte
 lubitschpad
 lubitschstraat
-luca signorellistraat
 lucas bolsstraat
-lucas cranachpad
 lucas cranachplantsoen
 lucas de kockstraat
 lucas gasselstraat
+lucas lindeboomlaan
 lucas meijerstraat
 lucas rotgansstraat
 lucas sinckstraat
 lucas van der schootlaan
-lucas van hauthemlaan
 lucas van hauthemlaan
 lucas van leijdenlaan
 lucas van leijdenpad
@@ -6086,6 +6106,7 @@ lucas van leydenpad
 lucas van leydenstraat
 lucas van leydenweg
 lucasbolwerk
+lucasgat
 lucashoef
 lucaslaan
 lucasstraat
@@ -6102,11 +6123,11 @@ luchesiusstraat
 luchiespad
 luchiessteeg
 luchiesweg
-lucht
 lucht en veld
 lucht en veldsterdyk
 luchtenborg
 luchtenburg
+luchtenburgbrug
 luchtenburgerweg
 luchtenburglaan
 luchtenburgplein
@@ -6125,7 +6146,6 @@ luchthavenweg
 luchtmachtplein
 luchtmansplein
 luchtpad
-luchtstraat
 luchtvaart
 luchtvaartplein
 luchtvaartstraat
@@ -6143,7 +6163,9 @@ lucille ballstraat
 lucillegang
 lucio costaruimte
 luciusstraat
+lucky lukepad
 lucky lukestraat
+lucretia van merkenhof
 lucretia van merkenlaan
 lucretia van merkenstraat
 lucretiastraat
@@ -6168,8 +6190,8 @@ ludgerushof
 ludgeruslaan
 ludgerusplein
 ludgerusstraat
+ludgerusweg
 ludinga
-ludingadam
 ludingakerke
 ludingaweg
 ludinge
@@ -6211,8 +6233,6 @@ luijnhorststraat
 luijtenbroek
 luijtensstraat
 luijtenstraat
-luijtenvoetpad
-luijtenweg
 luikap
 luikenhuisweg
 luikens
@@ -6221,7 +6241,6 @@ luikerheidestraat
 luikerstraat
 luikerweg
 luiklaan
-luiksepad
 luiksesingel
 luiksestraat
 luiksingel
@@ -6241,7 +6260,6 @@ luiperbeekstraat
 luiperse
 luipertstraat
 luisa miller
-luisch hof
 luissel
 luisselse heistraat
 luistenstraat
@@ -6251,7 +6269,6 @@ luit
 luit blomstraat
 luit katlaan
 luit looymanshof
-luit van hamelstraat
 luiten ambachtstraat
 luitenakker
 luitenant
@@ -6263,10 +6280,8 @@ luitenant van hamelstraat
 luitenant wilsstraat
 luitenantstraat
 luitendaal
-luiteplein
 luiterf
 luitertweg
-luitesteeg
 luitestraat
 luitgardestraat
 luitgardeweg
@@ -6279,12 +6294,12 @@ luitspeler
 luitstraat
 luitvoort
 luitzen oetsesweg
-luitzen oetzesweg
+luitzen ten cateweg
 luitzen wagenaarstraat
 luiveland
 luiveldweg
 luiwerk
-lukas schoonderbeekstr
+lukaartstraat
 lukas schoonderbeekstraat
 lukaserf
 lukassenpad
@@ -6292,24 +6307,29 @@ lukasstraat
 lukepad
 lukstraat
 luktebaan
+lulapad
 lulofsstraat
+lulpzandweg
+lulse kampweg
 lumbresplein
 lumbresstraat
 lumeijstraat
 lumenlaan
 lumenplantsoen
 lumenstraat
+lumenweg
 lumeyhof
 lumeystraat
 lumeyweg
-lumiã¨repad
-lumiã¨restraat
-lumiã¨restrand
+lumiÃ¨rehof
+lumiÃ¨repad
+lumiÃ¨repad i
+lumiÃ¨repad ii
+lumiÃ¨restraat
 lummesweg
 lumumbasingel
 lunahof
 lunalaan
-lunapark
 lunariabeemd
 lunastraat
 lunaweg
@@ -6325,6 +6345,7 @@ lunenburgstraat
 lunerkampweg
 lunersingel
 lunet
+lunetbrug
 lunetkade
 lunetstraat
 lunette
@@ -6333,6 +6354,7 @@ lunettenbaan
 lunettenhof
 lunettenlaan
 lunettenpad
+lunettenweg
 lunetteplein
 lunettestraat
 lungendonk
@@ -6342,6 +6364,7 @@ lunik
 lunsenhof
 lunssloten
 lunsveenweg
+lunteren 3
 lunterenhoeve
 lunterenpad
 lunterenstraat
@@ -6381,7 +6404,6 @@ lurvinksteeg
 lus
 lusakastraat
 lusitanopad
-lussendreef
 lustenburg
 lusthof
 lusthoflaan
@@ -6390,6 +6412,7 @@ lusthofweg
 lusthorst
 luteijnstraat
 lutenakkersteeg
+lutenantslaan
 lutenkampstraat
 lutetiahof
 luteynmarke
@@ -6418,6 +6441,7 @@ lutje esweg
 lutje lollum
 lutje lollumerweg
 lutjebos
+lutjebroek
 lutjegasterweg
 lutjekolhorn
 lutjelaan
@@ -6433,6 +6457,7 @@ lutjewoude
 lutkeberg
 lutkebosch
 lutkedijk
+lutkekampen
 lutkelant
 lutkemeerstraat
 lutkemeerweg
@@ -6443,12 +6468,11 @@ lutmarsweg
 lutmastraat
 lutonbaan
 lutonhof
-lutonstraat
 luts
 lutsborgsweg
 lutskedyk
 lutswei
-lutswã¢l
+lutswÃ¢l
 luttekenstraat
 luttekepad
 luttekepoortstraat
@@ -6461,10 +6485,9 @@ lutteldonk
 luttelgeesterweg
 luttelherptseweg
 luttelhof
-luttelsepad
-luttelseweg
 luttelveld
 luttelweg
+lutten
 lutten oever
 lutten oeverweg
 luttenberg
@@ -6474,6 +6497,8 @@ luttenbergweg
 luttenbroekseweg
 luttenweg
 lutter
+lutterendalsveldweg
+lutterendalsweg
 lutteresweg
 luttergreppel
 lutterkerkpad
@@ -6538,7 +6563,6 @@ luzacstraat
 luzacware
 luzerne
 luzerne-oord
-luzernedreef
 luzerneklaver
 luzernestraat
 luzerneveld
@@ -6546,11 +6570,12 @@ luzernevlinder
 luzernevlinderplateau
 luzonstraat
 lyaersmastrjitte
+lyceumbrug
 lyceumlaan
 lyceumpad
 lyceumstraat
 lyceumweg
-lycklama ã  nijeholtlaan
+lycklama Ã  nijeholtlaan
 lycklamastins
 lycklamastraat
 lycklamavaart
@@ -6558,17 +6583,14 @@ lycklamaweg
 lycklemastraat
 lyclama's leantsje
 lyclamastraat
-lyclamavaart
 lyclamaweg
-lydiastraat
 lydie platestraat
 lydweg
 lyklamawei
 lykpaed
 lykwei
-lylantse baan
-lylantse plein
 lynbaan
+lynbaansbrug 0010
 lynbaen
 lynbaenstrjitte
 lynckerstraat
@@ -6578,7 +6600,6 @@ lynestraat
 lynnerkamp
 lynssenstraat
 lynx
-lyonetstraat
 lyonhof
 lyonnetstraat
 lyonpad
@@ -6588,9 +6609,10 @@ lyrapad
 lyrastraat
 lyriekstraat
 lysbet lubbertsstraat
+lysbeth jan bettepad
 lyskemeerweg
-lyspã´le
-lyspã´lle
+lyspÃ´le
+lyspÃ´lle
 lysterbeipaad
 lysterstrjitte
 lyts achlum
@@ -6612,10 +6634,9 @@ lytse polder
 lytse seadwei
 lytse side
 lytse stege
-lytse stege
 lytse streek
-lytse sã©'s reed
-lytse sãºdein
+lytse sÃ©'s reed
+lytse sÃºdein
 lytse wei
 lytse wyngaerden
 lytsebuorren
@@ -6625,33 +6646,32 @@ lytsehuzen
 lytselaard
 lytsewei
 lytshuzen
-lytshãºzen
-lã¢ndyk
-lã¢nsbuorren
-lã¤dderken
-lã¨harstraat
-lã©gipontstraat
-lã©harstraat
-lã©on huybrechtsstraat
-lã©on jesselhof
-lã©onie van oudyckstraat
-lã¶blaan
-lã¶hnislaan
-lã¶hnisweg
-lã¶lfweg
-lã¶ppinksweg
-lã¶stersweg
-lãºkster heawei
-lãºnsterwei
-lãºtsen bottemastrjitte
-lãºtsen- om- lã¢n
-lãºtsenom-lã¢n
-lãºtzen wagenaarstraat
-lãºtzenpã´lle
-lã¼beck
-lã¼beckhof
-lã¼beckplein
-lã¼beckstraat
-lã¼beckweg
-lã¼nenpad
-lã¼nenstraat
+lÃ¢nbrÃªge
+lÃ¢ndyk
+lÃ¢nsbuorren
+lÃ¤dderken
+lÃ©gipontstraat
+lÃ©harstraat
+lÃ©on flamenpad
+lÃ©on huybrechtsstraat
+lÃ©on jesselhof
+lÃ©onie van oudyckstraat
+lÃ¶blaan
+lÃ¶hnislaan
+lÃ¶hnisweg
+lÃ¶lfweg
+lÃ¶ppinksweg
+lÃ¶stersweg
+lÃºkster heawei
+lÃºnsterwei
+lÃºtsen bottemastrjitte
+lÃºtsenom-lÃ¢n
+lÃºtzen wagenaarstraat
+lÃºtzenpÃ´lle
+lÃ¼beck
+lÃ¼beckhof
+lÃ¼beckplein
+lÃ¼beckstraat
+lÃ¼beckweg
+lÃ¼nenpad
+lÃ¼nenstraat

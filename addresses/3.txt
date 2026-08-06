@@ -1,11 +1,10 @@
 300 roedenlaan
 30e laan
+334 hmp 19
 36e laan
 3e achterstraat
 3e barendrechtseweg
-3e bataljonsdok
 3e batsteeg
-3e bergerweg
 3e binnenvestgracht
 3e bosweg
 3e braamstraat
@@ -35,13 +34,13 @@
 3e industriedwarsstraat
 3e industriestraat
 3e industrieweg
-3e industrieweg
 3e joan maetsuyckerstraat
 3e katendrechtsehoofd
 3e kekerstraat
 3e kranenpoelweg
 3e kruisstraat
 3e lageveldsweg
+3e landweerweg
 3e loosterlaan
 3e loosterweg
 3e louise de colignystraat
@@ -59,20 +58,18 @@
 3e regimentsdok
 3e rembrandtdwarsstraat
 3e rijksbinnenhaven
+3e rijpegors
 3e saskiadwarsstraat
 3e schansstraat
 3e schansweg
 3e sint jozefstraat
 3e sint-janshof
-3e solbergweg
 3e strausspad
-3e struikweg
 3e vegelindwarsstraat
+3e verbindingsweg
 3e walsteeg
 3e westewagenhof
 3e woudstraat
-3e zachariasweg
 3e zandstraat
 3e zandwijkje
 3e zijpad grote bospad
-3e zijpd.gulp.grensweg

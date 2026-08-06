@@ -4,30 +4,28 @@ a 325
 a 50
 a 73
 a 73 rijksweg
-a c bleijsstraat
+a banckertlaan
 a c de ruijter van steveninckstraat
 a c m muskeijnplantsoen
-a datemalaan
 a de koningstraat
 a dijk
 a en j van damlaan
-a f d savornin lohmanstr
 a f lanckerstraat
 a g bellstraat
 a g van alfenstraat
+a g wildervanckweg
 a g'n berg
 a ge veld
-a ge water
 a ge water
 a gen bies
 a gen giezen
 a gen uil
-a h blaauwstraat
 a j bootpad
 a j van der moolenstraat
 a koenestraat
 a kuyperstraat
 a m de jonglaan
+a m de jongpark
 a m de jongstraat
 a r falckstraat
 a s moermanstraat
@@ -35,19 +33,15 @@ a s talmalaan
 a s talmaplein
 a t l hasselbachweg
 a taerlingstraat
-a v leeuwenhoekstr
 a van drielstraat
 a van heestraat
 a van loenenstraat
 a van olphenstraat
 a van voorthuijsenweg
-a van zeestraat
-a vuyklaan
 a w grootestraat
 a-b pad
 a-b weg
 a-kade
-a-weg
 a-weg
 a. anemastraat
 a. beensstraat
@@ -58,29 +52,24 @@ a. commandeurlaan
 a. de gelderlaan
 a. de graaflaan
 a. de graafweg
+a. den doolaardhof
 a. den doolaardstraat
 a. diepenbrockstraat
 a. doyerlaan
 a. eibinkplantsoen
 a. einsteinlaan
-a. einsteinweg
 a. evershof
 a. eversplein
 a. f. stroinkweg
 a. frederikshof
-a. h. blaauwstraat
-a. h. ter horstlaan
-a. heringa-jongbloedtuin
 a. hofmanweg
-a. honouthof
-a. j. goldsteinstraat
 a. jacobsstraat
 a. keijzerlaan
 a. kortekaasplantsoen
 a. kortekaasstraat
 a. kraalweg
 a. kuypersingel
-a. le nã´trelaan
+a. le nÃ´trelaan
 a. lijphartlaan
 a. m. de jongstraat
 a. mauvelaan
@@ -92,8 +81,10 @@ a. morostraat
 a. nieboerplein
 a. noordewier-reddingiuslaan
 a. pakvisstraat
+a. passtoorsstraat
 a. petersweg
 a. plesmanlaan
+a. post-salomonsstraat
 a. pouwerstraat
 a. prakkenstrjitte
 a. rampionstrjitte
@@ -102,10 +93,8 @@ a. roland holstlaan
 a. roland holststraat
 a. schelfhoutstraat
 a. ten hovestraat
-a. twigtplantsoen
 a. uittenbogaardstraat
 a. van bronckhorststraat
-a. van der bergweide
 a. van der horstpad
 a. van der kolkstraat
 a. van der meulenstrjitte
@@ -114,7 +103,6 @@ a. van der wallestraat
 a. van der weijdeweg
 a. van drielstraat
 a. van heusdenstraat
-a. van leeuwenhoekweg
 a. van oudenallenstraat
 a. van ouwaterstraat
 a. van scheltemastraat
@@ -123,7 +111,6 @@ a. van spronsenstraat
 a. van zeestraat
 a. vogelstraat
 a. vondelingstraat
-a. vuyklaan
 a. wubsweg
 a.a. de lannoy-willemsstraat
 a.a. hinzstraat
@@ -151,11 +138,14 @@ a.c.verhoefweg
 a.c.w. staringhof
 a.c.w. staringstraat
 a.d. van eckstraat
+a.dam-tuindorp-oostzaan 18
 a.e. gorterweg
 a.e. maasstraat
 a.f. de savornin lohmanplantsoen
 a.f. de savornin lohmanstraat
+a.g wildervanckweg
 a.g. bellstraat
+a.g. de vrijebrug
 a.g. hofkeslaan
 a.g. noijweg
 a.g. swartstraat
@@ -178,7 +168,7 @@ a.h.g. fokkerlaan
 a.h.g. fokkerstraat
 a.h.g. fokkerweg
 a.h.h. tolhuisenstraat
-a.i. van hardenbroek erf
+a.j. albertsstraat
 a.j. de graaffstraat
 a.j. duymaer van twiststraat
 a.j. goldsteinstraat
@@ -193,11 +183,10 @@ a.j. van reststraat
 a.j. van sijlpad
 a.j. verbrughpad
 a.j. vitringastraat
-a.j. wiggerslaan
 a.j. woltersstraat
 a.l. dyserinckstraat
 a.l. lesturgeonstraat
-a.l. salomonstuin
+a.l. schrijenstraat
 a.l.g. bosboom-toussaintlaan
 a.leurisstraat
 a.m. de jonghove
@@ -206,21 +195,16 @@ a.m. de jongpad
 a.m. de jongstraat
 a.m. frenkenstraat
 a.m. van der gootstraat
-a.m. van schuurmanplein
+a.m. van schurmanhof
 a.m. van steenislaan
 a.m.a. van langeraadweg
-a.m.van steenislaan
 a.minderhoudstraat
 a.n.van pellecomhof
-a.p. buijsweg
-a.p. csizikplantsoen
 a.p. de bontstraat
 a.p. fokkerstraat
 a.p. hilhorstweg
-a.p. periardstraat
-a.p. van neslaan
 a.r. falckstraat
-a.s. de blã©courtlaan
+a.s. de blÃ©courtlaan
 a.s. levissonstraat
 a.s. onderwijzerhof
 a.s. talmaplein
@@ -228,36 +212,69 @@ a.s. talmastraat
 a.s.talmastraat
 a.v.h. destreelaan
 a.van burenlaan
-a.van oudenallenstraat
 a.van saksenlaan
 a.vlaminckxplein
 a.w. de landgraafstraat
 a.w. den boerhof
-a.w. grootehof
 a.w. grootelaan
 a.w. lipsstraat
 a.w.f. idenburglaan
 a.w.van voordenlaan
 a.weeninklaan
 a.weteringsstraat
-a/da
 a1
+a10
+a12
+a13
+a14
 a15
+a16
+a17
+a18
+a2
+a20
+a200
+a205
+a208
+a22
+a24
+a256
 a27
+a270
 a28
+a29
+a3
+a30
+a31
+a32
 a325
+a326
 a348
+a35
+a37
+a38
+a4
+a44
+a5
+a50
 a58
+a59
 a6
+a65
 a67
 a7
 a73
+a74
 a76
+a77
 a79
+a8
+a9
+a9om!pad
 aa
 aa broek
 aa of weerijs
-aa promenade
+aa strangrondweg
 aa-brugstraat
 aa-kade
 aa-kantstraat
@@ -277,13 +294,17 @@ aad mansveldstraat
 aad meijerstraat
 aad wepsterplein
 aadijk
+aadorp
 aadorpsweg
 aadorpweg
 aaf bouberstraat
+aaf dellstraat
 aafje andersstraat
 aafje heynislaan
+aafje houtlosserstraat
 aafke van der heideloane
 aafke van hulststraat
+aafke van hulstweg
 aaftinkdijk
 aaftinksdijk
 aaftinksweg
@@ -338,8 +359,8 @@ aalbershof
 aalbert cuyplaan
 aalbert jan gerritsenweg
 aalbes
-aalbeshof
 aalbespad
+aalbesplaat
 aalbessenlaan
 aalbessenstraat
 aalbessestraat
@@ -350,8 +371,9 @@ aalborgweg
 aalbos
 aalbosweg
 aalbrecht van beijerenstraat
-aalbrechtstraat
 aalbrinkstegge
+aalbrug
+aalburgen
 aalburgplein
 aalburgsestraat
 aalburgstraat
@@ -362,7 +384,6 @@ aalderinkssingel
 aalderinksweg
 aaldersbeeklaan
 aaldershuuslaan
-aaldersmaweg
 aaldersstraat
 aaldert
 aaldert geertsstraat
@@ -373,7 +394,6 @@ aaldonksestraat
 aalduikerweg
 aalenhuislaan
 aalgeer
-aalhorst
 aalkaar
 aalkeborg
 aalkeet-buitenpolderpad
@@ -384,11 +404,13 @@ aalmarkt
 aalminksweg
 aalmoezenier camplaan
 aalmoezenier francis l. sampsonlaan
+aalmoezenier fritschyplein
 aalmoezenier roumenplein
 aalmoezenier roumenstraat
 aalmoezenier sourenstraat
 aalmoezenier verheggenplein
 aalmoezenier verheggenstraat
+aalmoezer fritschyplein
 aalpoelendijk
 aalpolsweg
 aalreep
@@ -397,7 +419,6 @@ aalsbroek
 aalsburg
 aalscheer
 aalscholver
-aalscholverdreef
 aalscholverhof
 aalscholverlaan
 aalscholveroever
@@ -407,7 +428,6 @@ aalscholverplaats
 aalscholverring
 aalscholversingel
 aalscholverstraat
-aalscholverstrand
 aalscholverweg
 aalsdijk
 aalsedijk
@@ -416,15 +436,17 @@ aalshorsterpad
 aalshorstweide
 aalskamperweg
 aalsloot
+aalsmeer 6
 aalsmeerbaan
 aalsmeerderdijk
-aalsmeerdersgang
 aalsmeerderweg
 aalsmeerhof
 aalsmeerplein
 aalsmeerstraat
 aalsmeerweg
 aalst
+aalst ii
+aalstermolenhof
 aalsterveld
 aalsterweg
 aalstraat
@@ -442,13 +464,13 @@ aaltenseweg
 aaltinksweg
 aaltje bakstraat
 aaltje noordewierlaan
-aaltje noordewierpad
 aaltje noordewierstraat
 aaltje reddingiusstraat
 aaltjelaan
 aaltjemeerweg
 aaltostraat
 aaltsengoed
+aaltsenseweg
 aaltsjemuoistege
 aalvangerspad
 aalvangersweg
@@ -475,8 +497,6 @@ aan 't veer
 aan 't ven
 aan 't verlaat
 aan boord
-aan boord hr ms cornelis drebbel
-aan boord hr. ms. cornelis drebbel
 aan botkoel
 aan cedron
 aan de beek
@@ -485,13 +505,12 @@ aan de berg
 aan de bergen
 aan de beuk
 aan de bijl
+aan de boekelterweg
 aan de bogen
 aan de boom
 aan de botersloot
 aan de brandberg
 aan de brikkebouw
-aan de brikkenbouw
-aan de brikkenove
 aan de bronnen
 aan de capelle
 aan de dellinge
@@ -501,12 +520,10 @@ aan de dorekoel
 aan de drie heren
 aan de dril
 aan de dwarssloot
-aan de dwarssloot
 aan de eppenbeek
 aan de fremme
 aan de gapert
 aan de gellik
-aan de gracht
 aan de grave
 aan de grens
 aan de greune paol
@@ -522,26 +539,25 @@ aan de kant
 aan de kerk
 aan de kerkheuvel
 aan de kerkhof
+aan de kernmakerij
 aan de kleine hekel
 aan de koeberg
 aan de kremmer
 aan de kreppel
-aan de krombunder
 aan de kromme sloot
 aan de laadhaven
 aan de lange weide
 aan de leide
-aan de leigraaf
-aan de leimkoel
 aan de linde
 aan de lings
 aan de loop
-aan de loã«rdijk
+aan de loÃ«rdijk
 aan de maar
 aan de maas
 aan de meule
 aan de mismeer
 aan de molenvliet
+aan de munnik
 aan de nees
 aan de noot
 aan de oude markt
@@ -550,7 +566,6 @@ aan de pas
 aan de platz
 aan de pletsmolen
 aan de poel
-aan de polfermolen
 aan de potmarge
 aan de put
 aan de recentoren
@@ -560,7 +575,6 @@ aan de rijn
 aan de rode beek
 aan de ruit
 aan de schacht
-aan de schakel
 aan de schietboom
 aan de schipsloot
 aan de school
@@ -580,15 +594,19 @@ aan de tjonger
 aan de twijnerij
 aan de vaarsloot
 aan de vaart
+aan de vallei
 aan de veldkoul
 aan de ververij
 aan de vier gebroeders
-aan de voeã«gelsjtang
+aan de vleet
+aan de voeÃ«gelsjtang
 aan de vogelsroede
 aan de wassum
+aan de watercoul
 aan de watermolen
 aan de weegbrug
 aan de weverij
+aan de whaa
 aan de wieken
 aan de wietel
 aan de wijer
@@ -600,7 +618,6 @@ aan de zandberg
 aan de zandkuil
 aan de zoom
 aan de zwarte hond
-aan den ouden berg
 aan gen rampagne
 aan het beeker kruis
 aan het beeldje
@@ -609,7 +626,7 @@ aan het broek
 aan het heugemerwater
 aan het kanaal
 aan het lindjen
-aan het patronaat
+aan het pad
 aan het raodhoes
 aan het spoor
 aan het stichelen
@@ -639,6 +656,7 @@ aanloop
 aanloophaven
 aanrijten
 aanschot
+aanschoterweg
 aanslagdwarsstraat
 aanslagstraat
 aanslagsweg
@@ -647,10 +665,10 @@ aanstee
 aansteede
 aanvangsweg
 aanvoerder
+aanvoerderstraat
 aanwaaier
 aanwas
 aanwassenweg
-aanwaswegje
 aar
 aar van de werfhorstsingel
 aaraustraat
@@ -661,7 +679,6 @@ aardaker
 aardamseweg
 aardappelakker
 aardappeldijk
-aardappeleterssteegje
 aardappeleterssteegje
 aardappelland
 aardappelmarkt
@@ -683,6 +700,7 @@ aardbolhof
 aardborst
 aardborstweg
 aarddijkswal
+aarde
 aardebaan
 aardebolleweg
 aardelaan
@@ -691,10 +709,10 @@ aardenburg
 aardenburgsesteeg
 aardenhoek
 aardenweg
-aardenwegske
-aardepad
 aarderweg
+aardewerk
 aardewerkpad
+aardewerkplantsoen
 aardgangstraat
 aardheuvel
 aardhuis
@@ -706,13 +724,12 @@ aardolieweg
 aardonck
 aardpeer
 aardrijk
+aardrijktunnel
 aardschouwstraat
-aardster
 aardstraat
 aardvletterweg
 aardwal
-aardwarmtestraat
-aardweg
+aardwarmteweg
 aardzwaluw
 aarendal
 aarhemmerweg
@@ -721,11 +738,11 @@ aarhuslaan
 aarhusweg
 aarjen lourisz sinjewelplantsoen
 aarjen teunisz jongkeesstraat
-aarkade
 aarlanderveenseweg
 aarlanderveenstraat
 aarle-rixtelseweg
 aarlenlaan
+aarlesche erven
 aarleseweg
 aarninkskampweg
 aarninkstraat
@@ -736,10 +753,8 @@ aarnout drostdreef
 aarnout drostlaan
 aaron coplandstraat
 aarperstraat
-aarplein
 aarschotlaan
 aarschotpad
-aarsdonkwegje
 aarstraat
 aart alblaspad
 aart de gelderstraat
@@ -756,7 +771,6 @@ aart van barendkade
 aart van der leeuwhove
 aart van der leeuwkade
 aart van der leeuwlaan
-aart van der leeuwlaan
 aart van der leeuwstraat
 aart van der neerweg
 aart van lutzenburglaan
@@ -765,13 +779,13 @@ aart van wilgenburghof
 aartje de voseiland
 aartje simonstraat
 aartje van den brinkstraat
+aartjesacker
 aartjesakker
 aartjeskreek
 aartsberg
 aartsbisschop romerostraat
 aartsdijkweg
 aartsepad
-aartserfweg
 aartseveen
 aartshertog albertweg
 aartshertog albrechtstraat
@@ -801,11 +815,10 @@ ab harrewijnstraat
 ab jansenstraat
 ab meniststraat
 ab van sprakelaarlaan
-ab ws timonier t/o polderdijk 6b
 abadanstraat
 abbaborg
-abbe de st pierre-laan
 abbegeasterketting
+abbekerk 10a
 abbekesdoel
 abbekindersezandweg
 abbema
@@ -827,16 +840,17 @@ abbeweersterweg
 abbewerveweg
 abbewiersterpaad
 abbingastate
+abbingatunnel
 abbingstraat
 abbinkdijk
 abbinkstraat
 abbinksweg
 abbringstraat
-abbã© de st pierre-laan
-abbã© de st. pierre-laan
+abbÃ© de st. pierre-laan
 abc
 abc straat
 abc westland
+abcoude 3
 abcoudehoeve
 abcoudepad
 abcoudermeer
@@ -901,9 +915,10 @@ abdissenmolen
 abdissenpad
 abdissenstraat
 abdissentiend
-abdissenweg
 abdisseplein
 abdisstraat
+abdus salampad
+abdus salamstraat
 abe bonnemastraat
 abe bonnemaweg
 abe brouwerpaed
@@ -913,8 +928,6 @@ abe lenstralaan
 abe lenstrasingel
 abe lenstrastraat
 abe lenstraweg
-abe sjipkopplein
-abebe bekilastraat
 abebe bikilalaan
 abebe bikilastraat
 abeel
@@ -937,6 +950,7 @@ abel eppensstraat
 abel j tasmanstraat
 abel olsderweg
 abel tasman erf
+abel tasmanbrug
 abel tasmankade
 abel tasmanlaan
 abel tasmanpad
@@ -969,10 +983,11 @@ abersland
 abersonlaan
 abersonplein
 abersonstraat
-abessiniã«
+abessiniÃ«
 abidjanweg
 abinoort
 aboomsestraat
+abp weg
 abr. kroesweg
 abr.kuyperstraat
 abraham altstraat
@@ -995,7 +1010,6 @@ abraham du bois-hof
 abraham fockstraat
 abraham heetveldlaan
 abraham hopmanstraat
-abraham kamppad
 abraham kampstraat
 abraham keerstraat
 abraham kemplaan
@@ -1009,7 +1023,6 @@ abraham kuyperplein
 abraham kuypersingel
 abraham kuyperstraat
 abraham kuyperweg
-abraham ledeboerpark
 abraham lincolnlaan
 abraham luingestraat
 abraham maatstraat
@@ -1029,7 +1042,6 @@ abraham toncmanstraat
 abraham tuschinskistraat
 abraham van beyerenstraat
 abraham van den boshof
-abraham van den bosweg
 abraham van der hartstraat
 abraham van der hulstlaan
 abraham van der hulstln
@@ -1065,6 +1077,7 @@ abrikozenplein
 abrikozenstraat
 abrikozentuin
 abrikozenweg
+abrug
 absalon
 absbroekstraat
 absdaalseweg
@@ -1073,6 +1086,7 @@ abshove
 abshoven
 abshovenpad
 absrechtstraat
+abstederbrug
 abstederdijk
 abstederhof
 abstederschans
@@ -1081,16 +1095,17 @@ absveen
 abt aggawei
 abt emopad
 abt folkertspad
+abt hopstakenlaan
 abt ludolfweg
 abt moorsstraat
 abt neefsstraat
 abt van de venstraat
 abt van den eijndenstraat
-abt van den eyndenstraat
 abt van engelenlaan
 abt van grevenbroekstraat
 abt van hoofstraat
 abtenlaan
+abtsgeer
 abtshoeve
 abtshof
 abtskamp
@@ -1116,6 +1131,7 @@ acaciahof
 acaciahout
 acaciahoven
 acacialaan
+acacialint
 acaciapad
 acaciapark
 acaciaplantsoen
@@ -1125,6 +1141,7 @@ acaciastede
 acaciastraat
 acaciaweg
 acaciazoom
+academia
 academielaan
 academiepad
 academieplein
@@ -1146,9 +1163,9 @@ accumulatorstraat
 accumulatorweg
 accupad
 accustraat
+acer
 acer flamingolaan
 acerstraat
-achelerweg
 achelpad
 achelstraat
 achillesburg
@@ -1157,7 +1174,6 @@ achilleskruid
 achilleslaan
 achillesstraat
 achillesweg
-achillislaan
 achisomoglaan
 achlumerdijk
 achlumerhof
@@ -1167,9 +1183,7 @@ acht boerijen
 acht gemeten
 acht oan de diken
 acht zaligheden
-acht zaligheden
 acht-pilarenplein
-achtbaan
 achtbundersedijk
 achtbunderstraat
 achtbundersweg
@@ -1191,10 +1205,10 @@ achter 't vosje
 achter 't zaand
 achter 't zand
 achter boerkens
-achter bonenburg
 achter brouwers
 achter capitten
 achter clarenburg
+achter d'n olliemeule
 achter davidshof
 achter de arnhemse poortwal
 achter de bank
@@ -1204,14 +1218,13 @@ achter de beek
 achter de berg
 achter de bergen
 achter de bijenkorf
-achter de biã«nberg
+achter de biÃ«nberg
 achter de blauwe hand
 achter de blokhut
 achter de boogaard
 achter de boogerden
 achter de boomgaard
 achter de borgh
-achter de boterbloem
 achter de brachterzijde
 achter de brandweer
 achter de bredase wagen
@@ -1220,7 +1233,7 @@ achter de brinken
 achter de broederen
 achter de broeken
 achter de broeren
-achter de brouwerij
+achter de canisiuskerk
 achter de carmel
 achter de cattentoren
 achter de comedie
@@ -1230,7 +1243,6 @@ achter de dom
 achter de dorpsstraat
 achter de drie zwanen
 achter de driesprong
-achter de erke
 achter de exters
 achter de gracht
 achter de graef
@@ -1239,6 +1251,7 @@ achter de hare
 achter de hegge
 achter de heggen
 achter de heilige geest
+achter de hervormde begraafplaats
 achter de heuf
 achter de heuvel
 achter de heuvels
@@ -1248,7 +1261,7 @@ achter de hoofdwacht
 achter de hor
 achter de houttuinen
 achter de hoven
-achter de hã¶fkens
+achter de hÃ¶fkens
 achter de ijsbaan
 achter de jera
 achter de kamp
@@ -1257,9 +1270,7 @@ achter de kazerne
 achter de keizer
 achter de keizerskroon
 achter de kerk
-achter de kerk
 achter de kerken
-achter de ketsheuvel
 achter de koevoet
 achter de kom
 achter de kruiskapel
@@ -1274,7 +1285,6 @@ achter de luifelbaan
 achter de luxor
 achter de marstal
 achter de molen
-achter de molen
 achter de molenberg
 achter de molens
 achter de mollen
@@ -1288,12 +1298,10 @@ achter de oranjerie
 achter de oude gracht
 achter de oude kazerne
 achter de oude minderbroeders
-achter de pastorie
 achter de raaf
 achter de scholen
 achter de schouwburg
 achter de sjilder
-achter de smaalbrug
 achter de smeden
 achter de smidse
 achter de smidstraat
@@ -1312,6 +1320,7 @@ achter de vest
 achter de vinkerweide
 achter de vismarkt
 achter de vledders
+achter de vuurloze
 achter de waag
 achter de wal
 achter de watertoren
@@ -1319,8 +1328,8 @@ achter de wereld
 achter de wiel
 achter de wiemelpoort
 achter de wilgen
+achter de zeven huisjes
 achter de zwaan
-achter den boomgaardsweg
 achter den brink
 achter den doove
 achter den engel
@@ -1342,12 +1351,13 @@ achter het hout
 achter het kampje
 achter het kanaal
 achter het klooster
-achter het lã¶fke
+achter het lÃ¶fke
 achter het mariaplein
 achter het oude stadhuis
 achter het oude weeshuis
 achter het pannenwerk
 achter het plein
+achter het raadhuis
 achter het schaapshoofd
 achter het stadhuis
 achter het station
@@ -1364,6 +1374,7 @@ achter london
 achter lotsheuf
 achter maria dommer
 achter maten
+achter metterswane
 achter nieuwstraat
 achter oosteinde
 achter op 't zand
@@ -1377,7 +1388,6 @@ achter sint jacob
 achter spitsbergen
 achter st. vitus
 achter st.-pieter
-achter trintelervoetpad
 achter valburg
 achter veldjens voetpad
 achter zeegers
@@ -1412,7 +1422,6 @@ achterbroekweg
 achterbuorren
 achterburg
 achterdam
-achterdeel
 achterdek
 achterdelft
 achterdichting
@@ -1434,7 +1443,6 @@ achterdorp
 achterdorperweg
 achterdorpsstraat
 achterdorpstraat
-achterdp
 achterduinweg
 achterduyst
 achterdyk
@@ -1463,6 +1471,7 @@ achterhoek
 achterhoekerweg
 achterhoeklaan
 achterhoekpad
+achterhoekplein
 achterhoekse molenweg
 achterhoeksedwarsweg
 achterhoeksestraat
@@ -1479,6 +1488,7 @@ achterhoven
 achterhuis
 achterhuizen
 achterhuizensticht
+achterhuusdreef
 achterkade
 achterkamp
 achterkampweg
@@ -1505,8 +1515,8 @@ achtermaatsweg
 achtermadeweg
 achtermateweg
 achtermeerstraat
+achtermeerweg
 achtermeulenlaan
-achtermiddenweg
 achtermijterbaan
 achtermonde
 achterneuvers
@@ -1538,7 +1548,6 @@ achterslagen
 achtersloot
 achterspring
 achterspuistoep
-achterspuistoepp
 achterst ven
 achterste aa
 achterste akker
@@ -1546,8 +1555,6 @@ achterste brand
 achterste broekweg
 achterste brug
 achterste dijk
-achterste dijk
-achterste dyk
 achterste erm
 achterste groes
 achterste havervelden
@@ -1561,23 +1568,24 @@ achterste kamp
 achterste kampenweg
 achterste kempjes
 achterste kerkweg
+achterste koelandendijk
 achterste kreekweg
 achterste lange gats
 achterste loo
 achterste molenpad
 achterste molenweg
 achterste monnikenland
-achterste ringdonk
 achterste rithweg
-achterste roosendaalweg
 achterste rou
 achterste russchemorsdijk
 achterste schaapsdijk
+achterste schotte
 achterste straakven
 achterste tomel
 achterste ven
 achterste wei
 achterste weide
+achterstebocht
 achterstebree
 achtersteeg
 achterstehaag
@@ -1595,7 +1603,6 @@ achterstraat
 achterstraatje
 achterstrypseweg
 achtertocht
-achtertros
 achtertuin
 achtertune
 achterum
@@ -1623,13 +1630,13 @@ achterweide
 achterweiweg
 achterwende
 achterwerf
+achterwerfbrug
 achterwetering
 achterweteringseweg
-achterwezel
 achterwijkseweg
 achterwillensebocht
 achterwillenseweg
-achterwã¢l
+achterwÃ¢l
 achterzeedijk
 achterzeeweg
 achterzijde
@@ -1637,6 +1644,7 @@ achterzomer
 achterzoom
 achthoevenstraat
 achthoevenweg
+achthond
 achthontstraat
 achthoven
 achthoven-oost
@@ -1646,7 +1654,6 @@ achthovenpolderpad
 achthuizenplantsoen
 achthuizensedijk
 achtkant
-achtkante stovengang
 achtkanter
 achtkantmolen
 achtkarspelenstraat
@@ -1672,6 +1679,7 @@ achttienhovensedijk
 achttienkavels
 achttienkavelseweg
 achtvoet
+achtvoetsteeg
 achtzaligheden
 ackerbroekweg
 ackerdijksepad
@@ -1680,24 +1688,27 @@ ackersdijckstraat
 ackersdijkseweg
 ackersdijkstraat
 ackershof
+ackertiend
 aconietenhof
 acquoylaan
 acquoysemeer
 acquoyseweg
 acropolis
+actinidia
 actus
 ad baggermanpad
+ad hervormde begraafplts
 ad luijkxlaan
 ad van der steurzoom
 ad van emmenesstraat
 ad van onzenoorthof
-ad verschueren plein
 ad verschuerenplein
 ad weltersstraat
 ad windighof
 ada byronweg
 ada kokstraat
 ada lovelacestraat
+ada lovelaceweg
 ada van hollandstraat
 ada van schotlandplaats
 adadwarsstraat
@@ -1723,7 +1734,6 @@ adam van moorselstraat
 adam van noortstraat
 adam van nutta-hof
 adam van vianenstraat
-adama van scheltemabaan
 adama van scheltemalaan
 adama van scheltemaplantsoen
 adama van scheltemaplein
@@ -1741,14 +1751,12 @@ adamsweg
 adanpad
 adastraat
 addenshoeve
-adderhoekweg
 adderhof
 adderpad
 adderstraat
 adderwortel
 addingalaan
 addinkhof
-addy kleijngeldplein
 addy kleijngeldstraat
 ade
 adegeest
@@ -1814,12 +1822,12 @@ adenauerhof
 adenauerlaan
 adenauersingel
 adenauerstraat
-adenhaven
 adenstraat
 aderpolder
 aderpolderweg
 adervendreef
 aderweg
+adiantum
 adigestraat
 adigestroom
 adikade
@@ -1842,7 +1850,6 @@ admiraal de ruyterlaan
 admiraal de ruyterplein
 admiraal de ruytersingel
 admiraal de ruyterstraat
-admiraal de ruyterstraat
 admiraal de ruyterweg
 admiraal helfrichlaan
 admiraal helfrichplein
@@ -1859,7 +1866,6 @@ admiraal van ghentlaan
 admiraal van ghentplein
 admiraal van kinsbergenweg
 admiraal verhuellplein
-admiraal verhuellplein
 admiraalsborch
 admiraalsdam
 admiraalsgroet
@@ -1872,12 +1878,12 @@ admiraalsweg
 admiraalvlinderlaan
 admiralengracht
 admiralenpad
-admiraliteitshof
 admiraliteitskade
 admiraliteitslaan
 admiraliteitsstraat
 admiraliteitstraat
 admiraliteitsweg
+adolarstrjitte
 adolf van cortenbachstraat
 adolf van der marckstraat
 adolf van nassaustraat
@@ -1897,9 +1903,9 @@ adoptieplein
 adornisdijk
 adorppad
 adourlaan
-adourlaan
 adr. groenewegenlaan
 adri amesz park
+adri boslaan
 adri piecklaan
 adri twilhaarlaan
 adri van malestraat
@@ -1915,10 +1921,10 @@ adriaan brouwerstraat
 adriaan butijnweg
 adriaan clantstraat
 adriaan coenenstraat
-adriaan cortstraat
 adriaan daetselaarstraat
 adriaan davidsestraat
 adriaan de grootlaan
+adriaan de grootpad
 adriaan de grootstraat
 adriaan de jongestraat
 adriaan de jongstraat
@@ -1930,7 +1936,6 @@ adriaan duyckpad
 adriaan engelslaan
 adriaan flinklaan
 adriaan g. smitstraat
-adriaan g. smitstraatt
 adriaan geertsplein
 adriaan goekooplaan
 adriaan heijnisstraat
@@ -1942,10 +1947,11 @@ adriaan kooningsstraat
 adriaan leeuwenhoekstraat
 adriaan leytenloane
 adriaan loosjesstraat
+adriaan maasdamstraat
 adriaan maasplein
 adriaan menninckkwartier
-adriaan morriã«nlaan
-adriaan morriã«npad
+adriaan morriÃ«nlaan
+adriaan morriÃ«npad
 adriaan mouriszweg
 adriaan mulderstraat
 adriaan mulderweg
@@ -1991,7 +1997,6 @@ adriaan van ostadepad
 adriaan van ostadeplein
 adriaan van ostadestraat
 adriaan van royenlaan
-adriaan van swietenhof
 adriaan van zwietenstraat
 adriaan veerhof
 adriaan virulystraat
@@ -2056,6 +2061,7 @@ adrianastraat
 adrianaweg
 adrianiweg
 adrianus bleijsstraat
+adrianus cyriacus bleijsstraat
 adrianus ijsbrand kuiperstraat
 adrianus loefflaan
 adrianus loeffstraat
@@ -2070,6 +2076,7 @@ adrianus vi straat
 adrianus vossiuspad
 adrianusdal
 adrianusplein
+adriatico
 adriatische zee
 adriatische zeeweg
 adriatischestraat
@@ -2079,21 +2086,22 @@ adrichemstraat
 adrien mildersstraat
 adrienne solserpad
 adrienne solserstraat
-adriã«n moonenweg
-adriã«nne solserhof
-adriã«nnelaan
+adriÃ«n moonenweg
+adriÃ«nne solserhof
+adriÃ«nnelaan
 adsteeg
+aduard
 aduarderdiep
 aduarderdiepsterweg
 aduarderstraat
+aduarderzijl-schaphzijl
 aduardstraat
 advocaat botsplein
-advocaat botsstraat
 advocaatpeer
 advocaatsdreef
 advocatenhof
 advocatenlaan
-adã¨le opzoomerstraat
+adÃ¨le opzoomerstraat
 ae dijk
 ae kade
 ae straat
@@ -2116,6 +2124,7 @@ aelbert topweg
 aelbert van spanjekade
 aelbertsbergstraat
 aelbertsbergweg
+aelbet cuyphof
 aelbrecht van naaldwijklaan
 aelbrechtskade
 aelbrechtskolk
@@ -2127,6 +2136,7 @@ aelder hooghepad
 aelderhof
 aelderholt
 aelderstraat
+aeldisbrug
 aelenstraat
 aelserhof
 aeluwelaan
@@ -2138,7 +2148,9 @@ aenboomsteegde
 aendijkestraat
 aeneas mackaylaan
 aeneas veltkampstraat
+aeneashof
 aeneaslaan
+aengelag
 aengelbertlaan
 aengilbertusstraat
 aengwirderweg
@@ -2187,6 +2199,7 @@ aerwinkelallee
 aerwinkelstraat
 aerwinkelsweg
 aesculaapstraat
+aesculus
 aesgemawei
 aesgewei
 aesopusplaats
@@ -2202,6 +2215,7 @@ af de savornin lohmanstr
 afbramerij
 afferdenpad
 afferdse heide
+afferdseveldweg
 affligemstraat
 affuit
 affuitenhal
@@ -2209,11 +2223,10 @@ affuithof
 affuitweg
 afgebrande hoef
 afgeslechtedijk
-afhangweg
 afinkstraat
-afkelã¢nsdyk
+afke zonderlandhage
+afkelÃ¢nsdyk
 afmijnstraat
-afrika
 afrikaanderplein
 afrikaanderstraat
 afrikalaan
@@ -2221,28 +2234,22 @@ afrikanerplein
 afrikaring
 afrikastraat
 afrikaweg
+afrit alteveer
+afrit bosscherweg
+afrit mecc
+afrit ommelanderwijk
 afroditekade
 afrol
 afschrijver
 afschuttingsweg
 afslaander
 afslag
-afslag aawijk
-afslag de herven
-afslag deuteren
-afslag engelen
-afslag kruiskamp
-afslag maaspoort
-afslag pettelaar
-afslag wolfsdonken
-afslagpad
 afsluitdijk
 afsluiterpad
 afstrijker
 afterkampweg
 aftrap
 afvaartweg
-afvoerkanaal
 afwateringskanaal
 afweg
 afzeliahout
@@ -2264,6 +2271,7 @@ agamemnondreef
 agamemnonlaan
 agamemnonsingel
 agamemnonstraat
+agapanthus
 agata de bruynkade
 agatha
 agatha christielaan
@@ -2284,7 +2292,6 @@ agavedreef
 agavestraat
 age hylkes trompstrjitte
 age piersstraat
-ageeth scherphuisstraat
 agehoeke
 agelerbroekweg
 ageleresweg
@@ -2306,6 +2313,7 @@ agnes croesinklaan
 agnes huijnstraat
 agnes huynstraat
 agnes printhagenstraat
+agnes robertson arberpad
 agnes van kleefstraat
 agnes van leeuwenberchstraat
 agnes van wendelnessestraat
@@ -2323,7 +2331,10 @@ agnetendal
 agnetenwal
 agniese van langerakdreef
 agniesestraat
+agnieten
+agnietenbergpad
 agnietenbergweg
+agnietenbrug
 agnietendaal
 agnietenhof
 agnietenhove
@@ -2356,17 +2367,17 @@ agrippinastraat
 agro business park
 agrobaan
 agter de hoven
+agter de wei
 agter het stadhuis
 agter kampen
 agterhof
 agterhuys
+agterkampen
 agterste meer
 agthoven
 agunnarydweg
 ahavestraat
-ahiolostraat
 ahnemstraat
-ahof
 ahorn
 ahornenlaan
 ahornhage
@@ -2378,12 +2389,13 @@ ahornplein
 ahornstraat
 ahornzoom
 ahoypad
+ahoyplein
 ahoyweg
-ahrdal
 ahrensburgerstraat
 ahrstraat
 ahuislanden
 ahuisweg
+aida de mirandaplein
 aidadreef
 aidalaan
 aidapad
@@ -2391,9 +2403,11 @@ aijen
 aijenseweg
 aijerbroek
 aijerdijk
+aijermeerseweg
+aijttadijk
 aikeshof
 ailbertuslaan
-aimã© bonnastraat
+aimÃ© bonnastraat
 ainsworthstraat
 aiolplein
 air commodore geddespad
@@ -2412,12 +2426,11 @@ ajaxdreef
 ajaxlaan
 ajaxstraat
 ajuinstraat
-akasiahã´f
+akasiahÃ´f
 akbarstraat
 akcros
 akebiaweg
 akelei
-akeleibaan
 akeleiflat
 akeleihof
 akeleilaan
@@ -2439,8 +2452,8 @@ akenstraat
 akenveenweg
 akenwerf
 aker
-akerboomseweg
 akerdijk
+akerdreef
 akere
 akerendam
 akerendamlaan
@@ -2453,6 +2466,8 @@ akerpad
 akerpolderstraat
 akersingel
 akerslaan
+akersloot
+akersloot 11
 akersluis
 akerspad
 akersteeg
@@ -2460,6 +2475,7 @@ akersteenweg
 akerstraat
 akerstraat-noord
 akert
+akerterp
 akerveldweg
 akervoetpad
 akervoorderlaan
@@ -2469,11 +2485,12 @@ akkabapad
 akkelei
 akkemaweg
 akker
-akkerbergpad
 akkerbergplein
 akkerbergstraat
 akkerbloemstraat
+akkerboomseweg
 akkerbouw
+akkerbouwersplein
 akkerbouwstraat
 akkerbremweg
 akkerdijk
@@ -2497,13 +2514,13 @@ akkerhoornbloem
 akkerhoornbloemstraat
 akkerhoornweg
 akkerhuisweg
+akkerkamp
 akkerkers
 akkerklaverstraat
 akkerklokje
 akkerlaan
 akkerland
 akkerlanden
-akkerlandenpad
 akkerleeven
 akkerlingen
 akkerlust
@@ -2541,7 +2558,6 @@ akkersdreef
 akkersesteeg
 akkersestraat
 akkerseweg
-akkershof
 akkerslagen
 akkersleep
 akkerslootpolder
@@ -2555,9 +2571,11 @@ akkersvoorde
 akkersweg
 akkerveld
 akkerviool
+akkerviooltje
 akkervoortweg
 akkerwal
 akkerweg
+akkerweg gold
 akkerwei
 akkerweide
 akkerwende
@@ -2570,6 +2588,8 @@ akkerwindestraat
 akkerwindeveld
 akkerwindeweg
 akkerzicht
+akkerzoom
+akkrum 13
 akkrumerraklaan
 akkrumlaan
 akkrumstraat
@@ -2579,7 +2599,6 @@ akonietenlaan
 akonietenplein
 akonietenstraat
 akropolishof
-akros
 aks
 akselsekreek
 akshoek
@@ -2590,6 +2609,7 @@ aladnaweg
 alaertslaan
 alainweg
 alambertskade
+alan turingpark
 alan turingplein
 alan turingstraat
 alandsdam
@@ -2613,8 +2633,8 @@ albadastins
 albadastrjitte
 albadawei
 alban bergstraat
-albaniã«straat
-albaniã«weg
+albaniÃ«straat
+albaniÃ«weg
 albanoweg
 albanusweg
 albanystraat
@@ -2664,7 +2684,7 @@ albers pistoriusweg
 albers weer
 albersdijk
 alberssteeg
-albert (bã¨r) hoebenpassage
+albert (bÃ¨r) hoebenpassage
 albert aylerstraat
 albert baestenstraat
 albert beensweg
@@ -2683,6 +2703,7 @@ albert cuyplaan
 albert cuypplein
 albert cuypstraat
 albert de booijhof
+albert eekhuisstraat
 albert einsteinstraat
 albert einsteinweg
 albert fikspad
@@ -2727,7 +2748,6 @@ albert neuhuijsstraat
 albert neuhuyslaan
 albert neuhuysstraat
 albert nijlandpad
-albert olsmanweg
 albert oltmansweg
 albert oostingweg
 albert plesmanlaan
@@ -2770,7 +2790,6 @@ albert van dalsumlaan
 albert van dalsumstraat
 albert van damstraat
 albert van der meerstraat
-albert van der zielstr
 albert van der zielstraat
 albert van hedelgaard
 albert van huffelstraat
@@ -2787,10 +2806,14 @@ albert verweylaan
 albert verweyplein
 albert verweystraat
 albert vogelstraat
+albert westplein
 albert wiggerssingel
 albert wittenbergplein
 alberta wellingpad
+albertahof
+albertaweg
 albertdonk
+alberthof
 alberthus risaeusstraat
 albertijn
 albertilommer
@@ -2846,7 +2869,9 @@ albion
 albionkade
 albionstraat
 albistraat
+albizia
 alblas
+alblasserdam 22
 alblasserdamstraat
 alblasserschans
 alblasserwaard
@@ -2858,8 +2883,8 @@ albrandswaardseweg
 albrecht beijlinggracht
 albrecht beijlingpad
 albrecht beijlingstraat
-albrecht dã¼rerstraat
-albrecht dã¼rerweg
+albrecht dÃ¼rerstraat
+albrecht dÃ¼rerweg
 albrecht rodenbachhof
 albrecht rodenbachplein
 albrecht rodenbachstraat
@@ -2881,15 +2906,17 @@ albusstraat
 alcantarahof
 alcantarastraat
 alcazar
+alchemilla
 alcide de gasperistraat
 alckmariapad
 alcmaria
 alcoalaan
 alcorplein
 alcorstraat
+alcuinusstraat
 ald daem
 ald djip
-ald duerswã¢ld
+ald duerswÃ¢ld
 ald dyk
 ald each
 ald fean
@@ -2904,12 +2931,11 @@ ald rien
 ald rij
 ald skroetswei
 ald slotwei
-ald smearderije
 ald swettebuorren
-ald tsjerkhã´f
-ald tãºn
+ald swichumerpaad
+ald tsjerkhÃ´f
+ald tÃºn
 ald wyk
-ald-slotwei
 aldbuorren
 alddeel
 alddiel
@@ -2921,7 +2947,6 @@ alde caerteruwe
 alde drintse wei
 alde dyk
 alde galeien
-alde gats
 alde griene reed
 alde hamsterwei
 alde hiemen
@@ -2989,9 +3014,9 @@ aldfeart
 aldfeartsdyk
 aldfeartswei
 aldhiem
-aldhã´f
-aldlã¢nsdyk
-aldlã¢nspark
+aldhÃ´f
+aldlÃ¢nsdyk
+aldlÃ¢nspark
 aldo v. eyckstraat
 aldo van eycklaan
 aldo van eyckplantsoen
@@ -3003,10 +3028,11 @@ aldrinhof
 aldrinstraat
 aldtsjerkster feart
 ale bakkerspad
-ale-tãºn
+ale-tÃºn
 alef p. hoedemakersglop
 alef van idsingawei
 aleid van malsenlaan
+aleida dijkhuizenhage
 aleida ingeborg van hardenbroek erf
 aleida kramersingel
 aleida kramerstraat
@@ -3021,7 +3047,10 @@ aleidisstraat
 aleidstraat
 aleijd van puttenstraat
 aleijd van strienhof
+aleksandr prochorovstraat
 alemannenstraat
+alemere-regenboogbuurt 7
+alemse stoep
 alendorperplaats
 alendorperweg
 alendorpstraat
@@ -3029,8 +3058,7 @@ alenhuisweg
 alentelaan
 alenveld
 alenveltpark
-alenã§onlaan
-aleoeten
+alenÃ§onlaan
 aleppodreef
 alerbeemdweg
 alerderbrink
@@ -3066,22 +3094,24 @@ alex schaepkensstraat
 alex van strienstraat
 alex willemsstraat
 alexander adamskistraat
+alexander angelinostraat
 alexander battalaan
 alexander bellstraat
 alexander boersstraat
 alexander cohenwei
 alexander de grotelaan
 alexander de grotestraat
-alexander dubcekplaats
+alexander dub?ekplaats
 alexander dubcekstraat
 alexander dubcekweg
-alexander dubäekplaats
+alexander dubÄekplaats
 alexander dumaslaan
 alexander fleminghof
 alexander fleminglaan
 alexander flemingstraat
 alexander gogelstraat
 alexander gogelweg
+alexander graham bellstr
 alexander hegiusstraat
 alexander idenburgstraat
 alexander numankade
@@ -3094,9 +3124,10 @@ alexander-eik
 alexanderdonk
 alexanderdreef
 alexanderhof
-alexanderhã´f
+alexanderhÃ´f
 alexanderkade
 alexanderlaan
+alexanderpark
 alexanderplein
 alexanderstraat
 alexanderveld
@@ -3110,7 +3141,7 @@ alexandrinalaan
 alexandrine tinnehof
 alexandrine tinneplein
 alexandrine tinnestraat
-alexandriã«straat
+alexandriÃ«straat
 alexberg
 alexiahof
 alexialaan
@@ -3118,26 +3149,25 @@ alexiaplein
 alexiastraat
 alexine tinnepad
 aleyda van raephorstlaan
-alfa
+alfabetweg
 alfastraat
 alfenerhof
-alfensvaart
 alferbos
 alferdinkweg
 alferhof
 alferinklaan
 alferinksteeg
-alfons ariã«nslaan
-alfons ariã«nsstraat
+alfons ariÃ«nslaan
+alfons ariÃ«nsstraat
 alfons blommelaan
 alfons diepenbrockstraat
-alfons-blommelaan
-alfred dã¶blinstraat
+alfred dÃ¶blinstraat
 alfred hitchcockstraat
 alfred kastlerpad
 alfred kastlerstraat
 alfred marshallstraat
 alfred mozerhof
+alfred mozerpad
 alfred mozerplein
 alfred nobelborg
 alfred nobellaan
@@ -3154,7 +3184,6 @@ algengroen
 algenstraat
 algeraburren
 algerastraat
-algeraweg
 algerijestraat
 algiersstraat
 algol
@@ -3169,6 +3198,7 @@ alicante
 alicantepad
 alicantestraat
 alice nahonstraat
+alicelaan
 alida buitendijk erf
 alida buitendijkhaghe
 alida buitendijkpad
@@ -3186,8 +3216,8 @@ alidasteeg
 alidastraat
 alie postmastraat
 alie smedingpad
-alie van den bosstraat
 aliehoeve
+alijda bachrachsingel
 alikruik
 alikruikhof
 alikruikpad
@@ -3201,16 +3231,14 @@ alingterp
 alk
 alkemadelaan
 alkemadeplantsoen
-alkemadepolder
 alkemaderschans
 alkemastraat
 alkenberg
 alkenburg
 alkenhaer
-alkenlaan
-alkenoord
 alkesingel
 alkhof
+alkmaarbrug
 alkmaardermeer
 alkmaardermeerlaan
 alkmaarderstraatweg
@@ -3227,24 +3255,23 @@ alkstraat
 alladinstraat
 allanpad
 allanstraat
+allard kwastweg
 allard piersonkade
 allard piersonlaan
 allard piersonstraat
 allardsoogsterweg
 alle boelensstraat
 alle hospervijver
-alle hosperweg
 alle jans smedingstrjitte
+alle om slachte
 alle wijtzesweg
-alle-jans-smedingstr
 alle-om-slachte
-allebã©straat
+allebÃ©straat
 allee
 alleenhouderstraat
 alleeweg
 allegonda m. gremmerstraat
 allegondahoeve
-allegro
 allegrohof
 allegrolaan
 allegrostraat
@@ -3257,6 +3284,7 @@ allemansven
 allemanswaard
 allemansweg
 allemawei
+allen ginsbergstraat
 allendelaan
 allendepad
 allendesingel
@@ -3280,8 +3308,8 @@ allert meijerlaan
 alligatorstraat
 allingawier
 allium
-allã©e
-allã©ã©
+allÃ©e
+allÃ©Ã©
 alm
 alma
 alma tademastraat
@@ -3291,13 +3319,18 @@ alma-tademahof
 almaatsweg
 almalaan
 almanak
+almandijn
 almarassensteeg
 almareplantsoen
 almarestraat
 almasingel
 almastraat
 almeerderhout
-almeerderstrand
+almeerderstrandweg
+almelo-noord
+almelo-west 1
+almelo-west 31
+almelo-zuid 30
 almeloplein
 almelose kanaal
 almelose pad
@@ -3308,21 +3341,35 @@ almelreef
 almensestraat
 almenseweg
 almenumerweg
+almere
+almere buiten 6
+almere buiten-west 6
+almere hout 37
+almere stad 5
+almere-haven 4
+almere-hout 37
+almere-oostvaarders 8
+almere-poort 2
+almere-regenboogbuurt 7
+almere-stad
+almere-stad 5
+almere-stedenwijk 3
 almerelaan
 almerestraat
 almereweg
 almeria-erf
 almersdorperweg
-almeweg
 almhof
 alminghoef
 almirapad
+almkade
 almkerkplein
 almkerkse buitenkade
 almkerkseweg
 almonde
 almondepad
 almondestraat
+almondeweide
 almpad
 almseweg
 almstein
@@ -3331,18 +3378,19 @@ almsvoet
 almsvoetstraat
 almweg
 almystraat
-almã¨re
+almÃ¨re
+alnus
 aloespad
 alofssteeg
 alofsstraat
 alonehout
-alouette erf
+aloysius bodenstraat
 aloysiushof
 aloysiuslaan
 aloysiusplein
 aloysiusstraat
-aloã«bruin
-aloã«laan
+aloÃ«bruin
+aloÃ«laan
 alpacastraat
 alpaccalaan
 alpen
@@ -3360,11 +3408,12 @@ alpenstraat
 alpenweide
 alpenwoud
 alpert van metzhof
+alphen
 alphensebaan
 alphenseweg
 alpherbrink
 alpherwetering
-alphons ariã«nsstraat
+alphons ariÃ«nsstraat
 alphons boostenstraat
 alphons diepenbrockhof
 alphons diepenbrocklaan
@@ -3391,7 +3440,7 @@ alsemlaan
 alsemstraat
 alsemveld
 alserterpaed
-alseã¯denstraat
+alseÃ¯denstraat
 alst
 alsteedseweg
 alstorphiushof
@@ -3404,10 +3453,10 @@ altairstraat
 altalaan
 altaplein
 altbroek
-altdorferpad
 altdorferplantsoen
-alte picardiã«kanaal
+alte picardiÃ«kanaal
 altekleinsedijk
+altemabrug
 altena
 altena's dijk
 altena's laantje
@@ -3452,6 +3501,7 @@ aluin
 aluminiumsteden
 aluminiumstraat
 aluminiumweg
+alva myrdalpad
 alvarezlaan
 alvarezstraat
 alvenberg
@@ -3464,7 +3514,8 @@ alverschotenseweg
 alvershool
 alversteigersteegje
 alverstraat
-alvestãªdeplein
+alvestÃªdeplein
+alvin aileyplantsoen
 alwinastraat
 alyd buserstraat
 alyda van spangensingel
@@ -3482,7 +3533,9 @@ amalia van solmslaan
 amalia van solmsplaats
 amalia van solmsplein
 amalia van solmsstraat
+amalia van solmstraat
 amalia van solmsweg
+amaliabrug
 amaliadwarsstraat
 amaliagaarde
 amaliahof
@@ -3506,8 +3559,11 @@ amandelgaarde
 amandelhof
 amandellint
 amandelpad
+amandelpark
 amandelstraat
+amandeltak
 amandil
+amandlabrug
 amanduspad
 amandusstraat
 amaniet
@@ -3526,7 +3582,6 @@ amaroqweg
 amaryllishof
 amaryllislaan
 amaryllispad
-amaryllisplein
 amaryllisstraat
 amaryllistuin
 amatastraat
@@ -3602,6 +3657,7 @@ amberboomlaan
 amberboomstede
 amberboomstraat
 amberboomweg
+amberbos
 amberdreef
 ambergeel
 amberhof
@@ -3621,8 +3677,8 @@ ambonlaan
 ambonpad
 ambonplein
 ambonstraat
-ambraham van der hulststraat
 ambrosiadal
+ambrosius
 ambrosius bosschaertstraat
 ambrosius rozendaelstraat
 ambrosius van ommerenlaan
@@ -3653,8 +3709,6 @@ ambtstraat
 ambyerpad
 ambyerstraat noord
 ambyerstraat zuid
-ambyerstraat-noord
-ambyerstraat-zuid
 ambyerweg
 amcpad
 ame
@@ -3675,6 +3729,7 @@ amelandsdwinger
 amelandseplein
 amelandsestraat
 amelandshof
+amelandspijp
 amelandsstraat
 amelandstraat
 amelbergahof
@@ -3705,15 +3760,13 @@ amer
 amerbachstraat
 amerbos
 amerhof
-americaanseweg
 americastraat
-amerigo vespuccistraat
+americaweg
 amerigo vespucciweg
 amerika
 amerika h
 amerikaanse begraafplaats
 amerikaanse grondnootstraat
-amerikahaven
 amerikahavenweg
 amerikalaan
 amerikaplein
@@ -3728,12 +3781,14 @@ amerongen
 amerongenstraat
 ameronger wetering
 amerongerwetering
-amerongse bos
 amerongse spoor
 amerongseberg
 ameroyenhof
 amerpad
 amerscamp
+amersfoort 8
+amersfoort-noord 13
+amersfoort-vathorst 8a
 amersfoortsestraat
 amersfoortsestraatweg
 amersfoortseweg
@@ -3742,6 +3797,7 @@ amersfoortweg
 amersgat
 amershofje
 amerslosestraat
+amersterdam-bijlmermeer 1
 amerstraat
 amerweg
 amestelle
@@ -3759,8 +3815,9 @@ ametisthof
 ametisthorst
 ametiststraat
 amfibieplein
-amfibieã«npad
+amfibieÃ«npad
 amfitheater
+amfitheaterpad
 amfoor
 amfoorpad
 amfoorstraat
@@ -3798,38 +3855,29 @@ amnesty internationallaan
 amnesty internationalstraat
 amnesty internationalweg
 amnestylaan
-amnestyplein
 amoebastraat
 amoerweg
 amorijstraat
 amorstraat
-amp(restraat
-amp?restraat
-ampenanpad
-ampenanstraat
-ampere
 amperebaan
-amperestraat
 ampereweg
-amperã¨laan
 amphion
 amphionpad
+amphionpark
 amphionstraat
 amphorapad
-amphorastraat
 amphoraweg
 ampsen
 ampsenland
 ampsenseweg
+ampul
 ampzingstraat
-ampã¨re
-ampã¨relaan
-ampã¨repad
-ampã¨replantsoen
-ampã¨restraat
-ampã¨restraatt
-ampã¨reweg
-ampñrestraat
+ampÃ¨re
+ampÃ¨relaan
+ampÃ¨repad
+ampÃ¨replantsoen
+ampÃ¨restraat
+ampÃ¨reweg
 amroth
 amrum
 amsberghof
@@ -3851,11 +3899,9 @@ amsteldijk-zuid
 amsteleiland
 amsteleindstraat
 amstelgang
-amstelhoekstraat
 amstelhof
 amstelhoven
 amstelkade
-amstelkroon
 amstellaan
 amstelland
 amstellandlaan
@@ -3872,12 +3918,15 @@ amstelslag
 amstelstraat
 amstelstroom
 amstelstroomlaan
+amstelveen 4
+amstelveen-stadshart 5
 amstelveenseweg
 amstelveenstraat
 amstelveld
 amstelvlietstraat
 amstelweg
 amstelweide
+amstelwijckfietsbrug
 amstelwijckweg
 amstelzijde
 amstelzijweg
@@ -3886,19 +3935,41 @@ amstenradehoek
 amstenraderveldpad
 amstenraderweg
 amstenradestraat
+amsterdam cs - ijplein
 amsterdam rijnkanaalkade
 amsterdam-bataviaweg
+amsterdam-bijlmermeer 1
+amsterdam-bijlmermeer 2
+amsterdam-bos en lommer
+amsterdam-bos en lommer 3
+amsterdam-buitenveldert 9
+amsterdam-centrum 12
+amsterdam-hemhavens 1
+amsterdam-ijburg
+amsterdam-ijburg 1a
+amsterdam-oud zuid 8
+amsterdam-overamstel 11
+amsterdam-rivierenbuurt 9
+amsterdam-sloten 1
+amsterdam-sloterdijk 2
+amsterdam-slotermeer 4
+amsterdam-slotervaart 7
+amsterdam-watergraafsmeer 13
+amsterdam-westerpark
+amsterdam-westpoort 3
+amsterdam-zuidoost 3
+amsterdam-zuidoost amc 2
+amsterdambrug
+amsterdamhof
 amsterdamlaan
-amsterdamscheveld
 amsterdamscheveldlaan
 amsterdamse baan
+amsterdamse bos
 amsterdamse jofferspad
 amsterdamse poort
 amsterdamse veer
 amsterdamse veerkade
-amsterdamsehof
 amsterdamselaan
-amsterdamsepad
 amsterdamsepoort
 amsterdamseslag
 amsterdamsestraat
@@ -3912,18 +3983,22 @@ amsweersterweg
 amsweerstraat
 amtweg
 amulet
+amuletstraat
 amundsenlaan
 amundsenrede
 amundsenstraat
 amundsenweg
 amundsunstraat
+amÃ­lcar cabralpad
 an baanpad
-an de voeã«gelsjtang
+an de voeÃ«gelsjtang
 an der blauwe poal
 an flesch wei
 an mhaerebaom
+an van dijckerf
 an van gilsehof
 an vellekoophof
+anacondabrug
 analog alley
 analoogstraat
 ananasgaard
@@ -3938,10 +4013,10 @@ anatole franceplaats
 anatole francesingel
 anchoragelaan
 anconalaan
-andalusiã«
-andalusiã«pad
-andalusiã«straat
-andante
+andalusiÃ«
+andalusiÃ«hof
+andalusiÃ«pad
+andalusiÃ«straat
 andantehof
 andantelaan
 andantepad
@@ -3949,6 +4024,7 @@ andantestraat
 andel
 andelhof
 andellaan
+andelst 37
 andelstermaar
 andelsterweg
 andenne
@@ -3959,13 +4035,12 @@ anderiesenstraat
 anderlechtlaan
 anderlechtstraat
 anderlijnstraat
-anders celciusstraat
+anderloweg
 anders celsiusstraat
 anders minneswei
 andersenhof
 andersenpad
 andersensingel
-andersenstraat
 andersonstraat
 andersonweg
 anderstein
@@ -3988,15 +4063,14 @@ andorralaan
 andorrapad
 andorrastraat
 andorraweg
-andre idserdalaan
 andrea domburgsingel
-andrea palladiostraat
+andrea palladiohof
 andreas altingstraat
 andreas bonnstraat
+andreas burnierhof
 andreas cellariushof
 andreas foxlaan
 andreas sauerlaan
-andreas schelfhoutrade
 andreas schelfhoutstraat
 andreas zijlmansstraat
 andreasdal
@@ -4010,8 +4084,7 @@ andreasstrjitte
 andreastraat
 andreatuinen
 andreaweg
-andree bourgondiã«npad
-andree bourgondiã«nstraat
+andree bourgondiÃ«nstraat
 andrej sacharovlaan
 andrej sacharovstraat
 andrej sacharovweg
@@ -4028,7 +4101,7 @@ andries fyandijk
 andries jansz cristalstraat
 andries joustrastrjitte
 andries kalterstraat
-andries magnã©elaan
+andries magnÃ©elaan
 andries schotkade
 andries snoekstraat
 andries turksemalaan
@@ -4045,16 +4118,13 @@ andriesgulden
 andriesplein
 andriespoort
 andriessenlaan
-andriessenpad
 andriessenplein
 andriessenrode
 andriessenstraat
 andringasingel
 andringastate
 andringastrjitte
-andritte peereboom
-andriã«nne solserhof
-andriã«tte peereboom
+andriÃ«tte peereboom
 andromeda
 andromedapad
 andromedaplaats
@@ -4064,23 +4134,24 @@ andromedastraat
 androsdreef
 andrys geartswei
 andryssingel
-andrã© bretonlaan
-andrã© bretonstraat
-andrã© brokxstraat
-andrã© de jongstraat
-andrã© derainhof
-andrã© franquinweg
-andrã© gideplaats
-andrã© gideweg
-andrã© idserdalaan
-andrã© kloosstraat
-andrã© severinweg
-andrã© van der louwbrug
-andrã© van duinboulevard
-andrã© vissersstraat
-andrã© voltenlaan
-andrã© voltenplein
-andrã©e bourgondiã«npad
+andrÃ© bretonlaan
+andrÃ© bretonstraat
+andrÃ© brokxstraat
+andrÃ© de jongstraat
+andrÃ© derainhof
+andrÃ© franquinbrug
+andrÃ© franquinweg
+andrÃ© gideplaats
+andrÃ© gideweg
+andrÃ© idserdalaan
+andrÃ© kloosstraat
+andrÃ© severinweg
+andrÃ© van den heuvelstraat
+andrÃ© van der louwbrug
+andrÃ© van duinboulevard
+andrÃ© vissersstraat
+andrÃ© voltenlaan
+andrÃ© voltenplein
 andy warholstraat
 anegang
 anekingepad
@@ -4101,6 +4172,7 @@ anemoon
 anemoondreef
 anemoonerf
 anemoonflat
+anemoonhoek
 anemoonhof
 anemoonlaan
 anemoonpad
@@ -4135,8 +4207,8 @@ angelisbeemd
 angelotstede
 angelsaksenveld
 angelslo
-angelsloã«rdijk
-angelsloã«rstraat
+angelsloÃ«rdijk
+angelsloÃ«rstraat
 angelus merulaplein
 angelusberg
 angerechtsweg
@@ -4146,24 +4218,30 @@ angerensestraat
 angerenstein
 angerensteinstraat
 angerestein
+angerlo
 angerloseweg
 angeroyen
 angerslaan
+angohof
 angolapad
 angolastraat
 angoralaan
-angoulã¨mehof
+angoulÃ¨mehof
 angstel
 angstelhof
 angstelkade
 angsteloord
 angstelpad
+angstelpark
 angsterweg
-angstrã¶m
+angstrÃ¶m
+angterp
 angterperlaan
 angulariusplein
 angulariusstraat
 anholt
+anholtbrug
+anholthof
 anholtkade
 anholtpier
 anholtseweg
@@ -4204,10 +4282,8 @@ anjerweg
 anjougaard
 anjoulaan
 anjoupad
-ank van de moerplantsoen
 ank van der moerdreef
 ank van der moerplantsoen
-ank van der moerplnts
 ank van der moersingel
 ank van der moerstraat
 ankaradreef
@@ -4218,7 +4294,9 @@ anke servaespad
 anke servaesstraat
 anke van der vliesstraat
 anke weidemapad
+ankeler veldweg
 anker
+ankerallee
 ankerbol
 ankerhof
 ankerkade
@@ -4249,12 +4327,14 @@ ankummer es
 ankummerdijk
 ankummerstraat
 anky van grunsvenpad
+anky van grunsvenplnts
 anky van grunsvenstraat
-anlooã«rweg
+anlooÃ«rweg
 anlosediep
 ann burtonlaan
 ann burtonstraat
 anna aleidalaan
+anna aukes-timmersstraat
 anna beijerstraat
 anna bijnskade
 anna bijnslaan
@@ -4281,7 +4361,6 @@ anna boogerd
 anna cabeljauwlaan
 anna charlottelaan
 anna clasina op 't landtplantsoen
-anna clasina op â€™t landtplantsoen
 anna cramerpad
 anna de renessestraat
 anna de roodestraat
@@ -4289,21 +4368,21 @@ anna de waalhoeve
 anna de waallaan
 anna de waalpad
 anna de waalstraat
-anna de waalstraat
+anna freudstraat
 anna frisoweg
 anna giezenweg
 anna griesepad
 anna grollstraat
-anna hanzeswyk
 anna henrixlaan
 anna heringa-jongbloedtuin
 anna hoeve
 anna horstinkstraat
+anna j. cooperstraat
 anna jacominaplaat
 anna johanna van nassaustraat
-anna karenina erf
 anna kaulbachhof
 anna kaulbachstraat
+anna kreuzenstraat
 anna lambrechts-vosstraat
 anna leonorastraat
 anna lindhlaan
@@ -4313,9 +4392,7 @@ anna louwenweg
 anna maria horalaan
 anna maria schuurmanpad
 anna maria van burmaniapad
-anna maria van cappellenpark
 anna maria van schurmanlaan
-anna maria van schurmanpaad
 anna maria van schurmansingel
 anna maria van schurmanstraat
 anna maria van schuurmanlaan
@@ -4326,8 +4403,6 @@ anna marie van schurmanstraat
 anna melortlaan
 anna meursstraat
 anna nabermanlaan
-anna nierhoff-laantje
-anna nierhofflaantje
 anna paulownadreef
 anna paulownahof
 anna paulownalaan
@@ -4355,19 +4430,19 @@ anna salomestraat
 anna schennaersstraat
 anna spenglerstraat
 anna storm-van der chijsstraat
-anna swellengrebelhaghe
 anna swellengrebelpad
 anna teding van berkhoutpad
 anna teding van berkhoutstraat
 anna terruweplein
 anna vaecstraat
 anna van asseldonkhof
+anna van berchemdreef
 anna van berchemlaan
 anna van berchemstraat
 anna van bossehaghe
 anna van bossepad
 anna van bossetuin
-anna van bourgondiã«straat
+anna van bourgondiÃ«straat
 anna van buerenplein
 anna van buerenstraat
 anna van burendreef
@@ -4393,7 +4468,7 @@ anna van hannoverstraat
 anna van hensbeeksingel
 anna van hogendorpland
 anna van hogendorpstraat
-anna van hoã«vellstraat
+anna van hoÃ«vellstraat
 anna van kleeflaan
 anna van lintelolaan
 anna van lotharingentoren
@@ -4402,6 +4477,7 @@ anna van noorlestraat
 anna van raesfeltstraat
 anna van renesselaan
 anna van renesseplein
+anna van rijnkade
 anna van saksendreef
 anna van saksenhof
 anna van saksenlaan
@@ -4423,16 +4499,18 @@ annadaal
 annadaalsdijk
 annadaelstraat
 annadal
+annadijk
 annadreef
 annadwarsstraat
-annageer
 annahoeve
 annahof
 annalaan
 annapad
 annapark
 annaplaats
+annaplein
 annastraat
+annastreek
 annatuinen
 annavosdijk
 annavosdijkseweg
@@ -4443,7 +4521,6 @@ anne de vriessingel
 anne de vriesstraat
 anne frank
 anne frankhove
-anne frankkade
 anne franklaan
 anne frankpark
 anne frankplantsoen
@@ -4453,6 +4530,7 @@ anne frankstraat
 anne frankweg
 anne hanzeswyk
 anne kooistrahof
+anne koopmanpad
 anne rauwerdastrjitte
 anne rutgerslaan
 anne smidtsplein
@@ -4475,7 +4553,8 @@ annekeswei
 annelien kappeyne van de coppellostraat
 annelien kappeynestraat
 annelies kingmahof
-annemarie grewelhaghe
+annemiek van vleutenpad
+annen
 annenburgweg
 annendaal
 annendaalder bospad
@@ -4487,6 +4566,7 @@ annenkamp
 annermoeras
 annerstreek
 annerweg
+annet nieuwenhuijzengracht
 annetje ockersstraat
 annette poelmanhoeve
 annette poelmanstraat
@@ -4500,8 +4580,6 @@ annewas
 annie averinkstraat
 annie boshof
 annie bosstraat
-annie brouwerhaghe
-annie brouwerkade
 annie coertstraat
 annie de reuverhof
 annie dekker-jonkerstraat
@@ -4521,6 +4599,7 @@ annie mankes-zernikestraat
 annie mg schmidtpad
 annie mg schmidtsingel
 annie palmenlaan
+annie romein-verschoorhof
 annie romein-verschoorkade
 annie romein-verschoorlaan
 annie romein-verschoorpad
@@ -4535,14 +4614,13 @@ annie salomonslaan
 annie salomonspad
 annie salomonsplein
 annie salomonsstraat
-annie salomonstraat
 annie van beintumpad
+annie van der vegtpad
 annie van eesstraat
 annie van eestuin
+annie van hattemhaghe
 annie van hattemstraat
 annie van hattemtuin
-annie van hattumhaghe
-annie van hattumkade
 annie van velzenhof
 annie westlandstraat
 annie zernikeweg
@@ -4551,13 +4629,18 @@ annisservoetpad
 anno houwingpad
 annoijstraat
 annokkeelaan
+anny de langestraat
 anodehof
 anodeweg
 anreep
 anreperstraat
 anrijperdiep
+ans jonkersingel
+ans luyendijkstraat
 ans rosendahlstraat
+ans schutpad
 ans van den berglaan
+ans wortelstraat
 ansbalduslaan
 ansbaldweg
 ansekerke
@@ -4572,11 +4655,11 @@ anserstraat
 anserweg
 ansfriduslaan
 ansfridusstraat
-ansfriedlaan
 ansfriedpad
 ansfriedstraat
 ansinghlaan
 ansinghstraat
+ansjovisanker
 ansjoviskade
 ansjovislaan
 ansjovisstraat
@@ -4587,14 +4670,12 @@ anske aptekerstraat
 anske lammingastraat
 anske zwaluastraat
 anskereed
-anslag
 anslijnstraat
-anslo's hofje
 anslostraat
 anssen
 anssenstraat
+ant de ruiterzoom
 ant. fokkerstraat
-antarctica
 antarcticaweg
 antares
 antareshof
@@ -4614,10 +4695,8 @@ anthon van der horstlaan
 anthon van der horstpad
 anthon van rappardstraat
 anthonetta kuijlstraat
-anthoni staringlaan
 anthoni van leeuwenhoekkade
 anthonie camerlingstraat
-anthonie de vliegerstr
 anthonie de vliegerstraat
 anthonie donkerhove
 anthonie donkerstraat
@@ -4634,7 +4713,6 @@ anthonie van diemenstraat
 anthonie van dijcklaan
 anthonie van dijckstraat
 anthonie van dycklaan
-anthonie van dyckstraat
 anthonie van dyckstraat
 anthonie van leeuwenhoeklaan
 anthonie van leeuwenhoekstraat
@@ -4655,6 +4733,7 @@ anthonius brouwerstraat
 anthonius de bruijnhof
 anthonius matthaeusstraat
 anthonius van alphenstraat
+anthonius vd nootstraat
 anthoniusstraat
 anthoniuswerf
 anthony cankrienstraat
@@ -4663,7 +4742,6 @@ anthony edenlaan
 anthony edenstraat
 anthony fokkerlaan
 anthony fokkerloane
-anthony fokkerrotonde
 anthony fokkersingel
 anthony fokkerstraat
 anthony fokkerweg
@@ -4685,10 +4763,12 @@ anthony winkler prinsstraat
 anthonystraat
 anthracietplaats
 anthurium
+anthuriumhof
 anthuriumpad
 anthuriumsingel
 anthuriumweg
 antibespad
+antie waiboerpark
 antigonelaan
 antigoneschouw
 antigonestraat
@@ -4712,7 +4792,7 @@ antilopestraat
 antilopeweide
 antinkweg
 antje breijerstraat
-antje schaaplã¢n
+antje schaaplÃ¢n
 antoine artsplein
 antoine pinaylaan
 antoine platekade
@@ -4731,10 +4811,11 @@ anton de komweg
 anton de langelaan
 anton deenplein
 anton derkinderenstraat
+anton ebbenhof
 anton eilerslaan
 anton geerdesplein
 anton geesinkstraat
-anton hã¶lzelsingel
+anton hÃ¶lzelsingel
 anton jurgenslaan
 anton koolhaaspad
 anton koolhaasstraat
@@ -4747,6 +4828,7 @@ anton philipslaan
 anton philipsweg
 anton pieckhof
 anton pieckplein
+anton remijnsepad
 anton rooskenshof
 anton schleperspad
 anton smeerdijkgaarde
@@ -4758,10 +4840,10 @@ anton van deinsestraat
 anton van der horststraat
 anton van duinkerkenlaan
 anton van duinkerkenlaantje
-anton van duinkerkenstr
+anton van duinkerkenpark
+anton van duinkerkenplein
 anton van duinkerkenstraat
 anton verheijstraat
-anton wachterburg
 anton wachterstraat
 anton waldorpstraat
 antonellusstraat
@@ -4772,6 +4854,7 @@ antoni van leeuwenhoekhof
 antoni van leeuwenhoekstraat
 antoni van leeuwenhoekweg
 antoni verburghwijk
+antonia frederica bossertstraat
 antonia korvezeepad
 antonia korvezeepark
 antonia korvezeetuin
@@ -4789,16 +4872,15 @@ antonie heinsiusstraat
 antonie meilingstraat
 antonie morostraat
 antonie van diemenstraat
-antonie van dijcklaan
 antonie van dijckstraat
 antonie van dycklaan
 antonie van hemertstraat
 antonie van leeuwenhoeklaan
 antonie van leeuwenhoekstraat
-antonie van leeuwenhoekstraatt
 antonie van leeuwenhoekweg
 antonie voskuijlenlaan
 antonie weijgertzeplein
+antoniebrug
 antoniestraat
 antonietenstraat
 antoninus pius
@@ -4846,9 +4928,10 @@ antoon der kinderenlaan
 antoon der kinderenstraat
 antoon derkinderenstraat
 antoon hubbenstraat
-antoon jurriã«nsplein
+antoon jurriÃ«nsplein
 antoon keldermansstraat
 antoon kerssemakersstraat
+antoon kleverkampstraat
 antoon lipkensstraat
 antoon lommersstraat
 antoon markusstraat
@@ -4857,7 +4940,6 @@ antoon morstraat
 antoon roelofsstraat
 antoon schildersstraat
 antoon slotstraat
-antoon v.d. venstraat
 antoon van de venstraat
 antoon van der heijdenstraat
 antoon van elenstraat
@@ -4866,6 +4948,9 @@ antoon van rijenplein
 antoon van weliestraat
 antoon van wijngaardenweg
 antracietstraat
+antropoceenweg
+antsje timmermanstraat
+antsje timmersmanstraat
 antsjemastreek
 antumerweg
 antwerpenbaan
@@ -4882,19 +4967,20 @@ antwerpsebaan
 antwerpsestraat
 antwerpsestraatweg
 antwerpseweg
-antwerpseweg (a79)
 antwerpseweg - n281
-antã©norpad
+antÃ©norpad
 anubisplantsoen
 anubisstraat
 anugerahplein
 anwending
 anworpstraat
 anzarstraat
-anzere
 aod-prinsepaedje
 apachestraat
 apedijk
+apeldoorn 24
+apeldoorn-noord 25
+apeldoorn-zuid 20
 apeldoornselaan
 apeldoornsestraat
 apeldoornseweg
@@ -4929,7 +5015,6 @@ apolloburg
 apollodreef
 apollohof
 apollolaan
-apollolaan
 apolloniastraat
 apollopad
 apolloplantsoen
@@ -4945,7 +5030,8 @@ apoolweg
 apoortenmolendrift
 aposteldreef
 apostelengang
-apostelenpavã©
+apostelenpad
+apostelenpavÃ©
 apostelpad
 apostelstraat
 apostelweg
@@ -4979,7 +5065,7 @@ appeldreef
 appelenburg
 appelenburgseveldweg
 appelendijk
-appelenmetersgang
+appelerf
 appelgaard
 appelgaarde
 appelhaven
@@ -4990,15 +5076,16 @@ appelhoflaan
 appelhofshoeve
 appelhofstraat
 appelhofweg
-appelhã´f
+appelhÃ´f
 appellaan
 appellaantje
 appelmarkt
+appelmarktbrug
 appelmeet
 appelpad
 appelplansweg
 appels en perenpad
-appels en perenpad
+appelscha
 appelschahof
 appelschaseweg
 appelsestraat
@@ -5009,7 +5096,6 @@ appelternhof
 appeltuin
 appelvink
 appelvinklaan
-appelvinksstraat
 appelvinkstraat
 appelvinkweg
 appelweg
@@ -5024,11 +5110,12 @@ appie groenlaan
 appingedamstraat
 appiushof
 approche
-appã¨lplaats
-april-meistaking
+appÃ¨lplaats
+april-mei 1943 stakingspd
 aprilstraat
 aprochestraat
-aprã¨l
+aprÃ¨l
+aquabest
 aquamarijn
 aquamarijndreef
 aquamarijndrift
@@ -5039,7 +5126,6 @@ aquamarijnstraat
 aquamarijnweg
 aquamarin
 aquapark
-aquarel
 aquarius
 aquariuslaan
 aquariusplein
@@ -5048,11 +5134,9 @@ aquila
 aquila-erf
 aquilastraat
 aquilostraat
-arabella
 arabelladreef
 arabellapad
 arabellaplantsoen
-arabellastraat
 arabische tuin
 arabische zee
 arabislaan
@@ -5061,14 +5145,14 @@ aragohof
 aragon
 aragonstraat
 aragorn
-aragã³nstraat
+aragÃ³nstraat
 aralmeer
 aramislaan
 aramispad
 aramstraat
 aranea forsterpad
 ararat
-araucanalaan
+aratusstraat
 araweg
 arbeidstraat
 arbeidsweg
@@ -5078,6 +5162,7 @@ arboretum oost
 arboretum west
 arboretum zuid
 arboretumlaan
+arbutus
 arcachonhof
 arcadeltstraat
 arcadestraat
@@ -5092,16 +5177,15 @@ archangelkade
 archangelstraat
 archangelweg
 archemerberg
+archenaultplantsoen
 archeologenweide
-archeonlaan
 archerpad
-archerplaats
 archiefstraat
 archimedes
 archimedesbaan
+archimedesbrug
 archimedeskade
 archimedeslaan
-archimedespad
 archimedesplantsoen
 archimedesplein
 archimedesstraat
@@ -5109,13 +5193,11 @@ archimedesweg
 archipel
 archipel 10
 archipel 11
-archipel 12
 archipel 13
 archipel 14
 archipel 15
 archipel 16
 archipel 17
-archipel 18
 archipel 20
 archipel 21
 archipel 22
@@ -5123,7 +5205,6 @@ archipel 23
 archipel 24
 archipel 25
 archipel 26
-archipel 29
 archipel 30
 archipel 31
 archipel 32
@@ -5140,8 +5221,6 @@ archipel 42
 archipel 43
 archipel 44
 archipel 45
-archipel 46
-archipel 47
 archipelhof
 archipellaan
 archipelplein
@@ -5168,19 +5247,15 @@ architect van beijsterveldthof
 architect van lieflandstraat
 architect wesstrakade
 architectenlaan
-architectenpark
+architectenplein
 architraaf
 architronlaan
-archivaris habetsstraat
 arckelaan
 arckelweg
 arcostraat
 arcturus
 arcturuserf
-arcturuspad
 ard schenkstraat
-ardalaan
-ardaplein
 ardealaan
 ardennen
 ardennenlaan
@@ -5194,19 +5269,15 @@ ardinckhoek
 arduinastraat
 arduinlaan
 arduinstraat
-ardã¨chelaan
+ardÃ¨chelaan
 are
 arebos
-aredsbergweg
-aredsdel
 arem
-arembergergracht
 arembergerstraat
 arembergerweg
 arembergse singeldijk
 arembergstraat
 arena
-arena boulevard
 arenapad
 arenastraat
 arenberglaan
@@ -5219,12 +5290,12 @@ arenborghoeve
 arenborgveldweg
 arenborgweg
 arenbos
+arenbosweg
 arenbroek
 arend
 arend baanstraat
 arend bontekoeplantsoen
 arend braatlaan
-arend brinkmanrede
 arend keldermanstraat
 arend lamerslaan
 arend maartenshof
@@ -5232,6 +5303,7 @@ arend noorduijnstraat
 arend roelandsteeg
 arend stegemanweg
 arend van arkellaan
+arend van dorpstraat
 arend van gendtlaan
 arend van leijenburgstraat
 arend van schonauwenstraat
@@ -5273,7 +5345,6 @@ arendsstraat
 arendstraat
 arendstuin
 arendsvlucht
-arendsvoever
 arendsweg
 arendswyk
 arendweg
@@ -5283,7 +5354,6 @@ arent krijtsstraat
 arent maertensvliet
 arent roggeveenpad
 arent toe boecoplaan
-arent toe boecopsingel
 arent van 's gravesandestraat
 arent van 's-gravesandestraat
 arent van der graeffstraat
@@ -5294,9 +5364,11 @@ arent vinckstraat
 arentsburg
 arentsburghlaan
 arentzenstraat
+arenveld
 ares
 aresstraat
 arestraat
+aresyweg
 arete van cyrenelaan
 aretsbosweg
 aretsweg
@@ -5306,10 +5378,9 @@ arevensdijk
 arezzostraat
 arfmanssteeg
 argentanlaan
-argentiniã«dreef
-argentiniã«hof
-argentiniã«singel
-argentiniã«straat
+argentiniÃ«dreef
+argentiniÃ«hof
+argentiniÃ«straat
 argolaan
 argon
 argonaut
@@ -5328,7 +5399,6 @@ argusvlinder
 argusvlinderlaan
 argusvlinderpad
 argusvlinderstraat
-arhemse allee
 arhusstraat
 aria
 ariaansweg
@@ -5345,11 +5415,9 @@ arianelaan
 arianepad
 arianestraat
 ariannalaan
-arianne
 ariaplein
 ariastraat
 ariaweg
-arica
 arie addickspad
 arie biemondstraat
 arie bijlhof
@@ -5363,12 +5431,14 @@ arie de waardhof
 arie de witpark
 arie de zeeuwstraat
 arie dekkerpromenade
+arie dekkerstraat
 arie den arendplein
 arie den toomweg
-arie hogenespad
 arie hoospad
 arie jacob van ogtenstraat
+arie jan luijendijklaan
 arie jongekrijgstraat
+arie kempkespad
 arie kempkesweg
 arie kerssensteegje
 arie kieboomstraat
@@ -5377,11 +5447,12 @@ arie kroonpad
 arie liemanlaan
 arie prinsstraat
 arie salystraat
+arie schaapweg
 arie slappendelpad
 arie tukstraat
 arie van de heuvelstraat
-arie van der meijdenplantsoen
-arie van der steltlaan
+arie van der lugtplein
+arie van der polstrjitte
 arie van driellaan
 arie van drielstraat
 arie van velzenwegeling
@@ -5399,6 +5470,7 @@ ariohof
 ariostohof
 aris van broekweg
 aris van der leystraat
+arisaema
 arisdijk
 arishoek
 arisstraat
@@ -5407,40 +5479,39 @@ aristide briandstraat
 aristoteleshof
 aristoteleslaan
 aristotelesstraat
-aristotelestuin
 arisven
 arixweg
 arizonadreef
 arizonahof
-ariã«lstraat
-ariã«n brandsteeg
-ariã«n schoutenstraat
-ariã«n thomassenstraat
-ariã«n verhoeffstraat
-ariã«ns
-ariã«nshof
-ariã«nslaan
-ariã«nsplaats
-ariã«nsplein
-ariã«nsstraat
-ariã«nsweg
-ariã«nswei
+ariÃ«lstraat
+ariÃ«n brandsteeg
+ariÃ«n schoutenstraat
+ariÃ«n thomassenstraat
+ariÃ«n verhoeffstraat
+ariÃ«ns
+ariÃ«nshof
+ariÃ«nslaan
+ariÃ«nsplaats
+ariÃ«nsplein
+ariÃ«nsstraat
+ariÃ«nsweg
+ariÃ«nswei
 arja peterspad
 arjaan katsmanstraat
 arjan erkelpad
 arjen heslingastrjitte
 arjen roelswei
 arjen rypkemawei
-arjenspã´lle
+arjenspÃ´lle
 ark
 arkansasdreef
 arkbeemden
 arkdreef
-arke noachsgang
 arke noachstraat
-arke noã«straat
+arke noÃ«straat
 arkebusruwe
 arkeheem
+arkel 28
 arkelhof
 arkelplantsoen
 arkelse onderweg
@@ -5452,8 +5523,6 @@ arkelsteinlaan
 arkelstraat
 arkelweg
 arkemeenseweg
-arkemheempad
-arkemheen
 arkemheenpad
 arkemheensepad
 arkemheenseweg
@@ -5466,7 +5535,7 @@ arkenpark mur
 arkens
 arkenschot
 arkenspoort
-arkepã´lle
+arkepÃ´lle
 arkerpad
 arkerpoort
 arkersluisweg
@@ -5495,9 +5564,10 @@ arlo
 arlonstraat
 armadastraat
 armagnaclaan
+armakkerstraat
 armand maassenstraat
+armbrug 208
 armehoefstraat
-armen dennenpad
 armenbosweg
 armendennenpad
 armendijk
@@ -5535,14 +5605,21 @@ armwiel
 arnaudinaplein
 arndt van buerenstraat
 arne
+arnebrug
 arnelaan
+arnemuiden
+arnemuiden & bs 37
+arnemuiden 37
 arnemuidenhoek
 arnemuiderpad
-arneplaat
 arneplaatweg
 arnesteinkade
 arnesteinweg
 arnestraat
+arnhem
+arnhem- centrum 20
+arnhem-centrum 20
+arnhem-noord 26
 arnhemplein
 arnhemse allee
 arnhemse bovenweg
@@ -5575,7 +5652,7 @@ arnold minjonpad
 arnold moonenstraat
 arnold p. nosseklaan
 arnold pootlaan
-arnold schã¶nberglaan
+arnold schÃ¶nberglaan
 arnold spoelplein
 arnold spoelstraat
 arnold suysstraat
@@ -5597,6 +5674,7 @@ arnoldsonstraat
 arnoldstraat
 arnoldsweg
 arnoldus asselbergsstraat
+arnoldus botbijlweg
 arnoldus daalmeijerstraat
 arnoldus geesteranusstraat
 arnoldus jacobsstraat
@@ -5614,7 +5692,6 @@ arnolduspad
 arnolduspark
 arnoldystraat
 arnostraat
-arnoud faastraat
 arnoud van gelderstraat
 arnoud van gelderweg
 arnoud van gelrestraat
@@ -5628,7 +5705,6 @@ arnt venlostraat
 arntzstraat
 arnulfstraat
 arodaveld
-aroe-hof
 aroldo
 arolsenplein
 arondeusstraat
@@ -5636,22 +5712,19 @@ aronskelk
 aronskelkstraat
 aronskelkweg
 arp schnitgerhof
-arrasveldweg
 arresleedrift
 arresleestraat
 arrestruwe
 arrheniusweg
 arrisveldweg
-arriã«n thomassenstraat
-arriã«nflierweg
-arriã«resweg
-arriã«rflierweg
-arriã«rpoort
-arriã«rveldsweg
+arriÃ«resweg
+arriÃ«rflierweg
+arriÃ«rpoort
+arriÃ«rveldsweg
 arsenaal
+arsenaalbrug
 arsenaaldok
 arsenaalgas
-arsenaalkade
 arsenaalpad
 arsenaalplaats
 arsenaalplein
@@ -5666,12 +5739,11 @@ artemisschelphof
 artemissingel
 artemisstraat
 artemisweg
-artesiaplantsoen
-artesiã«straat
+artesiÃ«straat
 arteveldestraat
-arteziã«laan
-arthur briã«thof
-arthur briã«tstraat
+arteziÃ«laan
+arthur briÃ«thof
+arthur briÃ«tstraat
 arthur cravanhof
 arthur honeggerstraat
 arthur koolkwartier
@@ -5679,6 +5751,7 @@ arthur meerwaldtpad
 arthur parisiusstraat
 arthur sullivanhof
 arthur tansleyweg
+arthur van schendelbrug
 arthur van schendeldreef
 arthur van schendelhove
 arthur van schendellaan
@@ -5693,7 +5766,6 @@ arthurpad
 arthurstraat
 arthurweg
 artie shawstraat
-artillerie
 artilleriekade
 artillerielaan
 artilleriepark
@@ -5704,7 +5776,6 @@ artoislaan
 artoois
 artsen zonder grenzenlaan
 artsenijstraat
-artsenverzet
 arturo toscaninistraat
 artuslaan
 aruba
@@ -5730,11 +5801,11 @@ ary schefferlaan
 ary scheffersingel
 ary schefferstraat
 ary van der spuyweg
-arã¨npalmstraat
+arÃ¨npalmstraat
 as
 asakkerhof
 asakkerweg
-asaleahã´f
+asaleastrjitte
 asberg
 asboom
 asbreukerhoek
@@ -5744,14 +5815,18 @@ asbroekhof
 asbroekweg
 ascetenstraat
 aschbroeken
+aschotse steeg
 aschpotpad
-asdonckerweg
+asdonck
 asdonksestraat
 asdonkseweg
+asega
 asenweg
 asfaltstraat
 asgard
 ashford
+ashok bhalotra brug
+ashok bhalotrapad
 ashorst
 ashorstpad
 asingaborg
@@ -5786,9 +5861,11 @@ asselbornweg
 asseldonkweg
 asselerpad
 asselerweg
+asselerzandweg
 asselierspad
 asselijnhof
 asselijnstraat
+asselsepad
 asselsestraat
 asselseweg
 asseltsestraat
@@ -5796,12 +5873,19 @@ asseltseweg
 asseltstraat
 asselynstraat
 assemblageweg
+assen 32
+assen-noord 34
+assen-west 33
+assen-zuid 31a
 assenburgweg
+assendelft
 assendelfterlaan
 assendelftlaan
 assendelftseweg
 assendelftstraat
 assendelverstraat
+assendelvervoetpad
+assendorperallee
 assendorperdijk
 assendorperplein
 assendorperstraat
@@ -5858,6 +5942,7 @@ asta elstakstraat
 astanaplein
 astasiastraat
 astaweg
+asten 36
 astensedreef
 astenseweg
 aster
@@ -5873,8 +5958,8 @@ asterixstraat
 asterkade
 asterlaan
 asterlo
-asteroã¯de
-asteroã¯denlaan
+asteroÃ¯de
+asteroÃ¯denlaan
 asterpad
 asterplein
 astersingel
@@ -5887,6 +5972,7 @@ astoria-rumpenerstraat
 astorias
 astraat
 astrang
+astrantia
 astrastraat
 astraweg
 astreastraat
@@ -5899,15 +5985,14 @@ astronautenlaan
 astronautenweg
 astronautpad
 astronautstraat
-astroã¯den
-asturiã«straat
+astroÃ¯den
+asturiÃ«straat
 asveldweg
 asvest
 aswiel
 aswinstraat
 asylplein
 asylstraat
-atacamahof
 atalanta
 atalantaberm
 atalantahof
@@ -5915,12 +6000,13 @@ atalantalaan
 atalantapad
 atalantapark
 atalantaplein
+atalantapromenade
 atalantastraat
 atalantaweg
 atalantazoom
 atalantestraat
-atatã¼rk
-atatã¼rkstraat
+atatÃ¼rk
+atatÃ¼rkstraat
 atelierstraat
 atelierweg
 atensheerd
@@ -5935,19 +6021,20 @@ athenepad
 atheneplantsoen
 athenesingel
 athenestraat
-atheneweg
 athlonepad
 athlonestraat
 athoslaan
 athospad
 athwerk
+athyrium
 atie noordhofstraat
 atilla
+atje keulen-deelstrastr
 atje keulen-deelstrastraat
 atjehgouw
 atjehstraat
 atjehweg
-atlanta
+atlantabrug
 atlantakade
 atlantapad
 atlantastraat
@@ -5955,10 +6042,9 @@ atlantis
 atlantische oceaan
 atlantischestraat
 atlantislaan
-atlantisplaats
 atlantisplein
-atlantisstrand
 atlas
+atlasbrug
 atlasburg
 atlasceder
 atlasdonk
@@ -5977,7 +6063,6 @@ atletiekstraat
 atmosfeer
 atmosfeerstraat
 atol
-atolpad
 atoomstraat
 atoomweg
 atrechtlaan
@@ -6021,14 +6106,14 @@ aucklands
 aucubastraat
 audioweg
 auditorium
+audre lordestraat
 audrey hepburnhof
-audrey hepburnlaan
 audrey hepburnplein
 audrey hepburnstraat
 auerschootseweg
 augsburgstraat
 augurksteeg
-august allebã©plein
+august allebÃ©plein
 august faliseweg
 august flamentstraat
 august janssenweg
@@ -6038,20 +6123,19 @@ august van dijkstrjitte
 august vermeijlenpad
 august vermeylenlaan
 august vermeylenstraat
-august vã¶rdingstraat
-augusta ada byronhof
+august vÃ¶rdingstraat
+augusta ada byronstraat
 augusta de witlaan
 augusta de witpad
 augusta de witstraat
 augustalaan
+augustapad
 augustapolder
 augustastraat
 auguste comteweg
-auguste renoirrade
 augustijnendreef
 augustijnenhove
 augustijnenkamp
-augustijnenlaan
 augustijnenstraat
 augustijnsteeg
 augustin hanicottestraat
@@ -6085,9 +6169,10 @@ aukebaes
 aukemastraat
 aukje wijbengastrjitte
 aukje wolfpark
-aukjeslã¢n
+aukjeslÃ¢n
+aulentistraat
 aulislaan
-aumã¼hlerstraat
+aumÃ¼hlerstraat
 aupingstraat
 aurelia
 aureliahof
@@ -6099,6 +6184,7 @@ aurelius
 aureliushof
 aureumpad
 aureus
+aureushof
 aureusstraat
 auriga
 aurigapark
@@ -6123,14 +6209,13 @@ austerlitzplaats
 austerlitzseweg
 austiebergweg
 austinplein
-australiã«haven
-australiã«havenweg
-australiã«laan
-australiã«ring
-australiã«straat
-australiã«weg
-australorplaan
-austrasiã«straat
+australieweg
+australiÃ«havenweg
+australiÃ«laan
+australiÃ«ring
+australiÃ«straat
+australiÃ«weg
+austrasiÃ«straat
 austweg
 autenasekade
 auteurslaan
@@ -6154,6 +6239,7 @@ auwerhofstraat
 auwerstraat
 auxiliastraat
 auxiliatrixweg
+avalanchestraat
 avalon
 avalonpad
 avantilaan
@@ -6164,6 +6250,7 @@ avegaar
 avegaarplaats
 avegaarstraat
 avekingecamp
+avel laning
 aveland
 aveling
 avelingen
@@ -6174,9 +6261,11 @@ avemoerscampe
 avenbeeck
 avendorp
 avenhil
+avenhorn 7
 avenhornstraat
 avennelaan
 avensteinstraat
+aventijn
 aventijnhof
 aventurijn
 aventurijndreef
@@ -6185,10 +6274,9 @@ aventurijnstraat
 aventurijnweg
 avenue
 avenue carnisse
-avenue carrã©
+avenue carrÃ©
 avenue ceramique
 avenue concordia
-avenue cã©ramique
 avenue van der laan
 avenweide
 aver heino'sweg
@@ -6202,7 +6290,6 @@ averbergen g
 averbergenstraat
 averbode
 averbodelaan
-averbodeplein
 averbodestraat
 averbodeweg
 avercampstraat
@@ -6243,8 +6330,8 @@ avocadostraat
 avogadrostraat
 avondgaarde
 avondlicht
-avondpoelstraat
 avondrood
+avondroodhof
 avondroodstraat
 avondroodvlinder
 avondroodvlinderstraat
@@ -6254,9 +6341,11 @@ avondsterstraat
 avondsterweg
 avonduur
 avondvoorde
+avonturis
 avrancheslaan
-avã©bã©weg
+avÃ©bÃ©weg
 aweg
+axel
 axel-plein
 axelhoeve
 axelpad
@@ -6266,7 +6355,7 @@ axelsestraat
 axwijk
 aykema burchtstraat
 aylvalaan
-aylvalã¢n
+aylvalÃ¢n
 aylvastraat
 aylvastrjitte
 aymaradreef
@@ -6298,18 +6387,18 @@ azewijnseweg
 azijngang
 azijnmakerstraat
 azijnplaats
+azijnsteeg
 azincourthof
 azingaweg
 azinkdijk
-aziã«
-aziã«havenweg
-aziã«laan
-aziã«ring
-aziã«singel
-aziã«straat
-aziã«weg
-azobã©
-azobã©hout
+aziÃ«havenweg
+aziÃ«laan
+aziÃ«ring
+aziÃ«singel
+aziÃ«straat
+aziÃ«weg
+azobÃ©
+azobÃ©hout
 azollastraat
 azoren
 azorenweg
@@ -6323,8 +6412,7 @@ azuurblauw
 azuurhof
 azuurmees
 azuurweg
-aã¯da
-aã¯dalaan
-aã¯daplein
-aã¯daschouw
-aã¯dastraat
+aÃ¯da
+aÃ¯dalaan
+aÃ¯daschouw
+aÃ¯dastraat

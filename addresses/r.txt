@@ -1,12 +1,11 @@
+r platform
 r pollemaplein
-r#ringstraat
 r. bouwmanstraat
 r. castelijnstraat
 r. doumastraat
 r. feithplein
 r. feithstraat
 r. j. schimmelpennincklaan
-r. neter-montanhestuin
 r. prinsen geerligstuin
 r. ritzemastraat
 r. schuilingstraat
@@ -19,9 +18,9 @@ r.a. kartinistraat
 r.a.c. mulderlaan
 r.c. bakhuizen van den brinkstraat
 r.c. nieuwenhuysstraat
+r.dam-overschie 12
 r.f. burtonlaan
 r.f. wijffelsstraat
-r.f.burtonlaan
 r.h. fledderusstraat
 r.h. van deestweg
 r.j. doumastraat
@@ -37,6 +36,7 @@ r.m. woldringstraat
 r.p. dojesweg
 r.t.m.-baan
 r.w. van de wintstraat
+r348
 ra
 ra'anana
 raad van europalaan
@@ -62,14 +62,14 @@ raadhuisplein
 raadhuissteeg
 raadhuisstoep
 raadhuisstraat
-raadhuisstraat 27
 raadhuisweg
 raadsdeel
 raadsgildenlaan
 raadsheer luijbenstraat
 raadsheerenhoek
+raadsheerpad
 raadsheerplein
-raadsherenl„¢n
+raadsherenl√¢n
 raadsherenveld
 raadskuilderweg
 raadsliedenstraat
@@ -77,7 +77,6 @@ raadssingel
 raadstede
 raadsteeg
 raadwijk
-raadwijkstraat
 raaf
 raafstraat
 raagtenstraat
@@ -94,10 +93,13 @@ raaijweg
 raaikampenweg
 raailand
 raaimoeren
+raaipad
 raak
+raakeind
 raakeindse kerkweg
 raakheuvel
 raaks
+raaksbrug
 raaksje
 raaksmaatsweg
 raalt
@@ -108,6 +110,7 @@ raalterslag
 raalterstraat
 raalterveste
 raalterweg
+raalterweg zijwg n756 hmp 17
 raaltestraat
 raam
 raamackerstraat
@@ -124,6 +127,7 @@ raamloop
 raamloopweg
 raamoever
 raamplein
+raamploeg
 raampoort
 raampoortstraat
 raamschoorseweg
@@ -134,6 +138,7 @@ raamse loop
 raamshille
 raamsingel
 raamslegerstraat
+raamsluisstraat
 raamsteeg
 raamstraat
 raamsweg
@@ -146,6 +151,7 @@ raapad
 raapakker
 raapakkers
 raapakkersweg
+raapbocht
 raaphoeve
 raaphof
 raaphofsepad
@@ -163,6 +169,7 @@ raarhoeksweg
 raarhooggrachterweg
 raarslakweg
 raarvoetpad
+raarweg
 raas
 raasdorperweg
 raasstraat
@@ -182,12 +189,14 @@ raayheuvel
 raaystraat
 raayweg
 rababogerdseweg
+rabarber
 rabarberdreef
 rabarberhof
 rabarberstraat
 rabarberveld
+rabat
+rabatbrug
 rabatstraat
-rabattenweg
 rabauw
 rabbelsgaard
 rabbenkamp
@@ -202,8 +211,6 @@ rabelaisstraat
 rabeldersteeg
 rabelingstraat
 rabenhauptstraat
-rabindranath tagoreweg
-rabo herman schelestraat
 raboes
 rabouw
 rabouwgaarde
@@ -214,7 +221,6 @@ rachel carsonhof
 rachel carsonpad
 rachel neter-montanhestuin
 rachel ruyschstraat
-rachel ruysstraat
 rachelseweg
 rachelsmolen
 rachmaninoffplantsoen
@@ -229,8 +235,7 @@ radarpad
 radarstraat
 radarweg
 radbergpad
-radbergweg
-radbergzijweg
+radbergzyweg
 radboud
 radboudgracht
 radboudkwartier
@@ -238,11 +243,11 @@ radboudlaan
 radboudpad
 radboudplein
 radboudstraat
-radboudtraverse
 radboudweg
 radboutstraat
 radebinnensingel
 radeborg
+radeland
 rademacherplein
 rademacherstraat
 rademakerpad
@@ -259,6 +264,7 @@ rademakerwei
 rademarkt
 rademekerstraat
 raden adjeng kartinistraat
+raden adjeng kartiniweg
 radenhove
 radenlaan
 radenpad
@@ -269,6 +275,7 @@ radeweg
 radewijkbrink
 radewijkerweg
 radewijnsstraat
+radijs
 radijsakker
 radijshof
 radijslaan
@@ -293,6 +300,7 @@ radnaaldpad
 radon
 radonstraat
 radonweg
+radploeg
 radstakeweg
 radstraat
 radsweg
@@ -304,21 +312,22 @@ raemaekerslaan
 raemdonck
 raephorstsingel
 raephorststraat
+raepshille
 raesbergenstraat
 raesfeltlaan
 raessenshof
 raesvelt
+raethemerweg
+raethemmerweg
 raetmansweg
 raetsenhof
 raevenstraat
-rafajalaan
-rafa„´lstraat
-rafa„´lweg
+rafa√´lstraat
+rafa√´lweg
 rafelderseweg
 raffelsbergweg
 raffendonkstraat
 raffineursdonk
-raggaepad
 ragtimedreef
 rahderweg
 raiffeisenlaan
@@ -341,25 +350,26 @@ rakkersveld
 rakkert
 rakkerweg
 rakstraat
-raksw„¢l
+raksw√¢l
 rakthof
 raktpad
 raktseweg
 raktstraat
 raktweg
 ralandstraat
-rallendreef
 rallepad
 ralph benatzkylaan
 ralph bunchestraat
 ralph buncheweg
+ralph ellisonstraat
+ralph johnson buncheweg
 ralreiger
 ram
 ramaerlaan
+ramaerpad
 ramaerstraat
 ramakerspad
 ramakerstraat
-ramanas
 rambaldolaan
 ramblas
 rambonnetstraat
@@ -372,16 +382,17 @@ ramelebrink
 ramelerdijk
 ramelerveldweg
 ramelestraat
+ramelo
 ramen
 ramershaag
 ramgatseweg
 ramhinneweg
-ramhovensteeg
 ramiedonk
 ramin
 raminhout
 ramlehstraat
 ramlehweg
+rammazeynhoek
 rammekens
 rammekensweg
 rammelandstraat
@@ -403,6 +414,7 @@ rampweg
 ramsbeek
 ramsbeekpad
 ramsbeekweg
+ramsbrug
 ramsbrugweg
 ramsburgerweg
 ramsdijk
@@ -415,6 +427,7 @@ ramshoorn
 ramshoornstrjitte
 ramskooi
 ramspol
+ramspolbrug
 ramsteeg
 ramstoren
 ramstraat
@@ -466,10 +479,14 @@ randveen
 randveld
 randvestepad
 randweg
-randweg - n298
+randweg b
+randweg c
+randweg dordrecht 20
+randweg e
+randweg f
+randweg g
 randweg midden
 randweg noord
-randweg oost
 randweg oost
 randweg west
 randweg zuid
@@ -477,7 +494,8 @@ randweg-noord
 randweg-oost
 randweg-west
 randweg-zuid
-randwegbrug
+randwegrotonde
+randwg eindhoven
 randwijcklaan
 randwijk
 randwijkhof
@@ -497,7 +515,9 @@ rangoonweg
 rankenstraat
 rankpad
 ranninkstraat
+ranomi plantsoen
 ranonkel
+ranonkelbij
 ranonkeldreef
 ranonkelhof
 ranonkelkade
@@ -508,6 +528,7 @@ ranonkelplein
 ranonkelstraat
 ranonkeltuin
 ranonkelweg
+ransakker
 ransdalerstraat
 ransdalerweg
 ransdorpstraat
@@ -537,6 +558,7 @@ rapeling
 rapella
 rapen
 rapen-oord
+rapenbloembrug
 rapenburchdreef
 rapenburg
 rapenburgerplein
@@ -544,8 +566,6 @@ rapenburgerschans
 rapenburgerstraat
 rapenburgsestraat
 rapenburgweg
-rapengang
-rapenhofje
 rapenland
 rapenlandstraat
 rapenpad
@@ -553,8 +573,8 @@ rapenstraat
 rapenweg
 raperbeek
 raphael lemkinstraat
-rapha„´lplein
-rapha„´lstraat
+rapha√´lplein
+rapha√´lstraat
 rapier
 rapierburg
 rapierruwe
@@ -591,7 +611,7 @@ ratellaan
 ratelplein
 ratelsstraat
 ratelwacht
-ratin„©straat
+ratin√©straat
 ratio
 ratommerweg
 rattelvoetpad
@@ -629,7 +649,6 @@ ravelijncenter
 ravelijndok
 ravelijnhof
 ravelijnpad
-ravelijnplein
 ravelijnsingel
 ravelijnspad
 ravelijnsplein
@@ -651,7 +670,6 @@ ravendal
 ravendonk
 ravendonken
 ravengaard
-ravenhof
 ravenhoflaan
 ravenhofpad
 ravenhorst
@@ -673,6 +691,7 @@ ravensboschvoetpad
 ravensbospad
 ravensburgstraat
 ravensdonk
+ravenseind
 ravenseveldweg
 ravenseweg
 ravensewetering
@@ -683,6 +702,7 @@ ravenshof
 ravensnest
 ravensteijnweg
 ravenstein
+ravenstein 17
 ravensteinerf
 ravensteinlaan
 ravensteinpad
@@ -693,6 +713,7 @@ ravensteinseweg
 ravensteinstraat
 ravenstraat
 ravenstraatje
+ravensveldweg
 ravenswaaijsesteeg
 ravenswaaijstraat
 ravenswaaipad
@@ -706,30 +727,30 @@ ravenweg
 ravenwerf
 raverskamp
 raveslootstraat
-ravesteeg
 ravesteijn
-ravestein
 ravesteinhof
 ravesteinweg
 ravesteyn
 ravesteynplein
 ravestraat
 ravetsmaar
-rav„®lplein
+ravottuin
+rav√®lplein
 rawayweg
 ray charlesstraat
-ray connifpad
+ray conniffpad
 rayerveldweg
 rayerweg
 raylandseweg
 raymond brulezpad
+rayonstraat
 rayse hei
 razeil
 razende bol
 razernijweg
-razzia'spad
+razzia's pad
 razziapad
-rd b„ºgelstraat
+rd b√ºgelstraat
 rdm-kade
 rdm-plein
 rdm-straat
@@ -752,20 +773,22 @@ realengracht
 realiteitpad
 reapdraeijersreed
 reaskuorre
+reaskuorsterloane
 reaumurlaan
 reaumurstraat
 rebecca kruikhofje
 rebeccadal
 rebeccagang
+rebekka biegelpad
 rebenscheidtstraat
 rebergenhof
 recessenplein
 recht boomssloot
 recht van ter leede
+recht-op pad
 rechtbankstraat
 rechte heitraksedijk
 rechte hondsbosschelaan
-rechte hoon
 rechte pad
 rechte slagen
 rechte tocht
@@ -780,7 +803,6 @@ rechter rottekade
 rechter van berckelstraat
 rechteren
 rechterenerf
-rechterenplein
 rechterensedijk
 rechterenstraat
 rechterensweg
@@ -812,6 +834,8 @@ recollectenstraat
 recollectenweg
 recordweg
 recreatiepad
+recreatieverdeelweg
+recreatieweg
 rect. driessenstraat
 rect. isidorusstraat
 rect. mullenersstraat
@@ -828,7 +852,6 @@ rector coppenserf
 rector coppensstraat
 rector coxstraat
 rector cremersstraat
-rector de fauwestraat
 rector de kortstraat
 rector de vethstraat
 rector driessenweg
@@ -846,7 +869,6 @@ rector meeuwsstraat
 rector meuffelsstraat
 rector meussenstraat
 rector moonenstraat
-rector mulderstraat
 rector nabbenstraat
 rector nelissenstraat
 rector nuijensweg
@@ -855,14 +877,12 @@ rector poelsplein
 rector ramakersstraat
 rector simonsstraat
 rector ter meerstraat
-rector ter meerstraat
 rector thijssenstraat
 rector thomassenstraat
 rector thomasstraat
 rector van asseldonkstraat
 rector van de laarschotstraat
 rector van den boornlaan
-rector van den boornstr
 rector van den boornstraat
 rector van den broekstraat
 rector van gerwenstraat
@@ -877,6 +897,7 @@ rectorstraat
 rectorsweerd
 red debroystraat
 red horse-straat
+red naomistraat
 redactiestraat
 redan
 redbadwei
@@ -884,10 +905,11 @@ reddingbootweg
 reddingiusstraat
 reddingiusweg
 reddingsboatreed
+reddingsbootpad
 reddingsweg
 rede
 redelaan
-redel„©straat
+redel√©straat
 redemark
 redemptielaan
 redemptoristenpad
@@ -897,6 +919,7 @@ redemptoristinnenpad
 redenburgsingel
 redenburgstraat
 rederij van holststraat
+rederijbrug
 rederijkade
 rederijkers
 rederijkershoeve
@@ -929,8 +952,8 @@ redouteweg
 reduitlaan
 reduyt
 ree
-ree+nlaan
 reeakker
+reeakkerweg
 reebaan
 reebergweg
 reebok
@@ -942,7 +965,6 @@ reeck
 reed
 reede
 reederijstraat
-reedestraat
 reedijk
 reedijkdreef
 reedonk
@@ -988,7 +1010,6 @@ reepheuvel
 reephof
 reepijzer
 reepkant
-reepmakersweg
 reepstraat
 reeptiend
 reepweg
@@ -999,8 +1020,10 @@ reeshofdijk
 reeshofpark
 reeshofweg
 reesinkhof
+reesinkweg
 reesloot
 reeslootpad
+reesluis 0064
 reespoor
 reesstraat
 reest
@@ -1023,6 +1046,7 @@ reesweg
 reeterweg
 reethsestraat
 reetschotweg
+reeuwijk 12
 reeuwijkpark
 reeuwijkplaats
 reeuwijkpolderplantsoen
@@ -1031,6 +1055,7 @@ reeuwijkse poort
 reeuwijkse randweg
 reeuwijksehoutwal
 reeuwijkstraat
+reevedijk
 reeveld
 reevelden
 reevennerweg
@@ -1048,33 +1073,30 @@ reeweide
 reewijkplein
 reewissel
 reewoude
-ree„É‚´nlaan
-ree„´nbergerhout
-ree„´nbergweg
-ree„´nkampweg
-ree„´nlaan
-ree„´nlaar
-ree„´npad
-ree„´nspoor
-ree„´nstraat
-ree„´nweg
-ree„´nwissel
+ree√´nbergerhout
+ree√´nbergweg
+ree√´nkampweg
+ree√´nlaan
+ree√´nlaar
+ree√´npad
+ree√´nspoor
+ree√´nstraat
+ree√´nweg
+ree√´nwissel
+refajalaan
 refeling
 refelingse erven
 refelingse heide
 refelingse loop
-reflectiespoelstraat
 reflectiestraat
 refreinstraat
 refter
-refterlaan
 refterstraat
 refugium
 regaalsingel
 regatta
 regattaweg
 regbertslaan
-regdgerlaan
 regelandisstraat
 regelhaalder
 regelinklaan
@@ -1093,7 +1115,6 @@ regenboogpark
 regenboogplein
 regenboogschotel
 regenboogsingel
-regenboogsliefdehofje
 regenboogstraat
 regenboogven
 regenboogweg
@@ -1115,6 +1136,7 @@ regentenlaan
 regentenland
 regentenstraat
 regentes
+regentessebrug
 regentessehof
 regentesselaan
 regentessenhof
@@ -1127,7 +1149,6 @@ regentesseweg
 regenvlietweg
 regenweg
 regenwicestraat
-regenwolk
 regenwulp
 regenwulplaan
 regenwulpstraat
@@ -1136,31 +1157,31 @@ regerstraat
 regerweg
 reggaepad
 regge
-reggedal
 reggehof
 reggelaan
 reggelaantje
 reggeland
+reggeloop
 reggemarsdijk
+reggemarsweg
 reggepad
 reggeplantsoen
 reggersweg
 reggesingel
 reggestraat
-reggestroom
 reggeweg
 reggewijk
-reghthuyspad
 reghthuysplein
 regiment
 regiment perth-plein
 regiment pioniers
 regiment pontonniers
 regiment van heutszstraat
+regimentsbrug
 regimentslaan
+regina fluminum ii
 regina kok hofje
 regina landzaatpad
-regina landzaatweg
 regina mundihof
 regina pacisstraat
 regina van geunshof
@@ -1170,7 +1191,6 @@ reginagang
 reginahof
 reginastraat
 regioplein
-regisseurgarage
 regisseurstraat
 regnerus falcostrjitte
 regnerus meinardystraat
@@ -1181,8 +1201,10 @@ regterweistraat
 regthuis
 regthuispad
 regthuisstraat
+regthuistunnel
 regthuyshof
 regthuysstraat
+regtuitweg
 regulierenhof
 regulierenhove
 regulierenpad
@@ -1215,7 +1237,6 @@ rehorstplein
 rei
 reiakker
 reibroekstraat
-reidans
 reiddekkersstrjitte
 reiddomp
 reide
@@ -1236,17 +1257,17 @@ reidingweg
 reidkampen
 reidklyster
 reidkraach
-reidl„¢nsdyk
-reidl„¢nswei
+reidl√¢nsdyk
+reidl√¢nswei
 reidmosk
 reidplom
-reidp„¥le
+reidp√¥le
 reidroas
 reidseame
 reidsjonger
 reidsjongerstrjitte
 reidskar
-reidsw„¢l
+reidsw√¢l
 reiendonk
 reigelsbroekheideweg
 reigelsbroekveldweg
@@ -1312,6 +1333,7 @@ reijer bronsstraat
 reijer dekkerweg
 reijer keijserstraat
 reijer spreijstraat
+reijerinkspad
 reijerlaan
 reijerscop
 reijerscopse overgang
@@ -1319,10 +1341,8 @@ reijersdijk
 reijersdwarsweg
 reijerserf
 reijersgroet
-reijershaag
 reijershofstraat
 reijerskamp
-reijerskoop
 reijerskopstraat
 reijerslant
 reijerspad
@@ -1343,7 +1363,6 @@ reijmerstokkermolenvoetpad
 reijmersweg
 reijmerweg
 reijnaertstraat
-reijnbroeckerweg
 reijndersbuurt
 reijndersstraat
 reijndersveld
@@ -1353,9 +1372,11 @@ reijnenweg
 reijneweg
 reijnier vinkeleskade
 reijnoud van gelderstraat
+reijnoutlaan
 reijnvaanerf
 reijpenweg
 reijseweg
+reijstraat de la
 reijvenhofweg
 reijzings
 reikampen
@@ -1368,21 +1389,21 @@ reimersstraat
 reimerswaalseweg
 reimerswaalstraat
 reimerswaalweg
+reimerswaard
 reimerweg
 reimespad
 reimslaan
 reimsstraat
 rein de jongstraat
 rein keizerpad
-rein landerpad
 rein miedemastraat
+rein van der veldepad
 rein welschenlaan
 reina prinsen geerligsdreef
 reina prinsen geerligspad
 reina prinsen geerligssingel
 reina prinsen geerligsstraat
 reina prinsen geerligstuin
-reina prinsen geerlingsdreef
 reinaard
 reinaartlaan
 reinaartpad
@@ -1397,6 +1418,8 @@ reinald van gelrestraat
 reinaldapad
 reinaldpad
 reinaldstraat
+reinapad
+reinardlaan ridder
 reinautstraat
 reinder blijstralaan
 reinder brolsmaplein
@@ -1411,11 +1434,11 @@ reinderhoek
 reindersbuorren
 reindersdijk
 reinderslaan
+reinderslooisteeg
+reinderslooiweg
 reindersweg
 reindert visserstraat
 reindertpad
-reindonckweg
-reindonkerweg
 reine claude
 reine claudestraat
 reine claudeweg
@@ -1435,6 +1458,7 @@ reinettehof
 reinettenhof
 reinevaarstraat
 reineveld
+reineveldbrug
 reineveststeeg
 reinhard dozyhof
 reinier bloklaan
@@ -1442,16 +1466,15 @@ reinier cammingalaan
 reinier claeszenplein
 reinier claeszenstraat
 reinier claeszstraat
+reinier dalhuisenhof
 reinier de graafpad
 reinier de graafstraat
 reinier de graafweg
 reinier de hossonpad
-reinier de hossonstraat
 reinier engelmanstraat
 reinier kloegstraat
 reinier langhalsstraat
 reinier muller's laantje
-reinier nafzgerstraat
 reinier noomsstraat
 reinier plettinghof
 reinier postlaan
@@ -1477,12 +1500,12 @@ reinoud van brederodestraat
 reinoud van gelderstraat
 reinoud van gulikstraat
 reinoud-flat
+reinoudhof
 reinous reed
 reinout
 reinout van valkenburgstraat
 reinoutdreef
 reinoutlaan
-reinoutpad
 reinoutsgaarde
 reinoutshof
 reinskamp
@@ -1491,7 +1514,6 @@ reinste abdenaweg
 reinstraat
 reint dijkemastraat
 reintendreef
-reintje visser-beardastr
 reintje visser-beardastrjitte
 reintjenssteeg
 reintjensweg
@@ -1506,6 +1528,7 @@ reischaaf
 reisdorfweg
 reisenakker
 reiskameraad
+reisplein
 reisvennestraat
 reit
 reitdiep
@@ -1553,17 +1576,20 @@ relder
 reli
 relindisstraat
 reling
+relingpaad
 relkepad
 relweg
 remalunet
 remarkastraat
 rembangstraat
 rembert dodoensstraat
+rembrandt erf
 rembrandt van rijnhof
 rembrandt van rijnlaan
 rembrandt van rijnsingel
 rembrandt van rijnstraat
 rembrandt van rijnweg
+rembrandtbrug
 rembrandterf
 rembrandtgalerij
 rembrandthage
@@ -1579,6 +1605,7 @@ rembrandtstaete
 rembrandtstraat
 rembrandtweg
 remco campertpad
+remerypassage
 remichweg
 remigiushof
 remigiusplein
@@ -1589,7 +1616,7 @@ remise
 remisebaan
 remiselaan
 remisepad
-remisepav„©
+remisepav√©
 remiseplantsoen
 remiseplein
 remisestraat
@@ -1620,14 +1647,14 @@ remortelstraat
 remsestraat
 remswerderleane
 remus
+remusbrug
 remushof
 remuslaan
 remusstraat
-remvang
 remvardplaats
 remweg
 remy van haanenstraat
-renaissancelaan
+renaelskamppad
 renaissancepad
 renata
 renate rubinsteinlaan
@@ -1651,6 +1678,7 @@ rendierlaan
 rendiermos
 rendierpad
 rendierstraat
+rendiertocht
 rendierveld
 rendierweg
 rendierweide
@@ -1659,7 +1687,6 @@ rendorppark
 rendout
 rene jansenpad
 renes
-renesplein
 renessehoeve
 renesselaan
 renessersteeg
@@ -1675,6 +1702,7 @@ rengerskerkestraat
 rengerslaan
 rengersland
 rengerspad
+rengerspark
 rengersstraat
 rengersstrjitte
 rengersweg
@@ -1687,8 +1715,8 @@ renier sniederslaan
 renierstraat
 renkemaheerd
 renkemastraat
-renkensstraat
 renkesweg
+renkum 19
 renkumhof
 renkumlaan
 renkumse veerweg
@@ -1704,11 +1732,11 @@ renneweg
 renoirhof
 renoirstraat
 renooiplein
-renooishoekstr
 renooishoekstraat
 renouwstraat
 renovalaan
 rens prinshof
+rensbergerweg
 rensel
 renselkade
 renselweg
@@ -1720,6 +1748,7 @@ rensgars
 rensinksweg
 rensinkweg
 renske boonstraat
+renssenbrug
 renssenstraat
 renstraat
 rensumaborg
@@ -1741,6 +1770,7 @@ rentjes
 rentm panneslegerstraat
 rentm snijdersstraat
 rentmeester
+rentmeesterdreef
 rentmeesterhof
 rentmeesterlaan
 rentmeesterpad
@@ -1749,6 +1779,7 @@ rentmeestershoef
 rentmeesterslaan
 rentmeesterslaantje
 rentmeesterslag
+rentmeesterspad
 rentmeestersstraat
 rentmeesterstedeweg
 rentmeesterstraat
@@ -1756,18 +1787,18 @@ rentmeesterstuin
 rentmeestersveld
 rentmeesterwaard
 renzo pianolijn
-ren„© cassinlaan
-ren„© clairstrook
-ren„© descartesdreef
-ren„© descartesstraat
-ren„© magrittestraat
-ren„© norenburgstraat
-ren„© smeetsstraat
-ren„© van chalonlaan
-ren„© van chalonstraat
-ren„© van chal„¥nstraat
-ren„© van ch„¢lonslaan
-ren„© van oranjestraat
+ren√© cassinlaan
+ren√© clairstrook
+ren√© descartesdreef
+ren√© descartesstraat
+ren√© magrittestraat
+ren√© norenburgstraat
+ren√© smeetsstraat
+ren√© van chalonlaan
+ren√© van chalonstraat
+ren√© van chal√¥nstraat
+ren√© van ch√¢lonslaan
+ren√© van oranjestraat
 reparatusstraat
 repel
 repelaerplaats
@@ -1808,7 +1839,7 @@ reservoirpad
 residence astrid
 residence juliana
 residence rembrandt
-residentie azur„©e
+residentie azur√©e
 residentieplein
 respad
 respelhoek
@@ -1838,7 +1869,9 @@ retsezijstraat
 retsinagaard
 retstraat
 rettestraat
+retteweg
 rettichlaan
+reubenakkerweg
 reubenberg
 reubsaetlaan
 reuchlinhaven
@@ -1851,9 +1884,8 @@ reukgras
 reulingsweg
 reulisweg
 reulsberg
-reulsweg
-reumers
 reumersweg
+reunen
 reurhout
 reurikwei
 reurinkweg
@@ -1865,13 +1897,12 @@ reuselsedijk
 reuselstraat
 reusensestraat
 reuskenweg
-reut
 reute
+reutersweg
 reuth
 reuthsepad
 reutjensweg
 reutjesboschweg
-reutjesbroekdwarsweg
 reutjesbroekweg
 reutjesstraat
 reutjesvoetpad
@@ -1889,7 +1920,6 @@ reuvekampstraat
 reuvekampsweg
 reuvekampweg
 reuveldsweg
-reuveltweg
 reuvenkamp
 reuvenslaan
 reuvensplaats
@@ -1905,15 +1935,14 @@ reuzel
 reuzenberg
 reuzenhoek
 reuzenhoeksedijk
+reuzenotter
 reuzenpandasingel
-reuzenrad
 reuzenreigerstraat
 reuzenvlinderpad
 revaleiland
 revalmeen
 revalsteiger
 revalstraat
-reveille
 revelaar
 revelingseweg
 revelmanstraat
@@ -1921,7 +1950,6 @@ revelsant
 revendijk
 revenseweg
 revensweg
-reverdijk
 revershof
 revetsteeg
 reveweg
@@ -1932,7 +1960,6 @@ reviusdreef
 reviuskade
 reviuslaan
 reviusplein
-reviusrondeel
 reviusstraat
 reviusweg
 rewerdaheerd
@@ -1948,7 +1975,7 @@ reygerboslaan
 reygersbeek
 reygersberg
 reygersberglaan
-reygersh„∂ftehoek
+reygersh√∂ftehoek
 reygerskreek
 reykjavikplein
 reykjavikstraat
@@ -1961,12 +1988,12 @@ reynier van hemertenlaan
 reynkesstraat
 reynoltstraat
 reynout van gelrelaan
+reynoutlaan
 reynvaanpad
-reysenbeckstraat
 reyserkuilenstraat
 reysigerweg
 rezzago
-re„´elenstraat
+re√´elenstraat
 rfc-weg
 rhaanbrink
 rhabergseweg
@@ -1978,6 +2005,7 @@ rheapad
 rheaplantsoen
 rheastraat
 rhebruggenstraat
+rheden 2
 rhedense veerweg
 rhedenstraat
 rhederoord
@@ -1986,18 +2014,19 @@ rhederweg
 rheebrugge
 rheebruggen
 rheebruggenpad
+rheenweg
 rheeveld
 rheezerbrink
 rheezerend
 rheezerveenseweg
 rheezerveld
 rheezerweg
-rhee„´rweg
+rhee√´rweg
 rheineplein
 rhemenshuizenstraat
-rhenanialaan
 rhenendael
 rhenenhof
+rhenensebrug
 rhenenselaan
 rhenenseweg
 rhenenstraat
@@ -2017,7 +2046,6 @@ rhijnauwenpad
 rhijnauwenselaan
 rhijnauwensingel
 rhijnestein
-rhijnesteinpad
 rhijnesteinstraat
 rhijngeesterstraatweg
 rhijngeestpad
@@ -2052,19 +2080,19 @@ rhodoshof
 rhodoslaan
 rhodosweg
 rhone
-rhonelaan
 rhoonse baan
 rhoonsedijk
 rhoonsestraat
 rhoonstraat
+rhoonsveer
 rhulenhofweide
-rhynenburcherlaan
-rh„¥nedreef
-rh„¥nelaan
-rh„¥nepad
-rh„¥nestraat
-rh„¥nestroom
-rh„¥neweg
+rhumhof
+rh√¥nedreef
+rh√¥nelaan
+rh√¥nepad
+rh√¥nestraat
+rh√¥nestroom
+rh√¥neweg
 rialaan
 rialen
 ribbe
@@ -2087,7 +2115,6 @@ ribespark
 ribesplantsoen
 ribesstraat
 ribesweg
-ribeweg
 ribsalamander
 ricardishof
 ricardostraat
@@ -2095,7 +2122,8 @@ ricardusstraat
 richard burtonstraat
 richard dombistraat
 richard feynmanstraat
-richard gen„©estraat
+richard gen√©estraat
+richard guido g√ºndelpad
 richard heubergerhof
 richard holkade
 richard hollaan
@@ -2157,7 +2185,7 @@ ridder arnoudlaan
 ridder bernhardlaan
 ridder bexstraat
 ridder cortenbachstraat
-ridder dani„´lstraat
+ridder dani√´lstraat
 ridder dirkstraat
 ridder fulcolaan
 ridder goswinstraat
@@ -2183,7 +2211,6 @@ ridder van dorpstraat
 ridder van drongelenstraat
 ridder van eyllstraat
 ridder van heerstraat
-ridder van montfoortlaan
 ridder van rappardlaan
 ridder van tuylstraat
 ridder vosstraat
@@ -2191,7 +2218,6 @@ ridder walramstraat
 ridder zwederlaan
 ridderburg
 ridderburgpark
-ridderbuurt
 ridderdijk
 riddererf
 riddergaard
@@ -2233,15 +2259,16 @@ ridderspoorlaan
 ridderspoorpad
 ridderspoorstraat
 ridderspoortuin
+ridderspoortunnel
 ridderspoorweg
 riddersporenstraat
 ridderstee
 ridderstraat
+ridderstraatbrug
 riddertol
 ridderwal
 ridderweg
 ridderzaal
-ridderzuring
 ridderzuringerf
 ridderzwam
 ridderzwamhof
@@ -2257,6 +2284,7 @@ rie cramerplantsoen
 rie cramerstraat
 rie kogenhop-huigweg
 rie mastenbroekhof
+rie mastenbroeklaan
 rie mastenbroekpad
 rie mastenbroekplein
 rie mastenbroeksportpark
@@ -2265,6 +2293,7 @@ rie mastenbroekweg
 rie staalstraat
 riebeekstraat
 rieblok
+riebroek
 riebroekerpad
 riebroekersteeg
 riebroekseweg
@@ -2289,9 +2318,9 @@ riederveld
 riedervoorling
 riederwaard
 riederwerf
-riedh„∫sstrjitte
+riedh√∫sstrjitte
 riedijk
-riedijkstraat
+riedijksbrug
 riedsterweg
 riedstraat
 rief
@@ -2305,6 +2334,7 @@ riegshoogtendijk
 riehagervoetpad
 riek
 riek blokland-paterlaan
+riek degenkamphof
 riek kuiperssingel
 riek kuipersstraat
 riek schagenplein
@@ -2345,6 +2375,7 @@ riemsoord
 riemtale
 riemterdijk
 riemwagenweg
+rien cock ovonde
 rien ditzelstraat
 rien poortvlietpad
 rien van bruggenpad
@@ -2355,6 +2386,7 @@ rienkswyk
 riensingel
 riensleat
 rienstraat
+rientjensweg
 rientjesoven
 rientjesstraat
 rients bruinsmapaed
@@ -2376,6 +2408,7 @@ riet schoolenbergpad
 riet van alebeekstraat
 riet- en wulfsdijkweg
 rietaak
+rietaakoever
 rietakker
 rietakkersweg
 rietbaan
@@ -2391,7 +2424,6 @@ rietbergstraat
 rietbergweg
 rietboersweg
 rietboord
-rietbos
 rietbrink
 rietbroek
 rietbroekweg
@@ -2420,10 +2452,11 @@ rieten
 rieten dakpad
 rietenweg
 rietepad
-rieterdijk
 rieterdreef
 rieterhofweg
 rieterlaan
+rieters kampweg
+rietersgat
 rieterweg
 rieteweg
 rietgans
@@ -2436,6 +2469,7 @@ rietgerweg
 rietgoornzoom
 rietgoorsestraat
 rietgors
+rietgors erf
 rietgorshoek
 rietgorshof
 rietgorslaan
@@ -2448,6 +2482,7 @@ rietgorsstraat
 rietgorsweg
 rietgraaf
 rietgraafsingel
+rietgrachtplein
 rietgrachtstraat
 rietgras
 rietgraslaan
@@ -2471,9 +2506,9 @@ riethovensedijk
 riethovenseweg
 riethstraat
 riethuisweg
-rietje le largeplantsoen
 rietje spekstraat
 rietjensdaelerweg
+rietjensweg
 rietkade
 rietkam
 rietkamer
@@ -2490,6 +2525,7 @@ rietkoog
 rietkraag
 rietkragge
 rietkreek
+rietkuil
 rietlaan
 rietlaantje
 rietland
@@ -2514,11 +2550,10 @@ rietmolenstraat
 rietmolenweg
 rietnesse
 rietoever
+rietorchidee
 rietorchis
-rietorchisstraat
 rietpad
 rietpeel
-rietpierswegeling
 rietpluim
 rietpol
 rietpolderlaan
@@ -2558,22 +2593,21 @@ rietsuikerweg
 rietvaartstraat
 rietveen
 rietveld
-rietveld schr„∂derpad
+rietveld schr√∂derpad
 rietveld-erf
 rietvelddreef
 rietvelden
-rietveldenhaven
 rietveldenkade
 rietveldenweg
 rietvelderf
 rietveldhof
 rietveldlaan
 rietveldpad
+rietveldpark
 rietveldplan
 rietveldplein
-rietveldsepad
+rietveldsetorenbrug
 rietveldseweg
-rietveldsgang
 rietveldstraat
 rietveldweg
 rietveltstraat
@@ -2605,6 +2639,7 @@ rietwijkeroordweg
 rietwijkerstraat
 rietwijkstraat
 rietzanger
+rietzangerhof
 rietzangerlaan
 rietzangerpad
 rietzangerstraat
@@ -2614,6 +2649,7 @@ rietzwenk
 rietzwenkgras
 rieuwertsweide
 rieversweg
+rievteldpark
 rieweg
 riezebessum
 riezebezem
@@ -2621,6 +2657,7 @@ riezebospad
 riezebosweg
 riezegraaf
 riezenweg
+riezeweide
 riga
 rigakade
 rigantstraat
@@ -2632,10 +2669,11 @@ rige
 rigedyk
 rigel
 rigelhof
-rigelpad
+rigellaand
 rigelstraat
 rigestanplein
 riggel
+riggellaand
 rigi
 rigoletto
 rigolettodreef
@@ -2657,8 +2695,8 @@ rij- en uitweg
 rijakkers
 rijakkerweg
 rijbeemd
-rijbroeken
 rijbroeksedreef
+rijbroekseweg
 rijck loeverehof
 rijckert aertszweg
 rijckerveld
@@ -2679,6 +2717,7 @@ rijdt
 rijdtsestraat
 rijdtseweg
 rijdtstraat
+rijenfreesdreef
 rijenpad
 rijense veldenpad
 rijensestraatweg
@@ -2695,11 +2734,11 @@ rijgpad
 rijk de gooyersteeg
 rijk de waalweg
 rijk ijzesz. glop
-rijk ljzesz. glop
 rijk takkenlaan
 rijk tigelaarstraat
 rijk van batouwe
 rijk van loenenbaan
+rijk van ommerenbrug
 rijkebuurtseweg
 rijkebuurtstraat
 rijkebuurtweg
@@ -2717,6 +2756,7 @@ rijkerstreek
 rijkerswoerdsestraat
 rijkesluisstraat
 rijkestraat
+rijkesweg
 rijkevoortsedijk
 rijkevoortseweg
 rijkevoortstraat
@@ -2725,47 +2765,42 @@ rijkhovenstraat
 rijklof van goensplein
 rijklof van goensstraat
 rijkmanstraat
-rijks omweg
 rijksboom
+rijksdaalder
 rijksdaalderpad
 rijksdaalderplantsoen
 rijksomweg
 rijksparallelweg
+rijksplein
+rijksrondweg
 rijksstraatweg
 rijkstraat
 rijksvluchthaven
 rijkswal
 rijksweg
 rijksweg 11
-rijksweg 11-west-nee-pad
-rijksweg 12
 rijksweg 12
 rijksweg 15
 rijksweg 16
-rijksweg 2
+rijksweg 17
 rijksweg 2
 rijksweg 27
-rijksweg 27
-rijksweg 28
 rijksweg 28
 rijksweg 34
 rijksweg 35
 rijksweg 36
 rijksweg 50
+rijksweg 57
 rijksweg 58
 rijksweg 60
 rijksweg 67
-rijksweg 7
 rijksweg 73
 rijksweg 9
 rijksweg a 1
 rijksweg a 12
-rijksweg a 28 vanenburg
-rijksweg a 59
+rijksweg a 37
 rijksweg a 79
-rijksweg a-12
 rijksweg a-15
-rijksweg a-28
 rijksweg a1
 rijksweg a1 de paal
 rijksweg a1 nz
@@ -2790,13 +2825,13 @@ rijksweg a29
 rijksweg a30
 rijksweg a32
 rijksweg a35
+rijksweg a37
 rijksweg a4
 rijksweg a4 pad
 rijksweg a4/a58
 rijksweg a44
 rijksweg a5
 rijksweg a5 pad
-rijksweg a5 westzijde
 rijksweg a50
 rijksweg a58
 rijksweg a59
@@ -2804,27 +2839,32 @@ rijksweg a6
 rijksweg a67
 rijksweg a67/e34
 rijksweg a7
+rijksweg a73
 rijksweg a73 roermond
+rijksweg a74
 rijksweg a76
+rijksweg a77
 rijksweg a79
 rijksweg a8
 rijksweg a9
 rijksweg buitenhuizen-beverwijk
 rijksweg centrum
 rijksweg n11
+rijksweg n280
 rijksweg n281
 rijksweg n31
+rijksweg n32
 rijksweg n33
 rijksweg n34
+rijksweg n36
 rijksweg n48
 rijksweg n50
 rijksweg n65
+rijksweg n99
 rijksweg noord
 rijksweg nr 20
-rijksweg nr 4
-rijksweg nr. 1
+rijksweg nr 24
 rijksweg nr. 16
-rijksweg nr. 28
 rijksweg nz
 rijksweg oost
 rijksweg west
@@ -2836,11 +2876,13 @@ rijksweg-oost
 rijksweg-west
 rijksweg-zuid
 rijkswegtunneltje
+rijkswg
 rijkszee- en marinehaven
 rijlaan
 rijn
 rijn en schiekade
 rijn middelburgstraat
+rijnaak
 rijnaakkade
 rijnaakstraat
 rijnaakwerf
@@ -2851,8 +2893,8 @@ rijnbandijk
 rijnbedding
 rijnbeek
 rijnbeekstraat
+rijnbrug
 rijndal
-rijndalpad
 rijndersstraat
 rijndijk
 rijndijkstraat
@@ -2873,7 +2915,6 @@ rijnestein
 rijnesteinhof
 rijnesteinstraat
 rijnevegt
-rijneveld
 rijneveldsche boschpad
 rijngaarde
 rijngraafstraat
@@ -2885,13 +2926,13 @@ rijnhavenstraat
 rijnhof
 rijnhoutplein
 rijnhuizen
+rijnhuizenbrug
 rijnhuizenlaan
 rijnhuizenpad
 rijnhuizenstraat
 rijnier pauwlaan
 rijnkade
 rijnkant
-rijnkennemerlaan
 rijnkennemerlaan-noord
 rijnkennemerlaan-zuid
 rijnkennemerweg
@@ -2910,13 +2951,11 @@ rijnmondhof
 rijnoever
 rijnoordpad
 rijnpad
-rijnpad; onderdeel kromme rijnpad
+rijnpad, onderdeel kr
 rijnplantsoen
-rijnplein
 rijnpolder
 rijnpoort
 rijnring
-rijnsbergerweg
 rijnsburgersingel
 rijnsburgerweg
 rijnsburgpassage
@@ -2933,6 +2972,7 @@ rijnskamp
 rijnsoever
 rijnspoor
 rijnsteeg
+rijnsteenstraat
 rijnstraat
 rijnstrangenweg
 rijnstroom
@@ -2940,7 +2980,7 @@ rijnstroomlaan
 rijnstroomstraat
 rijntjesdijk
 rijnvaartweg
-rijnveldsepad
+rijnvallei
 rijnveldsepad; onderdeel kromme rijnpad
 rijnveste
 rijnvis
@@ -2953,7 +2993,7 @@ rijnweg
 rijnweide
 rijnwijk
 rijnzathe
-rijnzicht
+rijnzichtbrug
 rijnzichtlaan
 rijnzichtstraat
 rijnzichtweg
@@ -2966,6 +3006,7 @@ rijpenderlaan
 rijperahemstraat
 rijperdwarsweg
 rijperhof
+rijperijbrug
 rijperkerkpark
 rijperkerkstraat
 rijperrijwielpad
@@ -3011,7 +3052,6 @@ rijsenborch
 rijsenburg
 rijsenburgerplaats
 rijsenburgerweg
-rijsenburgpad
 rijsenburgselaan
 rijsenburgstraat
 rijserf
@@ -3028,7 +3068,6 @@ rijskadeveld
 rijskampenstraat
 rijskampenweg
 rijskampstraat
-rijskweg a4
 rijslaan
 rijslag
 rijsoordpad
@@ -3040,13 +3079,13 @@ rijsoort
 rijsoortstraat
 rijspolder
 rijsselbergen
-rijsselbergseweg
 rijssellaan
 rijsselpad
 rijsselplein
 rijsselseweg
 rijsselstraat
 rijsseltweg
+rijssen 28
 rijssenbeeklaan
 rijssenburghof
 rijssensestraat
@@ -3071,9 +3110,14 @@ rijstvogelstraat
 rijsven
 rijsvensestraat
 rijswaard
+rijswaardsebrug
 rijswaardsedijk
 rijsweerdsweg
 rijswerker
+rijswijk 11
+rijswijk 7
+rijswijk centrum 9
+rijswijk-centrum 9
 rijswijklaan
 rijswijkse landingslaan
 rijswijkse waterweg
@@ -3100,7 +3144,6 @@ rijtuigstraat
 rijtuigweg
 rijtuigweg-zuid
 rijtuigwei
-rijtven
 rijtvensedreef
 rijtvenseweg
 rijtvenweg
@@ -3108,17 +3151,21 @@ rijtweg
 rijvoortshoef
 rijvordtlaan
 rijweg
+rijwielpad boswachterij noordwijk
+rijwielpad coepelduynen
 rijwielpad in de koning
 rijwielpad noordduinen
+rijwielpad noordvoort
 rijwielpad rijnsoever-noord
 rijwielpad rijnsoever-zuid
+rijwielpad terworm
 rijwielpad vlaggeduin
 rijwielpad zuidduinen
 rijzenburg
 rijzenburgseweg
 rijzendeweg
 rijzertlaan
-rik valkenburgstraat
+rik valkenburgzoom
 rik woutersweg
 rika hopperlaan
 rika hopperstraat
@@ -3138,8 +3185,10 @@ rikkingahof
 riklanden
 riksingenstraat
 riksjapad
+ril
 rillaerse baan
 rillaerse-baan
+rilland 31
 rilland bathstraat
 rillandhoeve
 rillandseweg
@@ -3151,6 +3200,7 @@ rimmelandstraat
 rimonpad
 rimpelaar
 rimpelerweg
+rimpeling
 rimpelmos
 rimpelt
 rimsky-korsakowlaan
@@ -3162,11 +3212,21 @@ rinboomweg
 rinck baukesstraat
 rinckberg
 rinckstraat
+rinderdriessen
+rindergats
 rinderloop
 rindert van zinderen bakkerstrjitte
 rindert van zinderen bakkerweg
-rinew„¢l
+rinew√¢l
 ring
+ring almere-centrum
+ring parkstad
+ring s hertogenbosch 1
+ring s hertogenbosch 45
+ring sneek-west 20
+ring utrecht hilversum 31
+ring-noord
+ring-noord arnhem 31
 ringallee
 ringbaan
 ringbaan noord
@@ -3200,11 +3260,13 @@ ringelpoelweg
 ringelsestraat
 ringelwikke
 ringenum
+ringersbrug
 ringerspad
 ringersplaats
 ringersplein
 ringersstraat
 ringersweg
+ringetenberg
 ringeweerstraat
 ringfazant
 ringfeart
@@ -3224,7 +3286,6 @@ ringmuspad
 ringmuur
 ringoever
 ringoven
-ringovenhof
 ringovenlaan
 ringovenpark
 ringovenstraat
@@ -3238,20 +3299,27 @@ ringslangpad
 ringslangweide
 ringsloot
 ringslootpad
-ringsluis
-ringspoor
 ringstede
 ringstraat
 ringtochtpad
 ringvaart
 ringvaart-aalsmeerderdijk
+ringvaart-aalsmeerderdk
+ringvaart-cruquiusdijk
+ringvaart-hillegommerdijk
+ringvaart-lijnderdijk
+ringvaart-lisserdijk
+ringvaart-nieuwemeerdijk
+ringvaart-schipholdijk
+ringvaart-vijfhuizerdijk
+ringvaart-zwanenburgerdijk
 ringvaartdijk
 ringvaarterf
 ringvaartlaan
 ringvaartpad
-ringvaartpark
 ringvaartrotonde
 ringvaartsingel
+ringvaartviaduct
 ringvaartweg
 ringvaartzijde
 ringvaert
@@ -3271,6 +3339,7 @@ ringweg-west
 ringweg-zuid
 ringwei
 ringweistraat
+ringwg z/rijkswg a10
 ringwyk
 rini ottehof
 rinia van nautaweg
@@ -3281,6 +3350,7 @@ rinkenslaan
 rinkesfort
 rinkespad
 rinkesstraat
+rinkeweelsdijk
 rinkomsweg
 rinkslag
 rinkveld
@@ -3290,18 +3360,18 @@ rinnertspijp
 rinnewaard
 rinse hofstraweg
 rinse jetsesstraatje
+rinsemapaad
 rinseweg
 rinsmastate
 rintje ydeshof
 rinus michelslaan
 rinus pereirastraat
-rinus terlouwpad
 rinus terlouwstraat
 rinze koopmansstraat
 rinze werkhovenstraat
 rinze wibbelinkstraat
 rinzemastraat
-rinzesl„¢n
+rinzesl√¢n
 rio brancodreef
 rio de janeirodreef
 rio de janeiropad
@@ -3313,11 +3383,12 @@ rio grandestraat
 rio negrodreef
 riojagaard
 rioolseweg
+rioolweg
 riouwlaan
 riouwstraat
 ripaertsbeemd
 riperwei
-riperw„¢lden
+riperw√¢lden
 ripkampenweg
 ripolinpad
 ripolinstraat
@@ -3336,7 +3407,6 @@ ripperdastraat
 ripperdaweg
 rippingstraat
 rippolderseweg
-ripprantsweide
 ripprantsweijde
 ripselaan
 ripsestraat
@@ -3350,7 +3420,6 @@ rispensstraat
 rispenstraat
 rispinge
 rissebeek
-risseltweg
 risselweg
 risseweg
 rissezijweg
@@ -3362,13 +3431,17 @@ ristervoorde
 rita de voogdstraat
 rita hovinkstraat
 rita reyshof
+rita reyssingel
+rita reysstraat
+rita vuykpad
+ritahof
 ritaplein
 ritbroekdwarsstraat
 ritbroekstraat
 ritchiestraat
 rithmeesterpark
 rithsestraat
-ritl„¢nswei
+ritl√¢nswei
 ritmasterswyk
 ritmeester
 ritmeesterlaan
@@ -3380,7 +3453,6 @@ ritsaertlaan
 ritsaertstraat
 ritselaarsdijk
 ritseling
-ritseling,
 ritsemalaan
 ritsevoort
 ritseweg
@@ -3390,20 +3462,20 @@ ritspasstraat
 ritsumastraat
 ritsumasyl
 ritterberg
+ritthem 40
 ritthemhof
 ritthemsestraat
 ritzema boskade
 ritzema bosstraat
 ritzema bosweg
-riutger van erplaan
 riuwe
 rivelstraat
 rivershof
-rivieralaan
 rivierdijk
 rivierduin
 rivierduinen
 rivierduinpad
+rivierduintocht
 rivierduinweg
 rivierendal
 rivierendreef
@@ -3426,6 +3498,7 @@ rivierlaan
 rivierloop
 riviermolen
 riviermos
+rivierotter
 rivierpad
 rivierpolder
 rivierprik
@@ -3434,26 +3507,18 @@ rivierstaete
 rivierstraat
 riviervismarkt
 rivierweg
-rivium 1e straat
-rivium 2e straat
-rivium 3e straat
-rivium 4e straat
-rivium boulevard
-rivium oostlaan
 rivium promenade
 rivium quadrant
-rivium westlaan
-riviumpad
-rivi„®radreef
-rivi„®rahof
-rivi„®ralaan
-rivi„®raplein
-rivi„®relaan
+rivi√®radreef
+rivi√®rahof
+rivi√®ralaan
+rivi√®raplein
+rivi√®relaan
 rixt van doniastraat
 rixt van doniastrjitte
 rixtwei
-ri„´nzistraat
-rjochth„∫sstrjitte
+ri√´nzistraat
+rjochth√∫sstrjitte
 rjochtskeamerpaed
 roadrunnerweg
 roaikersweg
@@ -3462,19 +3527,17 @@ roald amundsenstraat
 roald dahlhof
 roald dahllaan
 roald dahlpad
-roamweg
 roasterwei
-roathweg
 roazebosk
 roazeloane
 roazendaal
 rob de vriesstraat
-rob hoekehof
 rob hoekestraat
-rob no„©pad
+rob no√©pad
 rob slotemakerstraat
 rob van spaendonckstraat
 robaarstraat
+robbedoesstraat
 robbekampen
 robbeknolerf
 robbengat
@@ -3503,6 +3566,7 @@ robbezand
 robend
 roberinkstraat
 roberssteeg
+robersummerpad
 robert a. loesbergstraat
 robert baeldestraat
 robert boyleweg
@@ -3511,9 +3575,9 @@ robert de vriesstraat
 robert doumastraat
 robert fruinlaan
 robert fruinstraat
-robert fruinweg
 robert graaflandlaan
 robert graaflandstraat
+robert hofstadterbrug
 robert hofstadterstraat
 robert johnsonstraat
 robert josephstraat
@@ -3525,6 +3589,7 @@ robert kochstraat
 robert kochweg
 robert koumansplein
 robert millikanstraat
+robert moultonpad
 robert owenstraat
 robert pearystraat
 robert peereboomweg
@@ -3547,11 +3612,11 @@ robert stolzplantsoen
 robert stolzsingel
 robert stolzstraat
 robert stratingpad
-robert stratingstraat
 robert van 't hoffstraat
 robert van guliklaan
 robert van voerststraat
 robertaland
+roberthof
 robertinkkamp
 robertskruid
 robertsonstraat
@@ -3589,7 +3654,6 @@ robiniastate
 robinson crusoestraat
 robinsonhaven
 robinsonstraat
-robolplassen
 robonsbosweg
 robrechtstraat
 robroekergats
@@ -3599,6 +3663,7 @@ robyn joelesfinne
 robyntsjewei
 rocamadour
 rochadeweg
+rochdalebrug
 rochdalestraat
 rochebrunesteeg
 rochetstraat
@@ -3621,7 +3686,6 @@ rockaertshof
 rockanjelaan
 rockanjestraat
 rockartsduinweg
-rockenbergh
 rocketstraat
 rockplein
 rocky mountains
@@ -3634,10 +3698,8 @@ rode akker
 rode akkers
 rode baan
 rode beemden
-rode bes
 rode beuk
 rode beukplein
-rode braakweg
 rode dijk
 rode dorp
 rode eiklaan
@@ -3651,11 +3713,10 @@ rode klaver
 rode klaverstraat
 rode klaverweide
 rode klif
-rode koegang
+rode kool
 rode kruislaan
 rode kruispad
 rode kruisplantsoen
-rode kruisplein
 rode kruisstraat
 rode kruisweg
 rode landsweg
@@ -3666,20 +3727,24 @@ rode paard
 rode poort
 rode ring
 rode schouw
-rode schutplein
 rode singel
 rode slatweg
 rode sluisweg
 rode toren
 rode vaart
+rode vaartstraat
 rode valk
 rode veldweg
 rode voort
+rode weg
+rode wijngaard
 rode wouw
 rode zee
 rode-kruislaan
 rode-kruisplein
 rode-schutplein
+rodebessenpad
+rodebrug
 rodebrugstraat
 rodedijk
 rodedorp
@@ -3730,7 +3795,6 @@ rodestraat
 rodetorenpad
 rodetorenplein
 rodetorenstraat
-rodevennenweg
 rodevoort
 rodeweeshuisstraat
 rodeweg
@@ -3739,8 +3803,6 @@ rodezand
 rodezandhof
 rodijksweg
 rodingsveen
-rodingweg
-rodinrade
 rodinstraat
 rodinweg
 rodium
@@ -3752,7 +3814,6 @@ rodrigo zamoranopad
 roebelhof
 roebelkade
 roebol
-roebroecksweg
 roebroekpad
 roebroeksdalweg
 roebroekstraat
@@ -3771,6 +3832,7 @@ roefkade
 roefke
 roefsstraat
 roefstraat
+roefsweg
 roefvoort
 roegeweg
 roeghoornweg
@@ -3785,6 +3847,7 @@ roek
 roekdonk
 roekebosk
 roekebosscheweg
+roekelse bos
 roekelse bosweg
 roekelse zandweg
 roekelseweg
@@ -3802,6 +3865,7 @@ roeklaan
 roekpad
 roekstraat
 roekweg
+roel blompad
 roel langerakweg
 roelagerweg
 roeland larijpad
@@ -3817,6 +3881,7 @@ roelantweg
 roelat
 roelendijk
 roelenengweg
+roeleveensepad
 roeleveenseweg
 roelf bosmastraat
 roelf vegtstraat
@@ -3827,7 +3892,6 @@ roelof blokzijlstraat
 roelof bootstraat
 roelof brinkstraat
 roelof de manplaats
-roelof de manstraat
 roelof de roverlaan
 roelof drosthof
 roelof duyckstraat
@@ -3839,9 +3903,9 @@ roelof koopsweg
 roelof kranenburgplein
 roelof kromkampweg
 roelof meijerplein
-roelof sterkenstraat
 roelof tuinstraat
 roelof van schevenstraat
+roelofarendsveen 5
 roeloff van dalemstraat
 roeloffsstraat
 roelofoever
@@ -3853,13 +3917,12 @@ roelofshoeveweg
 roelofslaantje
 roelofspad
 roelofsstraat
+roelofsweg
 roelofszlaan
-roelofveenscheweg
 roelse's weg
 roelshoekweg
 roelslaan
 roelsplantsoen
-roeltjesdijk
 roeltjesweg
 roelvinck
 roelvinklaan
@@ -3867,14 +3930,13 @@ roelvinkstraat
 roelvinkweg
 roem van altena
 roemeensestraat
-roemeni„´pad
-roemeni„´plaats
-roemeni„´plein
-roemeni„´straat
+roemeni√´pad
+roemeni√´plaats
+roemeni√´plein
+roemeni√´straat
 roemer
 roemer visscherhof
 roemer visscherlaan
-roemer visscherpad
 roemer visscherpark
 roemer visscherplein
 roemer visscherstraat
@@ -3917,8 +3979,9 @@ roerlaan
 roermeen
 roermeesterstraat
 roermolen
+roermond 19
+roermond-oost 20
 roermondkade
-roermonds kwartier
 roermondsepoort
 roermondsestraat
 roermondseweg
@@ -3937,7 +4000,6 @@ roeselaerestraat
 roeselarepad
 roeselarestraat
 roesiel
-roesinghstraat
 roesmontstraat
 roessel
 roessinghkamplaan
@@ -3966,7 +4028,6 @@ roeter
 roeterdsweg
 roeterinkpad
 roetershof
-roetershofje
 roeterskamp
 roetersstraat
 roetgensgoed
@@ -3976,25 +4037,24 @@ roeventerpeelweg
 roeventerschans
 roeventerweg
 roevoeterstraat
-roevoetsstraat
-roevoetsveldweg
 roexcamp
 roexhof
 roexwaard
 roezebergweg
 roezekojle
-roe„´kamperweg
+roe√´kamperweg
 roffaarthoeve
 roffart
 roffel
+roffelaarskade
 roffelaarskom
 roffert
 rog
 rogaarplein
 rogacker
 rogakker
-rogaland
 rogat
+rogatbrug
 rogbakkersgilde
 rogberg
 rogbloempad
@@ -4033,7 +4093,7 @@ roggemolen
 roggemolenstraat
 roggemolestege
 roggemounewei
-roggem„ªne
+roggem√ªne
 roggencampweg
 roggeneed
 roggenkamppad
@@ -4047,7 +4107,7 @@ roggesloot
 roggeslootweg
 roggestraat
 roggestro
-roggest„ªken
+roggest√ªken
 roggetiende
 roggetoren
 roggeveenhof
@@ -4070,7 +4130,6 @@ rogier van der weydensingel
 rogier van der weydenstr
 rogier van der weydenstraat
 rogier van der weydestraat
-rogier van leefdaelstr
 rogier van leefdaelstraat
 rogier van otterloolaan
 rogier van otterloopad
@@ -4080,8 +4139,6 @@ rogmolewei
 rogmonepaed
 rogmounepaed
 rogneurdonk
-rogneursdonck
-rogneursdonk
 rogstraat
 rogvelden
 rohaarweg
@@ -4089,7 +4146,7 @@ rohelsterweg
 rohofstraat
 rohorst
 rohrstraat
-roh„©straat
+roh√©straat
 roijaaldreef
 roijenborg
 roijenburg
@@ -4111,6 +4168,7 @@ rolafseweg
 rolafweg noord
 rolafweg zuid
 roland
+roland de kroonpad
 roland holstheem
 roland holsthof
 roland holstlaan
@@ -4120,8 +4178,11 @@ rolandseck
 rolandstraat
 rolandsweg
 rolblok
+rolbrug
 rolbrugweg
-rolbr„™gedyk
+rolbr√™gedyk
+rolde
+rolde 33
 rolderbrink
 rolderdiep
 rolderdiephof
@@ -4140,6 +4201,7 @@ rolf hartkoornweg
 rolhof
 roligt
 rolkaspad
+rolkipperdreef
 rolklaver
 rolklaverpad
 rollaaf
@@ -4156,6 +4218,7 @@ rolleklootsedijk
 rollemanstraat
 rollemastate
 rollematen
+rollematunnel
 rollen
 rollenweg
 rollepaal
@@ -4165,9 +4228,11 @@ rollerusstraat
 rollestraat
 rolleweg
 rolling stonesstraat
+rollingeweer
+rollopad
 rollostraat
 rollstraat
-roll„©straat
+roll√©straat
 rolpaal
 rolpeal
 rolrederstraat
@@ -4178,7 +4243,6 @@ rolwolk
 rom kraijenhoffstraat
 roma
 romain rollandstraat
-romanenwerk
 romanlaan
 romano
 romanohof
@@ -4194,10 +4258,10 @@ rombout keldermansstraat
 rombout verhulstlaan
 romboutslaan
 romboutsplantsoen
+romboutsplein
 romboutsstraat
 romboutstraat
 romboutsweg
-romboutzoom
 romeet
 romeflat
 romehof
@@ -4205,6 +4269,7 @@ romei
 romeijnstraat
 romein
 romeinenbaan
+romeinenbrug
 romeinenlaan
 romeinenplaats
 romeinenplein
@@ -4220,7 +4285,6 @@ romeins lint west
 romeinsarmsteeg
 romeinse muntenlaan
 romeinse tijd
-romeinse tijd
 romeinse weg
 romeinsebaan
 romeinseberg
@@ -4228,7 +4292,6 @@ romeinsepad
 romeinsestraat
 romeinseweg
 romeinsteeg
-romeinsteegje
 romeinstraat
 romelaan
 romenkamp
@@ -4242,7 +4305,6 @@ romeroplein
 romerostraat
 romerstraat
 romerswaalestraat
-romerweg
 romestraat
 romeweg
 romeyn de hooghestraat
@@ -4254,18 +4316,19 @@ romkeloane
 romkeslaan
 romkessteeg
 rommedreef
+rommeldambrug
 rommelderdijk
 rommelhaven
+rommelingsrif
 rommelpot
 rommepad
-rommersteeg
+rommerdalaan
 rommersteeg noord
 rommersteeg zuid
 rommerswalestraat
 rommert de breestrjitte
 rommesingel
 rommestraat
-romolenpolder
 romolenstraat
 romp
 rompelenbos
@@ -4276,19 +4339,17 @@ rompertpassage
 rompertsebaan
 rompertweg
 romplaan
-rompotplantsoen
-rompotplantsoen
 romptastrjitte
 romulus
+romulusbrug
 romulushof
 romuluslaan
 romulusstraat
 romy schneiderweg
-rom„©opad
-rom„©ostraat
+rom√©opad
+rom√©ostraat
 ronald ketellapperstraat
 roncallistraat
-rond 't roekebos
 rond de boom
 rond de grote kerk
 rond de klomp
@@ -4300,6 +4361,7 @@ rondasburg
 ronde akkers
 ronde bleek
 ronde blesse
+ronde bloesemlaan
 ronde bonk
 ronde bos
 ronde bultenweg
@@ -4307,6 +4369,8 @@ ronde erf
 ronde haven
 ronde hil
 ronde hoek
+ronde huisweg
+ronde koestallaan
 ronde laan
 ronde menning
 ronde morgen
@@ -4317,7 +4381,6 @@ ronde weiden
 ronde weie
 ronde zonnedauw
 rondebeltweg
-rondeboschpad
 rondeboslaan
 rondebosstraat
 rondebreek
@@ -4362,7 +4425,6 @@ rondohof
 rondolaan
 rondom
 rondom de kerk
-rondom de kerk
 rondom west
 rondopad
 rondoplein
@@ -4379,7 +4441,6 @@ ronduitstraat
 ronduitweg
 ronduutje
 ronduutweg
-rondvaart
 rondveld
 rondven
 rondweg
@@ -4387,6 +4448,7 @@ rondweg aardenburg
 rondweg biggekerke
 rondweg de klomp
 rondweg de kolk
+rondweg garyp
 rondweg hulst
 rondweg koudekerke
 rondweg oost
@@ -4396,13 +4458,12 @@ rondweg sluiskil
 rondweg terhole
 rondweg volkel
 rondweg west
+rondweg wierden
 rondweg zaamslag
 rondweg zuid
 rondweg-heino
 rondweg-noord
 rondweg-oost
-rondweg-oost
-rondweg-west
 rondweg-west
 rondweg-zuid
 rondweg-zuidoost
@@ -4428,7 +4489,6 @@ ronskamp
 ronssepad
 ronsseplein
 ronsseweg
-rontgenstraat
 roo-valkstraat
 rooakkers
 roobeekweg
@@ -4438,8 +4498,8 @@ roobolweg
 roobroeksweg
 roobrug
 roobrughof
-rooburg
 roockershuys
+rood hartkroft
 rood-wit a.-straat
 roodakker
 roodbaardpad
@@ -4451,11 +4511,9 @@ roodborst
 roodborsthaag
 roodborstje
 roodborstjeslaan
-roodborstjesstraat
 roodborstlaan
 roodborststraat
 roodborstweg
-roodborstzoom
 rooddorpstraat
 roode beek
 roode eggeweg
@@ -4468,15 +4526,17 @@ roode leeuwpoort
 roode polder
 roode poortweg
 roode steen
+roode til
 roode wildemanweg
 roodehaanensteeg
 roodehaansterweg
 roodemolenweg
 roodenbroek
-roodenburg vermaatst
+roodenburch
 roodenburg vermaatstraat
 roodenburgerstraat
 roodenburgstraat
+roodeschool
 roodeschoolstraat
 roodeswerf
 roodevaart
@@ -4484,6 +4544,7 @@ roodeweg
 roodewijk
 roodhalsgans
 roodharsterlaan
+roodhartlaan
 roodhekkenpas
 roodhemsterweg
 roodhuizerpad
@@ -4501,6 +4562,7 @@ roodseweg
 roodsplein
 roodstaart
 roodtstraat
+roodtweg
 roodvalk
 roodvenweg
 roodververij
@@ -4511,6 +4573,7 @@ roodwilligen
 roodwilligenstraat
 roodzwenk
 roofackpad
+roofblei
 roofvogelstraat
 rooi hartenpark
 rooiakker
@@ -4534,6 +4597,7 @@ rooilijn
 rooimeester
 rooimond
 rooinap
+rooipad
 rooischaar
 rooise-heide
 rooiseheide
@@ -4605,9 +4669,8 @@ roordaweg
 roorderheurneweg
 roorstraat
 roorveld
-roos
 roos en beeklaan
-roos van dekama erf
+roos en boukjepad
 roos van dekamahof
 roos van dekemastraat
 roos vlasmanstraat
@@ -4615,7 +4678,9 @@ roos vosstraat
 roos- en doornhof
 roosakkerstraat
 roosbeek
+roosbergsehof
 roosbergseweg
+roosbrug
 roosdom
 roosdomsweg
 roosdonken
@@ -4624,6 +4689,11 @@ roosduinenweg
 rooseboomstraat
 rooseindsestraat
 roosenburgstraat
+roosendaal
+roosendaal 24
+roosendaal-noord 21
+roosendaal-oost 23
+roosendaal-west 19
 roosendaallaan
 roosendaalsebaan
 roosendaalsestraat
@@ -4635,6 +4705,8 @@ roosenhoeklaan
 roosenhof
 roosenhorstlaan
 roosensteinweg
+rooseveltboulevard- noord
+rooseveltboulevard- zuid
 rooseveltdreef
 roosevelthof
 rooseveltlaan
@@ -4660,14 +4732,13 @@ rooskensdonk
 rooskerweg
 roosmarijnhof
 roosnobelruwe
-roosscharengang
 roosstraat
 roost
 roostenlaan
-rooster
 roosterbos
 roosterbospad
 roosterderweg
+roosteren 46
 roosterenstraat
 roosterhout
 roosterstraat
@@ -4680,17 +4751,18 @@ rooswijkplein
 rooswijkweg
 rooswinkelstate
 rootakkers
+rooterveldweg
 rooterweg
+rooterzijweg
 rootgesmolenpad
 rooth
 roothaanstraat
 roothaertstraat
-roothweg
+roothooftscroft
 rootsdijk
 rootselaar
 rootseweg
 rootskamp
-rootsloot
 rootstraat
 rootsweg
 rootveld
@@ -4702,16 +4774,17 @@ rootweide
 rooversberg
 rooversbroekdijk
 rooverscamp
+rooverswegeling
 roovert
 roovertsebaan
 roovertsedijk
 roowinkelweg
+rooye steeg
 rooyenburg
 roozand
 roozandstraat
 roozenburglaan
 roozendaelseweg
-roozendries
 roozentuin
 ropens
 roperijweg
@@ -4732,7 +4805,6 @@ rosa
 rosa caninalaan
 rosa castellanosstraat
 rosa de limastraat
-rosa de werdhaghe
 rosa de werdstraat
 rosa luxemburgkade
 rosa luxemburgpark
@@ -4746,6 +4818,7 @@ rosa manustuin
 rosa manusweg
 rosa moorenpad
 rosa parkspad
+rosa parksplantsoen
 rosa parksstraat
 rosa parksweg
 rosa spierlaan
@@ -4758,19 +4831,21 @@ rosakker
 rosaliapark
 rosaliastraat
 rosalie lovelingpad
-rosaliesbergpad
+rosalie wijnbergstraat
 rosaliestraat
 rosalind franklinpad
+rosalind franklinplein
+rosalind franklinweg
 rosamundstraat
 rosandelaan
 rosandepolder
-rosanderwaard
 rosandeweg
 rosario
 rosariopark
 rosarium
 rosarium-pad
 rosariumlaan
+rosariumpark
 rosariumplein
 rosariumstraat
 rosastraat
@@ -4778,7 +4853,7 @@ rosbayerweg
 rosdaal
 rose coplandstraat
 rose luisantestraat
-rose pr„©cocestraat
+rose pr√©cocestraat
 rose-mariepad
 rose-spoorstraat
 rosea albastraat
@@ -4807,7 +4882,6 @@ rosendaalseweg
 rosendaalstraat
 rosendael
 rosendaeldreef
-rosendaelschelaan
 rosengaardeweg
 rosenhofstraat
 rosenholm
@@ -4820,8 +4894,7 @@ rosepdreef
 roseppad
 roserije
 rosestraat
-rosetteh„¥f
-roseval
+rosetteh√¥f
 roseval
 roseweert
 rosgats
@@ -4847,7 +4920,11 @@ roskamwei
 roskamweide
 roskildeweg
 roskuil
+roslintumweg
 rosmaatsteeg
+rosmalen 20
+rosmalen 48
+rosmalen-oost 49
 rosmalensedijk
 rosmalenstraat
 rosmarijn
@@ -4910,11 +4987,10 @@ roswaard
 rosweide
 rosweydelaan
 rosweydepad
-roswinkel-centrum
+roswinkel
 roswinkelerkanaal nz
 roswinkelerkanaal zz
 roswinkelermarke
-roswinkelerst
 roswinkelerstraat
 rosy wertheimstraat
 rotanstraat
@@ -4929,15 +5005,14 @@ rotermansweg
 rotersweg
 rotertkamp
 roterweg
+rotestraat
 rotgangs
 rotgans
-rotganssteeg
 rotgansstraat
 roth
 rothemerweg
 rothenbacherweg
 rothkranslaan
-rothkransplantsoen
 rotholm
 rothweg
 rotingstraat
@@ -4947,12 +5022,25 @@ rotmanweg
 rotmerweg
 rotonde 't kruispunt
 rotonde 't lang hek
+rotonde 1
+rotonde 10
+rotonde 11
+rotonde 12
+rotonde 13
+rotonde 14
+rotonde 15
+rotonde 16
+rotonde 2
+rotonde 3
+rotonde 4
+rotonde 5
+rotonde 6
+rotonde 7
+rotonde 8
 rotonde aalsbeek
-rotonde aan de d„®l
+rotonde aan de d√®l
 rotonde aan het kruis
 rotonde achter de weiden
-rotonde amnestie international
-rotonde amnesty international
 rotonde annakamp
 rotonde antiek
 rotonde apollonia
@@ -4960,7 +5048,6 @@ rotonde beej metz
 rotonde beugt
 rotonde blariacum
 rotonde bonaparte
-rotonde boseind
 rotonde bosserhof
 rotonde columbus
 rotonde de alde wielerbaan
@@ -4971,10 +5058,7 @@ rotonde de goor
 rotonde de haandert
 rotonde de haar
 rotonde de hoogspanning
-rotonde de horst
 rotonde de kaupman
-rotonde de ketting
-rotonde de krim
 rotonde de limburgse jagers
 rotonde de maas
 rotonde de ploeg
@@ -4990,15 +5074,12 @@ rotonde drie december
 rotonde dukaat
 rotonde egtenray
 rotonde everbos
-rotonde everlo
 rotonde excelsior
 rotonde familiekerk
-rotonde famsumerweg - jan bronsweg
-rotonde farmsumerweg - woonplein
 rotonde fellenoord
 rotonde fivelpoort
 rotonde fliegerhorst
-rotonde gelo„´rveld
+rotonde gelo√´rveld
 rotonde gerdeneer
 rotonde glazenap
 rotonde groot boller
@@ -5011,7 +5092,6 @@ rotonde heilig hart
 rotonde het gemeentehuis
 rotonde het raadhuis
 rotonde heuvelhoek
-rotonde hoenderdaal
 rotonde hoofdlaan
 rotonde hoverhof
 rotonde huijshoek
@@ -5019,7 +5099,7 @@ rotonde hulsfort
 rotonde industriepark
 rotonde jan bronsweg - n 360
 rotonde jan bronsweg - solwerderweg
-rotonde jukwerderweg - n 360
+rotonde kampweg
 rotonde klein park
 rotonde klingerberg
 rotonde kraneveld
@@ -5027,7 +5107,7 @@ rotonde la salle
 rotonde laverdonk
 rotonde maagdenberg
 rotonde marco polo
-rotonde mari„´nhoven
+rotonde mari√´nhoven
 rotonde moeder teresa
 rotonde molenbossen
 rotonde mulkenshof
@@ -5036,8 +5116,8 @@ rotonde nieuw stalberg
 rotonde nieuwborg
 rotonde nieuwe erven
 rotonde ninnes
-rotonde nobellaan
-rotonde onder de wie„´n
+rotonde nisseroi
+rotonde onder de wie√´n
 rotonde onderseveld
 rotonde onderste molen
 rotonde oosteind
@@ -5045,13 +5125,12 @@ rotonde oude heldenseweg
 rotonde pantaleon
 rotonde parlevinker
 rotonde peelo
-rotonde potd„©
+rotonde potd√©
 rotonde raaieind
 rotonde rhee
 rotonde roland
 rotonde rolderhoofdweg
 rotonde rooland
-rotonde smeli„´n
 rotonde snellen
 rotonde stalberg
 rotonde technodrome
@@ -5059,18 +5138,19 @@ rotonde ter aard
 rotonde tjamsweersterweg - n 360
 rotonde tuindorp
 rotonde ubroek
-rotonde valentijn
 rotonde velddijk
 rotonde vierpaardjes
 rotonde vlinderhuis
 rotonde vossener
 rotonde waterpark
+rotonde weverstraat
 rotonde wildveld
 rotonde wisselslag
 rotonde withuisveld
 rotonde zonneveld
 rotonde zuiderpoort
 rotondeweg
+rotorenbrug
 rotscheweg
 rotschotseweg
 rotselaar
@@ -5088,7 +5168,6 @@ rotsvlinderhof
 rott
 rotte
 rottebandreef
-rottebanheuvel
 rottedijk
 rottegatsteeg
 rottekade
@@ -5099,16 +5178,27 @@ rottenbroekseweg
 rottenburgseweg
 rottenstraat
 rotterbeemdenweg
+rotterboschweg
+rotterdam - dordrecht
+rotterdam - harwich
+rotterdam - hull
+rotterdam - teesport
 rotterdam airportbaan
 rotterdam airportplein
-rotterdambaan
+rotterdam the hague 11
+rotterdam the hague airp
+rotterdam-airport 30
+rotterdam-charlois 19
+rotterdam-feijenoord 24
+rotterdam-heijplaat 18
+rotterdam-kralingen 26
+rotterdam-terbregge 27
 rotterdamhaven
-rotterdammergang
 rotterdammerstraatje
 rotterdamse bol
-rotterdamse boulevard
 rotterdamse rijweg
 rotterdamsebaan
+rotterdamsebrug
 rotterdamsedijk
 rotterdamsekaai
 rotterdamsepad
@@ -5117,7 +5207,9 @@ rotterdamseweg
 rotterdamsingel
 rotterdamstraat
 rotterdamweg
+rotterkeelweg
 rottermontstraat
+rotterstraat
 rottestraat
 rottestroom
 rottewegje
@@ -5129,7 +5221,6 @@ rottumerweg
 rottumsestraat
 rottumstraat
 rotven
-rotvenweg
 rotweg
 rouaan
 rouaansekaai
@@ -5139,6 +5230,7 @@ rouboslaan
 roucooppark
 roudaalterweg
 rouenhof
+rouenhofstraat
 rouenhofweg
 rouenlaan
 rouenweg
@@ -5152,7 +5244,7 @@ roulet
 roumerweg
 roundeel
 roune leane
-rounh„¥f
+rounh√¥f
 rounwei
 rouppe van der voortlaan
 rouppe van der voortplein
@@ -5163,9 +5255,8 @@ rousseaustraat
 rousselpad
 rousselstraat
 roussillonhof
-rouveen rijksweg a28
+rouveen
 rouvenenstraat
-rouwbommelsteeg
 rouwbroekweg
 rouweigraaf
 rouwelaarsdijk
@@ -5173,9 +5264,9 @@ rouwelerweg
 rouwenbogt
 rouwenboschweg
 rouwenhofstraat
-rouwenhorstweg
 rouwenmaatpad
 rouwenoordseweg
+rouwetjeskade
 rouweweg
 rouwhorsterdijk
 rouwkooplaan
@@ -5196,9 +5287,11 @@ roverbruidegom
 roversbrugpad
 roverweg
 rowlandstraat
+roxenissepad
 roxenissestraat
 roy eldridgepad
 roy orbisonstraat
+roy schuitenpad
 royaards van den hamkade
 royaardslaan
 royaardsplein
@@ -5225,6 +5318,7 @@ rozeknop
 rozelaantje
 rozelaar
 rozemarijn
+rozemarijnbrug
 rozemarijndonk
 rozemarijngaard
 rozemarijnhof
@@ -5255,9 +5349,9 @@ rozenbottel
 rozenbottelberg
 rozenbottelstraat
 rozenbroek
-rozenbrugpad
 rozenburcht
 rozenburg
+rozenburg 13
 rozenburgdreef
 rozenburgerplein
 rozenburglaan
@@ -5270,7 +5364,6 @@ rozendaalseheide
 rozendaalselaan
 rozendaalseweg
 rozendaalstraat
-rozendaalzijweg
 rozendael
 rozendaelseweg
 rozendalerpad
@@ -5279,7 +5372,6 @@ rozendreef
 rozendwarsstraat
 rozenerf
 rozengaard
-rozengaard 10
 rozengaard 11
 rozengaard 12
 rozengaard 13
@@ -5311,7 +5403,6 @@ rozenkamp
 rozenkampsweg
 rozenkampweg
 rozenkever
-rozenkeverzoom
 rozenkransstraat
 rozenkwartsstraat
 rozenlaan
@@ -5335,7 +5426,6 @@ rozensteinstraat
 rozenstraat
 rozentak
 rozentuin
-rozenval
 rozenveld
 rozenvendreef
 rozenvoorderdijk
@@ -5351,10 +5441,12 @@ rozetuin
 rozeveldlaan
 rozewerf
 rozijnenstraat
-ro„´llstraat
-ru par„©
-ru par„©singel
-ru par„©straat
+ro√´llstraat
+rrijnhuizerbrug
+ru par√©
+ru par√©laan
+ru par√©singel
+ru par√©straat
 rubberplantage
 rubberstraat
 rubdelstraat
@@ -5367,7 +5459,6 @@ rubenspad
 rubenspark
 rubensplantsoen
 rubensplein
-rubenssingel
 rubensstraat
 rubertstraat
 rubgaard
@@ -5380,8 +5471,11 @@ rubinsteinplein
 rubinsteinstraat
 rubroekstraat
 rubrum
+rubrumbrug
 rubrumpad
+rubsenbosweg
 ruckweg
+rucphen 21
 rucphense vaartkant
 rucphensebaan
 rucphensestraat
@@ -5389,24 +5483,27 @@ rucphenseweg
 rudbeckialaan
 rudelsheimmarke
 rudi bloemgartensingel
-rudi carelllaan
 rudi carrelllaan
 rudi carrellplaats
+rudi van dantzigstraat
 rudigerstraat
 rudolf a. jasstraat
 rudolf agricolastraat
+rudolf de bos kuilpad
 rudolf dieselstraat
 rudolf dieselweg
 rudolf garrelsstraat
 rudolf heyligersstraat
 rudolf kattnigghof
+rudolf m√∂ssbauerpad
+rudolf m√∂ssbauerstraat
+rudolf nurejevstraat
 rudolf nureyevstraat
 rudolf slanskystraat
 rudolf steinerlaan
 rudolf steinerpad
 rudolf steinerstraat
 rudolf tappenbeckweg
-rudolf van baarlestraat
 rudolf van baarlestraat
 rudolf van brammenstraat
 rudolf van coevordenstraat
@@ -5423,6 +5520,7 @@ rueckertbaan
 rueterlaan
 ruffelsdijk
 ruffelseweg
+rufus
 rugbypad
 rugbystraat
 rugdijk
@@ -5432,20 +5530,25 @@ ruggeweg
 rugslag
 rugstraat
 rugstreeppad
+rugweg
+rugzijweg
 ruhenbergerweg
 ruhr
 ruichthoek
 ruidigerdreef
 ruif
 ruifweg
+ruige bergweg
 ruige hoek
 ruige muts
 ruige velddreef
 ruige velden
+ruige veldweg
 ruige weegbree
 ruige weide
 ruige weteringpad
 ruigebol
+ruigebultsweg
 ruigedoornstraat
 ruigehoekweg
 ruigekade
@@ -5467,6 +5570,7 @@ ruigeweg
 ruigewerve
 ruigezandplantsoen
 ruigoord
+ruigoordpad
 ruigvelden
 ruijgenbosweg
 ruijgenhil
@@ -5475,7 +5579,6 @@ ruijgenhoeksepolder
 ruijgenpad
 ruijgoordweg
 ruijgrokplaats
-ruijllaan
 ruijs de beerenbroucklaan
 ruijs de beerenbrouckpad
 ruijs de beerenbrouckstraat
@@ -5496,7 +5599,7 @@ ruijterveer
 ruilebuiter
 ruilstraat
 ruilverkavelingsweg
-ruime consci„´ntiestraat
+ruime consci√´ntiestraat
 ruimel
 ruimelerf
 ruimelplein
@@ -5517,6 +5620,7 @@ ruimteweg
 ruimzicht
 ruimzichtlaan
 ruimzichtweg
+ruinen 28
 ruinerbrink
 ruinerdijk
 ruinerschans
@@ -5548,15 +5652,17 @@ ruisvoornstraat
 ruisvoornvijver
 ruisweg
 ruit
+ruiten a kan w 3
+ruiten a kan w 5
 ruiten a kanaal noord
 ruiten a kanaal oost ii
 ruiten a kanaal oost iii
 ruiten a kanaal oost iv
 ruiten a kanaal oost v
 ruiten a kanaal west
+ruiten a kanaal west 3
 ruiten a kanaal west i
 ruiten a kanaal west ii
-ruiten a kanaal west iii
 ruiten a kanaal west iv
 ruiten a kanaal west v
 ruiten a kanaal zuid
@@ -5569,7 +5675,9 @@ ruitenborghweg
 ruitenbrug
 ruitendwarsstraat
 ruitendwarsweg
+ruitenheerhof
 ruitenkamp
+ruitenkoelweg
 ruitenkoning
 ruitenlaan
 ruitensteiger
@@ -5602,6 +5710,7 @@ ruiterschelling
 ruitersdam
 ruitersdijk
 ruitersdijkveldweg
+ruitershof
 ruitershofje
 ruiterskamp
 ruiterskampweg
@@ -5620,6 +5729,7 @@ ruitersveldweg
 ruitersweg
 ruitersweg-oost
 ruitersweg-west
+ruitervaart
 ruiterweg
 ruiterwei
 ruiteveld
@@ -5645,6 +5755,7 @@ rulkenstraat
 rullen
 ruloffsweg
 rulse dijk
+rulsedijk
 rulselaan
 rulstraat
 rumba
@@ -5659,11 +5770,13 @@ rummeling
 rummerinkhof
 rummerkampstraat
 rummersdijkstraat
+rummerspad
 rumpenerstraat
 rumphiusstraat
 rumpler
 rumpsterweg
 rumpte
+rumptigerpad
 rumptstraat
 run
 rund
@@ -5671,7 +5784,6 @@ runde
 runde nz
 runde zz
 rundedal
-rundedalbrug
 rundekade
 runderbochten
 runderenpad
@@ -5680,6 +5792,7 @@ runderweg
 runderweide
 rundestraat
 rundezoom
+rundveenweg
 runenberghoek
 runmolen
 runmolenerf
@@ -5709,7 +5822,6 @@ rupelmondestraat
 rupelstraat
 rupelweg
 rupperink
-rupsbaan
 rupsenlaan
 rupsenpad
 rupsklaver
@@ -5726,7 +5838,7 @@ rusken
 ruskenbeemd
 ruskenstuk
 ruskenstukken
-ruskenven
+ruskenveen
 ruskesslatweg
 ruskeweg
 ruskkamp
@@ -5735,6 +5847,7 @@ ruslandkade
 ruslandstraat
 rusluieweg
 russchemorsweg
+russchenlanden
 russchenreed
 russchersland
 russchevlietstraat
@@ -5788,12 +5901,11 @@ rusthuislaan
 rusthuisstraat
 rusthuisweg
 rustlandstraat
-rustluststraat
 rustoord
 rustoordlaan
 rustoordstraat
+ruststand
 rustveld
-rustven
 rustvenseweg
 rustweg
 rusven
@@ -5803,6 +5915,7 @@ rutbekerveldweg
 rutenberchdreef
 rutenberg
 rutermedenweg
+ruterpolder
 rutershoek
 ruterslaan
 ruterspet
@@ -5811,9 +5924,7 @@ rutger loenenweg
 rutger metelerkamppad
 rutger swarthoffweg
 rutger van den broeckelaan
-rutger van den broeckelaan
 rutger van dongenlaan
-rutger van erplaan
 rutger van erplaan
 rutger van herpenstraat
 rutger van keulenpad
@@ -5822,12 +5933,14 @@ rutgerinkdijk
 rutgers van rozenburglaan
 rutgershof
 rutgerskamp
+rutgerslaan
 rutgersstraat
 rutgerstraat
 rutgerswal
 rutgersweg
 rutgerusgang
 rutgher jacobsstraat
+ruth de jongpad
 ruth firstplein
 ruth firststraat
 ruthardlaan
@@ -5849,9 +5962,9 @@ ruttenseweg
 ruttensingel
 ruttensteeg
 ruttenweg
-rutterstraatje
 rutvenstraat
 ruud kuijperstraat
+ruud lubberslaan
 ruurd altastrjitte
 ruurd visserstraat
 ruurd wiersmapaad
@@ -5877,7 +5990,6 @@ ruwaardstraat
 ruwbeemd
 ruwe berk
 ruwe bies
-ruwe eik
 ruwe putten
 ruwekampweg
 ruwelspad
@@ -5888,6 +6000,7 @@ ruwendaalseweg
 ruwenhofstraat
 ruwerdweg
 ruwerstraat
+ruwiel
 ruwielsekade
 ruwielstraat
 ruwinkelseweg
@@ -5922,6 +6035,7 @@ ruysdaelbaan
 ruysdaelhof
 ruysdaelkade
 ruysdaellaan
+ruysdaelplantsoen
 ruysdaelplein
 ruysdaelstraat
 ruysdaelweg
@@ -5936,21 +6050,25 @@ ruytersput
 ruyterstraat
 ruytersweg
 ruytewaert
+ruyven
 ruyvenschemolenpad
 ruyvensepad
 ruzinklanden
-ru„Ønelaan
-ru„Ønepad
+ru√Ønelaan
+ru√Ønepad
 rw a6 de aalscholver
 rw a6 de lepelaar
-rw a6 rivierduin
 rwh hofstede crullstraat
 ryckevelde
 rydwei
 ryelandstraat
 ryerskop
 ryksstrjitwei
+ryksweg
+ryksweg a2
 rykswei
+rykswg
+rykswg a9
 rynesteinstraat
 rynesteyn
 rynoldingstraat
@@ -5958,39 +6076,40 @@ rypster rak
 rypsterdyk
 rypwei
 rysloane
+rysl√¢nsbr√™ge
 rysterdyk
 ryswickstraat
 ryterveld
 rytseterp
-r„§dda barnenstraat
-r„§deckerstraat
-r„®ugkeweg
-r„©aumur
-r„©aumurlaan
-r„©aumurstraat
-r„∂elllaan
-r„∂ellstraat
-r„∂hnerstraat
-r„∂kkerkamp
-r„∂merselaan
-r„∂merstraat
-r„∂ntgendreef
-r„∂ntgenhof
-r„∂ntgenlaan
-r„∂ntgenpad
-r„∂ntgenstraat
-r„∂ntgenweg
-r„∂pcke zweerslaan
-r„∂rikstraat
-r„∂ringstraat
-r„∂sener manzstraat
-r„∂tgerinksweg
-r„∂tjeshof
-r„∂tscherweg
-r„∂wlerdijk
-r„ªchh„∫sterwei
-r„ªnwei
-r„ªnwei garyp
-r„ºmkehof
-r„ºmkelaan
-r„ºtenbrockerweg
+r√§dda barnenstraat
+r√§deckerstraat
+r√®ugkeweg
+r√©aumur
+r√©aumurlaan
+r√©aumurstraat
+r√∂elllaan
+r√∂ellstraat
+r√∂hnerstraat
+r√∂kkerkamp
+r√∂merselaan
+r√∂merstraat
+r√∂ntgendreef
+r√∂ntgenhof
+r√∂ntgenlaan
+r√∂ntgenpad
+r√∂ntgenstraat
+r√∂ntgenweg
+r√∂pcke zweerslaan
+r√∂rikstraat
+r√∂ringstraat
+r√∂sener manzstraat
+r√∂tgerinksweg
+r√∂tjeshof
+r√∂tscherweg
+r√∂wlerdijk
+r√ªchh√∫sterwei
+r√ªnwei
+r√ªnwei garyp
+r√ºmkehof
+r√ºmkelaan
+r√ºtenbrockerweg

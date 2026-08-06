@@ -1,36 +1,16 @@
 t angelog
 t binnenstraatje
+t brierke
+t daalder-muntjewerfprk
 t donkerstraatje
-t gairfleujen
-t glop
 t haarend
-t heycop
-t hoge
-t hoofd
-t j swierstralaan
+t haasje
 t jaagpad
-t kanaal
-t karrepad
-t katteveld
-t kempke
-t klif
-t laantje
-t landje
-t maetland
-t oordje
 t p oosterhoffstraat
-t plankenpad
-t pluuke
-t roege pad
-t rond
-t schagentje
 t schut
-t slot
-t stede
-t veld
-t zand
+t zwet
 t' sas
-t. de vriestuin
+t. van zwetselaarstraat
 t. zondagstraat
 t.b. huurmanlaan
 t.c. hegemanstraat
@@ -39,12 +19,10 @@ t.g. gibsonstraat
 t.j. jansenweg
 t.j. swierstralaan
 t.j. twijnstralaan
-t.k. van lohuizenlaan
 t.m. kortenhorstlaan
 t.m.c. asserplantsoen
 t.m.c. asserstraat
 t.s. eliotlaan
-t.van der meerstraat
 t.w. van emmerikstraat
 t.w.a. ausemsburcht
 t.w.s. mansholtstraat
@@ -53,6 +31,7 @@ taagdreef
 taaghof
 taagstraat
 taagstroom
+taaiendijk
 taaijersweg
 taalmansruwe
 taalpad
@@ -69,16 +48,15 @@ taandijk
 taandwarsstraat
 taanerf
 taankade
-taanketel
 taanmanstraat
 taanplaats
-taanp„¥le
+taanp√¥le
 taanschuurkade
 taansteeg
 taanstraat
 taanwyk
 taarloseweg
-taarlo„´rweg
+taarlo√´rweg
 taatedam
 taatsendijk
 taatsenplein
@@ -95,26 +73,23 @@ tabaksland
 tabakslandstraat
 tabaksmolen
 tabakspaadje
-tabakspad
 tabaksplant
 tabaksplanter
 tabaksstraat
-tabakstampersgang
 tabaksteeg
-tabaksteeltrotonde
 tabakstiend
 tabakstraat
 tabaksveld
 tabakswal
 tabaksweg
 tabe kooistraplein
-tabeckersweg
 tabedykje
 tabellastraat
 taberna
 tableaustraat
 taborstraat
 tabsmoeren
+tabulabrug
 tacanweg
 tachtig bunderweg
 tachtigershof
@@ -123,6 +98,7 @@ tacitushof
 tacituslaan
 tacituspad
 tacitusstraat
+tacitustunneltje
 tackenborg
 tackinkstraat
 taco haringastraat
@@ -146,6 +122,7 @@ taede zijlstrastrjitte
 taegersweg
 taeijewyk
 taeke schuilengalaan
+taeke van der meerstraat
 taekelaan
 taekemastrjitte
 taelmanshof
@@ -160,6 +137,7 @@ tafelbergplein
 tafelbergstraat
 tafelbergweg
 tafeleend
+tafellaan
 tafelrondeplein
 tafelstraat
 taftstraat
@@ -170,13 +148,16 @@ tagoreplaats
 tagrijn
 tagrijnkade
 tagweg
+tahir meelhuysenbrug
 tahiti
 tahitistraat
 tahyaweg
 taj mahalplaats
+tajirihof
 tak van poortvliethof
 tak van poortvlietstraat
 tak van poortvlietware
+takel
 takelaarstraat
 takelaarsweg
 takeling
@@ -219,16 +200,15 @@ talingsingel
 talingstraat
 talingweg
 talingweide
-talinnpad
 talithastraat
-tali„´nruwe
+tali√´nruwe
 talksteenstraat
 tallinn
 tallinnhof
 tallinnpad
 tallinnstraat
 tallinnweg
-tallinpad
+tallum
 talma park
 talma-lanen
 talmabuurt
@@ -236,7 +216,6 @@ talmahof
 talmalaan
 talmapad
 talmaplaats
-talmaplaats‚ø‚ø
 talmaplantsoen
 talmaplein
 talmastraat
@@ -244,7 +223,7 @@ talmaweg
 talud
 taludstraat
 taludweg
-tal„∫d
+tal√∫d
 taman sapituin
 tamarastraat
 tamarijnslaantje
@@ -260,7 +239,6 @@ tamariskenlaan
 tamariskhof
 tamarixplantsoen
 tamarstraat
-tambeipaad
 tambo
 tamboer
 tamboerenstraat
@@ -279,16 +257,15 @@ tamboerskade
 tamboerslaantje
 tamboerstraat
 tamerisstraat
+tames veenstraweg
 tames visserstraat
 tameslaan
 taminiausingel
 tamis weer
-tamme kastanje
 tamme zijlstrastrjitte
 tammeldijk
 tammenssingel
 tammensweg
-tammesweg
 tammingaborg
 tammingasingel
 tammingaslaan
@@ -299,7 +276,6 @@ tampicostraat
 tamusdonk
 tan malakastraat
 tanamihof
-tancredi
 tancredipad
 tancrediplantsoen
 tandarts schipperstraat
@@ -319,15 +295,18 @@ tangostraat
 tangramstraat
 tangslagenweg
 tangweg
+tania leonsingel
+tania leonstraat
 taniaburg
 tanialeane
 taniastrjitte
 tanimbar
 tanimbarkade
 tanimbarlaan
-tanimbarstraat
 tanitstraat
+tanja groenplein
 tanjabuurt
+tankbaan
 tankelanden
 tankenberg
 tankenberglaan
@@ -337,20 +316,18 @@ tankgracht
 tankhoofd
 tankinksweg
 tankmaot
-tankval
 tankweg
-tannekestraat
+tannekepad
 tanneskampke
-tannh„§userdreef
-tannh„§userpad
-tannh„§userplein
-tannh„§userstraat
+tannh√§userdreef
+tannh√§userpad
+tannh√§userplein
+tannh√§userstraat
 tantalusstraat
 tante diensteeg
 tante pollewopstraat
 tanthofdreef
 tanthofkade
-tanzaniastraat
 tanzaniet
 tanzanietdijk
 tapeind
@@ -378,8 +355,8 @@ tapperwei
 tappisstraat
 tapstraat
 taptadestraat
-taptoe
 tapuit
+tapuitenpad
 tapuitenplein
 tapuitlaan
 tapuitstraat
@@ -409,7 +386,6 @@ tarwe
 tarwe-akker
 tarwe-oord
 tarweakker
-tarweakkerpad
 tarwebeemd
 tarwedijk
 tarwedreef
@@ -436,9 +412,11 @@ tasjeskruid
 tasjeskruidstraat
 taskinlaan
 tasmanhof
-tasmani„´
-tasmani„´straat
+tasmani√´
+tasmani√´straat
 tasmanpad
+tasmanpark
+tasmanspark
 tasmanstraat
 tasmanweg
 tasselaar
@@ -447,11 +425,11 @@ tasstraat
 tasterschootsedijk
 tasveld
 tasveldweg
+tata steel
 tatelaarweg
 taterbosweg
 taterhof
 tatiana afanassjewaweg
-tatjana afanasjevaweg
 tatra
 tatralaan
 tatraweg
@@ -473,8 +451,8 @@ taxandriaplein
 taxandriastraat
 taxandriaweg
 taxandriaweg-west
-taxandri„´baan
-taxandri„´straat
+taxandri√´baan
+taxandri√´straat
 taxhof
 taxiplein
 taxisstraat
@@ -484,6 +462,7 @@ taxushof
 taxushout
 taxushoven
 taxuslaan
+taxusplaats
 taxusplantsoen
 taxusrode
 taxusstraat
@@ -494,7 +473,6 @@ tazelaar
 te braakeplein
 te brittenstraat
 te gussinklo-hof
-te gussinklohof
 te hoecke
 te kieftestraat
 te nijenhuiswei
@@ -512,12 +490,14 @@ te winkelsweg
 te wyle
 te zanen
 teake bakkerwei
-teake pietersl„¢n
+teake pietersl√¢n
 teakhout
 teardwei
 tearnserdyk
+tearnzertunnel
 teatske alzumstrjitte
 teatskehiem
+tebaersweg
 tebinckslaan
 techelkuylen
 technicumstraat
@@ -529,6 +509,7 @@ technopark
 technopol
 technykwei
 techumerdyk
+techumerdykje
 techumerpaad
 tecklenburgstraat
 teckop
@@ -548,6 +529,7 @@ tedingerstraat
 tedingh van berkhoutplantsoen
 tedingstraat
 tedinkweide
+teeakkersweg
 teekenhof
 teelebeekstraat
 teelinckstraat
@@ -556,20 +538,19 @@ teemkersweg
 teenhoek
 teenkweg
 teenschiller
-teenschillerij
 teenschillerlaan
 teenschillerpad
 teenslaan
 teenstrapad
 teenstraweg
 teerderij
-teerhaven
 teerketelsteeg
 teerlingen
 teerlingstraat
 teersdijk
 teersmortelweg
 teesinkbleekweg
+teesinkbos
 teesinklandenpad
 teesinklandenweg
 teesinkweg
@@ -583,6 +564,7 @@ teeuwishoek
 teeuwland
 teeuwserf
 teeuwskamp
+teeweg
 tefelenstraat
 tegalstraat
 tegelaersstraat
@@ -601,16 +583,15 @@ tegelseweg
 tegelstraat
 tegelveldstraat
 tegelzetter
-tegelzetterdek
 tegelzetterhof
 tegenbosch
 tegenboschweg
 tegenhoeskamp
 tegenhouder
 tegenhouderstraat
+tegenwind
 tegersweide
 teggelweg
-teggenweg
 teggers voetpad
 teggert
 teggerweg
@@ -619,7 +600,7 @@ tegulastraat
 teherandreef
 teheranstraat
 teheuxstraat
-teijchin„©laan
+teijchin√©laan
 teije blauwsingel
 teije tolstraat
 teijlerstraat
@@ -633,6 +614,7 @@ teisterbandstraat
 teisterbant
 teisterbantlaan
 teisterbantstraat
+teixeira de mattoshof
 teixeira de mattospark
 teixeira de mattosstraat
 tekenburgseweg
@@ -640,6 +622,7 @@ tekkopstraat
 teldershof
 telderskade
 telderslaan
+telderspad
 teldersrode
 teldersstraat
 teldersweg
@@ -653,6 +636,7 @@ telemannrode
 telemannstraat
 teleportboulevard
 telescoophof
+telescooppad
 telesiastraat
 televisiebaan
 televisiepad
@@ -666,7 +650,7 @@ telgen
 telgenbosch
 telgendijk
 telgengaarden
-telgenh„∂fke
+telgenh√∂fke
 telgenkamp
 telgenkampsweg
 telgensteeg
@@ -679,6 +663,8 @@ telgterweg
 telheidebaan
 telheidestraat
 telingstraat
+telkespad
+telkesveld
 tellashof
 tellegenlaan
 tellegenstraat
@@ -715,6 +701,7 @@ tempelheerstraat
 tempelhof
 tempelhofstraat
 tempelier
+tempelierenhof
 tempelierhof
 tempeliersborch
 tempeliersdal
@@ -749,17 +736,14 @@ ten bijgaerde
 ten bleek
 ten bokkel huininkhof
 ten boomstraat
-ten boomstraat
 ten borchwardlaan
 ten borchwardplein
 ten boschstraat
 ten bosstraat
 ten brakeweg
-ten breurenhof
 ten brinkstraat
 ten busschekamp
 ten busschepad
-ten busschetunnel
 ten campepad
 ten campesingel
 ten caote gengske
@@ -779,7 +763,6 @@ ten ghenswinckel
 ten goeyepad
 ten hagestraat
 ten harmsen v.d. beekpad
-ten harmsenstraat
 ten have
 ten havesweg
 ten haveweg
@@ -799,11 +782,9 @@ ten katelaan
 ten kateplantsoen
 ten kateplein
 ten katestraat
-ten katestraat
 ten loke
 ten oeverlaan
 ten oeverstee
-ten oeverstraat
 ten oeverstraat
 ten passeweg
 ten pol
@@ -818,8 +799,10 @@ ten veldhuize
 ten vijverpad
 ten vonder
 ten vorsel
+ten waterpad
 ten worpe
 tender
+tenderhof
 tenderlaan
 tenderstraat
 tenelenweg
@@ -829,7 +812,6 @@ tenerifepad
 tenerifestraat
 tengbergenstraat
 tengbergenweg
-tenge
 tengelhoekweg
 tengnagel
 tengnagelshoek
@@ -844,7 +826,6 @@ tennispaadje
 tennispaadsje
 tennispad
 tennispark
-tennispark ookmeer
 tennisparkweg
 tennisplein
 tennisstraat
@@ -863,14 +844,17 @@ tepelbergweg
 tepelenburgweg
 tepestraat
 ter aalst
+ter aalsterbrug
 ter aardseweg
 ter aase zuwe
 ter aaseweg
+ter apel
 ter apelerstraat
 ter apelervenen
 ter apelkanaal oost
 ter apelkanaal west
 ter apelpad
+ter appel
 ter avestweg
 ter beek
 ter beekhof
@@ -878,15 +862,14 @@ ter boede
 ter boort
 ter borch
 ter borchlaan
-ter borchlaan
 ter borchstraat
 ter borgh esch
 ter borghlaan
 ter borghstraat
-ter borghstraat
 ter borgweg
 ter braaklaan
 ter braakstraat
+ter brakehof
 ter bruggehof
 ter cappellenstraat
 ter cleeffstraat
@@ -924,19 +907,18 @@ ter huivra
 ter hulstraat
 ter hunen
 ter hunnepeplein
+ter idzard 9
 ter kameren
 ter kleef
 ter koel
 ter kuilenkamp
-ter kuilenpad
-ter kuilestraat
 ter kuilestraat
 ter laakstraat
 ter laan
 ter laanstraat
-ter laanstraat
 ter leedelaan
 ter leedepad
+ter leedestraat
 ter lijnden
 ter lips
 ter maars
@@ -959,7 +941,9 @@ ter steeghe park
 ter steeghe ring
 ter steeghepad
 ter steene
+ter stege
 ter stegestraat
+ter tuynen
 ter vate
 ter veenlaan
 ter vestelaan
@@ -995,8 +979,6 @@ terborgsteeg
 terbregse rechter rottekade
 terbregsehof
 terbregselaan
-terbregsepad
-terbregseplein
 terbregseweg
 terbruggen
 terburghtweg
@@ -1015,10 +997,11 @@ tereyken
 tergouwen
 tergracht
 tergrachtervoetpad
-tergr„™ft
+tergr√™ft
 terhagen
 terheidenstraat
 terheideweg
+terheijden 31
 terheijdenseweg
 terheijdensspoor
 terheijdenstraat
@@ -1037,6 +1020,7 @@ terlagenweg
 terlet
 terletdreef
 terletpad
+terletseweg
 terletstraat
 terletweg
 terlinden
@@ -1054,6 +1038,7 @@ terlune
 terlunewei
 termaaden
 termaar
+termaarderweg
 termeerstraat
 termeerweg
 termeidesteeg
@@ -1074,12 +1059,11 @@ ternatestraat
 terneuzen-plein
 terneuzensestraat
 terneuzenstraat
-teropad
 terover
 terp
 terpeborch
 terpeleane
-terpel„¢nnen
+terpel√¢nnen
 terpenland
 terpenpad
 terpkamer
@@ -1090,7 +1074,7 @@ terpoortenerkerkpad
 terpoorterweg
 terppad
 terppaed
-terpr„¢ne
+terpr√¢ne
 terpsingel
 terpsterpaad
 terpsterwei
@@ -1102,12 +1086,11 @@ terpweg
 terpwei
 terpweide
 terpzicht
-terra cotta plein
-terra cottalaan
 terra cottalaan
 terra cottaplein
 terra nigrastraat
-terra nigrastraat
+terracotta
+terracottabrug
 terracottalaan
 terracottastraat
 terracottaweg
@@ -1116,16 +1099,17 @@ terralaan
 terras
 terras van sion
 terrashei
-terrassen
 terrassonsingel
 terrastraat
 terrastuin
 terrastuinlaan
 terrastuinplaats
 terrasweg
+terraveen
 terraweg
 terrazzostraat
 terre
+terrein witte
 terreplein
 terschelling
 terschellingeroog
@@ -1140,6 +1124,7 @@ terschurenvoetpad
 terschurenweg
 tersierstraat
 terskerspaed
+terstedlaan
 tersteeglaan
 tersteen
 tersteijnstraat
@@ -1184,8 +1169,6 @@ terzieterweg
 teselaar
 teshubstraat
 tesingehof
-tesinklandenweg
-tesinkweg
 tesjeslaan
 teskenlaan
 tesla
@@ -1203,11 +1186,14 @@ tesselschadepad
 tesselschadeplantsoen
 tesselschadeplein
 tesselschadestraat
+tesselschadetunnel
+tesselsebrug
 tesselseplein
 tesselsestraat
 tessenvijverstraat
 tessmanstraat
 tesstraat
+testbaan lelystad
 testoenenstraat
 testrik
 tetburgstraat
@@ -1227,6 +1213,7 @@ tetwijkseweg
 teubenweg
 teugel
 teugelaan
+teugelaar
 teugelhof
 teugenaarsstraat
 teugestraat
@@ -1237,8 +1224,8 @@ teulland
 teullandstraat
 teun de grooterf
 teun de jagerdreef
+teun de jagerstraat
 teun stuivenbergstraat
-teun van stuivenbergstraat
 teune smeedstraat
 teunenmijns
 teunenweg
@@ -1250,8 +1237,10 @@ teunis lodderstraat
 teunis oosterwijkstraat
 teunis slagterstraat
 teunis spekbaan
+teunis stooplaan
 teunis van lohuizenstraat
 teunisbloem
+teunisbloem erf
 teunisbloemlaan
 teunisbloempad
 teunisbloemplein
@@ -1260,7 +1249,6 @@ teunisbloemweg
 teunisbroek
 teunishoeve
 teunismolenweg
-teunisweg
 teuntjesweg
 teusmanlanden
 teussestraat
@@ -1285,7 +1273,6 @@ texelhof
 texellaan
 texelpad
 texelplein
-texelse gang
 texelsestraat
 texelstraat
 texelstraat-noord
@@ -1317,7 +1304,6 @@ th. k. van lohuizenlaan
 th. van doesburgweg
 th. van leeuwensingel
 th. weeversweg
-th.a. van loosbroekweg
 thaalpad
 thaalweg oost
 thaalweg west
@@ -1326,7 +1312,6 @@ thaborwei
 thaddeuslaan
 thailandlaan
 thailandring
-thailandsingel
 thalassa
 thaler
 thalesstraat
@@ -1340,18 +1325,18 @@ thamerhorn
 thamerlaan
 thamerweg
 thames
-thameslaan
 thamiswerfstraat
 thasoslaan
 the brink
 the climb
+thea beckmanbrug
 thea beckmanlaan
 thea beckmanpad
 thea beckmansingel
 thea beckmanstraat
 thea beckmanweg
+thea ivenspad
 theater
-theatergarage
 theaterhof
 theaterpad
 theaterpassage
@@ -1371,8 +1356,8 @@ thedingsweert
 theeboomstraat
 theebos
 theeheuvellaan
-theehuis
 theems
+theemsbrug
 theemsdreef
 theemsplein
 theemsstraat
@@ -1385,10 +1370,10 @@ theeroosweide
 theetuin
 theetuinlaan
 theetuinplaats
-theeusland
 theeuwespad
 theeweg
 theissenstraat
+thelehekker voetpad
 thelen haagweg
 thelonius monkpad
 themansstraat
@@ -1401,7 +1386,6 @@ themislaan
 theo blankenaauwpad
 theo boschplein
 theo bosmanlaan
-theo colenbranderplantsoen
 theo d'orsingel
 theo de groenstraat
 theo dobbehof
@@ -1409,15 +1393,16 @@ theo dobbepad
 theo dobbestraat
 theo driessenhof
 theo frenkelhof
+theo goossenhof
 theo goossensstraat
 theo hendriksehof
 theo hilberspad
 theo huizenaarhof
 theo huizenaarpad
+theo klein sworminkallee
 theo kleverstraat
 theo koomenlaan
 theo koomenpad
-theo koomenstraat
 theo kwantenstraat
 theo laseromsstraat
 theo luijpenlaan
@@ -1425,6 +1410,7 @@ theo mann-bouwmeesterhof
 theo mann-bouwmeesterlaan
 theo mann-bouwmeesterpad
 theo mann-bouwmeesterstraat
+theo reijnderslaantje
 theo siebenstraat
 theo snoekstraat
 theo stevenslaan
@@ -1443,12 +1429,14 @@ theo van baarenstraat
 theo van de loopad
 theo van delftstraat
 theo van der schuerlaan
+theo van der stapbrug
 theo van dijkpad
 theo van doesburghof
 theo van doesburglaan
 theo van doesburgplantsoen
 theo van doesburgstraat
 theo van goghhof
+theo van goghpark
 theo van hoytemastraat
 theo van loonstraat
 theo van rijenlaan
@@ -1462,9 +1450,7 @@ theod. pubbenstraat
 theoden
 theodoor colenbranderhof
 theodoor craanenlaan
-theodoor dorrenplein
 theodoor doyerstraat
-theodoor karel van lohuizenhage
 theodoor karel van lohuizensingel
 theodoor schaepkensstraat
 theodoor van hoytemastraat
@@ -1480,6 +1466,7 @@ theodora jacobalaan
 theodora versteeghstraat
 theodorahof
 theodorapolder
+theodore haverweg
 theodore rooseveltplein
 theodorus backerlaan
 theodorus beekhuisstrjitte
@@ -1497,8 +1484,8 @@ theodorus rijkenstraat
 theodorus rijkersstraat
 theodorus soethofstraat
 theodorus zashof
-theodorus zasstraat
 theodorusweg
+theologicum
 theophile de bockstraat
 theophile de bockweg
 theophilusstraat
@@ -1515,7 +1502,9 @@ theresiastraat
 theresiaweg
 thermaelaan
 thermen
+thermenplein
 thermiekstraat
+thermionpark
 thesaurier
 thesaurierweg
 theseuslaan
@@ -1530,7 +1519,6 @@ theutbertusstraat
 thewenveldweg
 thialflaan
 thialfweg
-thibaltstraat
 thibautstraat
 thibostraat
 thicopad
@@ -1552,7 +1540,6 @@ thijlaan
 thijlingerhof
 thijmhof
 thijmpad
-thijmse berg
 thijmstraat
 thijplein
 thijs de torenwachterstr
@@ -1565,8 +1552,10 @@ thijs slofstraat
 thijs slootshof
 thijs thalenstraat
 thijs van der lindenstraat
-thijs w„∂ltgensstraat
+thijs w√∂ltgensstraat
 thijshoekseweg
+thijsiuspad
+thijsniederhof
 thijsniederweg
 thijssehof
 thijsselaan
@@ -1581,12 +1570,13 @@ thijsweg
 thilman werenbertszstraat
 thinsstraat
 thiradreef
-thissenhofje
 thoasstraat
 thoden van velzenstraat
 thoden van velzenweg
 thoelaverweg
 tholen
+tholen 26
+tholensebrug
 tholensestraat
 tholenseweg
 tholensstraat
@@ -1594,12 +1584,10 @@ tholenstraat
 thom posthumahof
 thom thomassenstraat
 thomaesweg
-thomas   kempislaan
 thomas a kempislaan
 thomas a kempisstraat
 thomas a. verdeniusstraat
 thomas ainsworthlaan
-thomas ainsworthpark
 thomas ainsworthstraat
 thomas alva edisonweg
 thomas berentszstraat
@@ -1624,19 +1612,20 @@ thomas mannhof
 thomas mannplaats
 thomas mannsingel
 thomas moredreef
-thomas morehof
 thomas morelaan
 thomas moresingel
 thomas morestraat
 thomas nortonlaan
 thomas prinslaan
 thomas r. malthusstraat
+thomas romeinstraat
 thomas schutgensdreef
 thomas schwenckestraat
 thomas seerattstraat
 thomas sjolles siniawei
 thomas van aquinostraat
 thomas van de dijkweg
+thomas van der wiltpad
 thomas van diessenstraat
 thomas van erpehof
 thomas van heereveldstraat
@@ -1649,10 +1638,10 @@ thomas vlughstraat
 thomas wijckstraat
 thomas zandstrastraat
 thomas zijlmansstraat
-thomas „† kempislaan
-thomas „† kempisplantsoen
-thomas „† kempisstraat
-thomas „† kempisweg
+thomas √† kempislaan
+thomas √† kempisplantsoen
+thomas √† kempisstraat
+thomas √† kempisweg
 thomasberg
 thomashof
 thomaskempkespad
@@ -1662,7 +1651,6 @@ thomassenweg
 thomasstraat
 thomaswaard
 thomasweg
-thomeerstraat
 thomsonlaan
 thomsonplein
 thomsonstraat
@@ -1670,6 +1658,7 @@ thonies van der borchstraat
 thoomesplein
 thoomsenweg
 thoorderstraat
+thoorndijk
 thoornpolder
 thoornseweg
 thorbecke singel
@@ -1705,6 +1694,7 @@ thornstraat
 thorntonlaan
 thorstraat
 thorvaldsenlaan
+three jacksonspad
 thuishaven
 thuisweide
 thujalaan
@@ -1723,11 +1713,11 @@ thuvine park
 thuvinestraat
 thuyalaan
 thyakkerstraat
-th„©odore schaepkensstraat
-th„©r„®se schwartzelaan
-th„©r„®se schwartzeplein
-th„©r„®se schwartzestraat
-th„ºringen
+th√©odore schaepkensstraat
+th√©r√®se schwartzelaan
+th√©r√®se schwartzeplein
+th√©r√®se schwartzestraat
+th√ºringen
 tialling van eysingawei
 tiamahout
 tiarahof
@@ -1769,7 +1759,6 @@ tichelaar
 tichelaarsdonk
 tichelaarslaan
 tichelaarsweg
-tichelakker
 tichelarijweg
 tichelbeekstraat
 tichelberg
@@ -1817,6 +1806,8 @@ tiegelstraat
 tiekamp
 tiekenveenweg
 tiekeweg
+tiel 33
+tiel-west 32
 tielekenhoek
 tielekeshoeven
 tieleman en drosweg
@@ -1845,6 +1836,8 @@ tiemeister es
 tiemen boelensweg
 tiemen de jongestraat
 tien bundersgats
+tien bundersweg
+tien decemberplein
 tien hond
 tienakker
 tienbaan
@@ -1855,6 +1848,7 @@ tienbunderweg
 tiend
 tiendblokken
 tiende heesterhof
+tiende legioenstraat
 tiende penninglaan
 tiendegaard
 tiendehofweg
@@ -1865,10 +1859,10 @@ tienderweg
 tiendestraat
 tiendevrij
 tiendeweg
+tiendewegbrug
 tiendhoeve
 tiendhof
 tiendijkenseweg
-tiendkade
 tiendlanden
 tiendmaatweg
 tiendpad
@@ -1915,9 +1909,7 @@ tienmorgen
 tienmorgenseweg
 tienmorgenstraat
 tienraaikade
-tienraijseweg
-tienrayseweg
-tienschuurstraat
+tienschepelkamp
 tienvoet
 tienwoningenweg
 tiepelplein
@@ -1929,10 +1921,10 @@ tiesselinckserve
 tiesselinswaard
 tiete weverstraat
 tiethofweg
+tieuwland
 tigchelaarspaad
 tigchelaarsreed
 tigchelaarstraat
-tigchelskuilweg
 tigchelsweg
 tigerpad
 tigge
@@ -1951,53 +1943,8 @@ tigrisstraat
 tigrisstroom
 tijberg
 tijborgsteeg
-tijdelijk straatnaam 6
-tijdelijke straat 1
-tijdelijke straat 10
-tijdelijke straat 11
-tijdelijke straat 12
-tijdelijke straat 13
-tijdelijke straat 14
-tijdelijke straat 16
-tijdelijke straat 17
-tijdelijke straat 18
-tijdelijke straat 19
-tijdelijke straat 2
-tijdelijke straat 20
-tijdelijke straat 24
-tijdelijke straat 31
-tijdelijke straat 32
-tijdelijke straat 36
-tijdelijke straat 37
-tijdelijke straat 38
-tijdelijke straat 39
-tijdelijke straat 45
-tijdelijke straat 54
-tijdelijke straatnaam 3
-tijdelijke straatnaam 4
-tijdelijke straatnaam 41
-tijdelijke straatnaam 42
-tijdelijke straatnaam 43
-tijdelijke straatnaam 46
-tijdelijke straatnaam 47
-tijdelijke straatnaam 48
-tijdelijke straatnaam 49
-tijdelijke straatnaam 5
-tijdelijke straatnaam 50
-tijdelijke straatnaam 51
-tijdelijke straatnaam 52
-tijdelijke straatnaam 53
-tijdelijke straatnaam 55
-tijdelijke straatnaam 56
-tijdelijke straatnaam 59
-tijdelijke straatnaam 61
-tijdelijke straatnaam 62
-tijdelijke straatnaam 66
-tijdelijke straatnaam 67
-tijdelijke straatnaam 68
-tijdelijke straatnaam 69
+tijdelijke straatnaam 108
 tijdelijke weg
-tijdelijkseweg 4
 tijdemanhove
 tijdensstraat
 tijdigstraat
@@ -2025,11 +1972,9 @@ tijhofslaan
 tijhuiserve
 tijinkskamp
 tijinkweg
-tijkdelijke straat 37
 tijkenweg
 tijl uilenspiegelstraat
 tijloosstraat
-tijlspassage
 tijlswegje
 tijm
 tijmblauwtje
@@ -2051,6 +1996,7 @@ tijmveld
 tijmweerd
 tijmweg
 tijnje
+tijnje 27
 tijnjedijk
 tijnjeweg
 tijnmuiden
@@ -2079,6 +2025,7 @@ til
 til brugmanplantsoen
 tilanushof
 tilanuslaan
+tilanuspad
 tilanuspark
 tilanusplein
 tilanussingel
@@ -2086,9 +2033,14 @@ tilanusstraat
 tilber
 tilbrugstraat
 tilburg
+tilburg centrum-oost 10
+tilburg centrum-west 11
+tilburg noord 3
+tilburg-reeshof 12
 tilburglaan
 tilburgse baan
 tilburgsebaan
+tilburgsebrug
 tilburgseweg
 tilburgseweg-oost
 tilburgseweg-west
@@ -2111,9 +2063,9 @@ tilledyk
 tillefeart
 tillefonne
 tilleginsterweg
-tillemakade
 tillenhof
 tillepaed
+tillers maat
 tillewei
 tillichstraat
 tilligtebrink
@@ -2132,7 +2084,6 @@ tilsedijk
 tilster
 tilstok
 tilstraat h
-tilstraat k
 tiltenhof
 tiltsjedyk
 tiltsjepaad
@@ -2146,6 +2097,7 @@ timmereind
 timmerfabriekstraat
 timmerhout
 timmerliedengilde
+timmerman
 timmermanlaan
 timmermannsweg
 timmermansgilde
@@ -2153,9 +2105,11 @@ timmermanshove
 timmermansingel
 timmermanslaan
 timmermansstraat
+timmermanstraat
 timmermansweg
 timmermanswerf
 timmermeesterslaan
+timmerrak
 timmershof
 timmerstee-kade
 timmersteeg
@@ -2171,6 +2125,7 @@ timor
 timorkade
 timorlaan
 timorpad
+timorpark
 timorplein
 timorstraat
 timoteegras
@@ -2193,11 +2148,12 @@ tinbergenplantsoen
 tinbergenstraat
 tinbergenweg
 tindijk
+tine clevering-meijerhof
 tine marcushof
 tine talmanstraat
 tine tammespad
 tine tammesplantsoen
-tine van dethhaghe
+tine tammesstraat
 tine van dethstraat
 tine vastbinderhof
 tineke guilonardlaan
@@ -2209,7 +2165,8 @@ tingietersgilde
 tingietersstraat
 tingieterstraat
 tingietersweg
-tingw„¢lden
+tingtangstraatje
+tingw√¢lden
 tinholthof
 tinie de munnikstraat
 tinkelenbergstrjitte
@@ -2229,7 +2186,6 @@ tinnengieterhof
 tinneplein
 tinnestraat
 tinneveldstraat
-tinneweg
 tinsteden
 tinstraat
 tintedijk
@@ -2237,15 +2193,14 @@ tintel
 tintelberg
 tintelersteeg
 tintlaan
-tintorettepad
+tintorettohof
 tintorettopad
 tintorettostraat
-tinus bruinrede
 tinus van der sijdestraat
+tinus van zaalpad
 tinweg
 tinwerf
 tiny imkampstraat
-tiny mulderplantsoen
 tiny mulderplein
 tiny verlinden - bremmersstraat
 tip
@@ -2259,13 +2214,11 @@ tiphofweg
 tipkampen
 tiplanden
 tipmast
-tipmuts
 tippepad
 tipslagweg
 tipstraat
 tipweg
 tiranahof
-tiranapad
 tiranaplantsoen
 tiranastraat
 tirionlaan
@@ -2296,8 +2249,11 @@ titanusstraat
 titardusstraat
 titelroas
 titia bogardastraat
+titia brongersmalaan
+titia goedhuisstraat
 titia gorterstraat
 titia kooistrahage
+titia van der tuukstraat
 titiaanstraat
 titiastraat
 titofstraat
@@ -2317,6 +2273,7 @@ titushof
 tituslaan
 titzveldpad
 tivoli
+tivolibrug
 tivolilaan
 tivolipark
 tivoliplantsoen
@@ -2334,12 +2291,12 @@ tjaberingsstraat
 tjaddinxlaan
 tjadenweg
 tjaerdawei
-tjaerdl„¢n
+tjaerdl√¢n
 tjaikovskypad
 tjakkerstraat
+tjalckepad
 tjalie robinsonduin
 tjalie robinsonstraat
-tjaliehof
 tjalk
 tjalk 10
 tjalk 11
@@ -2351,7 +2308,6 @@ tjalk 16
 tjalk 17
 tjalk 18
 tjalk 19
-tjalk 20
 tjalk 22
 tjalk 23
 tjalk 24
@@ -2378,9 +2334,11 @@ tjalkkade
 tjalklaan
 tjalkmeen
 tjalkplein
+tjalkring
 tjalkstraat
 tjalkweg
 tjalkwerf
+tjalleberd 26a
 tjallewallerweg
 tjalling h. haismastraat
 tjalling harkeswei
@@ -2392,6 +2350,7 @@ tjallingaweg
 tjalmastraat
 tjamme
 tjammestraat
+tjampoerplein
 tjamsweersterweg
 tjarda van starkenborghstraat
 tjarda van starkenborghweg
@@ -2409,7 +2368,6 @@ tjassenswijk
 tjatting
 tjebbeglop
 tjebbingadyk
-tjechi„´plaats
 tjeenk willinkstraat
 tjeenkweg
 tjeerd foekesloane
@@ -2418,7 +2376,7 @@ tjeerd nautastrjitte
 tjeerd roslaan
 tjeerd stienstraweg
 tjeerd thijssenstraat
-tjeerdsl„¢n
+tjeerdsl√¢n
 tjeerdsraklaan
 tjepkemastraat
 tjepmahof
@@ -2475,7 +2433,7 @@ tjotterspad
 tjotterstraat
 tjotterwerf
 tjuchumerpad
-to h„∂lscherplein
+to h√∂lscherplein
 to janssenstraat
 toarnbei
 toarnwerterleane
@@ -2495,7 +2453,7 @@ tobias de coeneplein
 tobias de coenestraat
 tobias m.c. asserstraat
 tobiasstraat
-toccata
+toby scholtehof
 toccatastraat
 tochmalaan
 tochmaland
@@ -2506,7 +2464,6 @@ tochtleede
 tochtpad
 tochtsloot
 tochtstraat
-tochtviaduct
 tochtwaard
 tochtweg
 tochtweistraat
@@ -2519,8 +2476,11 @@ toebeshof
 toefmars
 toefweg
 toegang
-toegangseweg
+toegangsweg camping
+toegangsweg lage nesse
 toegangsweg naar het station herkenbosch
+toegangsweg walibi
+toegangswg naar duivelsberg
 toekanhoek
 toekanpad
 toekanweg
@@ -2530,10 +2490,9 @@ toekomstsingel
 toekomststraat
 toekomstweg
 toel
-toell„¢n
+toell√¢n
 toeloopweg
 toenakkers
-toendra
 toendrameer
 toendrastraat
 toene
@@ -2542,8 +2501,8 @@ toepad
 toepadweg
 toeperweg
 toereppel
-toeristenpad
 toeristenweg
+toeristisch rijwielpad
 toermalijn
 toermalijnborch
 toermalijndijk
@@ -2574,7 +2533,6 @@ toevluchtstraat
 tofana
 togenaarstraat
 togostraat
-togt sloot
 tokiodreef
 tokyostraat
 tol
@@ -2582,11 +2540,10 @@ tolahout
 tolakker
 tolakkerlaan
 tolakkerweg
+tolarpad
 tolbaas
 tolbanstraat
 tolbergcentrum
-tolbergsestraat
-tolbergspad
 tolbergweg
 tolberterstraat
 tolbertervaart
@@ -2595,7 +2552,7 @@ tolbiacstraat
 tolboekstraat
 tolboomstraat
 tolboomweg
-tolbrugkade
+tolbrug
 tolbrugkamp
 tolbrugplein
 tolbrugstraat
@@ -2628,10 +2585,12 @@ tolheksleane
 tolhekstraat
 tolheksweg
 tolheuvel
+tolhoeck
 tolhoekweg
 tolhoren
 tolhuis
 tolhuisbocht
+tolhuiskade
 tolhuislaan
 tolhuispark
 tolhuisstraat
@@ -2641,9 +2600,9 @@ tolhuiswierde
 tolhuiswijk
 tolhutterweg
 tolhutweg
-tolh„ªsdyk
-tolh„ªsleane
-tolh„ªswei
+tolh√ªsdyk
+tolh√ªsleane
+tolh√ªswei
 tolick
 tolkamerstraat
 tolkamp
@@ -2662,7 +2621,6 @@ tollenaarsgroet
 tollenaersingel
 tollenburg
 tollenburglaan
-tollengang
 tollenhof
 tollensflat
 tollenshof
@@ -2670,7 +2628,6 @@ tollenskade
 tollenslaan
 tollenspad
 tollenspark
-tollensplantsoen
 tollensstraat
 tollenstraat
 tollenswende
@@ -2678,7 +2635,6 @@ tollewei
 tollingasingel
 tollingawei
 tollisstraat
-tollweide
 tolmaatsweg
 tolmuur
 tolnasingel
@@ -2698,7 +2654,7 @@ tolsendestraat
 tolsestraat
 tolsingel
 tolsteeg
-tolsteegbarri„®re
+tolsteegbarri√®re
 tolsteegbrug
 tolsteegplantsoen
 tolsteegsingel
@@ -2713,13 +2669,11 @@ tolwei
 tolweid
 tolzichtdiekske
 tolzichtpad
-tolzichtsdiekske
 tom brandstraat
 tom erichstraat
 tom karstenstraat
 tom kranenburgstraat
 tom lodewijklaan
-tom manders
 tom mandershof
 tom mandersstraat
 tom navislaan
@@ -2757,7 +2711,6 @@ tommels bospad
 tommelsche heide
 tommelvaeren
 tommerdwei
-tommerstraat
 tommerwegske
 tommy dorseykade
 tommy dorseypad
@@ -2767,11 +2720,9 @@ ton albertsstraat
 ton de leeuwstraat
 ton kootsingel
 ton lutzstraat
-ton lutzstraat
 ton schultenplein
 ton storkpad
 ton van duinhovenhof
-ton van heugtenhof
 ton van heugtenpad
 ton wijkampstraat
 tonckelweg
@@ -2791,6 +2742,9 @@ tongel
 tongelaar
 tongelaarweg
 tongelaer
+tongelder heideweg
+tongelder veldweg
+tongelderweg
 tongelreep
 tongelreeppad
 tongelresestraat
@@ -2820,12 +2774,14 @@ tongstraat
 tongvaren
 tonhuisstraat
 toni koopmanplein
+tonia stieltjesplein
 toniesplein
 tonijnstraat
+tonisakker
+tonish oornweg
 tonissenlaan
 tonisseweg
 tonke dragtsingel
-tonke dragtzoom
 tonkensoordlaan
 tonkensstraat
 tonkensven
@@ -2837,6 +2793,7 @@ tonneboerstraat
 tonnekamp
 tonnekeshei
 tonnekreek
+tonnelon
 tonnemanplein
 tonnenberg
 tonnenbergerhout
@@ -2844,8 +2801,10 @@ tonnenburgerpad
 tonnendijk
 tonnesteeg
 tonnistil
+tonny van asseldonkstraat
 tonny van leeuwenlaan
 tonny van schaik-wagenaarplein
+tons hoornweg
 tonsedijk
 tonselsedreef
 tonselsehof
@@ -2858,7 +2817,6 @@ tony van verrestraat
 tonystraat
 toogwijk
 toolenburgpad
-toolenburgplas
 toom
 toomstraat
 toomweg
@@ -2866,9 +2824,10 @@ toon beynenstraat
 toon bolsiusstraat
 toon borghuisstraat
 toon dankerspad
+toon de haaslaan
 toon dupuiserf
 toon dupuisstraat
-toon hendriksstraat
+toon fredericksplein
 toon hermanshof
 toon hermanslaan
 toon hermansplein
@@ -2878,11 +2837,9 @@ toon kokhof
 toon kortoomslaan
 toon kortoomssingel
 toon kortoomsstraat
-toon peetersstraat
 toon pillepad
-toon reijndersstraat
 toon schoenmakersstraat
-toon schr„∂derlaan
+toon schr√∂derlaan
 toon slurinkhof
 toon swinkelshof
 toon v.d. laarstraat
@@ -2905,6 +2862,7 @@ toornwerderweg
 toorop
 tooropkade
 tooroplaan
+tooroppad
 tooropstraat
 tooropweg
 toorts
@@ -2914,7 +2872,6 @@ toortspad
 toortsweg
 toorweg
 toos blomstraat
-toos korvezeehaghe
 toos korvezeepad
 toos poststraat
 toose padtien
@@ -2938,7 +2895,6 @@ topaashof
 topaaslaan
 topaaspad
 topaasplaats
-topaasplantsoen
 topaasring
 topaasstraat
 topaasweg
@@ -2953,11 +2909,13 @@ toppenbergpad
 topperbinnenweg
 toppereend
 toppereendstraat
+toppershoedje
 topperweg
 toppinga's-weg
 toppingaheerd
 topshoofd
 topskoulweg
+topsportcentrum
 topsweg
 topweer
 topweg
@@ -2972,6 +2930,7 @@ torenakker
 torenakkers
 torenakkerweg
 torenallee
+torenallee zuid
 torenbaan
 torenbeemd
 torenberg
@@ -2994,7 +2953,6 @@ torenespad
 torenfort
 torenforthof
 torenfortplein
-torengaarde
 torengang
 torenhoekstraat
 torenhof
@@ -3002,6 +2960,8 @@ torenhofstraat
 torenhoogte
 torenkamp
 torenkraai
+torenkreek
+torenkruid
 torenkruiderf
 torenkwartier
 torenlaan
@@ -3012,7 +2972,6 @@ torenmolenlaan
 torenmolenpad
 torenmuur
 torenpad
-torenpassage
 torenplaats
 torenplein
 torenring
@@ -3021,6 +2980,7 @@ torenrotonde
 torensduin
 torensingel
 torenslop
+torensluis 0009
 torensmalaan
 torensmaweg
 torensteeg
@@ -3041,17 +3001,16 @@ torenvalkstraat
 torenvalkweg
 torenvalkweide
 torenveen
+torenveenseweg
 torenveld
 torenven
 torenvenplein
 torenvlakte
 torenvlietslaan
-torenvoetpad
 torenwacht
 torenwachter
 torenwal
 torenweg
-torenwegpad
 torenweidelaan
 torenwijk
 torenwijk c
@@ -3074,6 +3033,7 @@ tornadostraat
 torneastraat
 tornefors
 tornemeer
+torontobrug 0350
 torontodreef
 torontolaan
 torontostraat
@@ -3089,9 +3049,7 @@ torrenven
 torreshof
 torreslaan
 torresstraat
-torrestraat
 torricellistraat
-torricelliveld
 torsdam
 torteldreef
 tortelduif
@@ -3117,6 +3075,7 @@ tossaintsstraat
 tosveldweg
 toterfout
 tottenhamstraat
+toubaanplein
 toubkalpad
 toulondreef
 toulonselaan
@@ -3129,10 +3088,9 @@ toupsbergstraat
 tourmaletstraat
 tourmalijn
 tourmalijnpad
+tournaylaan
 tourniairestraat
-tournooi
 tournooicamp
-tournooihof
 tournooilaan
 tournooiruwe
 tournooistraat
@@ -3143,7 +3101,6 @@ tourslaan
 touslaggerij
 toussaintkade
 toussaintlaan
-toussaintplein
 toussaintstraat
 toustruwe
 toutenburg
@@ -3158,12 +3115,14 @@ toutenburgstraat
 touverstaak
 touwbaan
 touwbaanpark
+touwbrug
 touwerij
 touwlaan
 touwslag
 touwslager
 touwslagerhof
 touwslagerij
+touwslagerijbaan
 touwslagerijweg
 touwslagerlaan
 touwslagerpad
@@ -3190,7 +3149,6 @@ toverberg
 toverbergerhout
 toverfluitstraat
 toverhazelaar
-toverlaan
 tovermolen
 toverse beek
 toverstraat
@@ -3200,6 +3158,7 @@ toxopeuswei
 tra
 traa
 traaij
+traaijweg
 traaipad
 traaiweg
 traan
@@ -3213,6 +3172,8 @@ traayweg
 tracheliumhof
 tractaatweg
 tractieweg
+trac√©
+trac√©hof
 tradeboulevard
 tragel
 tragel oost
@@ -3223,23 +3184,20 @@ tragelsingel
 tragelweg
 traianuslaan
 traianusstraat
-trailerhelling
 trailerhelling duwweg
-trailerhelling gooimeerdijk-west
+trailerhelling gooimeerdijk-w
 trailerhelling groenlingweg
-trailerhelling odeonstraat
 trailerhelling trekvogelweg
 trailerhelling verlaatweg
-trailerweg
 trajanushof
 trajanusplein
 trajanussingel
 traktieweg
 traland
-traliebolwerk
 tramakker
 trambaan
 trambaan oost
+trambaan voormal
 trambaan west
 trambaan-noord
 trambaan-oost
@@ -3248,9 +3206,12 @@ trambaan-zuid
 trambaanlaan
 trambaanpad
 trambaanweg
+trambrug
 trambrugweg
+trambr√™ge
 tramdijk
 tramdyk
+tramhalte
 tramhaven
 tramhof
 tramkade
@@ -3268,15 +3229,16 @@ tramstrjitte
 tramweg
 tramwegpad
 tramwei
-tramwijk
 tramwijk nz
 tramwijk zz
 trancheeweg
 tranendal
 tranendallaan
 trans
+transactieweg
 transeedijk
 transferium
+transferium westraven
 transformator
 transformatorhof
 transformatorplein
@@ -3287,7 +3249,6 @@ transistorweg
 transitieweg
 transito
 transitoweg
-transmissiestraat
 transneerlandia
 transportbaan
 transportcentrum
@@ -3307,16 +3268,18 @@ trantert
 trao-stege
 trapezium
 trapgans
+trapjesbrug
 trapjesweg
 trappegats
 trappel-end
 trappenberglaan
+trappenbrug
 trappendaal
-trappengats
 trappenweg
+trapperscheweg
+trapperspad
 trappistenborch
 trappistenhove
-trappistenlaan
 trappistenstraat
 trappistenweg
 trappistinnentuin
@@ -3325,25 +3288,23 @@ traptoren
 trapveld
 trapweg
 trapwissel
-trapwissel
 trashorst
 trasmolen
 trasmolenlaan
 trasmolenstraat
-trasm„ªne
+trasm√ªne
 trasraamsteen
 trasweg
 travalje
-travem„ºndeweg
+travem√ºndeweg
 travers
 traverse
-traversetrap
+traverse het hoefijzer
 travertijn
 travertijndijk
 travertijnpad
 travertijnstraat
 travertin
-traviata
 traviataschouw
 traviatastraat
 traviataweg
@@ -3368,8 +3329,8 @@ treeport
 trees kinstraat
 treeswijklaan
 treffers
+treffershof
 treffersteeg
-trefferstraat
 trefheuvel
 trefpunt
 tregelaar
@@ -3380,13 +3341,13 @@ treilerdwarsweg
 treilerhof
 treilerstraat
 treilerweg
-treinweg
 trekbeemd
+trekdamseweg
 trekdijk
 trekdyk
+trekdykl
 trekerweg
 trekgatenweg
-trekgraaf
 trekkade
 trekkadepad
 trekkenweg
@@ -3402,16 +3363,16 @@ trekpot
 trekschuit
 trekschuithof
 trekschuitpad
-treksk„ªte
+treksk√ªte
 trekvaart
-trekvaartplein
+trekvaartbrug
 trekvalk
 trekvlietpad
 trekvlietplein
 trekvogel
+trekvogelbrug
 trekvogelpad
 trekvogelweg
-trekvogelweide
 trekweg
 trekweg naar onderdendam
 trekwei
@@ -3424,7 +3385,6 @@ tremissishof
 tremoliet
 tremolietdijk
 trenakkerweg
-trensweg
 trentelenweg
 trenteweg
 trentsedijk
@@ -3450,10 +3410,8 @@ treurnietsgang
 treurwilg
 treurwilgpad
 treverilaan
-treviso
 trezoriersdreef
 triade
-triadegarage
 triangel
 triangeldreef
 triangelhof
@@ -3461,7 +3419,6 @@ triangellaan
 triangelpad
 triangelstraat
 triangelweg
-trianon
 trianonpad
 trianonstraat
 triasdijk
@@ -3480,7 +3437,6 @@ tribunusplaats
 tricht
 trichterbaan
 trichterberg
-trichtergrubbe
 trichterstraat
 trichtervoetpad
 trichtervoogdenstraat
@@ -3491,6 +3447,7 @@ trichtstraat
 tricot
 tricotstraat
 triemsterloane
+trien daalder-muntjewerfpark
 trien semlerstraat
 trienenbergweg
 trieneweegske
@@ -3502,10 +3459,11 @@ triesteroijepad
 triesteroijeweg
 triesterweg
 triestplein
+trigallezhof
 trigoniaerf
 trigreppel
 trije dyken
-trije h„ªs
+trije h√ªs
 trije keningenwei
 trijegea
 trijehoek
@@ -3516,8 +3474,10 @@ trijetunen
 trijn hullemanlaan
 trijntje blaauboerstraat
 trijntje corneliserf
+trijntje keeverstraat
 trijntje kemp-haanstraat
 trijntje meeshof
+trijntje poortenweg
 trijntje priempad
 trijntjehoek
 trijpstraat
@@ -3534,17 +3494,18 @@ trimperthof
 trimpertstraat
 trimunterweg
 trimurtistraat
+trinekenshof
 trinepad
 trinesweg
 trinidaddreef
 trinidadhof
 trinidadstraat
-trinitari„´rslaan
 triniteitstraat
 trintel
 trintelerbosweg
 trintelhaven
 trintellaan
+triolaan
 triosingel
 trip
 tripklomp
@@ -3560,7 +3521,6 @@ tripscompagnie
 tripscompagniepad
 tripscompagniester zwarteweg
 tripscompagniesterweg
-tripscompagniesterweg zwarteweg
 tripspad
 tripsstraat
 tripstraat
@@ -3580,13 +3540,12 @@ tritondam
 tritondreef
 tritonlaan
 tritonpad
-tritonstraat
 tritzum
 triumphlaan
 triumphperenlaan
 trivium
-triviumlaan
 trix terwindtstraat
+trix terwindtweg
 trocaderostraat
 troch de koer
 trochgeanspaad
@@ -3594,6 +3553,7 @@ trochietdijk
 trochrinner
 trochslach
 troelstradreef
+troelstraerf
 troelstrahoeve
 troelstrahof
 troelstrakade
@@ -3601,7 +3561,6 @@ troelstralaan
 troelstrapad
 troelstrapark
 troelstraplaats
-troelstraplaats‚ø‚ø
 troelstraplein
 troelstrarondweg
 troelstrasingel
@@ -3631,6 +3590,7 @@ trommelstraat
 trommelweg
 tromopsweg
 tromp meestersstraat
+trompbrug
 trompenbergerweg
 trompenbergstraat
 trompenburg
@@ -3643,7 +3603,6 @@ trompet
 trompetbloem
 trompetbloemlaan
 trompetbloemstraat
-trompetboom
 trompetboomhof
 trompetdreef
 trompethoarn
@@ -3652,14 +3611,13 @@ trompetlaan
 trompetnarcis
 trompetpad
 trompetstraat
-trompetter
-trompettersgang
 trompetterspad
 trompetterssteeg
 trompetterstraat
 trompetweg
 trompkade
 tromplaan
+tromplein
 trompmoledyk
 trompplein
 trompsingel
@@ -3669,13 +3627,14 @@ trompstraat
 tromputte
 trompweg
 tromslagerpad
-troms„∂dreef
+troms√∂dreef
 tronde
 tronderweg
 trondheim
 trondheimpad
 trondheimstraat
 trondheimweg
+troonlaan
 troostenweg
 troosterhof
 troosterlaan
@@ -3699,6 +3658,7 @@ tros
 trosdravik
 trosjespeergaarde
 troskerslaan
+trosroos
 trosroospad
 trosroosweide
 trota van salernostraat
@@ -3709,7 +3669,6 @@ troubadourplein
 troubadoursborch
 troubadourshof
 troubadourstraat
-troubadourweg
 trouringhstraat
 trouwehuislaan
 trouwhof
@@ -3735,6 +3694,7 @@ truienhoeve
 truijenheide
 truilpad
 truisweg
+truiswijk
 truitje bosboom-toussaintstraat
 truitje toussaintdreef
 trumandreef
@@ -3743,38 +3703,35 @@ trumanlaan
 trumanpad
 trumanplein
 trumanstraat
-trumanweg
-trumpertparallelweg
 trumpertsteeg
 trumpertweg
 truppertstraat
 truttensteeg
 truus bosterslaantje
 truus gelsingstraat
-truus oversteegen
+truus mastpark
 truus oversteegenstraat
-truus schr„∂derhof
-truus schr„∂derpad
-truus schr„∂derplantsoen
-truus schr„∂derstraat
-truus smulders-beli„´nstraat
+truus schr√∂derhof
+truus schr√∂derpad
+truus schr√∂derplantsoen
+truus schr√∂derstraat
+truus smulders-beli√´nstraat
 truus smuldersstraat
+truus van kuijkwarande
 truus van lierlaan
 truus van lierpad
 truus wijsmuller-meijerpad
 truus wijsmuller-meijerstraat
 truus wijsmullerpad
 truus wijsmullerstraat
-truus wijsm„ºllerstraat
+truus wijsm√ºllerstraat
 truyenhoekweg
 truytstraat
 trynesstraat
 tryntsjebuorren
-trynw„¢ldsterdyk
-tr„©vouxperenlaan
-tr„™d
-tsarenhof
-tseeraertsstraat
+trynw√¢ldsterdyk
+tr√©vouxperenlaan
+tr√™d
 tsienzerbuorren
 tsiispaad
 tsjaerddyk
@@ -3789,64 +3746,63 @@ tsjalk
 tsjalling bakkerstrjitte
 tsjamkedykje
 tsjebbe claeszstrjitte
-tsjechi„´plaats
+tsjechi√´plaats
 tsjechovstraat
 tsjechovzijde
 tsjeintgum
-tsjeml„¢n
-tsjeppenb„ªr
+tsjeml√¢n
+tsjeppenb√ªr
 tsjerk hiddessluizen
 tsjerk hiddesstraat
 tsjerk hiddesstrjitte
 tsjerke buorren
 tsjerkebreed
 tsjerkebuorren
-tsjerkegr„™ft
+tsjerkegr√™ft
 tsjerkeleane
 tsjerkeloane
-tsjerkel„¢n
-tsjerkel„¢nsleane
-tsjerkel„¢nspaad
-tsjerkel„¢nspaed
-tsjerkel„¢nsreed
+tsjerkel√¢n
+tsjerkel√¢nsleane
+tsjerkel√¢nspaad
+tsjerkel√¢nsreed
 tsjerkemar
 tsjerkepaad
 tsjerkepaed
 tsjerkeplein
-tsjerkep„¥le
+tsjerkep√¥le
 tsjerkereed
 tsjerkesleatswei
+tsjerkesteech
 tsjerkestrjitte
 tsjerkewei
-tsjerkew„¢l
+tsjerkew√¢l
 tsjerkhofleane
-tsjerkh„¥fspaed
+tsjerkh√¥fspaed
 tsjessenswei
 tsjessingawei
-tsjettelh„ªs
+tsjettelh√ªs
 tsjibbe geartsstrjitte
 tsjibbe geertswei
 tsjillen
-tsjill„¢nleane
+tsjill√¢nleane
 tsjoele
 tsjomme wiardaleane
 tsjomme wiardapaad
 tsjotter
 tsjustere wei
 tsjusterewei
-tsj„ªkemarwei
+tsj√ªkemarwei
 tsugarustraat
 tt-tunnelweg
 tt. melaniaweg
 tt. melissaweg
 tt. neveritaweg
 tt. vasumweg
-tualstraat
+tu delft 10
 tuba
 tubadreef
 tubahof
 tubalaan
-tubantengaarde
 tubantenlaan
 tubantenoord
 tubantenpoort
@@ -3878,8 +3834,6 @@ tugelastraat
 tugelaweg
 tugerallee
 tuibrug
-tuibrug hoge vaart
-tuibrug lage vaart
 tuigenmaker
 tuigersstraat
 tuigerstraat
@@ -3894,6 +3848,7 @@ tuimelaarstraat
 tuimelaer
 tuimelsteenstraat
 tuin
+tuin der nederlanden
 tuin ginneken
 tuin van bier
 tuin van de burgemeester
@@ -3910,11 +3865,12 @@ tuin van nieuwpoort
 tuin van ozon
 tuin van rembrandt
 tuin van schellinger
+tuin van veur
 tuinakkers
+tuinakkersweg
 tuinbank
 tuinboog
 tuinbouw
-tuinbouwcentrum klazienaveen
 tuinbouwdwarsstraat
 tuinbouwlaan
 tuinbouwland
@@ -3923,6 +3879,7 @@ tuinbouwstraat
 tuinbouwveilingweg
 tuinbouwweg
 tuinbouwwijk
+tuinder
 tuinderij
 tuinderijlaan
 tuinderijpad
@@ -3939,6 +3896,7 @@ tuindersplein
 tuindersstraat
 tuinderstraat
 tuindersvaart
+tuindersvlet
 tuindersweg
 tuinderswerf
 tuindorp
@@ -3949,25 +3907,27 @@ tuindreef
 tuindwarsstraat
 tuineerd
 tuinen
+tuinenburglaan
 tuinenhof
 tuinenlaan
 tuinenpad
 tuinensingel
 tuinensteeg
 tuinfluiter
+tuinfluiterhof
 tuinfluiterlaan
 tuinfluiterpad
 tuinfluiterstraat
+tuinfluiterweg
 tuingouw
 tuingracht
-tuinhaversveld
 tuinhof
 tuinhommel
 tuiniersdijk
 tuinierspad
 tuiniersstraat
-tuinierstraat
 tuinkade
+tuinkamer
 tuinkamp
 tuinkers
 tuinkersgaarde
@@ -3980,7 +3940,6 @@ tuinkruidenpad
 tuinksdijk
 tuinlaan
 tuinlaantje
-tuinlandpad
 tuinluststraat
 tuinmansdwarslaan
 tuinmanslaan
@@ -4007,6 +3966,7 @@ tuinwegje
 tuinwijklaan
 tuinzigtlaan
 tuinzijde
+tuitpotstraat
 tuitstraat
 tuka
 tukkersdijk
@@ -4037,6 +3997,8 @@ tulnersweg
 tulp
 tulp en zee
 tulpappel
+tulpbrug 0255
+tulpenacker
 tulpenboom
 tulpenburg
 tulpenburgh
@@ -4070,7 +4032,7 @@ tumulus
 tumulusstraat
 tundradal
 tunerstraat
-tunesi„´plaats
+tunesi√´plaats
 tungeler dorpsstraat
 tungelerschans
 tungelersteeg
@@ -4081,7 +4043,6 @@ tuniserf
 tunispassage
 tunisstraat
 tunnel maasboulevard
-tunnelbrug
 tunnelhof
 tunneloven
 tunnelovenweg
@@ -4092,8 +4053,8 @@ tunnelweg
 tuolle
 tuonela
 tuorrebout
+tupelohof
 tupolevlaan
-turandot
 turandotdreef
 turandotpad
 turandotstraat
@@ -4103,7 +4064,7 @@ turbineplaats
 turbinestraat
 turbineweg
 turbiniastraat
-turb„≥n
+turb√≥n
 turelurenlaan
 turelureweg
 tureluur
@@ -4128,12 +4089,14 @@ turfberrie
 turfbijl
 turfbot
 turfbroek
+turfbrug
 turfdijk
 turfdraagsterpad
 turfdragerstraat
 turfdyk
 turfeiker
 turfgang
+turfgraverspad
 turfgreef
 turfhaven
 turfheide
@@ -4155,10 +4118,10 @@ turfkoer
 turflaan
 turfland
 turfloane
-turfl„¢n
+turfl√¢n
 turfmaadsweg
-turfmaatsweg
 turfmarkt
+turfmarktbrug
 turfmarktstraat
 turfpad
 turfplak
@@ -4186,20 +4149,19 @@ turfstekerslaan
 turfstekerspad
 turfstekersplein
 turfstekerstraat
-turfstekerweg
 turfstekerwei
 turfstraat
 turfstreek
-turfstrooisel
-turfst„ªke
+turfstuk
+turfst√ªke
+turftonsterbrug
 turftorenstraat
-turfvaartpark
 turfvaartsestraat
 turfvaartstraat
 turfvaert
+turfveenenweg
 turfveenweg
 turfveld
-turfvelden
 turfveldenstraat
 turfveldje
 turfven
@@ -4223,11 +4185,9 @@ turkooispad
 turkooisstraat
 turkse hazelaarpad
 turkse hazelaarstraat
-turkse schommel
 turkse tuin
 turkseweg
 turkweg
-turmacplein
 turnerstraat
 turnhoutlaan
 turnhoutplantsoen
@@ -4244,8 +4204,8 @@ turresstraat
 turris
 tus
 tuschinskipad
-tuschinskypad
-tuschinskypier
+tuschinskipark
+tuschinskipier
 tusculum
 tusken de fjilden
 tuskendammen
@@ -4255,6 +4215,7 @@ tuskenmarren
 tuskenwegen
 tuskenwei
 tusolaan
+tuspeelpad
 tusschen beide wegen
 tusschenburgstraat
 tusschendarp
@@ -4263,10 +4224,8 @@ tusschenstuk
 tusseler
 tusselerdijk
 tusselersveenweg
-tussen aadijk
 tussen baide meulens
 tussen beide markten
-tussen de banen
 tussen de bogen
 tussen de bruggen
 tussen de dennen
@@ -4296,6 +4255,8 @@ tussenbeetseweg
 tussenboersweg
 tussenbree
 tussenbroekweg
+tussenburg
+tussenbusstraat
 tussenbuurt
 tussendek
 tussendeks
@@ -4305,7 +4266,6 @@ tussendonk
 tussendoor
 tussendoortje
 tussendreef
-tussengang
 tussenhaven
 tussenhoek
 tussenin
@@ -4313,6 +4273,8 @@ tussenkamp
 tussenklappen oostzijde
 tussenklappen westzijde
 tussenkoelen
+tussenlaan
+tussenland
 tussenlanen
 tussenlanendijk
 tussenmede
@@ -4323,9 +4285,6 @@ tussenplaats
 tussenriemer
 tussenrijtstraat
 tussenring
-tussenringtraverse
-tussensluis
-tussenspoor
 tussenstraatje
 tussentocht
 tussenvenneweg
@@ -4340,13 +4299,15 @@ tussenzicht
 tussenziel
 tusveld
 tusveldburg
+tutein noltheniuspark
 tutein noltheniusplein
 tutein noltheniusstraat
 tutenbergweg
 tutenburgsestraat
-tuteri„´
+tuteri√´
 tutustraat
 tuulshoek
+tuun
 tuunhamer
 tuunpad
 tuunterstraat
@@ -4361,16 +4322,14 @@ tuurweide
 tuwingastraat
 tuymelaarstraat
 tuymelaerstraat
-twa br„™gen
+twa br√™gen
 twaalf apostelen
 twaalf apostelenstraat
 twaalf apostelenweg
 twaalf ellenweg
-twaalf morgen kade
 twaalf weendreef
 twaalfbunder
 twaalfhoevenseweg
-twaalfhoven
 twaalfmaat
 twaalfmorgen
 twaalfmorgenkade
@@ -4378,12 +4337,15 @@ twaalfmorgenlaan
 twaalfmorgenland
 twaalfmorgenstraat
 twaalfsuurlaan
+twarogstraat
 twarrelt
-twee gebroedersgang
 twee gezusters
 twee kerspelenweg
 twee koningskinderenstraat
 twee pleinenweg
+twee provincienweg
+twee provinci√´nbrug
+twee provinci√´nweg n381
 twee sluizen
 twee torensstraat
 twee vriendenstraat
@@ -4393,9 +4355,9 @@ tweebeen
 tweeberg
 tweeboomlaan
 tweebosstraat
-tweede  bothofdwarsstraat
 tweede abel tasmanhof
 tweede achterstraat
+tweede amalialaan
 tweede amstelvlietpad
 tweede anjeliersdwarsstraat
 tweede atjehstraat
@@ -4411,7 +4373,6 @@ tweede boerendiep
 tweede boerhaavestraat
 tweede boerwijk wz
 tweede bokslootweg
-tweede bolvennerweg
 tweede boomdwarsstraat
 tweede boomstraat
 tweede bosdreef
@@ -4429,11 +4390,11 @@ tweede coniferenhof
 tweede constantijn huygensstraat
 tweede cronesteinhof
 tweede dijk
-tweede dijk
 tweede dijkdwarsstraat
 tweede disteldwarsstraat
 tweede donk
 tweede doodweg
+tweede dorskampweg
 tweede drift spilsluizen
 tweede dwarsdiep
 tweede dwarssteegje
@@ -4454,19 +4415,19 @@ tweede hasselaerstraat
 tweede havenslop
 tweede heesterhof
 tweede heistraat
-tweede heiweg
 tweede helmersstraat
 tweede herven
 tweede hervendreef
 tweede hieronymus van alphenstraat
 tweede hoefsteeg
 tweede hoefweg
+tweede hofstraat
 tweede hofweg
 tweede hogerwoerddwarsstraat
-tweede hoon
 tweede hugo de grootstraat
 tweede hugo de vrieshof
 tweede hulkesteinhof
+tweede hullen
 tweede hunzestraat
 tweede industriestraat
 tweede industrieweg
@@ -4482,15 +4443,18 @@ tweede kooistraat
 tweede koppelveenweg
 tweede korenstraatje
 tweede kostverlorenkade
+tweede kristalweg
 tweede kruisdiep wz
 tweede kruishaarseweg
 tweede kruisweg
+tweede kwartier
 tweede laan
 tweede laurierdwarsstraat
 tweede leeghwaterstraat
 tweede leliedwarsstraat
 tweede lindendwarsstraat
 tweede loevesteinhof
+tweede lommerh weg
 tweede looiersdwarsstraat
 tweede magalhaeshof
 tweede markstraat
@@ -4538,9 +4502,9 @@ tweede straatje van best
 tweede sweelinckstraat
 tweede tuindwarsstraat
 tweede tuinsingel
+tweede valkh veldweg
 tweede van der helststraat
 tweede van swindenstraat
-tweede veen
 tweede veldweg
 tweede verbindingsweg
 tweede verkorting
@@ -4551,6 +4515,7 @@ tweede walstraat
 tweede weeresteinhof
 tweede weg
 tweede weidjesstraat
+tweede weierei
 tweede westerparklaan
 tweede weteringdwarsstraat
 tweede weteringplantsoen
@@ -4558,6 +4523,7 @@ tweede wijksreed
 tweede wijttenbachhof
 tweede willem barentszhof
 tweede willemstraat
+tweede wittenb veldweg
 tweede wittenburgerdwarsstraat
 tweede woudesteinhof
 tweede zeine
@@ -4585,14 +4551,15 @@ tweeloo
 tweelweg
 tweemanspolder
 tweemat
+tweemolentjesbrug
 tweemolentjeskade
-tweenijenhuizenstraat
 tweepad
 tweerijten
 tweerijtensedreef
 tweeschaar
 tweespan
 tweesporenweg
+tweestedenpark
 tweetandschelp
 tweetermansweg
 tweevennekesweg
@@ -4604,6 +4571,7 @@ twekkelerplein
 twekkelerveldweg
 twekkelerweg
 twellerenk
+twello 22
 twellosebeek
 twellosebeeklaan
 twelloseweg
@@ -4654,6 +4622,7 @@ twijnder
 twijndererf
 twijnderlaan
 twijndersdonk
+twijndershoek
 twijnderslaan
 twijnderstraat
 twijnderweg
@@ -4679,8 +4648,8 @@ twintighoven
 twintighuizen
 twiska
 twiske
+twiskebrug
 twiskelaan
-twiskepad
 twiskepolderstraat
 twiskestraat
 twiskeweg
@@ -4711,6 +4680,7 @@ tynaarlosestraat
 tynestraat
 tynjestrjitte
 tynjewei
+typha
 typograaf
 tyrasstraat
 tyrellsestraat
@@ -4721,13 +4691,14 @@ tyssenvoort
 tywert
 tzummarumerweg
 tzummerweg
-t„∂nsweg
-t„∫nboustrjitte
-t„∫nikkers
-t„∫nkerij
-t„∫nkersh„¥f
-t„∫nkersstrjitte
-t„∫nmelt
-t„∫npaad
-t„∫nstrjitte
-t„∫nwei
+t√∂nsweg
+t√∫nboustrjitte
+t√∫nikkers
+t√∫nkerij
+t√∫nkersh√¥f
+t√∫nkersstrjitte
+t√∫nmelt
+t√∫npaad
+t√∫nstrjitte
+t√∫nwei
+t√ªzen jellen

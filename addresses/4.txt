@@ -1,9 +1,7 @@
-4-heemskinderenweg
 42e laan
 44 r i-straat
 48e laan
 49e laan
-4e bataljonsdok
 4e binnenvestgracht
 4e bosweg
 4e dalweg
@@ -22,7 +20,6 @@
 4e nijverheidstraat
 4e regimentsdok
 4e saskiadwarsstraat
-4e strausspad
 4e westewagenhof
 4e wyk
 4e zijpad grote bospad

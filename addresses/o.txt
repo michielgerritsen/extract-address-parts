@@ -1,4 +1,6 @@
+o gratemaweg
 o lv vrouw ter duinenln
+o veldweg
 o.-l.-vrouwestraat
 o.c. huismanstraat
 o.d.-laan
@@ -20,7 +22,6 @@ oan'e kamp
 oan'e poel
 oane binnesloane
 oane binnesreed
-oase
 oasedreef
 oaseplein
 oasestraat
@@ -39,6 +40,7 @@ obbichterstraat
 obbichterweg
 obbichtstraat
 obbinklaan
+obbo bumahof
 obdammerdijk
 obdampad
 obdamstraat
@@ -83,7 +85,6 @@ observantenhof
 observantenstraat
 observantenweg
 obsidiaan
-obsisdiaan
 ocarina
 ocarinalaan
 ocarinastraat
@@ -92,11 +93,12 @@ oceaan
 oceaanpad
 oceaanwater
 oceanenweg
-oceaniã«
-ocelostraat
+oceaniÃ«
 ocelotplantsoen
 ocelotstraat
 ochoaweg
+ochten
+ochten 35
 ochtenddauw
 ochtendgloed
 ochtendgloren
@@ -107,6 +109,7 @@ ochterveltstraat
 ockeghemlaan
 ockeghempark
 ockeghemstraat
+ockemaheerdpad
 ockenburg
 ockenburger tientweg
 ockenburgerf
@@ -124,6 +127,7 @@ ockhuizerweg
 ockingahiem
 ockingeheemlaan
 ocrieteiland
+ocrietlaan
 octaafstraat
 octaanstraat
 octaanweg
@@ -131,6 +135,7 @@ octant
 octantstraat
 octave de coninckpad
 octave van rijsselberghestraat
+octaviabrug
 octavialaan
 octavianus
 octaviastraat
@@ -151,12 +156,15 @@ odaplein
 odasingel
 odastraat
 oddinkhem
+ode-brug
 odemarusstraat
 odendael
 odensestraat
 odenseweg
 odenveltlaan
 odenveltpark
+odeonbrug
+odeonhof
 odeonpad
 odeonplaats
 odeonstraat
@@ -166,14 +174,15 @@ oderkerkpad
 oderkerkpark
 oderlaan
 oderstraat
-oderstroom
 oderweg
 odessa
+odessaplein
 odessastraat
 odewaldlaan
 odijkerweg
 odijkplein
 odijkseweg
+odile moereelsstraat
 odilia van salmstraat
 odiliadijk
 odiliadonk
@@ -185,6 +194,7 @@ odinkerf
 odinksveld
 odinstraat
 odoornerstraat
+odoornerveen
 odoornerweg
 odoornpad
 odoornstraat
@@ -199,29 +209,29 @@ odysseuslaan
 odysseuspad
 oe thantstraat
 oebele stellingwerfweg
-oebeleslã¢n
+oebeleslÃ¢n
 oeble-om-wei
-oecomenepad
 oecumenepad
 oede van hoornestraat
-oedenkampweg
 oedenvliet
 oedipusstraat
 oedsmawei
 oeffels
 oeffeltseweg
 oegemastraat
+oegstgeest 7
 oegstgeesterweg
 oegstgeestsestraat
 oegstgeeststraat
+oeienbosch
 oeienbosdijk
 oeijenbraak
 oekelsbos
 oekelsebaan
 oekelseheidestraat
 oekelsestraat
-oekraã¯neplaats
-oekraã¯nestraat
+oekraÃ¯neplaats
+oekraÃ¯nestraat
 oeldershof
 oelemarkt
 oelenboom
@@ -237,7 +247,6 @@ oellestraat
 oelmersweg
 oelofsdreef
 oelovenstraat
-oem van wijngaarden
 oemstraat
 oenemadyk
 oenemastate
@@ -245,6 +254,7 @@ oenemawei
 oenenburgweg
 oenerdijk
 oenerweg
+oenerzijweg
 oenkerkstraat
 oensel
 oenselderhofweg
@@ -255,7 +265,6 @@ oer de barten
 oer de bril
 oer de bushoeke
 oer de draai
-oer de feart
 oer de feart
 oer it spoar
 oeral
@@ -278,17 +287,20 @@ oerland
 oerlesedijk
 oerlesestraat
 oermilla tewariestraat
-oeros
 oerraede
 oersebaan
+oerset
 oerseveld
 oerseweg
 oerstroom
+oerthepad
 oerzand
+oes bruggie
 oesdommerveen
 oeslingerbaan
 oeslingerstraat
 oester
+oesterbaai
 oesterbank
 oesterdam
 oesterdreef
@@ -301,6 +313,7 @@ oesterputten
 oesterstraat
 oesterzwam
 oesterzwampad
+oesterzwamplaats
 oestlaan
 oetbertinkstraat
 oetbrink
@@ -308,6 +321,7 @@ oetelaar
 oetelaarsestraat
 oeterselaan
 oetewaal
+oetewalerbrug 0189
 oetewalerpad
 oetewalerstraat
 oetgensdwarsstraat
@@ -321,12 +335,8 @@ oevercamp
 oeverdijk
 oeverdreef
 oeverdwarsstraat
-oeveregrubbe
 oevereind
 oeveren
-oeverendijk
-oeverevoetpad
-oevereweg
 oevergast
 oevergriend
 oeverhuys
@@ -340,14 +350,14 @@ oeverlanden
 oeverlandendwarsweg
 oeverlandenweg
 oeverlibel
-oeverloos
-oeverloos
+oeverloop
 oeverloper
 oeverloperpad
 oeverloperstraat
 oevermansweg
 oeverpad
 oeverpark
+oeverparklaan
 oeverpromenade
 oevers
 oeverstraat
@@ -395,6 +405,7 @@ officiersweg
 offingaburg
 offingaweg
 offingawiersterleane
+ofslach
 ofslag
 ofwegen
 ogeahout
@@ -404,6 +415,7 @@ ogentrooststraat
 ogentroostweg
 oggstraat
 ogier van cralingenpark
+ogier van voorschotenstraat
 ogierpad
 ogierssingel
 ogihof
@@ -415,9 +427,10 @@ ohman es
 ohmanpad
 ohmstraat
 ohmweg
-ohã© broekerveldweg
-ohã©straat
-ohã©weg
+ohweg jong breskens polder
+ohÃ© broekerveldweg
+ohÃ©straat
+ohÃ©weg
 oijen
 oijense benedendijk
 oijense bovendijk
@@ -431,6 +444,7 @@ oirloseheide
 oirloseweg
 oirsbeekerveldgen
 oirsbekerweg
+oirschot
 oirschotlaan
 oirschotsebaan
 oirschotsedijk
@@ -449,9 +463,9 @@ okeghemstraat
 oker
 okergeel
 okerhof
-okerlaan
 okerstraat
 okhorstweg
+okie dokie pad
 okkenbroekerveldweg
 okkenbroekseweg
 okkenbroekstraat
@@ -474,12 +488,13 @@ okster
 okswerd
 oktaviastraat
 oktoberstraat
-ol-hã¶rn
+ol-hÃ¶rn
 olaertsduijnweg
 olaertsduynstraat
 olavstraat
 olberslaan
 olburgseweg
+old hickorypad
 old hickoryplein
 old putten
 old ruitenborgh
@@ -490,7 +505,6 @@ oldambtplein
 oldambtster
 oldambtsterlaan
 oldambtstraat
-oldamster
 olde blenkestraat
 olde borchweg
 olde diek
@@ -508,18 +522,19 @@ olde meulenweg
 olde staphorst
 olde venneweg
 olde vossenhof
-olde weele
 olde wettering
 olde wheemestraat
 oldebaasverlaat
 oldeberkoperweg
 oldebertweg
+oldebroekertocht
 oldebroekerweg
 oldebroekstraat
+oldebrug
 oldeburghpad
 oldeclooster
 oldegaarde
-oldegalileã«n
+oldegalileÃ«n
 oldegoorweg
 oldehof
 oldehoofsterkerkhof
@@ -584,6 +599,9 @@ oldenoord
 oldenoordweg
 oldenstein
 oldenstraat
+oldenzaal
+oldenzaal 32
+oldenzaal-zuid 33
 oldenzaalpad
 oldenzaalsedijk
 oldenzaalsestraat
@@ -597,7 +615,6 @@ oldenzijlsterweg
 olderhuus
 olderman
 oldermannenlaan
-oldermeijerweg
 oldersumerweg
 oldert
 oldeveen
@@ -607,19 +624,20 @@ oldhuisstraat
 oldijk
 oldorphof
 oldruitenborghstraat
-oldã¶rpsterweg
+oldÃ¶rpsterweg
 oleander
 oleanderhage
 oleanderhof
 oleanderlaan
 oleanderpark
-oleanderplantsoen
 oleanderplein
 oleanderstraat
 olen
 olenbeemden
 olevoortseweg
 olfert pieter lapstraat
+olga de haasstraat
+olga lowinapad
 olga von gotschlaan
 olgaland
 olgerweg
@@ -637,7 +655,6 @@ oliemolen
 oliemolendervoetpad
 oliemolenerf
 oliemolenhof
-oliemolenkwartier
 oliemolenpad
 oliemolenplaats
 oliemolensingel
@@ -645,6 +662,7 @@ oliemolensteeg
 oliemolenstraat
 oliemolenwal
 oliemolenweg
+oliemuldersbrug
 oliemulderstraat
 oliemuldersweg
 oliepalmstraat
@@ -670,9 +688,10 @@ oliestenenweg
 oliestraat
 olievlas
 olieweg
-olieã«indsestraat
+olieÃ«indsestraat
 olifantenlaan
 olifantenpad
+olifantoortje
 olifantsteeg
 olifantsteiger
 olifantswerf
@@ -684,6 +703,7 @@ olijfboomhof
 olijfboomstraat
 olijfgaard
 olijfgaarde
+olijfhof
 olijfhout
 olijflaan
 olijfstraat
@@ -701,12 +721,12 @@ olink es
 oliphantspad
 oliphantweg
 olivabank
+olive schreinerpad
 oliver hardystraat
 oliver hardystrook
 oliver tambopad
 oliverstraat
 olivien
-olivier b. bommelbrug
 olivier b. bommelhof
 olivier bruyneelstraat
 olivier corbaultstraat
@@ -718,7 +738,6 @@ olivier van noortplantsoen
 olivier van noortplein
 olivier van noortsingel
 olivier van noortstraat
-olivier van noortstraat
 olivier van noortweg
 olivierdreef
 olivierlaan
@@ -729,7 +748,7 @@ olivierstrjitte
 oliviersweg
 olivijn
 olivijnstraat
-oliã«nberg
+oliÃ«nberg
 ollandse loop
 ollandseweg
 olle hullenweg
@@ -745,16 +764,15 @@ olmendijkweg
 olmendreef
 olmengaard
 olmenhage
-olmenhoeve
 olmenhof
 olmenhorst
+olmenhout
 olmenhoven
 olmenlaan
 olmenlaantje
 olmenpad
 olmenplein
 olmenrode
-olmenschans
 olmenstraat
 olmentuin
 olmenwede
@@ -773,6 +791,8 @@ olsterdwarspad
 olsterhof
 olsterkampweg
 olsterpad
+olstertocht
+olsterveer
 olsterveste
 olsterweg
 olstgracht
@@ -803,6 +823,7 @@ olympiakade
 olympialaan
 olympialaan-oost
 olympiapad
+olympiaplantsoen
 olympiaplein
 olympiarotonde
 olympiasingel
@@ -811,7 +832,9 @@ olympiastraat
 olympiaweg
 olympisch stadion
 olympus
-olympushã´f
+olympushÃ´f
+olympuspad
+olympuspark
 olyslegersstraat
 olzendedijk
 olzendepolder
@@ -825,7 +848,7 @@ om de noord
 om de toren
 om den noort
 om den oldenhof
-om it oaljelã¢n
+om it oaljelÃ¢n
 om'e terp
 om'e toer
 om-en-bij
@@ -836,6 +859,7 @@ omblad
 ombocht
 omdraai
 ome luut zien steegie
+ome piet
 omegaplantsoen
 omegaplein
 omegaweg
@@ -847,10 +871,10 @@ omgangstraat
 omgelegde burgwal
 omgong
 omhaal
+omhaalstraat
 omhoeken
 omikronpad
 omkromte
-omleidingsweg
 omloop
 omloop oost
 omloop west
@@ -859,6 +883,7 @@ omloopkade
 omlooppad
 omloopseweg
 omloopsweg
+omloopweg
 omloper
 ommedijk
 ommedijkseweg
@@ -873,6 +898,7 @@ ommelanderdrift
 ommelanderstraat
 ommelanderweg
 ommelanderwijk
+ommelanderzeedijk
 ommelandpad
 ommelandsingel
 ommelandvaart
@@ -883,6 +909,8 @@ ommelsbroek
 ommelse bos
 ommelseweg
 ommelsveld
+ommen
+ommen 21
 ommenstraat
 ommerbos
 ommerbosweg
@@ -910,7 +938,6 @@ ommoordsehof
 ommoordsestraat
 ommoordseweg
 omnibusdrift
-omnium
 ompad
 ompertsestraat
 omphaliusplein
@@ -929,17 +956,12 @@ omtaplein
 omval
 omvalspoort
 omweg
-onacklaan
-onackpad
-onafhankelijkheidsstraat
 onafhankelijkheidstraat
 onafhankelijkheidsweg
-onbebouwd
-onbekend
 onbekendegracht
+onbenoemde dreef
 onder cadierbergh
 onder de baan
-onder de berken
 onder de berken
 onder de beuken
 onder de beumkes
@@ -955,13 +977,11 @@ onder de linde
 onder de linden
 onder de mast
 onder de molen
-onder de molen
-onder de poort
 onder de schutsboom
 onder de toren
 onder de waal
 onder de wieken
-onder de wiã«n
+onder de wiÃ«n
 onder de zebra
 onder de zeedijk
 onder den dael
@@ -969,24 +989,26 @@ onder den toren
 onder devoonstraat
 onder krijtstraat
 onder langs
+onder professorenpark
 onder zeil
+onderdemolen
 onderdendamsterweg
-onderdiep
 onderdijk
+onderdijkhof
 onderdijkse rijweg
 onderdijkserijweg
 onderdoor
 onderdreef
-onderduikerslaan
+onderduiker
+onderduikershof
 onderduikerspad
 onderduikersstraat
 onderduikersweg
 ondergenhousweg
 ondergisting
-onderhorst
+onderh.pad de enden
 onderhoudsweg
 onderkampstraat
-onderkampsweg
 onderkant
 onderlaatsepad
 onderlangs
@@ -1006,7 +1028,6 @@ onderschey
 ondersestraat
 ondersim
 onderslag
-ondersloot
 ondersloot noord
 ondersloot zuid
 ondersmastate
@@ -1014,15 +1035,11 @@ onderstal
 onderstalstraat
 onderstalweg
 onderste bernauerweg
-onderste bieboschvoetpad
 onderste boord
+onderste bospad
 onderste bosweg
 onderste caumer
-onderste gerendalsweg
-onderste grachtweg
 onderste heerenweg
-onderste heerweg
-onderste heideweg
 onderste horst
 onderste molen
 onderste molenweg
@@ -1051,7 +1068,6 @@ onderweg
 onderwei
 onderwierum
 onderwijsboulevard
-onderzijde
 ondiep
 ondiep-zuidzijde
 ondineschouw
@@ -1059,15 +1075,13 @@ onega
 onegameer
 onegastraat
 ongeleg
-onger 't bã¤ã¶gske
-ongereedweg
+onger 't bÃ¤Ã¶gske
 ongeren
 ongerstraat
 ongerweges
 onieskamp
 onkelboerensteeg
 onkelsticht
-onkelweg
 onland
 onlandhorst
 onlandsdijk
@@ -1119,9 +1133,11 @@ ontginningspad
 ontginningstraat
 ontginningsweg
 ontginningweg
+ontginninsweg
 ontinkweg
 ontmoetingshoek
 ontsluitingsweg
+ontsluitingsweg def
 ontsluitingsweg nieuwe compagnie
 ontspanningslaan
 ontspanningsweg
@@ -1139,7 +1155,6 @@ onyxhorst
 onyxlaan
 onyxplaats
 onyxstraat
-onyxweg
 onze lieve vrouwe hofje
 onze lieve vrouwedijk
 onze lieve vrouweplein
@@ -1154,6 +1169,7 @@ onzelievevrouwehofweg
 onzelievevrouwestraat
 onzenoord
 onzoelweg
+ooft oord
 ooftbouwstraat
 oofthegge
 ooftmengersdreef
@@ -1162,6 +1178,7 @@ ooftweg
 oog in 't zeilstraat
 oog van sint pieter
 ooghduyne
+ooghmerweg
 ooghout
 oogsplits
 oogstlaan
@@ -1171,6 +1188,7 @@ oogststraat
 oogstveld
 oogstvelden
 oogstweg
+ooiendonk
 ooiendonksestraat
 ooienpad
 ooievaar
@@ -1182,6 +1200,7 @@ ooievaarplein
 ooievaarsakker
 ooievaarsbek
 ooievaarsbloem
+ooievaarsbrug
 ooievaarsdijk
 ooievaarshoek
 ooievaarshof
@@ -1192,6 +1211,7 @@ ooievaarslaan
 ooievaarsnest
 ooievaarspad
 ooievaarsteeg
+ooievaarsterrein
 ooievaarstraat
 ooievaarsveld
 ooievaarsweg
@@ -1202,6 +1222,7 @@ ooijmanlaan
 ooijpolder
 ooijse bandijk
 ooijsebrug
+ooijsegr
 ooijstraat
 ooipoort
 ooipoortstraat
@@ -1214,11 +1235,10 @@ ooiweide
 ookmeerweg
 ookweg
 oolde
-oolderhuis
 oolderhuuske
+oolderplas
 oolderweg
 ooldselaan
-oolerhuisje
 oolesweg
 oolmansweg
 ooltgensplaathof
@@ -1233,11 +1253,11 @@ oomsdwarsdijk
 oomshoekseweg
 oomskind
 oomskinderenstraat
+oomskinderpeer
 oomstraat
 oonder de bos
 oonderschoer
 oonksweg
-oonkweg
 oorberlaan
 oordeel-heikant
 oordeelsestraat
@@ -1249,7 +1269,9 @@ oordruwe
 oordseweg
 oordtstraat
 oordweg
+oorenberg
 oorgat
+oorgatbrug
 oorijzer
 oorkondelaan
 oorlogsheldenplein
@@ -1269,8 +1291,8 @@ oortjespad
 oortjesweg
 oortlaan
 oortmansgoed
+oortse hoef
 oortslag
-oortstraat
 oortveldlaan
 ooruilweg
 oorweg
@@ -1281,23 +1303,25 @@ oossaander hoop
 oosseldstraat
 oost
 oost achterweg
-oost barriã¨restraat
+oost anna frisoweg
+oost barriÃ¨restraat
 oost biesakkersweg
 oost buurtstraat
+oost drift
 oost en vecht
 oost havendijk
 oost havenstraat
-oost indiã«straat
+oost indiÃ«straat
 oost kanaalweg
 oost kinderdijk
 oost kluinveenweg
 oost middelweg
 oost ravenweg
 oost ringdijk
-oost traverse
 oost vaardeke
 oost voorgors
 oost waalstraat
+oost westweg
 oost-bermweg
 oost-breukelderweg
 oost-dorsch
@@ -1307,15 +1331,17 @@ oost-havenstraat
 oost-ijsselkade
 oost-indische hoek
 oost-indischekade
-oost-indiã«plaats
+oost-indiÃ«plaats
 oost-kerkstraat
 oost-krakeelstraat
+oost-maarland 57
 oost-mijzen
 oost-om
 oost-peterstraat
 oost-pietermanstraat
 oost-sidelinge
 oost-veluweweg
+oost-vlieland - west-ters
 oost-vlisterdijk
 oost-voorstraat
 oost-westdreef
@@ -1331,6 +1357,7 @@ oostappensedijk
 oostbaan
 oostban
 oostbeemdweg
+oostbermweg
 oostblok
 oostboezemkade
 oostbosch
@@ -1339,6 +1366,7 @@ oostbroekerweg
 oostbroekselaan
 oostbroekvoetpad
 oostbroekweg
+oostbrug
 oostburgpad
 oostburgsestraat
 oostburgseweg
@@ -1356,7 +1384,7 @@ oostdijkseweg
 oostdorperweg
 oostdorpplaats
 oostdorpseweg
-oostdreef
+oostdraai hendrik
 oostduinlaan
 oostduinplein
 oostduynen
@@ -1375,9 +1403,7 @@ oostelijk fietspad r.w. 16
 oostelijk halfrond
 oostelijk jaagpad
 oostelijk kanaaldijkpad
-oostelijk nieuw-schoonebeek
 oostelijk slag
-oostelijk/westelijk fietspad
 oostelijke achterweg
 oostelijke bermweg
 oostelijke bonzijweg
@@ -1397,8 +1423,10 @@ oostelijke oude aaltenseweg
 oostelijke parallelweg
 oostelijke polder opweg
 oostelijke randweg
+oostelijke randweg de lie
 oostelijke rondweg
 oostelijke schelderijnweg
+oostelijke schootsvelden
 oostelijke spuikanaalweg
 oostelvoortjes
 oostenakkerstraat
@@ -1445,8 +1473,8 @@ ooster mheenpad
 ooster mheenweg
 ooster oenerweg
 ooster ringdijk
-ooster sint jansteeg
 ooster thienweg
+ooster tiendweg
 ooster tuindorpslaan
 ooster ven
 ooster vlaerdinge
@@ -1457,13 +1485,12 @@ oosterakker
 oosterbaan
 oosterbakenpad
 oosterbeek
+oosterbeek 25
 oosterbeekplantsoen
 oosterbeekstraat
 oosterbeemd
 oosterberg
-oosterbergvoetpad
 oosterbergweg
-oosterbinnenpad
 oosterbleek
 oosterblokker
 oosterboekelweg
@@ -1482,6 +1509,7 @@ oosterbrink
 oosterbrinkweg
 oosterbroek
 oosterbroeken
+oosterbroekenweg
 oosterbroekstraat
 oosterbroekweg
 oosterbrug
@@ -1509,14 +1537,6 @@ oosterdreef
 oosterdstraat
 oosterduin
 oosterduinen
-oosterduinen a
-oosterduinen b
-oosterduinen c
-oosterduinen d
-oosterduinen e
-oosterduinen f
-oosterduinen g
-oosterduinen z
 oosterduinpad
 oosterduinplein
 oosterduinstraat
@@ -1528,7 +1548,6 @@ oosterdwarsstraat
 oosterdwarsweg
 oostereemsweg
 oosteregge
-oostereiland
 oostereind
 oostereinde
 oosterenbanweg
@@ -1544,11 +1563,9 @@ oosteres
 oosteresstraat
 oosteresweg
 oostergast
-oostergats
 oostergeeststraat
 oostergo
 oostergoo
-oostergoostr
 oostergoostraat
 oostergoplein
 oostergosingel
@@ -1557,6 +1574,7 @@ oostergouw
 oostergoweg
 oostergracht
 oostergrachtswal
+oostergrift
 oosterguitestraat
 oosterhagen
 oosterhagestraat
@@ -1591,15 +1609,22 @@ oosterholtsweg
 oosterholtweg
 oosterhoogte
 oosterhorn
+oosterhout 19
+oosterhout 33
+oosterhout-oost 18
+oosterhout-zuid 17
 oosterhoutje
 oosterhoutlaan
+oosterhoutpad
 oosterhoutse busbaan
 oosterhoutsedijk
 oosterhoutsestraat
 oosterhoutseweg
 oosterhoutstraat
+oosterhoutweg
 oosterhuisstraat
 oosterhuisweg
+oosterhuizerbrug
 oosterhuizerspreng
 oosterhuizerweg
 oosterhulst
@@ -1633,11 +1658,11 @@ oosterland
 oosterlandenerf
 oosterlandenweg
 oosterlandse rak
+oosterlandsedijk
 oosterlandseweg
 oosterlandstraat
 oosterlandweg
 oosterlangen
-oosterlangenweg
 oosterlangweg
 oosterlee
 oosterleek
@@ -1671,7 +1696,7 @@ oostermoer
 oosternielandsterweg
 oosternotweg
 oosterom
-oosterpaasloã«rweg
+oosterpaasloÃ«rweg
 oosterpaauwenweg
 oosterpad
 oosterparallelstraat
@@ -1688,19 +1713,18 @@ oosterplasweg
 oosterpolderpad
 oosterpolderweg
 oosterpoort
-oosterpoort
 oosterreeweg
 oosterringdijk
 oosterringweg
 oosterschans
 oosterschelde
 oosterscheldedijk
+oosterscheldekering
 oosterscheldelaan
 oosterscheldestraat
 oosterscheldeweg
 oosterschie
 oosterschoolstraat
-oosterse bos en middendorp
 oosterse es
 oosterse lageweg
 oosterse tuin
@@ -1727,6 +1751,7 @@ oosterstreng
 oosterstukkenweg
 oosterterpweg
 oostertochtpad
+oostertoegang
 oostertuinen
 oostertuinstraat
 oostervalge
@@ -1747,13 +1772,13 @@ oosterveldweg
 oostervenen
 oostervenne
 oostervleddersdijk
-oostervoetpad
 oostervoor
 oostervoort
 oostervoortseweg
 oosterwal
 oosterwalstraat
 oosterwaterweg
+oosterwechelseweg
 oosterwechelsweg
 oosterweegje
 oosterweel
@@ -1772,6 +1797,7 @@ oosterweilandweg
 oosterweren
 oosterwerf
 oosterwierum
+oosterwijk
 oosterwijk oz
 oosterwijk wz
 oosterwijkerweg
@@ -1780,9 +1806,12 @@ oosterwijksestraat
 oosterwijkweg
 oosterwijtwerderweg
 oosterwijzend
+oosterwolde
+oosterwolde-noord
 oosterwoldseweg
 oosterzandweide
 oosterzate
+oosterzee 18
 oosterzeel
 oosterzelestraat
 oosterzijde
@@ -1794,9 +1823,8 @@ oostgaag
 oostgat
 oostgatlaan
 oostgatplein
+oostgatsteeg
 oostgatstraat
-oostgerepolder
-oostgouweweg
 oostgraftdijk
 oostgrasdijk
 oostgriend
@@ -1807,7 +1835,6 @@ oosthaven
 oosthavendam
 oosthavendijk
 oosthavenkade
-oosthavenpark
 oosthavenplaats
 oosthavenzijde
 oosthemstraat
@@ -1825,19 +1852,20 @@ oosthout
 oosthoutlaan
 oosthoutplein
 oosthoven
+oosthuizen 2
 oosthuizenstraat
 oosthuizerweg
 oostindie
 oostindischewijk
-oostindiã«
+oostindiÃ«
 oostinglaan
 oostingslaan
 oostkaap
+oostkaapsebrug
 oostkade
 oostkadepad
 oostkadijk
 oostkanaaldijk
-oostkanaalhaven
 oostkanaalkade
 oostkanaalweg
 oostkant
@@ -1874,7 +1902,6 @@ oostmallestraat
 oostmede
 oostmeep
 oostmeerlaan
-oostmeerpad
 oostmiddelweg
 oostmijzerdijk
 oostmoer
@@ -1888,7 +1915,7 @@ oostmolenweg
 oostmolenwerf
 oostmoor
 oostoever
-oostoeverpad
+oostoever noordzijde
 oostoeverweg
 oostopgaande
 oostpad
@@ -1901,8 +1928,11 @@ oostplein
 oostpolder
 oostpolderweg
 oostpoort
+oostpoortbrug
 oostpoortweg
+oostpuntsepad
 oostrand
+oostrandbrug
 oostranddreef
 oostrandpark
 oostrikkerdijk
@@ -1927,15 +1957,12 @@ oosttangent
 oosttangent noord
 oosttangent zuid
 oostumerweg
-oostvaardersbos
 oostvaardersbosplaats
 oostvaardersdiep
 oostvaardersdijk
 oostvaardersdijk 01
 oostvaardershof
 oostvaardersplein
-oostvaarderszone
-oostvaartpad
 oostveensepad
 oostveenseweg
 oostveenweg
@@ -1944,6 +1971,7 @@ oostvest
 oostvierdeparten
 oostvlietstraat
 oostvlietweg
+oostvoorne 8
 oostvoornelaan
 oostvoornestraat
 oostvoornsestraat
@@ -1954,6 +1982,7 @@ oostwaarderbrug
 oostwaarts
 oostwal
 oostwalstraat
+oostwaltunnel
 oostwateringweg
 oostweg
 oostwegeling
@@ -1964,9 +1993,9 @@ oostwijkstraat
 oostwold
 oostwolderweg
 oostwoldjerweg
-oostwoldstraat
 oostwouder dorpsstraat
 oostzaan
+oostzaan zaandam
 oostzaanstraat
 oostzanddijk
 oostzanerdijk
@@ -1997,6 +2026,7 @@ ooyerhoeksepad
 ooyerhoekseweg
 ooyevaar
 ooyhuizensestraat
+ooypoort
 ooyse landweg
 ooyse sluispad
 ooysedijk
@@ -2004,27 +2034,29 @@ op 'e iisbaan
 op 'e romte
 op 'e syl
 op 'e terp
-op 'e tãºn
-op 'e wã¢l
+op 'e tÃºn
+op 'e wÃ¢l
 op 't aardbroek
 op 't broek
 op 't fintsje
 op 't haim
 op 't hobus
 op 't holt
+op 't holtland
 op 't hulshof
-op 't hã¶velke
+op 't hÃ¶velke
+op 't kip
 op 't laer
 op 't landtweg
 op 't root
 op 't veldje
 op 't zand
 op 't zilverzand
-op 't zã ã nd
 op buurenplein
 op caliskamp
 op d'eijnde
 op d'hei
+op d'n akker
 op de acker
 op de akker
 op de aks
@@ -2044,9 +2076,10 @@ op de brakerhoef
 op de bree
 op de brug
 op de bus
+op de camp
 op de coul
 op de diep
-op de diã©ke
+op de diÃ©ke
 op de dreef
 op de dries
 op de driessen
@@ -2056,7 +2089,6 @@ op de geer
 op de graaf
 op de grensberg
 op de grubbe
-op de haan
 op de haard
 op de hagen
 op de heugden
@@ -2066,7 +2098,6 @@ op de hoogmaas
 op de hoogte
 op de hoort
 op de hor
-op de kamp
 op de kamp
 op de kampes
 op de kanijnskamp
@@ -2090,14 +2121,13 @@ op de losplaats
 op de lundert
 op de maalberg
 op de meer
-op de mergelstoel
 op de meuleberg
 op de miste
-op de mã¨rt
 op de nieuwe weg
 op de nobel
 op de paal
 op de paap
+op de pan
 op de pas
 op de peelberg
 op de peperkamp
@@ -2106,12 +2136,10 @@ op de rede
 op de ree
 op de ries
 op de rieseberg
-op de rijsecamp
 op de rooter
 op de roskamp
 op de set
 op de smelen
-op de spekt
 op de spoordijk
 op de stalberg
 op de stap
@@ -2124,7 +2152,6 @@ op de valckxberg
 op de varsen
 op de vey
 op de vijf bunder
-op de vlis
 op de voetpad
 op de waart
 op de wal
@@ -2142,8 +2169,6 @@ op de wis
 op den adel
 op den akker
 op den berg
-op den berg
-op den bergen
 op den birkenbosch
 op den bock
 op den bond
@@ -2154,6 +2179,7 @@ op den claver
 op den dam
 op den das
 op den dijk
+op den donk
 op den dreek
 op den drees
 op den dries
@@ -2163,6 +2189,7 @@ op den hamel
 op den henneberg
 op den heuvel
 op den hoef
+op den hof
 op den hoogen boom
 op den hul
 op den kamp
@@ -2195,19 +2222,16 @@ op het toneel
 op het veld
 op het veldje
 op het voetpad
-op het vã¶gelke
+op het vÃ¶gelke
 op het zant
-op het zetveld
 op kernies
 op koers
 op koye
 op paomewieje-voetpad
-op santfort
 op schrauwsberg
 op stee
 op ten noortlaan
 op'e feart
-op'e syl
 op'e terp
 opaal
 opaaldijk
@@ -2235,12 +2259,14 @@ opdijk
 opdijkstraat
 open einde
 open hof
+openbaar vervoerbaan
 openbare ruimte uit buurgemeente
 openbaring
 openderweg
 openhartsteeg
 opera
 operadreef
+operahof
 operalaan
 operapad
 operaplein
@@ -2265,11 +2291,13 @@ ophemertsedijk
 ophemertsestraat
 ophemertstraat
 opheusdenhof
+opheusendse veer
 opheve
 ophirstrjitte
 ophoven
 ophovenseweg
 ophovenstraat
+ophovenweg
 ophoviuslaan
 ophoviusstraat
 ophuisweg
@@ -2289,6 +2317,7 @@ opmeerderweg
 opmerkzaam
 oportohof
 oppad
+oppe berg
 oppe brik
 oppe loswal
 oppe stein
@@ -2299,20 +2328,20 @@ oppenhuizerweg
 opper
 opper haudmare
 opper van treurenstraat
-opper van treurenstraat
 opperbos
 opperbuorren
 opperbuorren-east
 opperbuorren-west
 opperdoespad
+opperdoezer
 opperdoezerpad
-opperdonk veldweg
-opperdonkseweg
 opperduit
+opperduitstraat
 oppergelrestraat
 opperheide
 opperkoatsterwei
 opperland
+opperman
 oppermanstraat
 oppermoeren
 oppers
@@ -2328,7 +2357,6 @@ opperweg
 oppevenerweg
 oppidum
 oppikweg
-oppland
 oprelseweg
 oprijlaan
 opril
@@ -2336,21 +2364,22 @@ opril beestenmarkt
 opril grote markt
 opril westwal
 oprit
+oprit bosscherweg
+oprit hilvertshof
 opscheumer
 opslach
 opslag
 opsnijder
 opsplitting
 opstal
+opstalstraat
 opstalweg
 opsterland
 opsterlandstraat
 optenoord
 opticaweg
-optimashof
 optimist
 optimiststraat
-optioplaats
 optiostraat
 optwizel
 opusstraat
@@ -2373,15 +2402,12 @@ orangerie
 orangerielaan
 orangeriepad
 oranje
-oranje  gelderlandlaan
 oranje bovenpad
+oranje garde brug
 oranje gelderlandlaan
 oranje marieplein
-oranje nassau
 oranje nassaulaan
-oranje nassauplantsoen
 oranje nassauplein
-oranje nassausingel
 oranje nassaustraat
 oranje nassauweg
 oranje pan
@@ -2390,11 +2416,11 @@ oranje vrijbuiterskade
 oranje vrijbuiterslaan
 oranje vrijstaatplein
 oranje weeshuisstraat
+oranje zandoogje
 oranje zegge
 oranje zwartstraat
 oranje-bastion
 oranje-erf
-oranje-nassau-plantsoen
 oranje-nassauhof
 oranje-nassaulaan
 oranje-nassaupark
@@ -2406,15 +2432,17 @@ oranjebaan
 oranjebloesem
 oranjebolwerk
 oranjebond
+oranjeboomdreef
 oranjeboomkade
 oranjeboomlaan
 oranjeboomplein
 oranjeboomstraat
+oranjebrug
+oranjebrug 0146
 oranjebuitensingel
 oranjebuorren
 oranjedam
 oranjedijk
-oranjedorp
 oranjedorpstraat
 oranjedreef
 oranjedwarsstraat
@@ -2427,6 +2455,7 @@ oranjekade
 oranjekanaal
 oranjekanaal n.z.
 oranjekanaal nz
+oranjekanaal z..z.
 oranjekanaal z.z.
 oranjekanaal zz
 oranjelaan
@@ -2449,7 +2478,6 @@ oranjepolderhof
 oranjepolderseweg
 oranjepolderweg
 oranjerie
-oranjerielaan
 oranjeriestraat
 oranjerivierdreef
 oranjerivierstraat
@@ -2483,14 +2511,15 @@ orberlaan
 orbisonstraat
 orcastraat
 orchidee
-orchideeenstraat
 orchideehof
 orchideelaan
 orchideestraat
+orchideetuin
 orchideeveld
 orchideeweg
-orchideeã«nlaan
-orchideeã«nstraat
+orchideeÃ«nlaan
+orchideeÃ«nstraat
+orchideeÃ«ntuin
 orchis
 orchislaan
 orchismient
@@ -2515,7 +2544,6 @@ oreliosingel
 oreliostraat
 oremusplein
 orestespad
-orfeo
 orfeoschouw
 orffstraat
 orgelakker
@@ -2537,20 +2565,19 @@ orinocodreef
 orinocostraat
 orinocostroom
 orion
+orionbrug
 orionerf
-orionhof
 orionlaan
 orionpad
 orionplantsoen
 orionplein
-orionpoort
 orionsingel
 orionstraat
 orionweg
 orisant
 orisantstraat
-oriã«ntatielaan
-oriã«ntblauw
+oriÃ«ntatielaan
+oriÃ«ntblauw
 orka
 orkaan
 orkaden
@@ -2559,7 +2586,6 @@ orkastraat
 orkest
 orkestlaan
 orkestpad
-orkestweg
 orkneypad
 orlando di lassostraat
 orlandopad
@@ -2576,6 +2602,7 @@ ormelstraat
 ormoesstraat
 ornament
 orneawei
+orneawie
 ornsteinsingel
 ornsteinstraat
 orpheopad
@@ -2611,6 +2638,7 @@ orvelterbrink
 orvelterdek
 orvelterstraat
 orvelterveld
+orvelterweg
 orvelterzand
 orveltestraat
 orwellstraat
@@ -2622,7 +2650,7 @@ osbornehof
 osbornezijde
 osbroeken
 osbroeksweg
-oscar carrã©straat
+oscar carrÃ©straat
 oscar hammersteinstraat
 oscar leeuwlaan
 oscar leeuwstraat
@@ -2637,6 +2665,7 @@ oscar woltersstraat
 oscarlaan
 oschweg
 osdijk
+osdorp 6
 osdorper ban
 osdorperweg
 osdorpplein
@@ -2647,7 +2676,6 @@ osen
 osenzicht
 oshaarseweg
 osingahuzen
-osingahãºzen
 osingasingel
 osingastate
 osingastraat
@@ -2655,6 +2683,7 @@ osirispad
 oskamstraatje
 oskar nedbalhof
 oslo
+oslobrug
 oslofjord
 oslohaven
 oslokade
@@ -2665,9 +2694,11 @@ osloplein
 oslostraat
 osloweg
 osmiumstraat
-osnabrã¼ckstraat
+osnabrÃ¼ckstraat
 ospelerweg
 ospelseweg
+oss 52
+oss-oost 53
 ossebroeken
 ossecamp
 ossedijk
@@ -2679,15 +2710,16 @@ ossehoederstraat
 ossehoekweg west
 ossekamp
 ossekop
+osselandwerf
 ossemannetjes
 ossenbeltsdijk
 ossenberg
+ossenberg heideweg
 ossenbergerhout
 ossenbergweg
 ossenbil
 ossenblok
 ossenbroekweg
-ossenbrug
 ossendaalselaan
 ossendamweg
 ossendijk
@@ -2696,6 +2728,7 @@ ossendrechtpad
 ossendrechtseweg
 ossendrechtstraat
 ossengang
+ossengoordreef
 ossenhoek
 ossenhoofdsteeg
 ossenhoofdstraat
@@ -2722,12 +2755,13 @@ ossenvenne
 ossenwaard
 ossenwaardpad
 ossenwaardpad; onderdeel kromme rijnpad
+ossenwaardsedam
 ossenweerd
 ossenweerdstraat
 ossenweg
 ossenweide
+ossenweide tun
 ossenweiderhof
-ossenzijlerpad
 ossenzijlerweg
 ossenzijlstraat
 osseplein
@@ -2753,14 +2787,13 @@ ossip zadkinestraat
 osstraat
 ostaaijensebaan
 ostadehof
+ostaderhofje
 ostaderplantsoen
 ostaderstraat
 ostara
 ostayweg
 ostendestraat
-osterbos
 ostrea
-ostwald
 ostwaldstraat
 osvenstraat
 oswald wenckebachhof
@@ -2779,7 +2812,6 @@ oterlekerweg
 otgenspad
 otheense kreek
 otheensedreef
-othello
 othellodreef
 othellolaan
 othellostraat
@@ -2787,7 +2819,6 @@ othelloweg
 othmar ten catestraat
 othon frieszpad
 otis reddingplein
-otje
 otmanlanden
 otmansweg
 otopeniweg
@@ -2830,10 +2861,12 @@ otterpad
 otterrade
 otterring
 ottersaat
+ottersbos
 otterschelp
 ottersdam
 ottersgat
 ottershagenweg
+ottersheuvel
 ottersingel
 ottersluis
 otterspol
@@ -2851,8 +2884,10 @@ ottertjes
 otterveld
 otterweg
 otterweide
+otterwiel
 ottho heldringstraat
 otto bonsemalaan
+otto clantstrjitte
 otto cluivinglaan
 otto copesstraat
 otto de beuspad
@@ -2866,7 +2901,6 @@ otto hahnweg
 otto ii van gelrestraat
 otto klempererstraat
 otto matseweg
-otto matzeweg
 otto reuchlinweg
 otto smikstraat
 otto snaafslaan
@@ -2876,7 +2910,6 @@ otto van der leckstraat
 otto van deventerstraat
 otto van egmondlaan
 otto van gelreweg
-otto van lippestraat
 otto van polanenstraat
 otto van reeslaan
 otto van reesweg
@@ -2892,6 +2925,7 @@ otto'slaan
 otto-erf
 ottoborrengoed
 ottoburgstraat
+ottodreef
 ottolaan
 ottoland
 ottolanderlaan
@@ -2906,6 +2940,7 @@ oturia
 otwardplaats
 otweg
 ouborg
+oud - beijerland 21
 oud aa
 oud aalden
 oud adeselaan
@@ -2913,6 +2948,7 @@ oud alteveer c
 oud ambacht
 oud amelisweerd
 oud amstenraderweg
+oud anrhemseweg
 oud arnemuidsvoetpad
 oud arnhemseweg
 oud avereest
@@ -2921,7 +2957,6 @@ oud blaricummerweg
 oud boerenverdrietweg
 oud bogardenstraatje
 oud bonaventurasedijk
-oud borkelsedijk
 oud boshoven
 oud brandevoort
 oud bussummerweg
@@ -2932,11 +2967,11 @@ oud doetinchemseweg
 oud drimmelen
 oud eemnesserweg
 oud emmeloorderweg
-oud erensteinerweg
 oud ferdinandusdijk
 oud gasthuisplein
 oud goltenweg
 oud groevenbeeklaan
+oud haamstede
 oud heiligeweg
 oud heinstraat
 oud herlaer
@@ -2977,7 +3012,6 @@ oud reeuwijkseweg
 oud rhoonsedijk
 oud roosteren
 oud schaik
-oud scherpenburg
 oud schoolpad
 oud schuilenburg
 oud spoor
@@ -3024,8 +3058,6 @@ oud-raeffeldamweg
 oud-ravensteinseweg
 oud-rozenburglaan
 oud-spoorpad
-oud-valkenburg
-oud-valkenburgerweg
 oud-valkenhuizerstraat
 oud-veldzichtlaan
 oud-wulvenlaan
@@ -3037,6 +3069,7 @@ oudaenstraat
 oudartstraat
 oudaseweg
 oudbroek
+oudbroeken
 oudburgerlaan
 ouddeelstraat
 ouddiemerlaan
@@ -3044,9 +3077,9 @@ ouddorp
 ouddorpse haven
 ouddorpsestraat
 ouddorpstraat
-oude
 oude 's-gravelandseweg
 oude 's-gravendijckseweg
+oude 's-gravendijkseweg
 oude a straat
 oude aa
 oude aaltenseweg
@@ -3064,7 +3097,8 @@ oude almeloseweg
 oude amersfoortseweg
 oude amstenraderweg
 oude amsterdamsestraatweg
-oude anloã«rweg
+oude anloerweg
+oude anloÃ«rweg
 oude antwerpsepostbaan
 oude apeldoornseweg
 oude appelaarsedijk
@@ -3075,6 +3109,7 @@ oude arnhemse bovenweg
 oude arnhemsekarweg
 oude arnhemsestraatweg
 oude arnhemseweg
+oude asselseweg
 oude asserstraat
 oude azaleastraat
 oude azinkdijk
@@ -3082,23 +3117,21 @@ oude baaknolweg
 oude baan
 oude baan-oost
 oude baan/tramwegje
-oude baden-powellweg
 oude badweg
 oude bakelseweg
 oude balksterweg
-oude balsvoortseweg
 oude ban
 oude bandijk
 oude barnevelderweg
 oude barneveldseweg
 oude bathmenseweg
 oude beeck
+oude beek
 oude beekbergerweg
 oude beekhoek
 oude beekpad
 oude beeksepad
 oude beekseweg
-oude beekstraat
 oude beemdseweg
 oude beemterweg
 oude beerpoldersekade
@@ -3118,11 +3151,11 @@ oude bergweg
 oude bestse ploegstraat
 oude bestseweg
 oude beulakerweg
+oude biebweg
 oude bieffel
 oude bierhoogtweg
 oude bijlandseweg
 oude bijschoterweg
-oude binnenhaven
 oude binnenweg
 oude bisschopweg
 oude blaauwweg
@@ -3169,8 +3202,6 @@ oude bovensteweg
 oude braak
 oude brachterweg
 oude brandenburgerweg
-oude brandlintjesweg
-oude brandweg
 oude brandweg
 oude brantlintjesweg
 oude bredase baan
@@ -3189,12 +3220,11 @@ oude bronkweg
 oude brugstraat
 oude brummensebeekpad
 oude brunssummerweg
-oude buitenhaven
 oude buitenkade
 oude buizerdlaan
 oude bunnikseweg
 oude buurserdijk
-oude campsweg
+oude carnisseweg
 oude carolieweg
 oude coevorderweg
 oude commissieweg
@@ -3206,7 +3236,6 @@ oude dalerveensestraat
 oude dalfserweg
 oude dam
 oude deldenerweg
-oude deldensedwarsweg
 oude deldensestraat
 oude deldenseweg
 oude delft
@@ -3215,7 +3244,6 @@ oude deurningerweg
 oude deventerstraatweg
 oude deventerweg
 oude diedenweg
-oude diederikpolderweg
 oude diep
 oude diepenheimseweg
 oude diepenveenseweg
@@ -3224,7 +3252,6 @@ oude diepje
 oude dierdonk
 oude dierikpolderweg
 oude dieze
-oude dijk
 oude dijk
 oude dijkje
 oude dijkpad
@@ -3248,7 +3275,6 @@ oude draaipad
 oude dreef
 oude driebergseweg
 oude drienerloweg
-oude driesweg
 oude drift
 oude dronterweg
 oude drydijck
@@ -3280,6 +3306,7 @@ oude esweg
 oude ettensebaan
 oude exloerweg
 oude fabriekstraat
+oude fochtelooerweg
 oude franse pad
 oude gaarden
 oude galgenstraat
@@ -3290,15 +3317,14 @@ oude gasthuisstraat
 oude geeserweg
 oude geleiweg
 oude geleyeweg
-oude gemeneweg
-oude geserweg
 oude gest
 oude gestelseweg
 oude gilzerbaan
 oude goirleseweg
-oude goorderweg
 oude goorenweg
 oude goorseweg
+oude goorstraat
+oude goote
 oude gouw
 oude graaf
 oude graafsestraat
@@ -3310,16 +3336,16 @@ oude grachtje
 oude grazingweg
 oude grensweg
 oude grind
+oude grindweg
 oude grintweg
 oude groenestraat
 oude groenewoudseweg
 oude groenloseweg
 oude groenmarkt
 oude groenstraat
-oude grolloã«rweg
+oude grolloÃ«rweg
 oude grolsesteeg
 oude groningerweg
-oude gronsvelderweg
 oude grote baan
 oude haagseweg
 oude haagweg
@@ -3328,14 +3354,13 @@ oude haaksbergerweg
 oude haarenseweg
 oude haarlemmerstraatweg
 oude haarlemmerweg
+oude hagelingerweg
 oude hammerweg
 oude hanenstraatje
 oude harderwijkerweg
 oude haven
-oude haven noord
-oude haven zuid
+oude havenbrug
 oude havendijk
-oude havenplein
 oude havenplein
 oude havensteeg
 oude havenstraat
@@ -3349,12 +3374,11 @@ oude heerstraat
 oude heerweg
 oude heide
 oude heiderweg
-oude heideweg
 oude heijdijk
 oude heijningsedijk
 oude heijningseweg
 oude heikantsepad
-oude heilooã«rdijk
+oude heilooÃ«rdijk
 oude heilust
 oude heinsbergerweg
 oude heirbaan
@@ -3380,7 +3404,6 @@ oude heuvel
 oude hichtumerweg
 oude hilvarenbeekseweg
 oude hilwegje
-oude hoefijzergang
 oude hoevenseweg
 oude hoevenweg
 oude hoevepad
@@ -3391,10 +3414,8 @@ oude hoflaan
 oude hofstad
 oude hoge dijk
 oude hogeweg
-oude hokkelstraat
 oude holesweg
 oude holleweg
-oude holsterweg
 oude holterdijk
 oude holterweg
 oude hondsbergselaan
@@ -3402,7 +3423,6 @@ oude hoofdweg
 oude hoogeveensedijk
 oude hoogstraat
 oude hoogstratensebaan
-oude hooislag
 oude hooislag
 oude hoon
 oude hoondertsedijk
@@ -3421,23 +3441,22 @@ oude hushoverweg
 oude huys
 oude ijsbaan
 oude ijssel
+oude ijsselbrug
 oude ijsselmondsehoofd
 oude ijsselweg
-oude ijsselweg
 oude industrieweg
-oude jaagpad
-oude jaagpad
 oude jaagpad
 oude jirden
 oude jodenkerkhoflaan
 oude jokweg
 oude kaai
 oude kade
+oude kade dooldijk
+oude kadesedijk
 oude kalkdijk
 oude kampenweg
 oude kampweg
 oude kanaaldijk
-oude kanaalstraat
 oude kanonsdijk
 oude kapel
 oude kapelaniestraat
@@ -3460,7 +3479,6 @@ oude kerklaan
 oude kerkpad
 oude kerkplein
 oude kerkstraat
-oude kerkstraat
 oude kerkweg
 oude keulsebaan
 oude kijk in 't jatstraat
@@ -3482,6 +3500,7 @@ oude koekoekweg
 oude koemarkt
 oude koepel
 oude koevering
+oude koffiestraat
 oude kolkstedeweg
 oude koningstraat
 oude kooi
@@ -3490,14 +3509,11 @@ oude koudekerkseweg
 oude kraaijertsedijk
 oude kraan
 oude kromstraat
-oude kruier
 oude kruisbergseweg
 oude kruisstraat
 oude kruisweg
 oude kustlijn
 oude kweek
-oude laan
-oude laantje
 oude laarderweg
 oude lageweg
 oude lagezoom
@@ -3515,12 +3531,12 @@ oude leeweg
 oude leidijk
 oude leidseweg
 oude leij
-oude leije
 oude leijstraat
 oude leliestraat
 oude lemseloseweg
 oude lentsebaan
 oude leusderweg
+oude leuvenumsepad
 oude leyepad
 oude liermolenweg
 oude liesboslaan
@@ -3554,6 +3570,7 @@ oude lune
 oude lunterseweg
 oude lutkeberg
 oude lutterkerkweg
+oude maalplaats
 oude maar
 oude maarsseveensevaart
 oude maasdijk
@@ -3564,6 +3581,7 @@ oude maastrichterweg
 oude maasweg
 oude maat
 oude maatje
+oude maatsdijk
 oude maatsestraat
 oude maatsweg
 oude maden
@@ -3576,7 +3594,6 @@ oude markt
 oude marktstraat
 oude marsakker
 oude marsgrond
-oude marskolk
 oude marslaan
 oude marsveld
 oude marswal
@@ -3612,6 +3629,7 @@ oude molenbeekweg
 oude molenbolwerk
 oude molendreef
 oude molenheide
+oude molenhuisweg
 oude molenmeent
 oude molenstraat
 oude molenvoetpad
@@ -3623,6 +3641,7 @@ oude montforterweg
 oude moolweg
 oude morsweg
 oude muchteweg
+oude mude
 oude muiderstraatweg
 oude muschbergweg
 oude naarderweg
@@ -3656,6 +3675,7 @@ oude oosterstraat
 oude oosterweg
 oude oostrumseweg
 oude ootmarsumsestraat
+oude opgaande
 oude oppenhuizerweg
 oude oven
 oude oxersteeg
@@ -3669,14 +3689,12 @@ oude parklaan
 oude pastorie
 oude pastoriestraat
 oude pastorieweg
-oude peeldijk
 oude peelstraat
 oude peteweg
 oude pijlsweerdstraat
 oude pinnedijk
 oude plantagedreef
 oude plein
-oude poeldijk
 oude poelweg
 oude polderdijk
 oude polderpad
@@ -3700,7 +3718,6 @@ oude raadhuislaan
 oude raadhuisplein
 oude raadhuisstraat
 oude raalterweg
-oude raalteweg
 oude raamstraat
 oude reekstraat
 oude regthuys
@@ -3736,13 +3753,14 @@ oude rogkamp
 oude rondweg
 oude roodehaansterweg
 oude roosendaalsebaan
-oude rosmolenstraat
 oude rossumerstraat
 oude roswinkelerweg
 oude rozeboomseweg
 oude rozengaardseweg
 oude ruisweg
+oude ruiterweg
 oude ruurloseweg
+oude rykswg
 oude schaarsestraat
 oude schachtstraat
 oude schaijkseweg
@@ -3750,7 +3768,6 @@ oude schandeloseweg
 oude schans
 oude schanslaan
 oude schapendrift
-oude schelpweg
 oude scheperweg
 oude schietbaanweg
 oude schijndelseweg
@@ -3767,13 +3784,13 @@ oude schoolweg
 oude schoondorpseweg
 oude schoonebekerstraat
 oude schoorlse zeedijk
+oude schootweg
 oude schouwsedijk
 oude schroeweg
 oude schulpweg
 oude schuttenstraatje
 oude schuttingkanaal oz
 oude schuttingkanaal wz
-oude schuttingskanaal
 oude schuurweg
 oude simpelvelderweg
 oude singel
@@ -3837,22 +3854,22 @@ oude terheijdenseweg
 oude terpweg
 oude thornerweg
 oude tielseweg
-oude tiendweg
 oude tilburgsebaan
 oude tilburgseweg
 oude tilsterweg
 oude tocht
 oude tol
+oude tolbrug
 oude toldijk
 oude tolhuisweg
 oude tolstraat
 oude tolweg
+oude torenbrug
 oude torendreef
 oude torenstraat
 oude torenweg
 oude touwbaan
 oude touwfabriek
-oude trambaan
 oude trambaan
 oude trambrug
 oude tramweg
@@ -3867,7 +3884,6 @@ oude turfvaartsestraat
 oude turfweg
 oude turnhoutsebaan
 oude tweebergenpoort
-oude tweebergerpoort
 oude twentseweg
 oude ubbergseweg
 oude udenseweg
@@ -3900,7 +3916,6 @@ oude veerstraat
 oude veerweg
 oude veghelsedijk
 oude veiling
-oude veiling
 oude velddijk
 oude veldjes
 oude veldkampsweg
@@ -3922,22 +3937,20 @@ oude vleutenseweg
 oude vlie
 oude vliegveldweg
 oude vlierweg
-oude vlietpad
 oude vlietpolderdijk
 oude vlietweg
 oude vlijmenseweg
 oude vlissingseweg
 oude voetboogstraat
 oude vogelschorstraat
-oude vonkelweg
 oude voorthuizerweg
 oude vordenseweg
 oude vorstenbosschedreef
 oude voskuilersteeg
 oude vreewijkseweg
 oude vresselseweg
-oude vriezengang
 oude vriezenveenseweg
+oude vrijheid
 oude waag
 oude waal
 oude waaldijk
@@ -3962,7 +3975,6 @@ oude weerseloseweg
 oude weersterweg
 oude weerterweg
 oude weg
-oude weg
 oude weg naar het stomme kruis
 oude wehlseweg
 oude wei
@@ -3973,16 +3985,17 @@ oude weimerstraat
 oude weisestraat
 oude weistraat
 oude wekeromseweg
+oude welzingseweg
 oude wemestraat
 oude werf
 oude werfstraat
+oude westerdijk
 oude westerloosedijk
 oude wetering
 oude weteringpad
 oude weurtseweg
 oude wezeveldseweg
 oude wierdenseweg
-oude wijk
 oude wijk
 oude wijvenhofje
 oude wildervanksterweg
@@ -3994,7 +4007,6 @@ oude winsumerstraatweg
 oude winterswijkseweg
 oude wisselseweg
 oude wissinkweg
-oude witterbrug
 oude woerdlaan
 oude woestendijk
 oude woudenbergse zandweg
@@ -4009,6 +4021,7 @@ oude zandweg
 oude zeedijk
 oude zeegserweg
 oude zeekering
+oude zeekering 1
 oude zeepweg
 oude zeeweg
 oude zelhemseweg
@@ -4039,6 +4052,7 @@ oude-domptweg
 oude-grachtpad
 oude-haarweg
 oude-helmondseweg
+oude-heuvenseweg
 oude-hoofdvaartsweg
 oude-ijselstraat
 oude-lieshoutsedijk
@@ -4046,7 +4060,7 @@ oude-molenstraat
 oude-molenweg
 oude-stationsweg
 oude-tongepad
-oude-torendreef
+oude-wetering 1
 oudebaan
 oudebakenweg
 oudebeekweg
@@ -4069,6 +4083,7 @@ oudegoedstraat
 oudegraafdijk
 oudegracht
 oudegracht aan de werf
+oudehaske 25
 oudehavenkade
 oudehoofdplein
 oudejaarseweg
@@ -4078,7 +4093,7 @@ oudekamp
 oudekennissteeg
 oudekerkhofpad
 oudekerkpad
-oudekerkselaan
+oudekerksbrug 206
 oudekerksplein
 oudekerkstraat
 oudelaan
@@ -4121,7 +4136,9 @@ oudenaardeplantsoen
 oudenakkerstraat
 oudenallerstraat
 oudenborch
+oudenbosch 22
 oudenboschstraat
+oudenbossche koepelbaan
 oudenbosscheweg
 oudendijk
 oudendijkseweg
@@ -4132,12 +4149,12 @@ oudenhoflaan
 oudenhofstraat
 oudenhofweg
 oudenhoornstraat
+oudenhorst
 oudenhorsterlaan
 oudenhorsterpad
 oudenhove
 oudenhovenstraat
 oudenmolen
-oudenoldersgang
 oudenoord
 oudenrijnlaan
 oudenrijnsepad
@@ -4146,6 +4163,7 @@ oudenrijnsingel
 oudenstaart
 oudenstein
 oudepad
+oudepolder
 oudepolderdijk
 oudepolderseweg
 ouderdinge
@@ -4153,12 +4171,16 @@ ouderf
 oudergaarde
 oudergemstraat
 ouderhoek
+ouderijnbrug
+ouderkerk a/d amstel 1
 ouderkerkerdijk
 ouderkerkerlaan
+ouderkerkse landscheiding
 ouderkerkselaan
 oudersvrucht
 oudesaag
 oudeschans
+oudeschans 48
 oudeschanskerweg
 oudeschanspad
 oudeschildstraat
@@ -4174,6 +4196,7 @@ oudestraat
 oudestreek
 oudevaart
 oudevaartsgat
+oudevaartweg
 oudevaert
 oudeveen
 oudevest
@@ -4194,6 +4217,7 @@ oudezijds kolk
 oudezijds voorburgwal
 oudezijl
 oudgenoegstraat
+oudheusden
 oudheusdensestraat
 oudheusdenstraat
 oudhof
@@ -4205,6 +4229,7 @@ oudiestaete
 oudijk
 oudkerkeland
 oudkerkhof
+oudkerkse bos
 oudkerkseweg
 oudlaan
 oudland
@@ -4217,6 +4242,7 @@ oudlandseweg
 oudlandstraat
 oudlandstraatje
 oudlandweg
+oudmunsterhoef
 oudorperdijkje
 oudorperhoutpad
 oudorperplein
@@ -4226,7 +4252,6 @@ oudoverstede
 oudplein
 oudraadtweg
 oudsas
-oudshoornseweg
 oudshoornstraat
 oudsmidsestraat
 oudste poortstraat
@@ -4245,10 +4270,6 @@ oukes weer
 oukoop
 oukoopsedijk
 oukoopstraat
-ouroboros noord
-ouroboros oost
-ouroboros west
-ouroboros zuid
 outerlant
 outger jacobszstraat
 outgert pieterslaan
@@ -4266,6 +4287,8 @@ ouwe bramhof
 ouwe griepstraat
 ouwe raedthuysplein
 ouwe scherpstraat
+ouwe stee-noord
+ouwe stee-zuid
 ouwelandsestraat
 ouweleen
 ouwelkade
@@ -4282,8 +4305,9 @@ ouwerveldenweg
 ouwesteijn
 ouwijck
 ouwlandsedijk
+ov-baan
+ov-knooppunt gieten
 ovale stuiterplein
-ovatonde
 ovenberg
 ovenbouwershoek
 ovendam
@@ -4294,7 +4318,6 @@ over 't set
 over 't spoor
 over de barte
 over de beek
-over de beek
 over de dammen
 over de ee
 over de hoogte
@@ -4303,13 +4326,12 @@ over de kelders
 over de leek
 over de leij
 over de scheer
+over de tocht
 over de tol
 over de vesten
 over de voort
 over de waand
 over de weide
-over de weide dubbel
-over de wijmers
 over de zuidwind
 over den dries
 over holland
@@ -4334,7 +4356,7 @@ overbekerweg
 overbekkingsweg
 overbergplein
 overbergseweg
-overbetuweplein
+overberkel
 overbielseweg
 overbildtweg
 overblaak
@@ -4349,6 +4371,7 @@ overbrinck
 overbroek
 overbroekerf
 overbroekerstraat
+overbroekplein
 overbroeksestraat
 overbroekseweg
 overbroekweg
@@ -4370,6 +4393,7 @@ overdamstraat
 overdiemerweg
 overdiep
 overdiepad
+overdiepse polderpad
 overdiepse-polderweg
 overdiepsekade
 overdijksterweg
@@ -4381,11 +4405,11 @@ overduingaarde
 overdwarssteeg
 overegge
 overeind
+overeindsebrug
 overeindsepad
 overeindseweg
 overemer
 overeshof
-overesselijksestraat
 overesweg
 overflakkee
 overflakkeestraat
@@ -4395,6 +4419,7 @@ overgeul
 overgoo
 overgouw
 overhaal
+overhaalbrug
 overhaalsgang
 overhaalstraat
 overhaelen
@@ -4403,16 +4428,13 @@ overhagenseweg
 overhagenstraat
 overhandstraat
 overheek
-overheen
 overheicop
 overheuvel
 overhoekeresweg
-overhoeks
 overhoeksparklaan
 overhoeksplein
 overhoff
 overhofweg
-overhoogte
 overhorst
 overhorsterweg
 overhoven
@@ -4422,11 +4444,11 @@ overijselsestraat
 overijsselhaven
 overijssellaan
 overijsselplantsoen
-overijsselse hout
 overijsselselaan
 overijsselsepad
 overijsselsestraat
 overijsselsestraatweg
+overijsselsetocht
 overijsselseweg
 overijsselstraat
 overijsselweg
@@ -4436,7 +4458,6 @@ overkampsweg
 overkampweg
 overkerk
 overkorenweg
-overkorenzijweg
 overkrocht
 overkroetenlaan
 overkwartier
@@ -4448,13 +4469,13 @@ overlanderstraat
 overlangelseweg
 overlangelstraat
 overleek
+overleekplein
 overleg
 overlekergouw
 overlendepad
 overloonseweg
 overloonstraat
 overloop
-overloopwissel
 overloopwissel
 overloperhof
 overlotbroekerweg
@@ -4479,6 +4500,7 @@ overrijnseveld
 overscharenweg
 overscheenseweg
 overschie
+overschie 13
 overschiepad
 overschiese dorpsstraat
 overschiese kerksingel
@@ -4487,7 +4509,6 @@ overschiesedwarsstraat
 overschieseplein
 overschiesestraat
 overschieseweg
-overschieseweg rotterdam
 overschiestraat
 overschot
 oversinge
@@ -4517,6 +4538,8 @@ overste lockettstraat
 overste ludenstraat
 overste senecalstraat
 overste suijsstraat
+overste wanninkhofweg
+overste winkhofweg
 oversteeg
 oversteek
 overstehofweg
@@ -4536,11 +4559,10 @@ overtonweg
 overtoom
 overtoompad
 overtoompassage
-overtoomse veld
 overtoomsepad
+overtoomsesluis 0199
 overtuin
 overtuinen
-overvaart
 overveenstraat
 overveld
 overveldsestraat
@@ -4571,6 +4593,7 @@ overzichtweg
 ovezandepad
 ovezandseweg
 ovidius
+ovidiusbrug
 ovidiushof
 ovidiuslaan
 ovidiusstraat
@@ -4578,8 +4601,10 @@ ovinkstraat
 ovinksweg
 ovinkveld
 ovito
+owen chamberlainstraat
 owen richardsonstraat
 owensstraat
+oxerdwarssteeg
 oxerhoflaan
 oxerlaantje
 oxerpad

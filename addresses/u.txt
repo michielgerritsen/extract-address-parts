@@ -25,11 +25,13 @@ ubbo emmiussingel
 ubbo emmiusstraat
 ubbo j. mansholt plein
 ubbo wilkensstraat
-ubiã«rsplein
+ubiÃ«rsplein
 ublingaplantage
 ubroekweg
 ubroekweg noord
+ubuntubrug
 ubuntulaan
+uchida
 uddelermeer
 uddelermeerweg
 uddelerschans
@@ -41,6 +43,7 @@ uddelstraat
 udemalaan
 udenhoutseweg
 udenoord
+udens veld
 udensedijk
 udensedreef
 udenseweg
@@ -64,7 +67,6 @@ uienakker
 uienweg
 uijlenborg
 uijlenbroeklaan
-uijtendaalstraat
 uijterschootweg
 uijterwaardt
 uilebaardlaan
@@ -85,6 +87,7 @@ uilenbroekstraat
 uilenburg
 uilenburgersteeg
 uilenburgerwerf
+uilenburgpad
 uilenburgsestraat
 uilenburgstate
 uilenburgstraatje
@@ -127,8 +130,10 @@ uilstraat
 uilvlinder
 uilweg
 uit de pateel
+uit de wind
 uit den bosstraat
 uitbelderstraat
+uitbreidingsstraat
 uitdammer dorpsstraat
 uitdammerdijk
 uitdamstraat
@@ -142,19 +147,17 @@ uiterburen
 uiterburenweg
 uiterbuurtweg
 uiterdijk
+uiterdijkbrug
 uiterdijkenweg
-uiterdijkkade
 uiterdijksehof
 uiterdijksestraat
 uiterdijksterweg
 uiterdijksweg
-uiterkamp
+uiterland
 uitermeer
-uiterste stuiver
-uiterste stuiver
+uiterste brug
 uiterste stuiver oost
 uiterste stuiver west
-uiterste stuiver-oost
 uiterste stuiver-west
 uiterstegracht
 uiterwaalhof
@@ -165,6 +168,7 @@ uiterweg
 uiterwijkseweg
 uiterwijksteeg
 uitgang
+uitgeest 10
 uitgeesterweg
 uitgeeststraat
 uitgouw
@@ -218,11 +222,10 @@ uitvlucht
 uitweg
 uitweg van portengen
 uitwegpad
+uitwierde
 uitwierderweg
-uitwijk01
 uitwijks dijkje
 uitwijksestraat
-uitwijkstraat
 uitzicht
 uiver
 uiverdonk
@@ -240,7 +243,6 @@ uiverweide
 ukkelhof
 ukkelstraat
 ulaanbaatarplein
-ulaanbaatarstraat
 ulandsestraat
 ulbe hiemstrastrjitte
 ulbe twijnstrawei
@@ -264,11 +266,11 @@ ulepad
 ulesprong
 ulestratenweg
 ulfershof
-ulfterhoek
 ulftsestraat
 ulftseweg
 ulgerkamp
 ulgersmaweg
+ulicontensedreef
 ulicotensebaan
 ulicotenseweg
 uliker
@@ -287,10 +289,10 @@ ullingen
 ullmanstraat
 ulmuslaan
 ulohof
-ulohã´f
+ulohÃ´f
 ulperstraat
 ulpianusstraat
-ulpius quietus
+ulpiaplein
 ulrichstraat
 ulricus huberstraat
 ulrik huberstraat
@@ -299,23 +301,21 @@ ulriksholm
 ulrumpad
 ulsda
 ulsderweg
-ulsheggerweg
 ulst
 ultramarijn
 ultramarijnhof
 ulvend
 ulvenderweg
+ulvenhout 14
 ulvenhoutselaan
 ulvenhoutstraat
 umberstraat
 umbgrovelaan
 umbrialaan
-umbriellaan
-umbriã«
-umbriã«llaan
+umbriÃ«
+umbriÃ«llaan
 umefors
-una corda
-una-corda
+umhoekpad
 unastraat
 under de poarte
 underom
@@ -341,7 +341,9 @@ uniawei
 uniceflaan
 unicefplantsoen
 unicefstraat
+unicumplein
 unicumwei
+uniebrug
 unieplein
 uniestede
 unieweg
@@ -365,13 +367,11 @@ unster
 uppelse hoek
 uppelse steeg
 uppelse vliet
-uppelseweg
 uppsalalaan
 uppsalapad
 uppsalaweg
 uraan
 uraanpad
-uraniumstraat
 uraniumweg
 uranus
 uranusbaan
@@ -383,12 +383,12 @@ uranusweg
 urbanusdal
 urbanusstraat
 urbanusweg
-urcagarage
-urenweg
+ureterp
 ureterperend
 ureterpvallaat
 urey
 urk
+urk 13
 urkerdwarspad
 urkerpad
 urkersingel
@@ -407,6 +407,7 @@ urkwal
 urkweg
 urlingsestraat
 urlusstraat
+urmond 48
 urmonder maasstraat
 urmonder parallelweg
 urmonderbaan
@@ -443,7 +444,6 @@ ursulinenplein
 ursulinenstraat
 ursulinentuin
 ursulinenweg
-ursulinenweide
 ursulineweg
 urweg
 usquerderweg
@@ -466,7 +466,6 @@ ut schniefke
 ut swarte bruchje
 utbuorren
 utein
-uten goijenplaats
 uten goyeplaats
 utenbroekestraat
 utenhagestraat
@@ -474,31 +473,37 @@ utenhamstraat
 utenhovepad
 utenhovestraat
 utenwaerdelaan
+uterchtseslag
 uteringsweg
 uterlangenweg
 uterweg
 uterwei
 utgong
-uthã´f
+uthÃ´f
 utopia
 utopialaan
 utopiapad
-utopiatoren
+utrecht 17
+utrecht-centrum 7
+utrecht-noord 31
+utrecht-oost 30a
+utrecht-papendorp 8
+utrecht-papendorp 8a
+utrecht-science park 2
 utrechthaven
 utrechthof
 utrechtlaan
 utrechtplein
-utrechts kindercomitã©straat
-utrechtse heuvelrug
+utrechts kindercomitÃ©straat
 utrechtse heuvelrug
 utrechtse jaagpad
-utrechtse kindercomitã©straat
 utrechtse spoor
 utrechtse straatweg
 utrechtse veer
 utrechtsebaan
 utrechtsedwarsstraat
 utrechtselaan
+utrechtsepoort
 utrechtseslag
 utrechtsestraat
 utrechtsestraatweg
@@ -513,7 +518,6 @@ uurwerkerstraat
 uurwerkersweg
 uutkamp
 uutlangen
-uylenburgh
-uytenbogaartsingel
+uwlandsteeg
 uytenbosch
 uytervlugterpad

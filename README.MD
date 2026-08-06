@@ -100,6 +100,22 @@ An `AddressExtractionError` is thrown when:
 - the street is not recognised (`PrecisionAddressExtraction` only);
 - the input is a postbox, such as `Postbus 1234`, which has no street or house number.
 
+## The street list
+
+`PrecisionAddressExtraction` matches against the files in `addresses/`, one per starting character,
+holding every street name in the Netherlands in lowercase UTF-8. The data comes from the Kadaster
+BAG registry through the [PDOK Locatieserver](https://www.pdok.nl/).
+
+Regenerate it with:
+
+```
+composer update-addresses
+```
+
+The script walks all 342 gemeenten, because the API returns at most 100 rows per request and refuses
+an offset above 10000. It takes a few minutes, and refuses to write anything if it collects
+implausibly few streets, so a failed run cannot leave you with a truncated list.
+
 ## Contributing
 
 Pull the repository and run `composer install`.

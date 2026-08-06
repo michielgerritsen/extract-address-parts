@@ -1,11 +1,13 @@
 k de raadstraat
 k j hornstraweg
 k j visserstraat
+k jansbrug
 k kanstraat
 k linschoten oostzijde
 k linschoten westzijde
 k molweg
 k r poststraat
+k slikweg
 k van de sandeplein
 k van de sandestraat
 k. adenauerstraat
@@ -34,7 +36,6 @@ k.e. borgerlaan
 k.g. zocherbrug
 k.j. de vriezestraat
 k.j.blokstraat
-k.j.w. ottolanderstraat
 k.l. de vriesstraat
 k.l.h. van der puttlaan
 k.l.m.-straat
@@ -46,11 +47,12 @@ k.p.c. de bazelweg
 k.p.van der veldestraat
 k.s.g.-straat
 k.van 't veerstraat
-k?stersgang
 ka-pad
 kaafijzer
 kaag
+kaag-dorp 2
 kaagbaan
+kaagbaan tunnel
 kaaghof
 kaagjesland
 kaagkade
@@ -61,9 +63,11 @@ kaagstraat
 kaagweg
 kaagwerf
 kaai
+kaaibrug
 kaaidijk
 kaaidijkje
 kaaidreef
+kaaidwarsstraat
 kaaij
 kaaike
 kaaikhof
@@ -72,7 +76,6 @@ kaaioprit
 kaaipad
 kaaisingel
 kaaisjouwerskade
-kaaistraat
 kaaistraat
 kaaistraatje
 kaaiwal
@@ -117,10 +120,7 @@ kaapsduin
 kaapsduinhof
 kaapse baan
 kaapse bossen
-kaapse bossen
 kaapse bossenhof
-kaapse bossenhof
-kaapse bossenplaats
 kaapse bossenplaats
 kaapsebos
 kaapsehof
@@ -129,13 +129,12 @@ kaapseweg
 kaapstadstraat
 kaapstadweg
 kaapstander
+kaapstanderpad
 kaapstanderstraat
 kaapstanderweg
 kaapstraat
 kaapvaartstraat
-kaapverdi?
-kaapverdie
-kaapverdi„´
+kaapverdi√´
 kaapweg
 kaar
 kaarboom
@@ -152,8 +151,8 @@ kaarderstraat
 kaardesteeg
 kaarnheugte
 kaarpad
+kaarraddreef
 kaarschotsestraat
-kaarsehof
 kaarsemakergracht
 kaarsenmaker
 kaarsenmakerhof
@@ -184,8 +183,8 @@ kaaskampweg
 kaaskenswater
 kaaskerkestraat
 kaaskoper
-kaaskopersgang
 kaasmaker
+kaasmakerhof
 kaasmakerlaan
 kaasmakerstraat
 kaasmakersweide
@@ -200,7 +199,7 @@ kaathoven
 kaathovensedijk
 kaatje mollaan
 kaatsbaan
-kaatsbaansteeg
+kaatsbrink
 kaatsheuvelstraat
 kaatsland
 kaatsplein
@@ -232,11 +231,15 @@ kabeyer
 kabof
 kaboulstraat
 kabouterberg
-kabroekstraat
 kadal
 kadam
 kade
-kade van ras
+kade alpha
+kade bravo
+kade charlie
+kade west
+kadebrug-oost
+kadebrug-west
 kadedijk
 kadegriend
 kadelaan
@@ -258,12 +261,14 @@ kadijksplein
 kadijksweg
 kadijkweg
 kadoelen
-kadoelendijk
+kadoelen 17
+kadoelenbrug
 kadoelenpad
 kadoelenstraat
 kadoelenweg
 kadoelerbos
 kadoelermeer
+kadoelermeerdijk
 kadoelerweg
 kaeidyk
 kaeltjes hofstee
@@ -309,7 +314,7 @@ kajuitmeen
 kajuitpad
 kajuitstraat
 kajuitweg
-kaj„∫t
+kaj√∫t
 kakebeen
 kakeberg
 kakebergweg
@@ -320,6 +325,7 @@ kakelstraat
 kakertsweg
 kakewei
 kakistraat
+kakkenbergspad
 kakkersweelweg
 kalaharihof
 kalander
@@ -328,7 +334,6 @@ kalandergang
 kalanderij
 kalanderijstraat
 kalandermolen
-kalandermolenpad
 kalanderplein
 kalanderstraat
 kalandertunnel
@@ -343,9 +348,8 @@ kaldenkerkerweg
 kalderhoekweg
 kaldersedijk
 kalderweg
+kale hoeve pad
 kale jonkerpad
-kale jonkerpad
-kalebasstraat
 kalebosstraat
 kaleminkstraat
 kalenberg
@@ -381,6 +385,7 @@ kalheupinklaan
 kalhuisplaats
 kalimantan
 kalimantanstraat
+kalimba
 kaliningradpad
 kalisbuurt
 kalishoek
@@ -389,9 +394,11 @@ kalisplaats
 kalisstraat
 kaliumstraat
 kaliumweg
+kalix berna
 kalixfors
 kalkakker
 kalkamperweg
+kalkbaan
 kalkblusserijstraat
 kalkboei
 kalkboerweg
@@ -400,8 +407,6 @@ kalkbranderijlaantje
 kalkbrandershoek
 kalkbranderstraat
 kalkdijk
-kalkdobbe
-kalkensweg
 kalkerlanden
 kalkestraat
 kalkhaven
@@ -409,14 +414,14 @@ kalkhofseweg
 kalkhokstraat
 kalkhoven
 kalkhovensingel
-kalkh„∫swei
+kalkh√∫swei
 kalkmarkt
 kalkoenkamp
 kalkoensprenk
 kalkoenstraat
 kalkoenweg
 kalkoven
-kalkovenbrugje
+kalkovenbrug
 kalkovenpad
 kalkovenplein
 kalkovens
@@ -437,7 +442,6 @@ kalkweg
 kalkwijk
 kalkwijkpad
 kalkwijkstraat
-kalkwit
 kalkwurk
 kallameer
 kallandspad
@@ -488,6 +492,7 @@ kalte herberg
 kalter
 kalterbroeken
 kalteren
+kalterensepad
 kaltersweide
 kalundborg
 kalundborgerf
@@ -496,7 +501,6 @@ kalverbeltsweg
 kalverbos
 kalverbroeksdijk
 kalverdam
-kalverdans
 kalverdijk
 kalverdijkerlaantje
 kalverdijkje
@@ -505,9 +509,8 @@ kalvereeuwsel
 kalverekker
 kalverenblok
 kalverenburg
-kalvergang
-kalvergloppe
 kalverhagen
+kalverhekkenbrug
 kalverhekkenweg
 kalverhoeve
 kalverhof
@@ -536,12 +539,14 @@ kambalahout
 kamberg
 kameel
 kameelstraat
+kameeltje
 kameelvlinder
 kamelenburg
 kamelenhof
 kamelenspoor
 kameleon
 kameleoneiland
+kameleonhofke
 kameleonplein
 kameleonring
 kameleonstraat
@@ -579,7 +584,6 @@ kamerlingh onnesweg
 kamerlingh-onnesstraat
 kamerlingheplein
 kamerlingpad
-kamerlingswijk
 kamerlingswijk oz
 kamerlingswijk wz
 kameroenpad
@@ -599,6 +603,7 @@ kamgrasstraat
 kamille
 kamille-erf
 kamillegaarde
+kamillegade
 kamillehof
 kamillekamp
 kamillelaan
@@ -620,6 +625,7 @@ kammerstraat
 kammetweg
 kamminga's reed
 kammingadammen
+kammingadreef
 kammingastrjitte
 kamp
 kamp 10
@@ -666,12 +672,14 @@ kampeerstraat
 kampeerveld
 kampement
 kampen
+kampen 32
+kampen-noord 32a
+kampen-zuid
+kampen-zuid 31
 kampendwarsweg
 kampenhof
 kampenhout
 kampenmeen
-kampennoord
-kampenoost
 kampenringweg
 kampens kampje
 kampenslaan
@@ -679,13 +687,12 @@ kampenspaed
 kampenstraat
 kampenweg
 kampenwest
-kampenzuid
 kamper stegelvoetpad
 kamper wetering
 kamperbinnenpoort
+kamperbrug 0285
 kamperdijk
 kamperdijklaan
-kamperdijkstraat
 kamperdwarsweg
 kampereiland
 kamperfoelie
@@ -709,7 +716,6 @@ kamperlaan
 kamperlandsingel
 kampermanstraat
 kamperpad
-kampers tegelvoetpad
 kampersedijk
 kamperseweg
 kampersheideweg
@@ -732,6 +738,7 @@ kampgats
 kampgraafweg
 kampheuvellaan
 kamphoefweg
+kamphofke
 kamphofstraat
 kamphorstweg
 kamphuisstraat
@@ -739,7 +746,7 @@ kamphuisweg
 kamphuizen
 kamphuizenlaan
 kamphuizerweg
-kamph„∫sstrjitte
+kamph√∫sstrjitte
 kampiepensweg
 kampina
 kampingerhof
@@ -747,12 +754,12 @@ kampioensingel
 kampioenstraat
 kampjesstraat
 kampjesweg
-kampken aan de maas
 kampkensweg
 kamplaan
 kampland
 kamplust
 kampmansweg
+kamppad
 kampplaats
 kamprechter
 kamps
@@ -763,7 +770,7 @@ kampsepad zuid
 kampsesteeg
 kampsestraat
 kampseveld
-kampsh„∂fken
+kampsh√∂fken
 kampsingel
 kampspoor
 kampsteech
@@ -790,24 +797,21 @@ kamstrastraat
 kamvaren
 kamwiel
 kan-kan
-kanaal
 kanaal a nz
 kanaal a zz
 kanaal b nz
 kanaal b zz
 kanaal n.z.
 kanaal noord
-kanaal noordzijde
 kanaal o.z.
+kanaal van steenenhoek nz
+kanaal van steenenhoek zz
 kanaal w.z.
-kanaal wessem
 kanaal z.z.
 kanaal zuid
-kanaal zuidzijde
 kanaal zz
 kanaalboulevard
 kanaaldijk
-kanaaldijk (gem graft)
 kanaaldijk hulsterbroek
 kanaaldijk n.o.
 kanaaldijk n.w.
@@ -822,13 +826,13 @@ kanaaldijk wz
 kanaaldijk z.o.
 kanaaldijk z.w.
 kanaaldijk zuid
+kanaaldijk zuid oost
 kanaaldijk zuidzijde
 kanaaldijk-noord
-kanaaldijk-noord
-kanaaldijk-noord
+kanaaldijk-oost
 kanaaldijk-west
 kanaaldijk-zuid
-kanaaldijk-zuid
+kanaaldijkpad
 kanaaldreef
 kanaaleilandweg
 kanaaljuffer
@@ -852,9 +856,8 @@ kanaalstraat
 kanaalstraat oz
 kanaalsweg
 kanaalweg
+kanaalweg 2
 kanaalweg i
-kanaalweg ii
-kanaalweg iii
 kanaalweg n.z.
 kanaalweg noord
 kanaalweg o.z.
@@ -878,8 +881,7 @@ kanaeldyk
 kanaelsdyk
 kanaelsloane
 kanaelwei noard
-kanaelwei s„∫d
-kanakker
+kanaelwei s√∫d
 kanarie
 kanariegeel
 kanariehof
@@ -889,7 +891,10 @@ kanariesprenk
 kanariestraat
 kanarieweg
 kanaweg
+kana√§nwegje
 kandeelstraat
+kandelaar
+kandelaarbrug
 kandelaartje
 kandelaarweg
 kandels gats
@@ -906,20 +911,18 @@ kaneelstraat
 kaneelveld
 kanerkampweg
 kanestede
-kangoeroehofje
 kangoeroelaan
 kangoeroepad
 kangoeroestraat
 kanhoeve
 kaniestraat
-kaninefatendreef
 kaninefatenlaan
 kaninefatenstraat
 kanisstraat
 kanjelbeekpad
 kanjelkant
 kanjelpad
-kannegietweg
+kankantriedreef
 kanneke
 kannelustweg
 kannenburg
@@ -941,7 +944,6 @@ kanonweistraat
 kanopad
 kanostraat
 kanoweg
-kansasweg
 kanselierscamp
 kanseliersplein
 kanseliersstraat
@@ -992,6 +994,7 @@ kantsterweg
 kantstijl
 kantstraat
 kantwerkerwei
+kantwerkster
 kanunnik boenenstraat
 kanunnik daemenstraat
 kanunnik de vriesstraat
@@ -1019,6 +1022,7 @@ kanunnikensven
 kanunnikstraat
 kanveldweg
 kanweg
+kaolepark
 kap
 kap. verheggenstraat
 kapberg
@@ -1033,14 +1037,15 @@ kapelaan friedrichsstraat
 kapelaan gerrit grootstraat
 kapelaan goossensstraat
 kapelaan h.g.m. koopmansstr
+kapelaan h.g.m. koopmansstraat
 kapelaan hamersstraat
 kapelaan heggehof
 kapelaan heggestraat
 kapelaan hermkensstraat
 kapelaan houbenstraat
 kapelaan huyberslaan
-kapelaan j. a. heerenstr
 kapelaan j.a. heerenstr
+kapelaan j.a. heerenstraat
 kapelaan jaminstraat
 kapelaan jansenstrjitte
 kapelaan janssenstraat
@@ -1059,12 +1064,11 @@ kapelaan poellplein
 kapelaan raaijmakersstraat
 kapelaan ramakersstraat
 kapelaan ruiterstraat
-kapelaan r„∂linghof
+kapelaan r√∂linghof
 kapelaan sarsstraat
-kapelaan schr„∂derstraat
+kapelaan schr√∂derstraat
 kapelaan sickingstraat
 kapelaan sleegersstraat
-kapelaan slotsstraat
 kapelaan sourenstraat
 kapelaan van lieroplaan
 kapelaan van schaikstraat
@@ -1084,6 +1088,7 @@ kapelaniestraat
 kapelbergstraat
 kapelbergweg
 kapelbosje
+kapelbrug
 kapelburg
 kapeldijk
 kapeldreef
@@ -1091,16 +1096,17 @@ kapeldwarsstraat
 kapeldwarsweg
 kapeleind
 kapelerf
+kapelgang
 kapelheuvelstraat
 kapelhoek
 kapelhoeve
 kapelhof
 kapelhofje
 kapelkesstraat
-kapelkesveldweg
 kapelkesweg
 kapellaan
 kapelland
+kapelle 34
 kapelleberg
 kapelleboom
 kapelleboslaan
@@ -1162,7 +1168,6 @@ kapiteel
 kapiteelpad
 kapitein
 kapitein antiferstraat
-kapitein ardanstraat
 kapitein arie bestebreurtjepad
 kapitein bestweg
 kapitein boscampbrink
@@ -1211,7 +1216,6 @@ kapittellaan
 kapittelland
 kapittelpad
 kapittelsbosch
-kapittelshof
 kapittelsingel
 kapittelstede
 kapittelstraat
@@ -1234,6 +1238,7 @@ kappeijne van de coppellostraat
 kappeijne van de coppelloweg
 kappeijnestraat
 kappelaarsdijk
+kappelenberg
 kappelhofsweg
 kappellendwarsweg
 kappellenweg
@@ -1241,9 +1246,10 @@ kappenburch
 kappenwaard
 kappenweg
 kapperallee
-kapperall„©e
 kapperdoesweg
 kappermaatsweg
+kappersberg
+kappersbergweg
 kapperserf
 kappershuttenweg
 kapperskolkweg
@@ -1253,6 +1259,7 @@ kappertskaamp
 kappertsteeg
 kappertsveldweg
 kappertsweg
+kappertweg
 kappeweg
 kappeyne v d coppellostraat
 kappeyne van de coppellolaan
@@ -1261,7 +1268,6 @@ kappeyne van de coppellostraat
 kappeynestraat
 kappost
 kaprijkestraat
-kaproensteeg
 kapschuur
 kapslaan
 kapsteeg
@@ -1297,21 +1303,19 @@ karbeel
 karbindersdreef
 karbindersstraat
 karbogerd
-karbonkelstraat
 karbouwstraat
 karbrugsevoetpad
 kard. de jongstraat
 kardeel
 kardemom
+kardemomstraat
 kardemomweg
-kardieler
 kardijke
 kardinaal alfrinkhof
 kardinaal alfrinklaan
 kardinaal alfrinkplein
 kardinaal alfrinkstraat
 kardinaal alfrinkweg
-kardinaal de jonglaan
 kardinaal de jonglaan
 kardinaal de jongplein
 kardinaal de jongsingel
@@ -1326,7 +1330,9 @@ kardinaal van rossumstraat
 kardinaal vaughanstraat
 kardinaal willebrandshof
 kardinaalsmuts
+kardinaalsmutslaan
 kardinaalspad
+kardinge 4
 kardingermaar
 kardingerplein
 kardingerweg
@@ -1334,7 +1340,6 @@ kardoen
 kardoenhof
 kardoenpad
 kardoes
-kardoeskokersgang
 kardoezenweg
 kareel
 karekiet
@@ -1349,7 +1354,7 @@ karekietsingel
 karekietstraat
 karekietweg
 karekietweide
-karel appelaan
+karel anthonielaan
 karel appelhof
 karel appellaan
 karel appelpad
@@ -1368,7 +1373,6 @@ karel de stouteplein
 karel de stoutestraat
 karel de vijfdestraat
 karel de vogelstraat
-karel de vogelstraatkapoenstraat
 karel doormanhof
 karel doormankade
 karel doormanlaan
@@ -1388,30 +1392,29 @@ karel j.c. beckmanlaan
 karel jonckheerestraat
 karel klinkenbergstraat
 karel lotsylaan
-karel lotsypad
 karel lotsystraat
 karel lotsyweg
 karel martelstraat
 karel martelweg
-karel mart„®lstraat
+karel mart√®lstraat
 karel mollenstraat noord
 karel mollenstraat zuid
 karel mullerweg
 karel palmstraat
 karel peulenstraat
-karel raijmakersplein
 karel raijmakersstraat
 karel roosstraat
 karel schaapstraat
+karel schenkpad
 karel simmelinkstraat
 karel slabbaertstraat
-karel v laan
 karel v laan
 karel v straat
 karel v-laan
 karel v-straat
 karel van brimeustraat
 karel van bronckhorstlaan
+karel van de woestijnelaan
 karel van de woestijnestraat
 karel van den oeverstraat
 karel van den woestijnelaan
@@ -1424,6 +1427,7 @@ karel van gelreweg
 karel van ginkelstraat
 karel van manderhof
 karel van manderstraat
+karel vermeerenplantsoen
 karel wiersmastraat
 karelia
 karelkeweg
@@ -1445,11 +1449,11 @@ karimatastraat
 karimunstraat
 karinastraat
 karingweg
-karinthi„´straat
+karinthi√´straat
+karisse veldweg
 karissendijk
 karissteeg
 karitaatmolenpad
-karitaatmolenpad noord
 karitaatmolenpad zuid
 karkdiekie
 karkenerweg
@@ -1459,14 +1463,15 @@ karkolkweg
 karkpad
 karl benzstraat
 karl braunstraat
-karl gr„∂gersingel
+karl gr√∂gersingel
 karl landsteinerhof
+karl landsteinerstraat
 karl marxdreef
 karl marxpad
 karl marxstraat
 karl marxweg
-karl mill„∂ckerhof
-karl mill„∂ckerstraat
+karl mill√∂ckerhof
+karl mill√∂ckerstraat
 karl weisbardstraat
 karl zellerstraat
 karlant
@@ -1482,7 +1487,6 @@ karmel
 karmelhof
 karmelietenborch
 karmelietenhof
-karmelietenlaan
 karmelietenstraat
 karmelietessenstraat
 karmelitessenlaan
@@ -1491,7 +1495,7 @@ karmeltrap
 karmelweg
 karmestein
 karmijn
-karmijnlaan
+karmijnhof
 karmijnpad
 karmijnstraat
 karmozijn
@@ -1502,6 +1506,7 @@ karn
 karnak
 karnakkers
 karnebeeksteeg
+karnedreef
 karneikweg
 karnemelkkreek
 karnemelkpad
@@ -1529,9 +1534,9 @@ karnweide
 karoenbruggen
 karoenpad
 karolinastraat
+karolingen
 karolingenbaan
 karolingenlaan
-karolingenplein
 karolingenstraat
 karolingersweg
 karolus
@@ -1554,9 +1559,7 @@ karperdijk
 karpergracht
 karperhof
 karperkolk
-karperkuil
 karperkuilkade
-karperkuilweg
 karperlaan
 karperpad
 karpersloot
@@ -1565,6 +1568,7 @@ karperstraat
 karperveen
 karpervijver
 karperweg
+karploeg
 karposthegge
 karrebosserveldweg
 karregang
@@ -1572,6 +1576,7 @@ karregat
 karrekamer
 karrelanden
 karremanstraat
+karremansweg
 karremansweidjes
 karrengas
 karrenpad
@@ -1593,8 +1598,6 @@ karreweg-zuid
 karreweide
 karrewiel
 karriderspaad
-kars-wegelingpad
-karseboomhofje
 karseboomstraat
 karsendiek
 karsenhof
@@ -1625,7 +1628,6 @@ karstraat
 karsveldervoetpad
 karsvelderweg
 kartelaarsdijk
-kartelblad
 karthuizerlaan
 karthuizersdwarsstraat
 karthuizerserf
@@ -1633,6 +1635,7 @@ karthuizersplantsoen
 karthuizersstraat
 karthuizerstraat
 karthuizerweg
+kartinihof
 kartinipad
 kartinistraat
 kartonbaan
@@ -1640,7 +1643,6 @@ kartonstraat
 kartuizerhof
 kartuizerland
 kartuizersborch
-kartuizerslaan
 kartuizersstraat
 kartuizerstraat
 kartuizerveld
@@ -1705,6 +1707,7 @@ kasaidreef
 kasbahhof
 kasennerweg
 kasernestrjitte
+kaskettenweg
 kaskinenweg
 kaspar karsenstraat
 kasperenstraat
@@ -1749,7 +1752,6 @@ kastanjepad
 kastanjeplein
 kastanjesingel
 kastanjestraat
-kastanjewal
 kastanjeweg
 kastanjewetering
 kasteel
@@ -1765,7 +1767,6 @@ kasteel brederodestraat
 kasteel caestertstraat
 kasteel cannestraat
 kasteel cartielsstraat
-kasteel cartielstraat
 kasteel cortenbachlaan
 kasteel croystraat
 kasteel daelenbroeckstraat
@@ -1785,6 +1786,7 @@ kasteel heienstraat
 kasteel heysterumstraat
 kasteel hillenraadweg
 kasteel hillenraedtstraat
+kasteel hoensbroek
 kasteel hoensbroeklaan
 kasteel holtmeulenstraat
 kasteel horionstraat
@@ -1803,6 +1805,7 @@ kasteel nemerlaerstraat
 kasteel neubourgweg
 kasteel nieuwenbroeck
 kasteel nijenrodestraat
+kasteel nijeveltpad
 kasteel oostlaan
 kasteel oostplein
 kasteel osenstraat
@@ -1811,6 +1814,7 @@ kasteel rhoonhof
 kasteel rijckholtplein
 kasteel rimburglaan
 kasteel rivierenstraat
+kasteel schaesberg-laan
 kasteel schaloenstraat
 kasteel stapelenstraat
 kasteel strijenerf
@@ -1859,17 +1863,13 @@ kasteelsepad
 kasteelseplaats
 kasteelsestraat
 kasteelsingel
-kasteelsteeg
 kasteelstraat
-kasteelsveldweg
 kasteeltuin
 kasteeltuinpad
 kasteelvoetpad
 kasteelweg
-kasteelwerf
 kasteelzicht
 kastelein
-kasteleindpad
 kasteleinenkampweg
 kasteleinpad
 kasteleinslaan
@@ -1889,7 +1889,6 @@ kasterensestraat
 kasterenwal
 kasterleepark
 kasterleestraat
-kastili„´
 kastleinshoeke
 kastmolen
 kastoeristraat
@@ -1897,7 +1896,6 @@ kastordreef
 kastorstraat
 kastrupbaan
 kastrupstraat
-kaswij
 katadreuffestraat
 katalijnestraat
 katarijnehof
@@ -1926,6 +1924,7 @@ katerstede
 katersteeg
 katerstraat
 katerstraatje
+katert
 katerveer
 katerveerdijk
 katerveerpad
@@ -1959,11 +1958,11 @@ katingerveldweg
 katinkagang
 katjesbos
 katjeskelder
-katjesweg
 katlaan
 katoel
 katoendijk
 katoenpad
+katoenpark
 katoenspinner
 katoenstraat
 katoenweversgilde
@@ -2010,6 +2009,7 @@ kattenbrink
 kattenbroek
 kattenbroekerpoort
 kattenbroekerweg
+kattenbrug
 kattenburcht
 kattenburg
 kattenburgergracht
@@ -2025,7 +2025,6 @@ kattendijk
 kattendijksedijk
 kattendijkseweg
 kattendoorn
-kattengang
 kattengat
 kattenhaarsweg
 kattenhage
@@ -2066,6 +2065,10 @@ kattewaardweg
 kattewacht
 katteweg
 katwijk
+katwijk 8a
+katwijk zh
+katwijk zh midden
+katwijk zh zuid
 katwijkerbroek
 katwijkerlaan
 katwijkerpad
@@ -2074,15 +2077,14 @@ katwijksebaan
 katwijkselaan
 katwijksestraat
 katwijkseweg
-katwijkseweg (katwijk)
 katwijkstraat
 katwilg
 katwolderplein
 katwolderweg
 katwoudehof
 katwoudestraat
+katzerweg
 katzijlstraat
-katzwet
 kaufmannstraat
 kaukasus
 kaukasuslaan
@@ -2099,7 +2101,6 @@ kauwenhoven
 kauwerspad
 kauwlaan
 kauwstraat
-kavel
 kavelaarsstraat
 kaveldijk
 kaveldreef
@@ -2122,16 +2123,16 @@ kaweiseweg
 kawoepersteeg
 kayersbeekhof
 kayersdijk
-kayersplein
 kaystraat
 kazemat
 kazematstraat
-kazemattenlaan
 kazemattenstraat
 kazematweg
+kazernebrug
 kazernedok
 kazernehof
 kazernelaan
+kazernement
 kazernepad
 kazerneplein
 kazernestraat
@@ -2144,7 +2145,7 @@ kea boumanstraat
 keale wei
 keallecamp
 kealledykje
-keamerl„¢nswei
+keamerl√¢nswei
 keapmanswei
 keardok
 keareweare
@@ -2168,7 +2169,7 @@ keekstraat
 keelakker
 keelbosschervoetpad
 keelkampstraat
-keelstraat
+keelvenpad
 keelvenweg
 keelweg
 keenenburg
@@ -2177,6 +2178,7 @@ keenestraat
 keeneweg
 keenhoekseweg
 keenkestraat
+keenpad
 keense gorzen
 keenseweg
 keenstraat
@@ -2188,6 +2190,7 @@ keep
 keepstraat
 keer-weer
 keerberg
+keerbosstraat
 keercamp
 keerdam
 keerderberg
@@ -2210,7 +2213,6 @@ keerkringpark
 keerkringplein
 keermanslaan
 keermuur
-keermuur
 keern
 keerngouw
 keernlaantje
@@ -2222,6 +2224,7 @@ keersbergenstraat
 keersboomgaard
 keersgoorn
 keersluis
+keersluisbrug
 keersluispad
 keersluisweg
 keersop
@@ -2257,7 +2260,6 @@ kees de koninglaan
 kees dekkershof
 kees delfsweg
 kees en henny de ruijterstraat
-kees en henny de ruyterstraat
 kees faessens rolwagensteeg
 kees geenenstraat
 kees haspelslaan
@@ -2267,9 +2269,7 @@ kees klerxstraat
 kees koornneefstraat
 kees mooimanpad
 kees mulderweg
-kees mustersstraat
 kees pellenaarspad
-kees pellenaarsstraat
 kees pijlstraat
 kees schererhof
 kees stipplein
@@ -2289,6 +2289,7 @@ kees van hasseltstraat
 kees van lentsingel
 kees van lintstraat
 kees van sambeekstraat
+kees van spronsenlaan
 kees veerstraat
 kees verhoevenstraat
 kees verkerkstraat
@@ -2301,6 +2302,7 @@ keesomlaan
 keesomplein
 keesomstraat
 keesomweg
+keespekkerskade
 keesriefweg
 keestrastraat
 keetberglaan
@@ -2314,6 +2316,7 @@ keetje de rieterf
 keetjesbongerd
 keetmeesterstraat
 keetmolenweg
+keetpoortlaan
 keetsteeg
 keetwaltje
 keetweg
@@ -2326,8 +2329,8 @@ kegelstraat
 kegge
 keggedreef
 keggehof
-keggeplein
 keiaart
+keiakkersteeg
 keidam
 keidelplein
 keienberg
@@ -2335,13 +2338,10 @@ keienbergseweg
 keienbergweg
 keiendriesstraat
 keiendwarsweg
-keienhof
 keienweg
 keierskant
-keierskant‚ø‚ø
 keihoefsepad
 keihoogteweg
-keijenbeltsweg
 keijenbergseweg
 keijenblikstraat
 keijenborgseweg
@@ -2349,7 +2349,6 @@ keijenburg
 keijenhurksedreef
 keijenhurkseweg
 keijersstraat
-keijsershof
 keijserstraat
 keijtenburgstraat
 keijzer-akker
@@ -2365,7 +2364,6 @@ keilezijweg
 keilruwe
 keimate
 keimpe sikkemawei
-keimpe sikkemawei
 keimpemahuis
 keimpemastins
 keimpemastraat
@@ -2373,6 +2371,7 @@ keimptilsterdyk
 keins
 keinsmerweg
 keinsmerwiel
+keipad
 keiplein
 keislagen
 keisnijder
@@ -2398,6 +2397,7 @@ keizer karelplein
 keizer karelstraat
 keizer karelweg
 keizer lothariusstraat
+keizer maximiliaanlaan
 keizer maximiliaanstraat
 keizer napoleonweg
 keizer otto
@@ -2416,6 +2416,7 @@ keizerfazant
 keizerhof
 keizerin
 keizerin marialaan
+keizerin theophanosingel
 keizerinnestraat
 keizerkesweideweg
 keizerlaan
@@ -2429,6 +2430,7 @@ keizersallee
 keizersbaan
 keizersberg
 keizersbosch
+keizersbrug 0286
 keizerschild
 keizersdam
 keizersdijk
@@ -2438,7 +2440,6 @@ keizerserf
 keizersgracht
 keizershoek
 keizershof
-keizershof thans lange jufferstraat
 keizershofje
 keizershofstraat
 keizershofweg
@@ -2472,6 +2473,7 @@ keizersweerd
 keizersweg
 keizersweide
 keizerswoert
+keizerviaduct
 keizerweg
 kekelenpad
 kekerdomse ward
@@ -2491,15 +2493,15 @@ keldermansstraat
 keldermanstraat
 kelders
 keldersehoevenweg
+kelderseweg
 keldersfinster
 kelderskamp
 kelderstraat
+keldersweg
 kelderswerf
 keldervaart
-keldervaartpad
 kelderweg
 kelderwindkade
-keldonkse pad
 keldonkseweg
 keldonkstraat
 kelenstraat
@@ -2522,6 +2524,7 @@ kelmonderhofweg
 kelmonderstraat
 kelnarijstraat
 kelnersweg
+kelpen 40
 kelperheide
 kelperveen
 kelperweg
@@ -2540,18 +2543,17 @@ keltenweg
 kelvinbaan
 kelvinlaan
 kelvinpad
+kelvinplein
 kelvinring
 kelvinstraat
 kelvinweg
 kelwis
 kem
 kemajoranstraat
-kemal atat„ºrkstraat
+kemal atat√ºrkstraat
 kemangiestraat
 kembrugweg
 kemelstede
-kemelstraat
-kemena
 kemenadehoek
 kemenadelaan
 kemenadeplein
@@ -2611,7 +2613,6 @@ kempenaar 30
 kempenaar 31
 kempenaar 32
 kempenaar 33
-kempenaar 34
 kempenaarkade
 kempenaarplaats
 kempenaarstraat
@@ -2658,13 +2659,11 @@ kempervennendreef
 kemperweg
 kempestraat
 kemphaan
-kemphaan park
 kemphaanlaan
 kemphaanpad
 kemphaanplein
 kemphaansduin
 kemphaanstraat
-kemphaantje
 kemphaanweg
 kemphaanweide
 kempinkweg
@@ -2678,11 +2677,9 @@ kempken
 kempkens
 kempkensberg
 kempkenshof
-kempkenspad
 kempkensstraat
 kempkensweg
 kempkenweg
-kempkervoetpad
 kempkesdijk
 kempkeshoeve
 kempkeshof
@@ -2692,7 +2689,6 @@ kempkesplein
 kempkesstraat
 kempkesveld
 kempkesweg
-kempland
 kempsestraat
 kempseweg
 kempsstraat
@@ -2700,12 +2696,12 @@ kempstraat
 kempweg
 ken saro-wiwastraat
 kenau hasselaarstraat
+kenau hasselaerstraat
 kenau simons hasselaarstraat
 kenaupark
 kenaustraat
 kenauweg
 kenbelstraatje
-kendaristraat
 kendelweg
 kendersekker
 kenemansstraat
@@ -2714,11 +2710,10 @@ kenenburgstraat
 kenenburgweg
 keniaring
 kening state
+keningsl√¢n
 keningsstrjitte
 keningswei
 kenitrastraat
-kenkerspad
-kenkersweg
 kennebroeksweg
 kennedyboulevard
 kennedydreef
@@ -2767,7 +2762,6 @@ kent
 kentering
 kentersweg
 kentgensplein
-kenthof
 kentiahof
 kentstraat
 kenwerd
@@ -2802,7 +2796,9 @@ kepplerstraat
 kepringelehof
 kepselweg
 kept
+kepthof
 keramiek
+keramiekbrug
 keramieklaan
 keramieksingel
 keramiekstraat
@@ -2815,7 +2811,6 @@ kerckeboschlaan
 kerckeboslaan
 kerckekamp
 kerckelant
-kerckerinckweg
 kerckeven
 kerckhoek
 kerckhoveweg
@@ -2847,10 +2842,11 @@ kerkbergweg
 kerkbollenveld
 kerkboog
 kerkboomstraat
-kerkbosweg
 kerkbrink
+kerkbrug
 kerkbuurt
 kerkdam
+kerkdekske
 kerkdel
 kerkdelstraat
 kerkdennen
@@ -2860,6 +2856,7 @@ kerkdijk-zuid
 kerkdijkje
 kerkdoel
 kerkdreef
+kerkdriel 19
 kerkdrielkade
 kerkdrielstraat
 kerkdries
@@ -2879,6 +2876,7 @@ kerkebosdreef
 kerkeboslaan
 kerkebreek
 kerkebroekweg
+kerkebrug
 kerkeburen
 kerkebuurt
 kerkedennen
@@ -2905,7 +2903,6 @@ kerkelanden
 kerkelandenlaan
 kerkelandshoek
 kerkelant
-kerkelijk verzet
 kerkemaat
 kerkemeer
 kerkemorgen
@@ -2940,14 +2937,17 @@ kerkenweg
 kerkepad
 kerkepad oost
 kerkepad west
+kerkepadhof
 kerkepadje
 kerkepas
-kerkepedje
 kerkeplaat
 kerkepolderpad
 kerkepolderweg
+kerkerak
+kerkerbos rijweg
 kerkereed
 kerkerespad
+kerkerif
 kerkerinklaan
 kerkesingel
 kerkesleutel
@@ -2959,6 +2959,7 @@ kerketuin
 kerketuinenweg
 kerkeveen
 kerkeveld
+kerkeveldakker
 kerkevelden
 kerkeveldlaan
 kerkeveldstraat
@@ -2968,7 +2969,6 @@ kerkewagen
 kerkewal
 kerkewater
 kerkeweg
-kerkewegje
 kerkewei
 kerkeweide
 kerkeweilaan
@@ -2987,7 +2987,6 @@ kerkhoek
 kerkhoekstraat
 kerkhoekweg
 kerkhof
-kerkhof-galgenbergweg
 kerkhofbrug
 kerkhofdijk
 kerkhoflaan
@@ -3003,15 +3002,16 @@ kerkhofsteeg
 kerkhofstraat
 kerkhofsweg
 kerkhofweg
-kerkhofwg
+kerkhofwijk
 kerkhorn
 kerkhorstenweg
 kerkhovenbaan
 kerkhovensestraat
 kerkhuisstraat
 kerkinge
+kerkinilaan
 kerkjelaan
-kerkkuilenweg
+kerkkampseweg
 kerklaan
 kerklaan zunderdorp
 kerklaantje
@@ -3031,16 +3031,17 @@ kerkpad nz
 kerkpad van termaar
 kerkpad zuid
 kerkpad zz
-kerkpad-oud
 kerkpadsblok
-kerkpedje
 kerkplantsoen
 kerkplein
-kerkpln
+kerkpleinbrug
 kerkpolder
 kerkpolderpad
 kerkpolderweg
 kerkpoortstraat
+kerkrade
+kerkrade-noord
+kerkrade-west
 kerkradersteenweg
 kerkraderstraat
 kerkraderweg
@@ -3050,7 +3051,6 @@ kerksedriessen
 kerksingel
 kerkslagen
 kerksloot
-kerkslop
 kerkstaig
 kerksteeg
 kerksteegje
@@ -3059,7 +3059,6 @@ kerkstoep
 kerkstraat
 kerkstraat zuid
 kerkstraat-noord
-kerkstraat-oud
 kerkstraat-zuid
 kerkstraatje
 kerktiend
@@ -3076,10 +3075,7 @@ kerkuilplantsoen
 kerkuilstraat
 kerkuilweg
 kerkvaart
-kerkvaartpad
 kerkvaartsestraat
-kerkvaartspad
-kerkvaartsweg
 kerkvarenweg
 kerkveld
 kerkveldervoetpad
@@ -3099,7 +3095,6 @@ kerkwal
 kerkweg
 kerkweg-oost
 kerkweg-west
-kerkweg.
 kerkwegje
 kerkweide
 kerkweijerstraat
@@ -3119,7 +3114,6 @@ kermergracht
 kermisberg
 kermisland
 kermispad
-kermisstraat
 kernbaan
 kerneel
 kernheimstraat
@@ -3134,6 +3128,7 @@ kernplaats
 kernreactorstraat
 kernstraat
 kernweg
+kerperboschweg
 kerpsdam
 kerriestraat
 kerrieveld
@@ -3150,23 +3145,28 @@ kersboomvoetpad
 kerschotenstraat
 kersdijk
 kersebloesem
+kersebogerd
 kerseboom
 kerseboomgaard
 kerseboomstraat
 kersegaarde
-kerseh„¥f
+kerseh√¥f
 kerselaar
 kersenakker
 kersenbaan
+kersenbaanrotonde
 kersenberg
+kersenbloesem
 kersenbogerd
 kersenbongerd
 kersenboogerd
 kersenboom
 kersenburg
+kersenburglaan
 kersendijk
 kersendijkje
 kersendreef
+kersenerf
 kersengaard
 kersengaarde
 kersenhof
@@ -3208,6 +3208,7 @@ kerstenberg
 kerstenbergweg
 kerstendalseweg
 kerstendijk
+kerstenpark
 kerstensstraat
 kerstensstraatje
 kerstenstraat
@@ -3276,6 +3277,7 @@ kesterendreef
 kesterenlaan
 kesterenpad
 kesterenstraat
+kesterse wei
 keszthelyhof
 ketel
 ketelaarplein
@@ -3304,12 +3306,14 @@ ketelhavenplein
 ketelhavenstraat
 ketelhof
 ketelhuis
+ketelhuisbrug
 ketelhuisplein
 ketelkade
 ketelkampweg
 ketellap
 ketellapper
 ketellapperpad
+ketellapperspad
 ketellapperstraat
 ketellappersweg
 ketelmaker
@@ -3321,6 +3325,7 @@ ketelmeerdijk
 ketelmeerlaan
 ketelmeerstraat
 ketelmeerweg
+ketelpad
 ketelpolder oost
 ketelpolder west
 ketelskamp
@@ -3329,11 +3334,10 @@ ketelsteeg
 ketelstraat
 ketelven
 ketelweg
+ketelwegje
 keten
 ketenbaan
 ketenbosweg
-ketensedijk
-ketensezoom
 ketenstraat
 keteweid
 kethelplein
@@ -3362,6 +3366,7 @@ kettingdreef
 kettingpad
 kettingplein
 kettingpol
+kettingseweg
 kettingsteek
 kettingstraat
 kettingweg
@@ -3393,12 +3398,13 @@ keulenheide
 keulenhof
 keulenkamp
 keulenstraat
+keulenvoetpad
 keulersstraat
 keulerstraat
 keullerstraat
 keulschevaart
 keulse baan
-keulse barri„®re
+keulse barri√®re
 keulse kamp
 keulse kar
 keulse slag
@@ -3420,8 +3426,10 @@ keunenhoek
 keunestraat
 keuningsstreek
 keuningsweg
+keuningswijk
 keup
 keupenstraat
+keuperdijk
 keupersveenweg
 keuperweg
 keupinkspad
@@ -3431,6 +3439,7 @@ keurboek
 keurenaerstraat
 keurenplein
 keurhorsterweg
+keurhosterweg
 keurhove
 keurkamer
 keurkampstraat
@@ -3446,14 +3455,11 @@ keurmeesterstraat
 keurnoot
 keurnoten
 keurnotenlaan
-keurruwe
 keursdijk
-keursingel
 keurslanden
 keursteenweg
 keurstraat
 keursweg
-keurtuinen
 keurven
 keurvorstenplein
 keurvorstenweg
@@ -3467,11 +3473,8 @@ keutelraatweg
 keutelwegje
 keutenberg
 keutenbergerweg
-keutenbergvoetpad
-keuter
 keuterbrink
 keuterhoekweg
-keuterseweg
 keuterstraat
 keuterstraatje
 keutersweg
@@ -3499,7 +3502,6 @@ keverling buismanweg
 keverpad
 keversbroek
 keverstraat
-key en kramer kade
 key en kramerkade
 keyenbeltsweg
 keyenburg
@@ -3514,9 +3516,11 @@ kfar-savaweg
 khartoemstraat
 kibbelakkers
 kibbelgaarn
+kibbelhoogen
 kibbelslaglaan
 kibbelstuk
 kibbelveen
+kibbelwegje
 kiboepad
 kick pruijspad
 kick smitweg
@@ -3562,6 +3566,7 @@ kieftveen
 kieftweg
 kiefveldersteeg
 kiehoek
+kiek over diek
 kiekbaergsepad
 kiekberg
 kiekbergsebaan
@@ -3590,6 +3595,7 @@ kieldieppad
 kieldijk
 kieldrechtse molenstraat
 kieldreef
+kielebrug
 kielekampsteeg
 kieler bocht
 kielersdijk
@@ -3602,8 +3608,10 @@ kielsterachterweg
 kielstraat
 kielweg
 kielzog
+kiemakker
 kiemveld
 kienderkamp
+kienderpad
 kienholt
 kienhout
 kienhuislanden
@@ -3623,6 +3631,7 @@ kierkegaardhof
 kierkegaardstraat
 kierskuilweg
 kiesbeemd
+kieschboom
 kiesheidstraat
 kieskamp
 kieskoel
@@ -3636,7 +3645,6 @@ kieviet
 kievietdonk
 kievietlaan
 kievietsbleekweg
-kievietsbloem
 kievietslaan
 kievietsprenk
 kievietstraat
@@ -3699,7 +3707,6 @@ kievitveld
 kievitveldweg
 kievitweg
 kievitweide
-kievpad
 kieweg
 kiewegracht
 kiezel
@@ -3712,9 +3719,10 @@ kiezelmonde
 kiezelsteen
 kiezelstraat
 kiezelweg
-kie„´nweg
+kie√´nweg
 kifhoek
 kiggelaerstraat
+kiggenstraat ptr
 kijckerweg
 kijdykje
 kijfakker
@@ -3726,13 +3734,18 @@ kijfhoekstraat
 kijfhoekweg
 kijftenbeltlaan
 kijfwaard
+kijk in 't jatbrug
 kijk in de pot
+kijk uit
 kijkakkers
+kijkbuis
+kijkduin
 kijkduinboulevard
 kijkduinlaan
 kijkduinsestraat
 kijkduinstraat
 kijkduintrap
+kijkglas
 kijksteeg
 kijkuit
 kijkuitsedijk
@@ -3741,6 +3754,7 @@ kijkuitstraat
 kijkuytstraat
 kijkveld
 kijldijk
+kijllotslaan
 kijlsterweg
 kijlstraat
 kijlweg
@@ -3756,11 +3770,11 @@ kikkerbeet
 kikkerbeetlaan
 kikkerbeetstraat
 kikkerbos
+kikkerbrug
 kikkerij
 kikkeroever
 kikkerpad
 kikkerpol
-kikkersgang
 kikkersloot
 kikkerspad
 kikkersteeg
@@ -3792,7 +3806,6 @@ killemerweg
 killenbeekweg
 killesteijnstraat
 killeweg
-kilo
 kilojoule
 kilometerwei
 kilpad
@@ -3803,12 +3816,14 @@ kilse suikerpeer
 kilseweg
 kilstraat
 kiltunnelweg
+kilver
 kilweg
 kilwijkhof
 kilwijkstraat
 kim
 kimbrenoord
 kimbrenstraat
+kimbrug
 kimito
 kimmelsbrink
 kimonostraat
@@ -3817,6 +3832,7 @@ kimpoweg
 kimslede
 kimstergat
 kimsterweg
+kimswerd 16
 kimswerderlaan
 kimswerderweg
 kimwey
@@ -3824,12 +3840,14 @@ kimwierde
 kinderbaantje
 kinderbalk
 kinderbeemd
+kinderbornsweg
 kinderbos
 kinderbuurt
 kinderdijk
 kinderdijkpad
 kinderdijkstraat
 kinderen van versteegplein
+kinderhuisbrug
 kinderhuishof
 kinderhuissingel
 kinderhuisvest
@@ -3839,7 +3857,6 @@ kindermakerdreef
 kinderstraat
 kinderstraatje
 kindertjesweilandenpad
-kinderwerk
 king olivereiland
 king oliverlaan
 king pleasurepad
@@ -3862,6 +3879,7 @@ kinheimweg
 kinholtsweg
 kinholtweg
 kininelaantje
+kinkeboer
 kinkelenburg
 kinkelenburgallee
 kinkelenburglaan
@@ -3870,6 +3888,8 @@ kinkelplein
 kinkenpolder
 kinkenvoerdersweg
 kinkenweg
+kinkepad
+kinkerbrug 0266
 kinkershof
 kinkerspad
 kinkerstraat
@@ -3901,12 +3921,15 @@ kipkesdijk
 kiplaan
 kiplinglaan
 kiplingstraat
+kippebrug
+kippebruggetje
 kippelenberg
 kippenburg
 kippenburgweg
 kippenkade
 kippepaadje
 kippepad
+kipper
 kippereind
 kippershoekweg
 kipsdijk
@@ -3914,7 +3937,7 @@ kipstraat
 kipstukkenweg
 kiriwennopad
 kirkesjteeg
-kirkh„∂fsjteegske
+kirkh√∂fsjteegske
 kirunastraat
 kiryat-onoplein
 kissel
@@ -3936,10 +3959,12 @@ kitsenstraatje
 kitsilanostraat
 kitskensdal
 kitskesberg
+kitskesbergerzandweg
 kitskinderscheweg
 kitsteeg
 kitsweg
 kitty de wijzeplaats
+kitty van der havelaan
 kitty van schrevenlaan
 kivietsweg
 kivitsbraak
@@ -3948,6 +3973,7 @@ kiwigaard
 kiwipad
 kiwistraat
 kj van den akkerstrjitte
+kl leyen
 klaarkamp
 klaarkampenweg
 klaarkampsterwei
@@ -3958,6 +3984,7 @@ klaartje donzepad
 klaartje donzestraat
 klaarwater
 klaarwaterboslaan
+klaarwaterseweg
 klaarwaterweg
 klaas adamsweg
 klaas aijerlaan
@@ -3991,10 +4018,7 @@ klaas hennepoelpolder
 klaas hogetoornlaan
 klaas hoornlaan
 klaas katerlaan
-klaas katerplein
 klaas katerstraat
-klaas klinkertkade
-klaas klinkertweg
 klaas kloosterweg oost
 klaas kloosterweg west
 klaas kompaanhof
@@ -4013,14 +4037,15 @@ klaas rienewerfstrjitte
 klaas risstraat
 klaas schipperlaan
 klaas schoorlplein
+klaas siekmanweg
 klaas sminklaan
 klaas swaagweg
 klaas tabakstraat
-klaas taekesl„¢nd
+klaas taekesl√¢nd
 klaas thomaspaad
 klaas timmerstraat
+klaas van amerongenhof
 klaas van beeckpad
-klaas van beeckstraat
 klaas van der meijstrjitte
 klaas van essenpad
 klaas van houtstrjitte
@@ -4033,8 +4058,10 @@ klaas voskuildreef
 klaas wannen
 klaas wiersumsweg
 klaas woltjerweg
+klaas zwarthoedstraat
 klaasboerstraat
 klaasbos
+klaasenacker
 klaashofweg
 klaashuishof
 klaashuisstraat
@@ -4049,7 +4076,6 @@ klaasputhoek
 klaasputvoetpad
 klaassen en evendijk
 klaassenhof
-klaassenpad
 klaassenstraat
 klaassensweg
 klaassenweg
@@ -4080,7 +4106,6 @@ klam
 klamdijk
 klamersreed
 klammeland
-klammergatenweg
 klamp
 klampberg
 klampe
@@ -4119,6 +4144,7 @@ klapperhornsterweg
 klappermanssteeg
 klappermansstraat
 klappermanstraat
+klappersteen
 klapperstraat
 klappolder
 klaproas
@@ -4136,6 +4162,7 @@ klaproospad
 klaproosplein
 klaproosstraat
 klaproostuin
+klaproostunnel
 klaproosveld
 klaproosweg
 klaprooswei
@@ -4185,8 +4212,11 @@ klaroenpad
 klaroenplein
 klaroenring
 klaroenstraat
+klashut
+klaske douma-strjitte
+klaske doumapad
 klassenburgerstraat
-klassenweg
+klassiekpad
 klaterbos
 klatering
 klateringerweg
@@ -4200,6 +4230,7 @@ klauwenweg
 klauwershoek
 klauwertswei
 klauwhoek
+klauwier
 klauwiersingel
 klavecimbellaan
 klavecimbelpad
@@ -4207,13 +4238,11 @@ klavecimbelstraat
 klavecimbelweg
 klaver
 klaverakker
-klaverbaan
 klaverbank
 klaverbeemd
 klaverberg
 klaverblad
 klaverbladpoort
-klaverbladsgang
 klaverbladstraat
 klaverblauwtje
 klaverblok
@@ -4223,7 +4252,6 @@ klaverbouw
 klaverdijk
 klaverdreef
 klaverdries
-klavergang
 klavergriend
 klaverhoek
 klaverhoeksesteeg
@@ -4233,6 +4261,7 @@ klaverhof
 klaverkamp
 klaverkampen
 klaverkampsweg
+klaverkampweg
 klaverkoning
 klaverlaan
 klaverlaar
@@ -4245,21 +4274,24 @@ klaverpas
 klaverplak
 klaverplein
 klaverpolderseweg
+klaverringdijk
 klaverruiter
 klaverseweg
 klaversingel
 klaversloot
 klaverspanner
+klaversplein
 klaversreed
+klaverssteeg
 klaversteijn
 klaverstraat
+klaverstuk
 klavertje
 klavertuin
 klaverveld
 klaverveldenweg
 klaverveldlaan
 klaverweerd
-klaverweerdpad
 klaverweg
 klaverwei
 klaverweid
@@ -4269,8 +4301,6 @@ klaverwydenstraat
 klavetterstraat
 klavierpad
 klavierstraat
-klazienaveen-noord
-klazienaveen-zuid
 klazienaveensestraat
 klazina hoeve
 klazina hommeshof
@@ -4281,7 +4311,7 @@ kleasterdyk
 kleasterkamp
 kleasterkampen
 kleasterkolk
-kleasterl„¢n
+kleasterl√¢n
 kleasterpaed
 kleasterstrjitte
 kleasterwei
@@ -4292,7 +4322,6 @@ kleefkruid
 kleefkruidpad
 kleefkruidstraat
 kleefse allee
-kleefsedijk
 kleefsehoek
 kleefseplein
 kleefsestraat
@@ -4301,6 +4330,7 @@ kleefseweg
 kleefslagsestraat
 kleefstraat
 kleekampsweg
+kleemanshof
 kleen-esch
 kleenweg
 kleepassage
@@ -4315,6 +4345,7 @@ kleersloot
 kleersnijdershorst
 kleertjespad
 klef
+klefeldsweg
 kleffens
 kleiakker
 kleibeemd
@@ -4324,6 +4355,7 @@ kleibergstraat
 kleibergweg
 kleibos
 kleibroek
+kleibrug
 kleibultweg
 kleiburg
 kleiburgseweg
@@ -4354,6 +4386,7 @@ kleijsenweg
 kleijstrjitte
 kleijweg
 kleikade
+kleikamp
 kleikampen
 kleikoel
 kleikoele
@@ -4361,13 +4394,13 @@ kleikoelebergweg
 kleikoelen
 kleikoelenweg
 kleikoeleweg
-kleilaan
 kleilagerstraat
 kleiland
 kleilandpad
 kleimeer
 kleimos
 kleimuur
+klein akkerke
 klein amerika
 klein amerikaweg
 klein amsterdam
@@ -4399,8 +4432,8 @@ klein doesburg
 klein dongenseweg
 klein dorregeest
 klein dorsent
-klein draaigie
 klein duimpje
+klein elfhoeven
 klein elsbroek
 klein engeland
 klein engendaalweg
@@ -4412,7 +4445,6 @@ klein goor
 klein gooswilligenweg
 klein grachtje
 klein groningen
-klein haasdalersteeg
 klein hag
 klein half mijl
 klein hattem
@@ -4454,19 +4486,19 @@ klein laren
 klein leger
 klein leuken
 klein lichtenberg
-klein linde
 klein locht
 klein lombardje
 klein loo
 klein maalbergen
 klein maarslag
-klein mari„´nburg
+klein mari√´nburg
 klein martijn
 klein merwede
 klein moorst
 klein muiden
 klein nieuwland
 klein oekelsestraat
+klein oers
 klein oirlo
 klein oosterhout
 klein oosterwijk
@@ -4483,7 +4515,7 @@ klein roessink
 klein rog
 klein rome
 klein rondeel
-klein r„∂merwegske
+klein r√∂merwegske
 klein saleminkdijk
 klein schaft
 klein scharweg
@@ -4496,7 +4528,6 @@ klein terkooijen
 klein tilburg
 klein tongelrepad
 klein tongelreplein
-klein vaarwater
 klein vaarwaterweg
 klein vechtdal
 klein vijverdal
@@ -4504,6 +4535,7 @@ klein vink
 klein vlaanderen
 klein vlieland
 klein vortum
+klein vortumsedijk
 klein vreewijk
 klein vrijenban
 klein weegske
@@ -4516,8 +4548,8 @@ klein wielens
 klein wissink
 klein wolfslaar
 klein zand
+klein zilver
 klein zuidbeijerlandseweg
-klein zuidbeijerlandsewg
 klein zundertseweg
 klein zwitserland
 klein-brandt sportpark
@@ -4531,6 +4563,7 @@ klein-nullandstraat
 klein-schoot
 klein-welzheimstraat
 klein-winselerstraat
+klein-zundertseweg
 klein-zwitserlandlaan
 kleinakkerweg
 kleinbergpad
@@ -4571,6 +4604,7 @@ kleine beurs
 kleine bickersstraat
 kleine binnenweg
 kleine bisselt
+kleine blankenbergsweg
 kleine bleekstraat
 kleine blerickse bergenweg
 kleine blokkenweg
@@ -4594,11 +4628,9 @@ kleine bree
 kleine breedstraat
 kleine breestraat
 kleine breinder
-kleine brink
 kleine brinkstraat
 kleine broekstraat
 kleine broekweg
-kleine brug
 kleine buelterhofweg
 kleine buitenom
 kleine buitenweide
@@ -4614,7 +4646,6 @@ kleine dijkje
 kleine dijkstraat
 kleine dijlakker
 kleine donk
-kleine donk
 kleine doornbos
 kleine dorpsstraat
 kleine draaisteeg
@@ -4625,29 +4656,36 @@ kleine duikerpad
 kleine durk
 kleine eekhorstweg
 kleine eeuwselweg
+kleine egelskop
 kleine emstermate
 kleine eng
 kleine enkweg
-kleine es
+kleine erven
 kleine esch
 kleine espad
 kleine esweg
+kleine eusebiuspad
 kleine fluitersweg
 kleine fok
+kleine galatheseweg
+kleine gang
 kleine gantelpad
 kleine gatsvoetpad
 kleine geer
 kleine geertekerkhof
 kleine geldebosch
 kleine gelkingestraat
+kleine gellinkweg
 kleine gent
 kleine geren
 kleine getkate's weg
 kleine glop
 kleine goorpad
+kleine goorweg
 kleine gracht
 kleine grachtstraat
 kleine graspeel
+kleine groes
 kleine haag
 kleine haan
 kleine haar
@@ -4662,11 +4700,9 @@ kleine havensteeg
 kleine hazelaar
 kleine hei
 kleine heiakker
-kleine heideweg
 kleine heisteeg
 kleine heistraat
 kleine heitrak
-kleine heiweg
 kleine hellingkade
 kleine hemstea
 kleine henricusdijk
@@ -4679,12 +4715,12 @@ kleine hofsedam
 kleine hofstad
 kleine hoogstraat
 kleine hoogteweg
-kleine hoop
 kleine hoorn
 kleine horizon
 kleine hornstweg
 kleine horsterweg
 kleine hout
+kleine houtbrug
 kleine houtplein
 kleine houtstraat
 kleine houtweg
@@ -4693,7 +4729,6 @@ kleine huissenspolderweg
 kleine huiswei
 kleine hulzen
 kleine immert
-kleine inez erf
 kleine johanneslaan
 kleine johannesstraat
 kleine jonkvrouwstraat
@@ -4712,6 +4747,7 @@ kleine kemp
 kleine kempekoul
 kleine kempstraat
 kleine kept
+kleine kerkepad
 kleine kerksteeg
 kleine kerkstraat
 kleine klaver
@@ -4722,6 +4758,7 @@ kleine kommel
 kleine koog
 kleine koppel
 kleine kosterij
+kleine kotten veenweg
 kleine kreek
 kleine krocht
 kleine krogt
@@ -4734,13 +4771,13 @@ kleine landtong
 kleine leeuw
 kleine leeuwerik
 kleine leliestraat
+kleine leng
 kleine linderesweg
 kleine lindtstraat
 kleine loo
 kleine loohof
 kleine looiersstraat
 kleine maaijen
-kleine maas
 kleine maote
 kleine markt
 kleine marktstraat
@@ -4752,6 +4789,7 @@ kleine molen
 kleine molenhof
 kleine molenstraat
 kleine molenweg
+kleine mors
 kleine nekkum
 kleine nobelstraat
 kleine noord
@@ -4763,6 +4801,7 @@ kleine oord
 kleine oost
 kleine oosterstraat
 kleine oosterwijck
+kleine oostpoortbrug
 kleine ossenmarkt
 kleine overstraat
 kleine palen
@@ -4770,6 +4809,7 @@ kleine pan
 kleine parallelstraat
 kleine parallelweg
 kleine parelmoervlinder
+kleine paterbrug
 kleine peelweg
 kleine pelsterstraat
 kleine peperstraat
@@ -4788,13 +4828,12 @@ kleine raamstraat
 kleine reinoutsedijk
 kleine rietplas
 kleine roedensestraat
-kleine roedestraat
 kleine ronduit
 kleine rozenstraat
 kleine rul
-kleine r„∂merweg
+kleine r√∂merweg
 kleine schelluinsekade
-kleine schild
+kleine schiebrug
 kleine schoolstraat
 kleine schoorsteenplein
 kleine singel
@@ -4806,11 +4845,11 @@ kleine sophiastraat
 kleine sparrenlaan
 kleine spellestraat
 kleine spie
+kleine spijker
 kleine spui
 kleine spuistraat
 kleine st. albertdijk
 kleine staat
-kleine steeg
 kleine steeg
 kleine steenkamp
 kleine steentilstraat
@@ -4819,6 +4858,7 @@ kleine stelledijk
 kleine steng
 kleine stokstraat
 kleine streek
+kleine tangedijk paarde
 kleine tiend
 kleine tocht
 kleine toer
@@ -4829,6 +4869,7 @@ kleine tromstraat
 kleine turfstraat
 kleine vaartlaan
 kleine varenweg
+kleine veen
 kleine veenbes
 kleine veenkade
 kleine veer
@@ -4843,10 +4884,9 @@ kleine vest
 kleine vinkstraat
 kleine visserijstraat
 kleine vliet
-kleine vlietstraat
+kleine volte
 kleine voort
 kleine voortstraat
-kleine vos
 kleine vos
 kleine vospad
 kleine vosstraat
@@ -4856,8 +4896,6 @@ kleine waal
 kleine wade
 kleine wal
 kleine weekamp
-kleine weert
-kleine weg
 kleine weg
 kleine wei
 kleine weide
@@ -4879,7 +4917,6 @@ kleine woerdlaan
 kleine woldweg
 kleine woud
 kleine zelkeweg
-kleine zijdekade
 kleine zilverreiger
 kleine zomerdijk
 kleine zonnedauw
@@ -4911,7 +4948,6 @@ kleingaalseweg
 kleingeel
 kleingenhoutersteeg
 kleingenhouterstraat
-kleingenhouterweg
 kleingouw
 kleingraverstraat
 kleinhaar
@@ -4923,6 +4959,7 @@ kleinhof
 kleinhoonte
 kleinhorst
 kleinhovenweg
+kleinjansbrug
 kleinjansweg
 kleinkullenvoetpad
 kleinland
@@ -4932,11 +4969,14 @@ kleinpolderkade
 kleinpolderlaan
 kleinpolderpad
 kleinpolderplein
-kleinstraat
+kleinpoldertunnel
+kleinseminariehof
 kleinussenstraat
 kleinveld
 kleinveldjesvoetpad
 kleinveldjesweg
+kleinveldweg
+kleinvenkenschdijk
 kleinwijk
 kleinzand
 kleipad
@@ -4960,17 +5000,17 @@ kleiwal
 kleiwarenlaan
 kleiweg
 kleiwegpad
-kleiwegpassage
 kleiwegplein
 kleiwegstraat
 kleiwerd
-kleiwerf
 kleizuwe
 klem
 klembergerweg
+klemetsestraat
 klemit
 klemmenstraat
 klemmerweg
+klemsedijk
 klemslootstraat
 klemstraat
 klemstrook
@@ -4982,15 +5022,23 @@ klepel
 klepelhoek
 klepelstraat
 kleppenburg
-klepperdans
 klepperduindreef
 klepperen
 klepperheide
 klepperlaantje
-klepperman
 kleppermanstraatje
 kleppermanweg
 klepperplein
+klepperstee - albatros
+klepperstee - grote stern
+klepperstee - kievit
+klepperstee - koolmees
+klepperstee - nachtegaal
+klepperstee - preekhil
+klepperstee - torenvalk
+klepperstee - zeekoet
+klepperstee - zeevalk
+klepperstee - zilvermeeuw
 klepperstee-berk
 klepperstee-duindoorn
 klepperstee-eik
@@ -5013,6 +5061,7 @@ klerkenveld
 klerkskensland
 klerkstraat
 klerksweg
+klerkveld
 kleteborg
 kleterstraat
 kletsterlaan
@@ -5041,7 +5090,6 @@ kleverparkstraat
 kleverparkweg
 kleverplantsoen
 kleverskerksejaagpad
-kleverskerksepad
 kleverskerkseweg
 kleverstraat
 kleyenburg
@@ -5052,13 +5100,14 @@ klidze-rjocht
 kliefdiep
 klieftstraat
 klienkerpadje
+klieverdijk
 klieveriklaan
 klieverink
 klieverinkweg
 klieverkruisweg
 klievervenneweg
 klieverweg
-klie„´-sjtraot
+klie√´-sjtraot
 klif
 klifkade
 klifrakplantsoen
@@ -5075,6 +5124,7 @@ klimaatstraat
 klimbergweg
 klimheuvel
 klimme
+klimmen 5
 klimmende leeuwsteeg
 klimmenderstraat
 klimmenderveldweg
@@ -5084,10 +5134,10 @@ klimmenerweg
 klimmerseind
 klimop
 klimopberg
+klimopbrug
 klimophof
 klimoplaan
 klimoppad
-klimopplein
 klimopplein
 klimopstraat
 klimopstraatje
@@ -5147,14 +5197,14 @@ klinkenvlier
 klinkenweg
 klinker
 klinkerhof
-klinkerh„∂fke
+klinkerh√∂fke
 klinkerkade
-klinkerlandse wetering
 klinkerlandse zeedijk
 klinkerlandsestraat
 klinkerlandseweg
 klinkerpad
 klinkerplein
+klinkerseweg
 klinkersteegje
 klinkersteen
 klinkerstraat
@@ -5172,7 +5222,6 @@ klinkheiweg
 klinkheiweg veldpad
 klinknagel
 klinknagelpad
-klinknagelplein
 klinknagelstraat
 klinkstraat
 klinkveld
@@ -5231,6 +5280,7 @@ klokbeker
 klokbekerkreek
 klokbekerpad
 klokbekerstraat
+klokbekertocht
 klokbekerweg
 klokbergsestraat
 klokdijk
@@ -5242,7 +5292,8 @@ klokhuisdijk
 klokhuislaan
 klokhuisplein
 klokhuisstraat
-klokh„∫sdyk
+klokh√∫sdyk
+klokje
 klokjesbloem
 klokjesbloemlaan
 klokjeslaan
@@ -5256,7 +5307,6 @@ klokkenbelt
 klokkenberg
 klokkenbergweg
 klokkenborg
-klokkenbos
 klokkenbuil
 klokkendijk
 klokkengat
@@ -5297,19 +5347,17 @@ klokstrjitte
 kloksveen
 klokweg
 klokwetering
-klomp#straat
 klompeind
 klompemaeckerspad
-klompendans
 klompendijk
 klompenfabriek
-klompenheuler
 klompenhoefke
 klompenhorstweg
 klompenkampje
 klompenlei
 klompenmaker
 klompenmakerij
+klompenmakerpad
 klompenmakersdreef
 klompenmakersgang
 klompenmakersgilde
@@ -5333,7 +5381,6 @@ klompestraat
 klompmakerstraat
 klompmakersweg
 klompmakkerspaad
-klompmakkerspaed
 klompmakkersstrjitte
 klompskamp
 klompssteeg
@@ -5342,9 +5389,9 @@ klompstraatje
 klompstraloane
 klompven
 klompweg
-klomp„©hof
-klomp„©pad
-klomp„©straat
+klomp√©hof
+klomp√©pad
+klomp√©straat
 kloofbeitel
 kloofhamer
 kloofpad
@@ -5408,7 +5455,6 @@ kloosterlindenweg
 kloostermankamp
 kloostermanpad
 kloostermanshof
-kloostermanswijk
 kloostermanswijk oz
 kloostermanswijk wz
 kloostermolenpad
@@ -5459,12 +5505,13 @@ klopdijk
 kloppe-ven
 kloppenbergweg
 kloppenborgweg
-kloppenburg
 kloppenburgstraat
 kloppendijk
 kloppenhofstraat
 kloppenland
 kloppenstraat
+kloppenvensedwarsweg
+kloppenvenseweg
 klopperman
 kloppersakker
 kloppersblokweg
@@ -5475,7 +5522,6 @@ kloppertstraat
 kloppertsweg
 kloppoort
 klopschouw
-klopsteeg
 klopsteen
 klos
 klosruwe
@@ -5486,7 +5532,6 @@ klothal
 klotputten
 klotshoeve
 klotstekerwei
-klotterkuilenweg
 klotterpeellaan
 klotterstraat
 klotven
@@ -5524,7 +5569,6 @@ kluithoekweg
 kluitkamp
 kluitmanstraat
 kluitpad
-kluiver
 kluiverboom
 kluiverkamp
 kluiversgang
@@ -5564,6 +5608,7 @@ klunenweg
 klunt
 klunveensdijk
 kluppelshuizenweg
+klusewei
 klutemansstraat
 klutendreef
 klutenpad
@@ -5582,7 +5627,6 @@ kluutpad
 kluutplantsoen
 kluutring
 kluutstraat
-kluutstrand
 kluutweg
 kluutweide
 kluver
@@ -5592,14 +5636,14 @@ kluwen
 kluwerij
 kluwerweg
 kluyverweg
-klynl„¢n
+klynl√¢n
 klyster
 klysterklank
 klysterstrjitte
-kl„∂nne plein
-kl„∂sseweg
-kl„∫t
-kl„ªsewei
+kl√∂nne plein
+kl√∂sseweg
+kl√∫t
+kl√ªsewei
 kn kuperusstrjitte
 knakenpad
 knalhutteweg
@@ -5632,6 +5676,7 @@ knegselseweg
 knegselstraat
 kneijkuilerweg
 knelisroos
+kneppelbrug
 kneppelhoutpad
 kneppelhoutstraat
 kneppelhoutweg
@@ -5658,7 +5703,6 @@ knibbeldwarsdijk
 knibbelstraatje
 knibbelwart
 knibbelweg
-knibbelwegje
 knibbelweide
 knibusweg
 knieberglaan
@@ -5700,9 +5744,11 @@ knipstraat
 kniptor
 kniptorstraat
 knitgensgats
+knmr-pad
 knobbelpad
 knobbelzwaan
 knobbelzwaansingel
+knobbelzwaanstraat
 knoe
 knoefstraat
 knoefsweg
@@ -5725,6 +5771,7 @@ knolhaven
 knollemanshoek
 knollenberg
 knollenbijter
+knollendam
 knollendammerstraat
 knollendamstraat
 knollenhaarweg
@@ -5749,17 +5796,18 @@ knooppunt lunetten
 knooppunt oudenrijn
 knooppunt rijnsweerd
 knooppunt slufter
-knooppunt vlaardingen
-knooppunt zestienhoven
-knoopsh„∂fte
+knoopsh√∂fte
 knoopssteeg
 knoopsweg
+knopbies
 knopbrekerstraat
+knopendraaierlaan
 knopenfabriek
 knopenmakerstraat
 knopherik
 knopkruid
 knopkruidpad
+knoppersbrug
 knoppersweg
 knoppertkamp
 knoppertlaan
@@ -5767,8 +5815,10 @@ knopstraat
 knorrenburg
 knorrenburgerlaan
 knorrenburgerstraat
+knorrestein
 knossos
 knosterveld
+knotboom
 knoteind
 knothof
 knottenbeltlaan
@@ -5776,6 +5826,7 @@ knottenplat
 knotterpad
 knotwilg
 knotwilgbeemd
+knotwilgen
 knotwilgendreef
 knotwilgenlaan
 knotwilgenstraat
@@ -5783,12 +5834,14 @@ knotwilghof
 knotwilglaan
 knoxstraat
 knsm-laan
+kntr.plaspoelpolder 10
 knuistenkoepel
 knuitershoek
 knuppeldam
 knuppeldiek
 knuppelpad
 knuppelweg
+knupzicht
 knuttelstraat
 knuttelweg
 knuvelderlaan
@@ -5811,10 +5864,11 @@ koaidyk
 koaifinne
 koaikamp
 koailoane
-koail„¢n
+koail√¢n
 koaipaed
 koaisreed
 koaiwei
+koala
 koaldyk
 koarnbeurs
 koarndyk
@@ -5831,11 +5885,10 @@ koartebaen
 koartedyk
 koarteloane
 koartewyk
-koartw„¢ld
-koaterh„∫sterwei
+koartw√¢ld
+koaterh√∫sterwei
 kobalt
 kobaltblauw
-kobaltlaan
 kobaltpad
 kobaltstraat
 kobaltweg
@@ -5849,7 +5902,7 @@ koblens
 kobstederstraat
 kobstederweg
 kobunderleantsje
-kobussenhoekpad
+kobus
 kobusweg
 kocherplantsoen
 kochlaan
@@ -5857,11 +5910,11 @@ kochpad
 kochslaan
 kochspad
 kochstraat
-kockelmansflat
 kockerseweg
 kockpad
 kocksteegje
 kockstraat
+kodanstraat
 koddebeierlaan
 koddesteeg
 koddeweg
@@ -5870,8 +5923,11 @@ koeberg
 koebergstraat
 koebergweg
 koebosakkers
+koebraam
 koebroeken
+koebroeksterweg
 koebroekweg
+koebrug
 koebruggelaantje
 koebrugseweg
 koeburgweg
@@ -5884,6 +5940,7 @@ koedieplaantje
 koediepslaan
 koedijk
 koedijkerstraat
+koedijkervlotbrug
 koedijkerweg
 koedijkje
 koedijklaan
@@ -5894,9 +5951,12 @@ koedood
 koedoodpad
 koedoodsekade
 koedoodstraat
+koedreef
 koedrift
 koeduinweg
+koedwarsweg
 koefenne
+koefertweg
 koegang
 koegelwieck
 koegelwieckplantsoen
@@ -5927,23 +5987,24 @@ koekanger dwarsdijk
 koekangerpad
 koekangerveldweg
 koekangerweg
+koekangerweide
 koekangestraat
 koekebackerstraat
+koekebakkersplein
 koekebakkerssteeg
-koekebakkersteeg
 koekebakkerstraat
 koekelarestraat
 koekelberg
 koekeleklef
 koekeltse boslaan
-koekenbakkersgang
 koekenbakkerssteeg
 koekenbergweg
 koekendaalseweg
 koekendijk
 koekendorpseweg
+koekenfabriekhof
 koekenweg
-koekersestraat
+koekjesbrug 0170
 koekkel
 koekkoekhof
 koekkoekplein
@@ -5967,12 +6028,12 @@ koekoeksblom
 koekoeksbos
 koekoeksdijk
 koekoeksdonk
-koekoeksduin
 koekoeksedijk
 koekoekseweg
 koekoekshof
 koekoekslaan
 koekoeksleane
+koekoekspaad
 koekoekspad
 koekoekspaed
 koekoeksplaats
@@ -6010,7 +6071,6 @@ koele
 koele mei
 koelebeemdweg
 koelebosweg
-koeleb„∂sj
 koelemaaier
 koelenbeekweg
 koelenbergsteeg
@@ -6036,6 +6096,7 @@ koelmanhof
 koelmansstraat
 koelmanstraat
 koelmoer
+koelreuteria
 koelstraat
 koelstrawei
 koeltjesweg
@@ -6048,23 +6109,29 @@ koemaat
 koemaatsdijk
 koemaatsweg
 koemarkt
+koemarktbrug
 koemarsendijk
 koemarsendrift
 koemaste
 koemate
 koematen
+koematenweg
 koemeer
 koemeersdijk
 koemeershoeve
 koemeerskuil
+koemeersloop
 koemeerspad
+koemheenweg
 koemkolkweg
 koempel
+koempelstraat
 koemstraat
 koemweg
 koen gortershoeke
 koen limpergstraat
 koen rozendaalstraat
+koen van der gaastplein
 koen van oosterwijklaan
 koenderinklanden
 koenderinkstraat
@@ -6106,12 +6173,16 @@ koepelplaats
 koepelplein
 koepelstraat
 koepeltjespad
+koepeltunnel
 koepelweg
+koepelzicht
 koeplein
 koepoort
+koepoortbrug
 koepoortdijk
 koepoortlaan
 koepoortplaats
+koepoortsbrug
 koepoortsplein
 koepoortstraat
 koepoortsweg
@@ -6124,15 +6195,15 @@ koerdamsweg
 koereiger
 koergerweg
 koerheuvelweg
-koerier
 koeriershoek
-koerierslaantje
 koerierspad
+koeriersplein
 koeriersstraat
 koerierster
 koeriersterpad
 koerierstersbrug
 koerierstersespel
+koerierstershof
 koeriersterslaan
 koeriersterslaantje
 koeriersterspad
@@ -6143,7 +6214,6 @@ koeriersterweg
 koerierstraat
 koerilen
 koerilenstraat
-koerillen
 koerkampsweg
 koerlingwei
 koers
@@ -6153,6 +6223,7 @@ koersensweg
 koerskamp
 koerspad
 koersweg
+koert bollepad
 koert meulemanstraat
 koertweg
 koeschalkspad
@@ -6179,7 +6250,7 @@ koetlaan
 koetreeweg
 koets
 koetsdrift
-koetsebeiw„¢l
+koetsebeiw√¢l
 koetsekralen
 koetseland
 koetsendijk
@@ -6187,9 +6258,10 @@ koetserstraat
 koetshoek
 koetshuis
 koetshuislaan
+koetshuisplantsoen
 koetshuisstraat
 koetshuisweg
-koetsh„∫sleane
+koetsh√∫sleane
 koetsier
 koetsierbaan
 koetsierhof
@@ -6202,12 +6274,11 @@ koetsiersweg
 koetsierwaard
 koetsierwei
 koetsjekralen
-koetsveld
 koetsveldstraat
 koetsweg
 koevaart
-koeveenstraat
 koeveenweg
+koeveld
 koevelden
 koeveldsestraat
 koeveldsweg
@@ -6220,6 +6291,7 @@ koevertseweg
 koevink
 koevinkje
 koevoet
+koevoetshof
 koevoetstraat
 koevoort
 koevoortseweg
@@ -6257,7 +6329,9 @@ koffiemolen
 koffiemolenweg
 koffiestraat
 koffieweg
+kofimamadreef
 kofschip
+kofschipbrug
 kofschipkade
 kofschipstraat
 kofskip
@@ -6271,6 +6345,7 @@ kogelflesstraat
 kogelgieterij
 kogelhoflaan
 kogellaan
+kogelmolen
 kogelparkstraat
 kogelpot
 kogelsmortel
@@ -6285,6 +6360,7 @@ kogerlaan
 kogerpolder
 kogersluisstraat
 kogerstraat
+kogertunnel
 kogerwatering
 kogerweg
 kogge
@@ -6300,12 +6376,14 @@ kogge 09
 kogge 10
 kogge 11
 kogge 12
+koggebrug
 koggehaven
 koggehof
 koggehoorn
 koggekade
 koggelaan
 koggelsteeg
+koggenhof
 koggenlaan
 koggenland
 koggenrandweg
@@ -6315,17 +6393,17 @@ koggeplantsoen
 koggeplein
 kogger
 koggerdaalder
-koggerwaard
 koggeschip
 koggeschuit
 koggesingel
 koggesteeg
 koggestraat
-koggetunnel
+koggetje
 koggewaard
 koggewagen
 koggewal
 koggeweg
+koggewerf
 kogjespolder
 kogveld
 kohlbergsgracht
@@ -6338,7 +6416,7 @@ kokardebloemlaan
 kokelekant
 kokelestraat
 kokensteeg
-kokent„∫n
+kokent√∫n
 koker
 kokerbijl
 kokerheulweg
@@ -6359,6 +6437,7 @@ kokkelertstraat
 kokkelhof
 kokkelmanlanden
 kokkelsingel
+kokkeltocht
 kokkelweg
 kokkenhoflaan
 kokkerije
@@ -6379,6 +6458,7 @@ koksboomgaard
 koksbosweg
 koksburg
 koksche poort
+kokse hoeve
 koksedijk
 koksenbos
 kokseweg
@@ -6408,6 +6488,8 @@ koldakker
 koldenhofpad
 koldenhovenpoort
 koldenhovensteeg
+kolderneen
+kolderv kerkweg
 kolderveen
 kolderveense bovenboer
 kolderveense kerkweg
@@ -6426,7 +6508,7 @@ koldingweg
 kolebossenlaan
 koleind
 kolenbergstraat
-kolenbosch
+kolenboer
 kolenbrander
 kolenbranderhof
 kolenbranderserf
@@ -6441,6 +6523,7 @@ kolenhaven
 kolenhofweg
 kolenmieten
 kolenpaadje
+kolensteeg
 kolenstraat
 kolenvenweg
 kolenwagenslag
@@ -6464,6 +6547,7 @@ kolfpad
 kolfschoten
 kolfschotenstraat
 kolfschoterdijk
+kolfstedetunnel
 kolfstraat
 kolfweg
 kolfwei
@@ -6471,6 +6555,7 @@ kolfwetering
 kolgans
 kolgansplaats
 kolgansstraat
+kolham
 kolhamhof
 kolhamsterbos
 kolhamsterweg
@@ -6494,6 +6579,7 @@ kolibrievlinderlaan
 kolibrihoek
 kolibripad
 kolibristraat
+koliebrievlinder
 kolk
 kolk van dussen
 kolkakker
@@ -6509,6 +6595,9 @@ kolkepad
 kolkersweg
 kolkgang
 kolkgriend
+kolkhof
+kolkhuizerweg
+kolkhuizerwei
 kolkhuzerwei
 kolkje
 kolkkamp
@@ -6531,6 +6620,7 @@ kolksteeg
 kolkstraat
 kolkstroeterpad
 kolkstuikweg
+kolkstuk
 kolkweg
 kolkwei
 kolkweiden
@@ -6547,7 +6637,6 @@ kollenburgweg
 kollenkamp
 kollenswei
 kollenveldsweg
-kollenweg
 kollergang
 kollerijweg
 kollermolen
@@ -6561,7 +6650,7 @@ kollumerland
 kollumerlandstraat
 kollumstraat
 kolmansweg
-kolmarsl„¢n
+kolmarsl√¢n
 kolmeer
 kolmonderbosweg
 kolmonderstraat
@@ -6570,6 +6659,7 @@ kolmschotlanden
 kolnboom
 kolnerweg
 kolonel
+kolonel blondeelwe
 kolonel blondeelweg
 kolonel clarklaan
 kolonel d.j. teesweg
@@ -6577,7 +6667,7 @@ kolonel falbastraat
 kolonel h.l. van royenweg
 kolonel johnsonstraat
 kolonel johnsontunnel
-kolonel micha„´lstraat
+kolonel micha√´lstraat
 kolonel millerstraat
 kolonel palmstraat
 kolonel silvertoplaan
@@ -6585,6 +6675,7 @@ kolonel sneepweg
 kolonel stamfordstraat
 kolonel thomsonlaan
 kolonel van brienenstraat
+kolonel van essenweg
 kolonel verveerstraat
 kolonel wilsonstraat
 kolonel wilsstraat
@@ -6596,6 +6687,7 @@ koloniesweg
 kolonievaart
 kolonieweg
 kolonieweg o
+koloniewg
 kolpapad
 kolpendestraat
 kolperstraat
@@ -6603,12 +6695,14 @@ kolpingpad
 kolpingstraat
 kolstee
 kolsteeghofje
+kolsteepad
 kolstraat
 koltermanstraat
 kolthofhorst
 kolthofpad
 kolthofsingel
 kolthofstraat
+kolthoorn
 kolthoornpad
 kolthoornseweg
 kolthovenweg
@@ -6629,7 +6723,6 @@ kombos
 kombuis
 kombuisstraat
 kombuisweg
-kombuizengang
 komediestraat
 komeet
 komeetbaan
@@ -6661,8 +6754,8 @@ komkommerlaan
 komkommerstraat
 komkommerweg
 komlaan
-kommanstraat
 kommavlinder
+kommavlinderstraat
 kommedijk
 kommedwarssteeg
 kommel
@@ -6685,6 +6778,7 @@ kommiezendijk
 kommiezenlaan
 kommiezenpad
 kommisjewei
+komodohof
 komodovaraan
 komoord
 kompagnonswei
@@ -6710,14 +6804,11 @@ kon julianastraat
 kon wilhelminastraat
 kon wilhelminaweg
 kon willem iii-straat
-kon willem-alexanderpl
-kon willem-alexanderpln
 kon. julianastraat
 kon. wilhelminastraat
-kon. willem iii-straat
 kon.julianalaan
 kon.wilhelminalaan
-konastraat
+kondeleweg
 konenhofstraat
 koneweg
 kongostraat
@@ -6749,13 +6840,9 @@ konijnenweide
 konijnenwinkel
 konijnpad
 konijnsdellerveldweg
-konijnsgracht
-konijnsgrachtpad
 konijnsheidepad
 konijnsheideweg
 konijnshoolsedreef
-konijnskampstraat
-konijnswarande
 konijnsweg
 koning abelsingel
 koning arthurlaan
@@ -6774,8 +6861,7 @@ koning hendrikstraat
 koning hollewijnstraat
 koning karelpad
 koning karelstraat
-koning kyrieweg
-koning kyri„´weg
+koning kyri√´weg
 koning lodewijklaan
 koning lodewijkstraat
 koning markweg
@@ -6783,12 +6869,8 @@ koning nobelpad
 koning radboudlaan
 koning stadhouderlaan
 koning wenzelstraat
-koning willem - alexanderstraat
 koning willem alexanderpad
-koning willem alexanderplein
-koning willem alexanderstraat
 koning willem i straat
-koning willem i-laan
 koning willem i-laan
 koning willem i-park
 koning willem ii plein
@@ -6811,7 +6893,6 @@ koning willem-alexanderstraat
 koning willem-alexanderviaduct
 koning willemstraat
 koning williamstraat
-koning zwentiboldpad
 koning zwentiboldstraat
 koningdwarsstraat
 koningfazant
@@ -6820,11 +6901,11 @@ koningin anna paulownastraat
 koningin astrid boulevard
 koningin beatrixhof
 koningin beatrixlaan
+koningin beatrixpark
 koningin beatrixplantsoen
 koningin beatrixplein
 koningin beatrixstraat
 koningin elisabethplantsoen
-koningin elisabethplnts
 koningin emmaboulevard
 koningin emmahof
 koningin emmakade
@@ -6836,6 +6917,7 @@ koningin emmastraat
 koningin emmaweg
 koningin frederikastraat
 koningin hortenselaan
+koningin julianabrug
 koningin julianahof
 koningin julianalaan
 koningin julianaplantsoen
@@ -6849,9 +6931,10 @@ koningin mariastraat
 koningin maudplein
 koningin maximahof
 koningin maximalaan
-koningin m„°ximalaan
-koningin m„°ximasingel
-koningin m„°ximastraat
+koningin maximastraat
+koningin m√°ximalaan
+koningin m√°ximasingel
+koningin m√°ximastraat
 koningin regentesselaan
 koningin sophialaan
 koningin sophiastraat
@@ -6860,6 +6943,7 @@ koningin sophiestraat
 koningin sophieweg
 koningin wandaglop
 koningin wilhelmina boulevard
+koningin wilhelminabrug
 koningin wilhelminahaven nz
 koningin wilhelminahaven zoz
 koningin wilhelminahaven zz
@@ -6870,13 +6954,13 @@ koningin wilhelminapark
 koningin wilhelminaplein
 koningin wilhelminasingel
 koningin wilhelminastr
-koningin wilhelminastraa
 koningin wilhelminastraat
 koningin wilhelminaweg
 koningin-emmalaan
 koningin-julianalaan
 koningin-wilhelminalaan
 koninginnebos
+koninginnebrug
 koninginnedijk
 koninginneduinweg
 koninginnegetske
@@ -6884,8 +6968,8 @@ koninginnegracht
 koninginnehof
 koninginnekruid
 koninginnelaan
-koninginnenhof
 koninginnenhoofd
+koninginnenkruid
 koninginnenlaan
 koninginnenoever
 koninginnenpage
@@ -6902,6 +6986,7 @@ koninginnetuin
 koninginneweg
 koninglaan
 koningsakkers
+koningsallee
 koningsbeemd
 koningsbeemdweg
 koningsbeltpad
@@ -6912,8 +6997,10 @@ koningsbergen
 koningsbergenstraat
 koningsbergenweg
 koningsbergerstraat
+koningsblokpad
 koningsboulevard
 koningsbrink
+koningsbrug
 koningsbult
 koningsburg
 koningsdaalseweg
@@ -6923,11 +7010,9 @@ koningsdijk
 koningsdreef
 koningsduin
 koningserf
-koningsgang
 koningsgeelstraat
 koningsgraven
 koningshaven
-koningshavenplein
 koningsheert
 koningsheiweg
 koningshoef
@@ -6936,7 +7021,9 @@ koningshoeven
 koningshof
 koningshofje
 koningshofke
+koningshofpad
 koningsholster
+koningshoven
 koningskaars
 koningskade
 koningskamp
@@ -6971,12 +7058,15 @@ koningspark
 koningsplaat
 koningsplein
 koningsplein flat
-koningsplein flat
 koningspleinhof
 koningspleisterplaats
+koningspolderweg
+koningsrotonde
 koningsschild
 koningsschot
 koningsschut
+koningssingel
+koningssluis 0029
 koningsspil
 koningsspilstraat
 koningsspoor
@@ -6986,6 +7076,7 @@ koningstabelstraat
 koningsteeg
 koningsteinstraat
 koningstraat
+koningstunnel
 koningsvaren
 koningsvarenstraat
 koningsveld
@@ -6996,12 +7087,9 @@ koningsvogel
 koningswaard
 koningsweer
 koningsweg
-koningswerf
-koningswinkelstraat
-koningswinkelvoetpad
+koningsweide
 koningszuur
 koningszuurhof
-koningterrein
 koninkjesdijk
 koninklijk park
 koninklijke marinelaan
@@ -7016,15 +7104,15 @@ konrad adenauerstraat
 konrebbersweg
 konstabelstraat
 konstancin-jeziorna pad
+konstapelweg
 konstruktieweg
+kontermansbrug
 kontermansweg
 konvintsdyk
 konvintspaad
-konvooi
 konvooistraat
 koog
 koogdijk
-koogerpark
 koogerweg
 kooglaan
 koogpad
@@ -7059,6 +7147,7 @@ kooikamp
 kooike
 kooiker
 kooikerboog
+kooikerbrug
 kooikerlaan
 kooikerpad
 kooikersdreef
@@ -7082,16 +7171,19 @@ kooimaten
 kooimeerlaan
 kooimeerstraat
 kooimolenweg
+kooioerdstuifdijk
 kooipad
 kooipark
 kooiplaats
 kooiplein
+kooipolder
 kooireed
 kooisingel
 kooisloot
 kooislootpad
 kooisteeg
 kooistraat
+kooistufdijkpad
 kooistukken
 kooiveldlaan
 kooiveldweg
@@ -7107,6 +7199,7 @@ kooiwijk
 kooizand
 kooizandweg
 kooizicht
+kookepan
 kookersdreef
 kooksteen
 kookstraat
@@ -7117,7 +7210,6 @@ koolaspad
 koolben
 koolberg
 koolbergseweg
-koolboerboschje
 koolbogt
 koolboswijk
 kooldertweg
@@ -7134,6 +7226,7 @@ koolhaarsweg
 koolhaarweg
 koolhaaspark
 koolhaasstraat
+koolhoekweg
 koolhof
 koolhofstraat
 koolhofweg
@@ -7174,7 +7267,6 @@ kooltuinweg
 koolveen
 koolveld
 koolven
-koolvisweg
 koolwaterstofstraat
 koolweg
 koolweg ii
@@ -7215,7 +7307,6 @@ koopmanmarke
 koopmans van boekerenstraat
 koopmansbeurs
 koopmanserf
-koopmansgang
 koopmansgildeplein
 koopmansgoed
 koopmansgracht
@@ -7243,9 +7334,8 @@ koopvaardersplantsoen
 koopvaardijhof
 koopvaardijstraat
 koopvaardijweg
-koopvaart
 koopweg
-koordes waterleiding
+koorbrug
 koordesweg
 koordsteeg
 koore venweg
@@ -7261,7 +7351,6 @@ koornbroeksteeg
 koornbrugsteeg
 koorncamp
 koorndijk
-koorndragersgang
 koorngraaf
 koornhorst
 koornlaan
@@ -7279,7 +7368,9 @@ koos gaastrastrjitte
 koos postemalaan
 koos roksstraat
 koos schroefstraat
+koos siccamapad
 koos speenhofflaan
+koos speenhoffstraat
 koos stikvoortlaan
 koos veraartstraat
 koos vorrinkstraat
@@ -7288,6 +7379,7 @@ koosjepaid
 koot-akker
 kootsekade
 kootspeeldijk
+kootwijk 18
 kootwijkerbroekerweg
 kootwijkerdijk
 kootwijkerschans
@@ -7315,7 +7407,6 @@ kopeind
 kopeinde
 kopenhagen
 kopenhagenlaan
-kopenhagensingel
 kopenhagenstraat
 kopenhagenweg
 koper-passerel
@@ -7325,8 +7416,10 @@ koperdoek
 koperen doos
 koperen kees
 koperen peel
+koperen pomphof
 koperensteeg
 koperenstraatje
+koperentin
 koperfazant
 koperhoek
 kopermolen
@@ -7373,7 +7466,6 @@ koperwiekweg
 koperzand
 kopheuvel
 kopjachtplein
-kopjachtstraat
 kopjeskampen
 kopkas
 kopkewier
@@ -7393,6 +7485,7 @@ koppelen
 koppelenburgerweg
 koppelenweg
 koppelerwaardweg
+koppeling
 koppelingpad
 koppelingsweg
 koppelkade
@@ -7401,12 +7494,12 @@ koppelland
 koppelmes
 koppelpaardenhof
 koppelplein
-koppelpoort
 koppelrust
 koppels
 koppelsbrink
 koppelsedijk
 koppelspad
+koppelspoorpad
 koppelstokstraat
 koppelstraat
 koppelveldweg
@@ -7414,7 +7507,6 @@ koppelweg
 koppelweide
 koppelwijk oz
 koppenberch
-koppenbergweg
 koppenburglaan
 koppenhei
 koppenhinksteeg
@@ -7427,7 +7519,6 @@ koppenwaard
 kopperegang
 koppersweg
 koppertjesland
-koppertweg
 kopperwetering
 koppesstraat
 koppestokstraat
@@ -7442,12 +7533,10 @@ kopsestraat
 kopseweg
 kopshofweg
 kopslaan
-kopspoor
 kopsstraat
 kopstovenpad
 kopstuk
 kopstukken
-kopstukken ( verlengd )
 kopvoorn
 kopvoornvijver
 kopweg
@@ -7457,6 +7546,7 @@ koraal
 koraaldijk
 koraaldreef
 koraalerf
+koraalhof
 koraallaan
 koraalrif
 koraalrood
@@ -7501,6 +7591,7 @@ korenbloemvallei
 korenbloemveld
 korenbloemweg
 korenbocht
+korenbout
 korenbree
 korenbreesweg
 korenbrugstraat
@@ -7562,7 +7653,6 @@ korenwolf
 korenwolfstraat
 korenzand
 korenzicht
-korenziftersgang
 koreschoep
 korevaarstraat
 korf
@@ -7573,6 +7663,7 @@ korfbalstraat
 korfgraaf
 korfmakershof
 korfmakerslaan
+korfmakerspijp
 korfmakersstraat
 korfoedreef
 korfoepad
@@ -7581,6 +7672,7 @@ korftlaan
 korfvlechterspad
 korfvlechterwei
 korfwater
+korfwaterpad
 korfwaterweg
 korhaanstraat
 korhoen
@@ -7608,6 +7700,7 @@ korianderlaan
 korianderpad
 korianderplaats
 korianderplein
+koriandersingel
 korianderstraat
 korianderveld
 korianderweg
@@ -7659,6 +7752,7 @@ kornputsingel
 kornsche buitenkade
 kornwerd
 kornwerderzand
+kornwerderzand 14a
 kornwierde
 korona
 korpendu
@@ -7669,8 +7763,10 @@ korperweg
 korporaal
 korporaal a. detriepark
 korporaal strikpad
+korpsbrug
 korreldijk
 korrelhoed
+korrelhuis
 korrenbergweg
 korreweg
 korringaweg
@@ -7760,6 +7856,7 @@ korte bosweg
 korte boterdijk
 korte brake
 korte brakersweg
+korte brandsteeg
 korte bredestraat
 korte bree
 korte breehof
@@ -7779,7 +7876,6 @@ korte burgwal
 korte buurtweg
 korte cieweg
 korte coehoornstraat
-korte conradstraat
 korte dam
 korte daver
 korte davidstraat
@@ -7804,10 +7900,12 @@ korte dwarsstraat
 korte dwarsweg
 korte eeweg
 korte elisabethstraat
+korte elstlaan
 korte engelenburgerkade
 korte enkweg
 korte ennestraat
 korte erikaweg
+korte evertscamp
 korte gang
 korte geer
 korte geerd
@@ -7916,6 +8014,7 @@ korte landweg
 korte langesteijn
 korte langestraat
 korte langewijnseweg
+korte laning
 korte lauwerstraat
 korte leeuwstraat
 korte leidsedwarsstraat
@@ -7962,16 +8061,17 @@ korte noordstraat
 korte noordweg
 korte oijen
 korte omgang
+korte ommerenwal
 korte ondersteweg
 korte oosteres
 korte ooststraat
 korte oostweg
 korte ossendam
+korte ouderkerkerbrug
 korte ouderkerkerdijk
 korte papaverweg
 korte papesteeg
 korte parallelweg
-korte parkpad
 korte parkstraat
 korte parkweg
 korte pas
@@ -8016,11 +8116,11 @@ korte schenkel
 korte schenkeldijk
 korte schermerdijk
 korte schijfstraat
-korte schild
 korte schimmelstraat
 korte schoolstraat
 korte schoonderloostraat
 korte schoor
+korte schotte
 korte schutsboom
 korte singel
 korte singelstraat
@@ -8041,9 +8141,9 @@ korte smienkweg
 korte soerelseweg
 korte spaarne
 korte spiekerweg
+korte spinhuisdwarssteeg
 korte spinhuissteeg
 korte spruit
-korte st janslaan
 korte st. jansteeg
 korte st. janstraat
 korte stadionweg
@@ -8052,7 +8152,6 @@ korte steeg
 korte steigerstraat
 korte steynlaan
 korte stormsteeg
-korte straat
 korte straat
 korte striep
 korte strikstraat
@@ -8065,6 +8164,7 @@ korte tilseweg
 korte tivoli
 korte tolstraat
 korte torenweg
+korte trekken
 korte tuinstraat
 korte uitweg
 korte vaart
@@ -8100,7 +8200,6 @@ korte voren
 korte vorststraat
 korte vosstraat
 korte vreugde
-korte waag
 korte waaijsteeg
 korte waand
 korte waarder
@@ -8159,6 +8258,7 @@ korteind
 kortejacht
 kortekade
 kortekamp
+kortekamppad
 kortekerkstraat
 kortelaan
 kortelaantje
@@ -8194,6 +8294,7 @@ kortenburg
 kortenburglaan
 kortendijk
 kortendijksestraat
+kortendijkshofje
 kortendonk
 kortenhoefpad
 kortenhoefsedijk
@@ -8226,11 +8327,12 @@ kortevoorenstraat
 kortevuchtpad
 korteweegje
 korteweg
+korteweg oost
 korteweg-noord
 korteweg-oost
+korteweg-west
 korteweg-zuid
 korteweghof
-kortewegje
 kortewegje
 korteweid
 korteweide
@@ -8253,6 +8355,7 @@ kortkruisdijk
 kortland
 kortlandpad
 kortlandplaats
+kortlandsche kade
 kortlandstraat
 kortlandsweg
 kortling
@@ -8265,11 +8368,10 @@ kortrijkpolder
 kortrijksestraat
 kortrijkstraat
 kortslag
-kortsteekterbuurt
-kortsteekterweg
 kortsteel
 kortstraat
 kortstraatje
+kortstuk
 kortuinen
 kortveldsesteeg
 kortven
@@ -8283,9 +8385,7 @@ korvelplein
 korvelse molen
 korvelseweg
 korvemaker
-korvenmakerij
 korvererf
-korverpad
 korversberg
 korverstraat
 korvertweg
@@ -8357,24 +8457,23 @@ kostvlies
 kota inten
 koterhoek
 kotermeerstal
-kotermeerstalpad
 koterweg
+kotestee
 kotkampplein
 kotkampsweg
 kotkampweg
 kotkastraat
-kotkaweg
 kotmanlaan
 kotmanstraat
 kotmansweg
 kotten
+kotten hutterweg
 kottenbekke
 kottendijk
 kottenhof
 kottenseweg
 kotter
 kotteraarstraat
-kotterbosbrug
 kotterbospad
 kotterbosweg
 kotterikstraat
@@ -8383,8 +8482,7 @@ kotterlaan
 kottermansweg
 kotterpad
 kotterplein
-kottershaag
-kotterskamp
+kottershof
 kotterspad
 kotterstraat
 kotterweg
@@ -8421,8 +8519,9 @@ koudeweg
 koudhoornlaan
 koudhoornseweg
 koudhoornweg
-koudhornerwei
 koudhornewei
+koudhovenweg
+koudijslaan
 koudorpstraat
 koudumstraat
 kouk
@@ -8434,6 +8533,7 @@ koumansburg
 koumarwei
 koumelkerspaed
 koumenweg
+kousebandbrug
 kousenbandstraat
 kousendijk
 kousenmakersweg
@@ -8444,7 +8544,6 @@ koutenburg
 koutenveld
 kouter
 kouterdreef
-koutereiland
 koutereind
 koutergat
 koutershof
@@ -8469,6 +8568,7 @@ kouwenhoven-akker
 kouwenhovenselaan
 kouwenhovenseweg
 kouwenoord
+kouwenoordsestraat
 kouwenoordseweg
 kouwenoordweg
 kouwenstein
@@ -8485,26 +8585,120 @@ koweblomke
 koweitstraat
 koxhorn
 koxkampseweg
+koxseheideweg
 koxwater
 koyekamp
 koymansakker
 kozakkenberg
 kozakkenbergerhout
+kozakkenbrink
 kozakkendijk
 kozakkenkamp
 kozakkenlaan
 kozakkenpad
 kozakkenstraat
+kozakkenveer
 kozakkenveld
 kozakkenweg
 kozijnenhoek
 kozijnenstraat
 kozminstraat
+kp almere
+kp amstel
+kp assen
+kp azelo
+kp badhoevedorp
+kp bankhoef
+kp batadorp
+kp beekbergen
+kp benelux
+kp boterdiep
+kp buren
+kp burgerveen
+kp coenplein
+kp de baars
+kp de hoek
+kp de hogt
+kp de nieuwe meer
+kp de poel
+kp de punt
+kp de stok
+kp deil
+kp diemen
+kp drachten
+kp drie klauwen
+kp eemnes
+kp ekkersweijer
+kp emmeloord
+kp empel
+kp euvelgunne
+kp everdingen
+kp ewijk
+kp galder
+kp gooimeer
+kp gorinchem
+kp gouwe
+kp grijsoord
+kp hattemerbroek
+kp heerenveen
+kp hellegatsplein
+kp hintham
+kp hoevelaken
+kp hofvliet
+kp holendrecht
+kp holsloot
+kp hoogeveen
+kp hooipolder
+kp joure
+kp kerensheide
+kp kethelplein
+kp klaverpolder
+kp kleinpolderplein
+kp kruisdonk
+kp kunderberg
+kp lankhorst
+kp leenderheide
+kp leenderheide maastrich
+kp leenderheide maastricht
+kp leenderheide veldhoven
+kp lunetten
+kp maanderbroek
+kp muiderberg
+kp neerbosch
+kp oudenrijn
+kp paalgraven
+kp princeville
+kp prins clausplein
+kp raasdorp
+kp ressen
+kp ridderkerk-noord
+kp ridderkerk-zuid
+kp rijkevoort
+kp rijnsweerd
+kp rottepolderplein
+kp sabina
+kp st.annabosch
+kp stelleplas
+kp ten esschen
+kp terbregseplein
+kp vaanplein
+kp valburg
+kp velperbroek
+kp vught
+kp waterberg
+kp watergraafsmeer
+kp werpsterhoek
+kp ypenburg
+kp zaandam
+kp zaarderheiken
+kp zonzeel
+kp zuidbroek
+kp zurich
 kraag
 kraagbeer
+kraagbuis
 kraagdijk
 kraageend
-kraaghalsfles
 kraagroos
 kraagseweg
 kraagsteen
@@ -8516,6 +8710,7 @@ kraaiakkerweg
 kraaiebuurt
 kraaiekamp
 kraaienbergpad
+kraaienbergseweg
 kraaienboom
 kraaienbos
 kraaienbosweg
@@ -8527,7 +8722,6 @@ kraaienest
 kraaienestweg
 kraaiengatweg
 kraaienhof
-kraaienhoflaan
 kraaienhorst
 kraaienhut
 kraaienjagersweg
@@ -8541,6 +8735,7 @@ kraaiensteinlaan
 kraaienstraat
 kraaienveld
 kraaienweg
+kraaierbrug
 kraaierslaan
 kraaierstraat
 kraaigraafstraat
@@ -8578,7 +8773,6 @@ kraaikampen
 kraaikamperweg
 kraaikampweg
 kraaikenpad
-kraaikop
 kraaikoplaan
 kraailand
 kraailandhof
@@ -8608,13 +8802,11 @@ kraan
 kraanbaan
 kraanbergweg
 kraanbolwerkhof
-kraanbolwerksteeg
 kraanbolwerkstraat
 kraanbuurt
 kraandrijverstraat
 kraanheidestraat
 kraanheuvel
-kraankade
 kraanmeer
 kraanmeer pad
 kraanmeester
@@ -8627,7 +8819,6 @@ kraansteiger
 kraanstraat
 kraanstraatje
 kraanven
-kraanvenhof
 kraanvogel
 kraanvogelhoek
 kraanvogelhof
@@ -8688,14 +8879,16 @@ krabbestraat
 krabbeweg
 krabsteeg
 krabstraat
+kracht
 krachtenveld
 krachtighuizerkern
 krachtighuizerweg
 krachtveld
 krachtwijkerweg
-kraenl„¢nswei
+kraenl√¢nswei
+kraftveld
 krag
-kraggebrug
+kragemakerspad
 kraggelaan
 kraggenburg
 kraggenburgerweg
@@ -8720,6 +8913,7 @@ krakelingweg
 krakenburg
 krakenburgsestraat
 krakensteinweg
+krakersteegjespad
 krakestee
 krakezesteeg
 krakhorst
@@ -8727,7 +8921,9 @@ krakkedel
 kralen
 kralenbeek
 kralendijkkade
+kralendijkstraat
 kralingen
+kralingen 26
 kralingenpad
 kralingenstraat
 kralinger esch
@@ -8745,12 +8941,12 @@ kralingseplein
 kralingseweg
 kraloo
 kralooweg
-kralo„´rweg
+kralo√´rweg
 kramatplantsoen
 kramatweg
 kramerhof
 kramerplan
-kramersgang
+kramersgilde
 kramersgildeplein
 kramershof
 kramersstraat
@@ -8784,9 +8980,9 @@ kranekampsweg
 kranenbargsteeg
 kranenberg
 kranenbergpad
+kranenborglaan
 kranenbroek
 kranenbroeker bosweg
-kranenbroeker bosweg zijpad
 kranenbroekerveldpad
 kranenbroekerveldweg
 kranenbroekerweg
@@ -8819,13 +9015,13 @@ kranepoort
 kranerijt
 kranestraat
 kraneveld
-kraneveldweg
 kraneweg
-kranghoeve
 krangstraat
+krangstraat-zuid
 krankeledenstraat
 krankhoorn
 krans
+kransackerweg
 kransakker
 kransfontein
 kransmuntstraat
@@ -8848,15 +9044,16 @@ kratonlaan
 kratonstraat
 kratontuin
 kratonweg
+krattenbrug
 krausstraat
+krauwel
 krauwelsgors
 kraveldpad
 kravelsbeemden
 krayel
-krayelsebeekweg
+krayenhofbrug
 krayenhoffbrug
 krayenhofflaan
-krayenhoffpark
 krayenhoffstraat
 krayenhofstraat
 krayenkamp
@@ -8871,6 +9068,7 @@ kreeftpad
 kreeftstraat
 kreeftwater
 kreek
+kreekbrug
 kreekdijk
 kreekdreef
 kreekdwarspad
@@ -8881,7 +9079,6 @@ kreekhuizenlaan
 kreekhuizenplein
 kreekje
 kreekkade
-kreekkamp
 kreekkant
 kreeklaan
 kreekmonde
@@ -8891,6 +9088,7 @@ kreekplein
 kreekraklaan
 kreekrakstraat
 kreekrakweg
+kreekrand
 kreekrijklaan
 kreekrug
 kreekrugpad
@@ -8932,13 +9130,14 @@ kreitenheideweg
 kreitenmolenstraat
 kreitenstraat
 kreitestraat
+kreithitje veldweg
 kreitsberg
 kreitweg
-krekedelle voetpad
 krekel
 krekelberg
 krekelbergerweg
 krekelbos
+krekeldraai
 krekelhei
 krekelhorst
 krekelkamp
@@ -8984,6 +9183,7 @@ kremerslaan
 kremersmaten
 kremerspad
 kremersstraat
+kremersteeg
 kremerstraat
 kremersveenweg
 kremersweg
@@ -8997,7 +9197,6 @@ krenteboompjeshof
 krentelaar
 krentenboom
 krentenboomhof
-krentenhof
 krententuin
 krepelsbosch
 krepelstraat
@@ -9025,16 +9224,14 @@ kreupelsteeg
 kreupelstraat
 kreupeltje
 kreutzerstraat
-kreuzelweg
 kreuzen
 kreuzendijk
 kreuzenstraat
 kreuzestraat
 kreuzeveen
-krevel
+krevelslookweg
 kreverplein
 krewerderweg
-kreyl
 kreynckstraat
 kreytacker
 kreytierstraat
@@ -9087,7 +9284,6 @@ krielenzand
 krielerf
 kriemhildeplein
 kriemhildestraat
-krienestraat
 kriensenswei
 krietheuvel
 krietjesdijk
@@ -9096,7 +9292,6 @@ krijgersberglaan
 krijgershoek
 krijgerstraat
 krijgertje
-krijgsmacht
 krijgsman
 krijgsmansveld
 krijn breurstraat
@@ -9144,7 +9339,6 @@ krimlinde
 krimp
 krimpenbos
 krimpenburg
-krimpenerbosweg
 krimpenerstraat
 krimpenwei
 krimperij
@@ -9155,7 +9349,6 @@ krimstermolenpad
 krimweg
 krimwei
 kring
-kringdans
 kringgreppel
 kringgreppelstraat
 kringloop
@@ -9169,7 +9362,6 @@ krispijnseweg
 kristal
 kristaldreef
 kristallaan
-kristallaan‚ø‚ø
 kristallunet
 kristalpad
 kristalplein
@@ -9190,8 +9382,8 @@ kritzraedtstraat
 kroalookvoetpad
 kroanenburg
 kroatenstraat
-kroati„´kade
-kroati„´straat
+kroati√´kade
+kroati√´straat
 krocht
 krochtenweg
 krochtlaan
@@ -9200,10 +9392,10 @@ krochtstraat
 krochtweg
 krodde
 krodhoeksweg
-kroedh„∂fteplein
+kroedh√∂fteplein
 kroedwienstraat
 kroefsestraat
-kroeme
+kroegbrug
 kroemweg
 kroepanweg
 kroepeweg
@@ -9221,7 +9413,6 @@ kroesruwe
 kroesstraat
 kroeten
 kroevenlaan
-kroeverthofje
 kroezehorst
 kroezekampweg
 kroezel
@@ -9236,6 +9427,8 @@ kroezenweg
 kroezerijweg
 kroezewijk
 kroft
+kroftenweg
+kroftlaan
 kroftwegje
 krokkeweg
 krokus
@@ -9252,21 +9445,21 @@ krokusvallei
 krolhoek
 krollerbocht
 krollerweg
-krolstraat
 krolsweg
 krom boomssloot
 krom dreef
 kromakker
 kromakkerstraat
 kromakkerweg
+krombeekpad
 krombeemden
 krombekkenweg
 krombekstraat
 kromboom
 kromboomsveld
 krombos
-kromboschweg
 krombraak
+krombrug
 kromdel
 kromelleboogsteeg
 kromgatweg
@@ -9293,7 +9486,6 @@ kromland
 kromlandt
 krommaat
 kromme
-kromme aarweg
 kromme akkers
 kromme allee
 kromme bergweg
@@ -9321,15 +9513,16 @@ kromme haven
 kromme heitraksedijk
 kromme hoekdreef
 kromme hogedijk
+kromme hollepad
 kromme hook
 kromme horn
-kromme jaagpad
 kromme jak
 kromme kade
 kromme kamp
 kromme kerkstraat
 kromme koesteeg
 kromme kolk
+kromme koolweg
 kromme kreek
 kromme leane
 kromme leekstraat
@@ -9346,7 +9539,6 @@ kromme palmstraat
 kromme rade
 kromme reke
 kromme riet
-kromme rijlaan
 kromme rijn
 kromme rijnlaan
 kromme rijnwerf
@@ -9363,9 +9555,7 @@ kromme warren
 kromme weele
 kromme weide
 kromme weidesingel
-kromme weteringsluis
 kromme wiekstraat
-kromme wijzend
 kromme wyk
 kromme zandweg
 kromme-elleboog
@@ -9385,9 +9575,11 @@ krommehoekstraat
 krommejakken
 krommejat
 krommekamp
+krommekolk
 krommelaan
 krommeland
 krommemeet
+krommen dijk
 krommenakker
 krommenbeemd
 krommendijk
@@ -9401,13 +9593,16 @@ krommenhorst
 krommeniedijk
 krommeniehof
 krommeniestraat
-krommenie„´rpad
-krommenie„´rweg
+krommenieweg
+krommenie√´rpad
+krommenie√´rweg
 krommenoord
 krommepaalweg
 krommepad
 krommereed
+krommerif
 krommerijn
+krommerijnbrug
 krommerijnder
 krommerijnstraat
 krommertstraat
@@ -9424,7 +9619,6 @@ krommevaert
 krommeven
 krommeweegje
 krommeweg
-krommeweg-oud
 krommewegeling
 krommewegje
 krommewei
@@ -9441,7 +9635,6 @@ krompad
 krompaed
 krompatte
 krompbunderstraat
-krompoort
 kromstaartlaan
 kromsteeg
 kromsteven
@@ -9464,8 +9657,9 @@ kromwijkerdijk
 kromwijkerkade
 kromwijkerpad
 kromwijkplaats
-kromw„¢l
+kromw√¢l
 kromzaad
+kromzijl veldweg
 kronehoefstraat
 kronenbergstraat
 kronenbergweg
@@ -9492,6 +9686,7 @@ kronenkamp
 kronenland
 kronenstraat
 kronenweg
+kronepad
 kronestein
 kroningslaan
 kroningspad
@@ -9581,9 +9776,9 @@ krophollerplaats
 krophollerstraat
 kropkreek
 kroppestraat
+krosenbrinkpad
 krouwelaarhaven
 krouwellaan
-krouwelstraat
 krouwerskade
 krozengaarde
 krozenpad
@@ -9595,16 +9790,19 @@ krudersweg
 krudopstraat
 kruegerpad
 kruethofstede
-krugerhof
 krugerlaan
 krugerplein
 krugerstraat
 krugerweg
+kruibaan
+kruibank
 kruibok
 kruidbergerweg
+kruidbierdwarssteeg
 kruideel
 kruidenburg
 kruidendreef
+kruidendrevenpad
 kruidenhof
 kruidenier
 kruidenierspeerstraat
@@ -9647,6 +9845,7 @@ kruikpad
 kruilier
 kruimersweg
 kruin
+kruiningen 32
 kruiningenpolderweg
 kruiningenstraat
 kruinstraat
@@ -9668,7 +9867,6 @@ kruisakkers
 kruisakkersweg
 kruisakkerweg
 kruisallee
-kruisalleee
 kruisbaak
 kruisbaakweg
 kruisbaan
@@ -9683,6 +9881,7 @@ kruisbekstraat
 kruisbekweg
 kruisberg
 kruisbergenweg
+kruisbergerweg
 kruisberghof
 kruisberglaan
 kruisbergpad
@@ -9695,6 +9894,7 @@ kruisbergvoetpad
 kruisbergwegske
 kruisbes
 kruisbesgaarde
+kruisbeshof
 kruisbeslaan
 kruisbespad
 kruisbessendreef
@@ -9722,13 +9922,15 @@ kruisbroedersstraatje
 kruisbroedersweg
 kruisbroeksestraat
 kruisbroekweg
-kruischoor
+kruisbrug
 kruischoorpad
+kruisdaalder
 kruisdaalderlaan
 kruisdijk
+kruisdijk a
+kruisdijk b
 kruisdijkweg
 kruisdistel
-kruisdistelstraat
 kruisdobbe
 kruisdonk
 kruisdorpsedijk
@@ -9752,7 +9954,6 @@ kruisherenpad
 kruisherenstraat
 kruisherenweg
 kruishoekstraat
-kruishoeven
 kruishoeveweg
 kruishout
 kruisingastraat
@@ -9774,10 +9975,10 @@ kruislandseweg
 kruislandstraat
 kruismast
 kruisnetlaan
+kruisoord
 kruisoorderweg
 kruispad
 kruispan
-kruispark
 kruisparkweg
 kruispeelweg
 kruisplein
@@ -9817,6 +10018,7 @@ kruisvaardersstraat
 kruisvaart
 kruisvelden
 kruisveldstraat
+kruisveldweg
 kruisven
 kruisvennendijk
 kruisvoorde
@@ -9829,7 +10031,6 @@ kruisweer
 kruisweg
 kruisweghof
 kruisweide
-kruisweidestraat
 kruiswerf
 kruiswiel
 kruiswijk
@@ -9850,6 +10051,7 @@ kruithoorn
 kruithuis
 kruithuisdrift
 kruithuispad
+kruithuisplein
 kruithuisstraat
 kruithuisweg
 kruitlaan
@@ -9857,7 +10059,9 @@ kruitmolen
 kruitmolenlaan
 kruitmolenpad
 kruitmolenstraat
+kruitopslag
 kruitpad
+kruitpers
 kruitpersstraat
 kruitschip
 kruitschuur
@@ -9885,8 +10089,9 @@ kruizingastraat
 krukas
 krukelpad
 krukkerd
+krukkersepad
 krukkestraat
-krukkewie„´r
+krukkewie√´r
 krukkumweg
 kruklandsweg
 krukmanslaan
@@ -9898,10 +10103,12 @@ kruldistelstraat
 krullartstraat
 krullebolspoort
 krullelaan
+krullen
 krullenlaan
 krullevaar
 krullweg
 krulmate
+krulmes
 krulmos
 krulmosstraat
 krulslaplantsoen
@@ -9917,6 +10124,7 @@ krusemanlaan
 krusemanstraat
 kruserbrink
 krusestraat
+kruswei
 krutserpad
 krutserveldweg
 krutzerveld
@@ -9928,6 +10136,7 @@ kruusakker
 kruusakkers
 kruusstroatpad
 kruuthuuske
+kruutsmelm
 kruyderlaan
 kruypuyt
 kruysackerplein
@@ -9936,26 +10145,26 @@ kruysakker
 kruyssteelaan
 kruysweerstraat
 kruytenburgseweg
-kruytmolenweg
 kruzebrink
 krypton
 kryptonstraat
 kryptonweg
-kr„∂ller-m„ºllerpark
-kr„∂llerhaven
-kr„∂nerweg
-kr„∫slings
-kr„∫spaed
-kr„∫sstrjitte
-kr„∫swei
-kr„∫swetter
-kr„ªdikker
-kr„ªme swynswei
-kr„ªspaed
+kr√∂ller-m√ºllerpark
+kr√∂llerhaven
+kr√∂nerweg
+kr√∫slings
+kr√∫spaed
+kr√∫sstrjitte
+kr√∫swei
+kr√∫swetter
+kr√ªdikker
+kr√ªme swynswei
+ks. ibisplantsoen
 ks. ibisweg
 kubbe
 kubbepad
 kubbeplantsoen
+kubbetocht
 kubbeweg
 kubboot
 kubus
@@ -9973,8 +10182,8 @@ kuifduikerstraat
 kuifeend
 kuifeendhof
 kuifeendlaan
+kuifeendpad
 kuifeendstraat
-kuifeendstrand
 kuifjepad
 kuifjestraat
 kuifleeuwerik
@@ -9998,9 +10207,9 @@ kuikensvendijk
 kuikensweg
 kuikenvlaas
 kuikseindseweg
+kuiksweg
 kuil
 kuilakkerweg
-kuilen
 kuilen
 kuilenburgerstraat
 kuilenburgsekade
@@ -10011,11 +10220,14 @@ kuilenrode
 kuilenstraat
 kuilenven
 kuilenweg
+kuilenweg vaal
+kuilenwegvaal
 kuilersteeg
 kuilerstraat
 kuilestraat
 kuileweid
 kuilgras
+kuilhaarden
 kuilheuvel
 kuilkant
 kuilkensgreend
@@ -10035,7 +10247,6 @@ kuilstraat
 kuiltjeshei
 kuiltjeshoek
 kuiltjesweg
-kuilveld
 kuilven
 kuilvenweg
 kuilweg
@@ -10055,23 +10266,23 @@ kuiper
 kuiperberg
 kuiperbergstraat
 kuiperbergweg
+kuiperbrug
 kuiperdwarsstraat
 kuipergemeenteweg
 kuiperhof
 kuiperij
+kuiperijbrug
 kuiperijhof
 kuiperijpad
 kuiperijstraat
 kuiperijweg
 kuiperkampsweg
 kuiperlaan
-kuiperpad
 kuiperplein
 kuipers-rietbergkwartier
 kuipers-rietbergpad
 kuipers-rietbergstraat
 kuipersakker
-kuipersbrug
 kuipersdijk
 kuipersdijkje
 kuipersdreef
@@ -10083,6 +10294,7 @@ kuipersgilde
 kuipersgroes
 kuipersgroet
 kuipershaven
+kuipershoef
 kuipershoek
 kuipershoekje
 kuipershoekweg
@@ -10101,12 +10313,10 @@ kuipersstraat
 kuipersteeg
 kuiperstraat
 kuipersveer
-kuipersveerseweg
 kuipersveld
 kuipersven
 kuipersvenstraat
 kuipersweg
-kuiperswegje
 kuipertjeswal
 kuiperweg
 kuiperwei
@@ -10121,13 +10331,13 @@ kuiterweg
 kuivezand
 kukslanden
 kuksteeg
-kulbergweg
 kulenrode
 kulertseweg
 kulertsweg
 kulkweg
 kulsdom
 kulturweide
+kuluten venweg
 kulutweg
 kuluutsheuvel
 kuluutweg
@@ -10149,12 +10359,13 @@ kunnenbeemd
 kunnerij
 kunneweg
 kunostraat
+kunstbrug
 kunstenaarshoeve
-kunstenaarsverzet
 kunstgras
+kunstlaan
 kunstminplaats
-kunstpaviljoens
 kunstplein
+kunstzijde
 kuntzestraat
 kuormakkersstrjitte
 kuperserf
@@ -10164,7 +10375,6 @@ kupersleantsje
 kuperssingel
 kuperstraat
 kupersweg
-kupkesstraat
 kuppelkovenderstraat
 kuppenhof
 kuppersweg
@@ -10174,7 +10384,6 @@ kupstraat
 kurasruwe
 kurassiersstraat
 kurassiersweg
-kurejan
 kurenpolderweg
 kureweg
 kurhausweg
@@ -10199,7 +10408,9 @@ kusterkestraat
 kusterskamphof
 kusterssteeg
 kustersstraat
+kustlicht
 kustrif
+kustrifbrug
 kustvaarderstraat
 kustvaart
 kustweg
@@ -10214,13 +10425,13 @@ kuunderhof
 kuundert
 kuundertseheide
 kuunskop
+kuupjesweg
 kuyckshof
 kuyerhuislaan
 kuyerpad
 kuyperbrink
 kuyperdreef
 kuypererf
-kuypererf‚ø‚ø
 kuyperhoeve
 kuyperlaan
 kuyperpad
@@ -10229,16 +10440,18 @@ kuyperstraat
 kuypersweg
 kuyperveld
 kuyperweg
-kuytenbergweg
 kuzemerweg
 kuzumerweg
+kw. hooggelegen
 kwaad gat
 kwaadeindstraat
 kwaadstraatje
+kwaaijendijk
 kwaakhaven
 kwaaklaan
 kwaalburg
 kwabbestraat
+kwabbetjesweg
 kwade hoek
 kwaden hoek
 kwadenaardstraat
@@ -10253,7 +10466,6 @@ kwadijkerstraat
 kwadijkerweg
 kwadrant
 kwadrantweg
-kwaeyensdyk
 kwakelkade
 kwakeloever
 kwakelpad
@@ -10273,6 +10485,7 @@ kwakerswyk
 kwakkel
 kwakkelhutstraat
 kwakkelsedijk
+kwakkelsteinplein
 kwakkenberglaan
 kwakkenbergweg
 kwaklaan
@@ -10300,17 +10513,16 @@ kwartelnest
 kwartelpad
 kwartelplein
 kwartelsdijk
-kwartelslag
 kwartelstraat
 kwartelstrjitte
 kwartelweg
 kwartelweide
 kwartier
+kwartierbrug
 kwartierdorpsweg
 kwartierenlaan
 kwartierenweg
 kwartierlaan
-kwartiermaker
 kwartiermakerslaan
 kwartiermeesterstraat
 kwartiersedijk
@@ -10325,6 +10537,7 @@ kwartslag
 kwartsstraat
 kwartsweg
 kwartszand
+kwatrijnstraat
 kwazenboschweg
 kweek
 kweekakker
@@ -10344,6 +10557,7 @@ kweekpad
 kweekschoolstraat
 kweekskoalsteeg
 kweekstraat
+kweektuin
 kweektuinlaan
 kweektuinstraat
 kweekwal
@@ -10354,6 +10568,7 @@ kwekebosweg
 kwekelstraat
 kwekerij
 kwekerije
+kwekerijhof
 kwekerijlaan
 kwekerijleane
 kwekerijpad
@@ -10373,6 +10588,7 @@ kwekkeboomweg
 kweldam
 kweldamweg
 kwelder
+kwelderbrug
 kweldergras
 kweldergrasveld
 kwelderland
@@ -10384,17 +10600,19 @@ kwelderweg
 kweldijk
 kwelkade
 kwelwaterpad
-kwelzone
 kwendelhof
 kwerenbolwerk
 kwerenpad
+kwetterwei
 kwezelskampweg
 kwezelspad
 kwiek
 kwietheuvel
 kwik
 kwikkels
+kwikkelsebrug
 kwikkelstraat
+kwikpad
 kwikriem
 kwikstaart
 kwikstaartdreef
@@ -10427,8 +10645,7 @@ kwistbeeklaan
 kwistenburg
 kwistgeldweg
 kwl-park
-kyfhoek
-kyftenbeltlaan
+kyivpad
 kyl
 kyllstraat
 kylstraat
@@ -10436,45 +10653,45 @@ kymmelhof
 kymmellstraat
 kymmelskampen
 kymmelswijk
-k„°lm„°nstraat
-k„¢nselarije
-k„§the kollwitzstraat
-k„™kelburen
-k„∂abak
-k„∂bbesweg
-k„∂gllaan
-k„∂llerstraat
-k„∂llinglaan
-k„∂llingpad
-k„∂llingserf
-k„∂lpinstraat
-k„∂nigweg
-k„∂ningslaar
-k„∂ningspad
-k„∂nninkweg
-k„∂pkeshof
-k„∂ppenstraat
-k„∂rnerstraat
-k„∂rte schoor
-k„∂ssinkweg
-k„∂stersbulte
-k„∂stersgang
-k„∂sterspad
-k„∂stersweide
-k„∂tterskamp
-k„ªkherne
-k„ªkhernewei
-k„ªkhernsterpaed
-k„ªkhernsterwei
-k„ªlens
-k„ªper
-k„ªperij
-k„ªpershagen
-k„ªpersleane
-k„ªperspaad
-k„ªperssteech
-k„ªpersstrjitte
-k„ªpwei
-k„ºllerlaan
-k„ºnnekestraat
-k„ºtersteenweg
+k√¢nselarije
+k√§the kollwitzstraat
+k√™kelburen
+k√∂abak
+k√∂bbesweg
+k√∂gllaan
+k√∂llerstraat
+k√∂llinglaan
+k√∂llingpad
+k√∂llingserf
+k√∂lpinstraat
+k√∂nigweg
+k√∂ningslaar
+k√∂ningspad
+k√∂nninkweg
+k√∂pkeshof
+k√∂ppenstraat
+k√∂rnerstraat
+k√∂rte schoor
+k√∂ssinkweg
+k√∂stersbulte
+k√∂stersgang
+k√∂sterspad
+k√∂stersplein
+k√∂stersweide
+k√∂tterskamp
+k√ªkherne
+k√ªkhernewei
+k√ªkhernsterpaed
+k√ªkhernsterwei
+k√ªlens
+k√ªper
+k√ªperij
+k√ªpershagen
+k√ªpersleane
+k√ªperspaad
+k√ªperssteech
+k√ªpersstrjitte
+k√ªpwei
+k√ºllerlaan
+k√ºnnekestraat
+k√ºtersteenweg

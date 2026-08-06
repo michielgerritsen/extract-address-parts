@@ -1,3 +1,4 @@
+i 3 ri pls
 i g'n himmeling
 i philipsonstraat
 i. de keijzerstraat
@@ -35,11 +36,14 @@ icarusstraat
 icarusweg
 ichthushof
 ida de leeuwstraat
+ida fryepad
+ida fryeplantsoen
 ida gerhardtlaan
 ida gerhardtpad
 ida gerhardtplein
 ida gerhardtsingel
 ida gerhardtstraat
+ida groenewoutpad
 ida heijermanspad
 ida heyermansstraat
 ida hoeve
@@ -48,8 +52,10 @@ ida liefrinckstraat
 ida maria de raathstraat
 ida mariapad
 ida pluckroosweg
+ida simonsstraat
 ida van dugterenstraat
 ida van tiarastrjitte
+ida vospad
 ida wassermanstraat
 idaspad
 idastraat
@@ -65,6 +71,7 @@ ids de beerstrjitte
 ids jousmastraat
 ids wiersmahof
 ids wiersmastrjitte
+ids wiersmaweg
 idserdaweg
 idsingha
 idsinghsweg
@@ -72,7 +79,7 @@ idsteinlaan
 idzardaweg
 idzerdaleane
 idzerdastins
-idã©fixstraat
+idÃ©fixstraat
 iebeern
 ieberen
 ieborchpaed
@@ -84,7 +91,7 @@ iekink
 ielaak
 ieldobbewei
 ieleane
-ielkantoarswã¢l
+ielkantoarswÃ¢l
 ielke boonstraloane
 iemakkerssteeg
 iemenboersweg
@@ -180,10 +187,9 @@ ietje kooistratuin
 ietje kooistraweg
 ieuwland
 iewei
-iewã¢l
+iewÃ¢l
 ifftemalaan
 ige galamawei
-iggewei
 igleburren
 iglo tademastraat
 ign. bispincklaan
@@ -193,13 +199,13 @@ igor strawinskystraat
 igor tammstraat
 iikmoune
 iikmounewei
-iikmã»ne
+iikmÃ»ne
 iisbaanstrjitte
-iisbaenstrjitte
 iisbaenstrjitte
 iisnocht
 ij-boysstraat
 ij-tunnel
+ijburg-pampus-muiden
 ijburglaan
 ijdenhove
 ijdijk
@@ -214,6 +220,7 @@ ijkenverlaatpad
 ijkenweg
 ijkerwerf
 ijkmeester
+ijlings
 ijlkampweg
 ijlsterkade
 ijlsterplein
@@ -222,19 +229,21 @@ ijlsthof
 ijlstpad
 ijme willem van dijkstraat
 ijmeer
-ijmeerbos
-ijmeerboulevard
 ijmeerdijk
 ijmeerpad
 ijmeerstraat
-ijmeerstraat
 ijmertstraat
+ijmuiden
+ijmuiden - newcastle
+ijmuiden 1
+ijmuiden 2
 ijmuidenstraat
 ijmuiderslag
 ijmuiderstraat
 ijmuiderstraatweg
 ijntzelaan
 ijpe wielingastrjitte
+ijpecolsga
 ijpeijsingel
 ijpelaarstraat
 ijpelareweg
@@ -247,7 +256,6 @@ ijsbaandwarsweg
 ijsbaankade
 ijsbaanlaan
 ijsbaanlaantje
-ijsbaanpad
 ijsbaanpad
 ijsbaanstraat
 ijsbaanweg
@@ -264,21 +272,20 @@ ijsbrandsberg
 ijsbrantszstraat
 ijsclubdwarsstraat
 ijsclubpad
-ijsclubpad
 ijsclubstraat
 ijsclubweg
-ijsdans
 ijsdijk
 ijsduiker
 ijsduikerstraat
 ijseendplein
 ijseendsingel
-ijselmeerdijk
 ijselmondestraat
 ijselstraat
 ijselweg
 ijsermanpad
 ijsermanweg
+ijsfabriekstraat
+ijsgang
 ijsgors
 ijsheiligen
 ijshof
@@ -288,29 +295,28 @@ ijskristal
 ijskruid
 ijskruidlaan
 ijsland
-ijsland
 ijslandmos
 ijslandpad
+ijslandpark
 ijslandsestraat
 ijslandsmos
 ijslandstraat
 ijslandtpad
 ijslandweg
+ijsmeestertunnel
 ijspaadje
-ijspad
-ijspakhuis
 ijspolderweg
 ijssel
 ijssel de schepperlaan
 ijssel de schepperstraat
 ijsselaak
 ijsselallee
-ijsselboulevard
+ijsselbrug
 ijsselburcht
 ijsselcentraleweg
+ijsseldalstraat
 ijsseldijk
 ijsseldijk-noord
-ijsseldijk-oost
 ijsseldijk-west
 ijsseldijkstraat
 ijsselerf
@@ -331,28 +337,31 @@ ijsselmeerpad
 ijsselmeerstraat
 ijsselmeerweg
 ijsselmonde
+ijsselmonde 20
 ijsselmondestraat
 ijsselmondse randweg
 ijsselmondsehoofd
 ijsselmondselaan
 ijsselmondseplein
+ijsseloog
 ijsseloogwal
 ijsseloord
 ijsseloordweg
 ijsselpad
-ijsselpark
 ijsselplein
 ijsselpolder
+ijsselpoort
 ijsselrust
 ijsselsingel
 ijsselsteen
 ijsselsteenhof
 ijsselsteijnseweg
+ijsselstein
 ijsselsteinlaan
 ijsselsteinseweg
 ijsselsteinstraat
+ijsselster
 ijsselsteyn
-ijsselstraat
 ijsselstraat
 ijsselstroom
 ijsseltjalk
@@ -363,22 +372,18 @@ ijsselvliedtlaan
 ijsselwaard
 ijsselweg
 ijsselzicht
-ijsselzoom
 ijsspoorweg
 ijsstraat
 ijsteeg
 ijstraat
 ijsvenweg
 ijsvogel
-ijsvogel
 ijsvogelhoek
 ijsvogelhof
 ijsvogellaan
 ijsvogelpad
-ijsvogelpad
 ijsvogelpassage
 ijsvogelplein
-ijsvogelstraat
 ijsvogelstraat
 ijsvogelvlinder
 ijsvogelwaard
@@ -393,12 +398,10 @@ ijzendoornstraat
 ijzerappelgaard
 ijzerbaan
 ijzerberglaan
-ijzerberglaan
 ijzerbroekseweg
 ijzerdraadpad
 ijzerdraatweg
-ijzeren kerkvoetpad
-ijzeren koeweg
+ijzeren klapbrug
 ijzeren poortweg
 ijzeren pot
 ijzeren put
@@ -407,23 +410,20 @@ ijzerenhandstraat
 ijzerenkuilenweg
 ijzerenmanweg
 ijzerenpad
-ijzerenveldweg
 ijzerenweg
 ijzergieterspad
 ijzergietersweg
 ijzerhaarweg
 ijzerhekpad
 ijzerhof
-ijzerhof
 ijzerhorst
 ijzerkampen
 ijzerloopstraat
 ijzermolenweg
+ijzeroven
 ijzerpad
 ijzersteden
-ijzersteeg
 ijzerstraat
-ijzertijd
 ijzertijd
 ijzertijdkreek
 ijzertijdpad
@@ -448,14 +448,15 @@ ikesingel
 ikewei
 ikihof
 ikinkstraat
+ikkerputsepad
 ikkers
 ikkerseweg
 ikkersreed
 ikkinksweg
-ikoon
 il corsaro
 il trovatore
 ildefonsahof
+ilex
 ilexplein
 iliasstraat
 iliumstraat
@@ -466,6 +467,7 @@ illegoorweg
 illikhoven
 illikhovenerstraat
 illinckstraat
+ilonastraat
 ilp
 ilpendammerstraat
 ilpendamstraat
@@ -475,7 +477,7 @@ ilpensteinstraat
 ilpenwaard
 ilperveld
 ilperveldstraat
-ilsenweg
+ilse frankenthal hof
 ilsy-plantsoen
 ilya frankstraat
 imagination avenue
@@ -501,9 +503,11 @@ imkerd
 imkerhei
 imkerlaan
 imkerpaadje
+imkerpark
 imkerplantsoen
 imkersdreef
 imkerseind
+imkerserf
 imkershof
 imkerslaan
 imkerspad
@@ -517,14 +521,14 @@ imkerwei
 immanuel kanthof
 immanuel kantstraat
 immanuel kantweg
-immanuelhof
-immanuã«l kantstraat
-immanuã«lhof
+immanuÃ«l kantstraat
 imme
 immenbergweg
 immenhof
 immenkampweg
 immenweg
+immer weiterbrug
+immerhornpolder
 immerhornweg
 immerloodijk
 immerlooplein
@@ -554,29 +558,25 @@ in 't kleinven
 in 't land
 in 't oord
 in 't rietwerf
+in 't veldj
 in 't veldstraat
 in 't ven
 in 't vizier
-in 't vizier
 in 't waardje
 in d' hoef
-in d'r voele kieã«s
+in d'r voele kieÃ«s
 in de balije
 in de beemden
 in de beeten
 in de bende
-in de bergen
 in de betouwstraat
-in de bogerd
-in de bogerd
 in de bogerd
 in de bongerd
 in de boogerd
 in de boomgaard
-in de boomgaard
 in de bremmen
 in de broekenweg
-in de bã³ngerd
+in de bÃ³ngerd
 in de camp
 in de cramer
 in de dreef
@@ -587,8 +587,7 @@ in de hagen
 in de hoender
 in de houtzaagmolen
 in de hoven
-in de hã¤ã¶fkes
-in de kamp
+in de hÃ¤Ã¶fkes
 in de klooperts
 in de korenmolen
 in de kweddel
@@ -596,27 +595,25 @@ in de maalderij
 in de mehre
 in de meigraaf
 in de molt
-in de moode
 in de neerakker
 in de o
 in de overlaat
-in de paardestal
 in de papiermolen
 in de pas
 in de pelmolen
 in de planten
 in de poldermolen
 in de pollack
-in de riet
-in de schreub
 in de sluffert
 in de stack
 in de tuimelaar
 in de veste
+in de vreugd
 in de watermolen
 in de west
-in de wieã«n
+in de wieÃ«n
 in de wijngaard
+in de wind
 in de winkel
 in de wolken
 in den boerenmouw
@@ -625,6 +622,7 @@ in den bongerd
 in den boomgaert
 in den clockenslagh
 in den daal
+in den enk
 in den helmstock
 in den hof
 in den moel
@@ -652,7 +650,6 @@ ina boudier-bakkersingel
 ina boudier-bakkerstraat
 ina boudierplantsoen
 ina boudierstraat
-ina damman erf
 ina dammanstraat
 ina van faassenhof
 inarimeer
@@ -661,9 +658,27 @@ inbuspad
 incadreef
 incastraat
 incheonweg
-india
+inclusieveld
+ind halfweg
+ind. europark
+ind.arnestein-mortiere
+ind.avelingen 24
+ind.borchwerf 20
+ind.de haven
+ind.de munt 15
+ind.ede 1
+ind.ekkersrijt 6
+ind.europark
+ind.harselaar 5
+ind.hazeldonk 14
+ind.ommen
+ind.spaanse polder 12
+ind.twente
+ind.twente 2
+ind.waalwijk 1000-4000
+ind.westpoort 34a
+ind.woudvaart 21a
 indialaan
-indiapad
 indiastraat
 indigo
 indigoblauw
@@ -680,12 +695,13 @@ indira gandhisingel
 indira gandhistraat
 indische oceaan
 indische tuin
+indischebrug
 indischestraat
-indiã«ganger
-indiã«plantsoen
+indiÃ«ganger
+indiÃ«plantsoen
+indiÃ«spoor
 indoorweg
 indragerspad
-indragerspadâ¿â¿
 indrapoerastraat
 indrastraat
 indrelaan
@@ -695,7 +711,7 @@ indumaweg
 indus
 indusdreef
 indusstraat
-industrie
+industrie terrein
 industriedwarsstraat
 industriedwarsweg
 industriehaven
@@ -709,9 +725,6 @@ industriepark-west
 industrieplein
 industrierondweg
 industriestraat
-industrieterrein bargermeer
-industrieterrein de vierslagen
-industrieterrein nabij a 37
 industrieterrein oosterz
 industrieterrein panningen
 industrieweg
@@ -723,7 +736,9 @@ industrieweg-west
 industrieweg-zuid
 industriewei
 ineke sluiterstraat
-infanterie
+ines pultrumstrjitte
+inez meterlaan
+infanteriehof
 infanterielaan
 infanteriepad
 infanteriestraat
@@ -733,8 +748,9 @@ infirmeriestraat
 informaticalaan
 informaticastraat
 informaticaweg
-infraroodstraat
 ing arjen vonkweg
+ing. p.f. vd broekweg
+ingang kazerne
 ingang noord
 ingang oost
 ingberdorpsstraat
@@ -761,7 +777,6 @@ ingen nulandtstraat
 ingen-houszstraat
 ingenawei
 ingendaalstraat
-ingendaelstraat
 ingenhouszhof
 ingenhouszlaan
 ingenhouszpad
@@ -772,11 +787,14 @@ ingenieur van stuivenbergweg
 ingenieur visstraat
 ingenieur wagterstraat
 ingenieurslaan
+ingenische veer
 ingenomenweg
 ingenopestraat
 ingenopevoetpad
+ingensche veer
 ingenseveerweg
 inghelosenberghe
+ingmar bergmanpark
 ingogostraat
 ingrid bergmanborg
 ingrid bergmanstraat
@@ -801,22 +819,27 @@ inktvisplein
 inktvisstraat
 inktzwam
 inktzwampad
+inktzwamplaats
 inktzwamsingel
 inlaag
 inlaagdijk
 inlaagdijk van 1887
+inlaagdijk van hoedekenskerke
 inlaagpolder
+inlaagsedijk
 inlaagstraat
 inlaagweg
 inlaat
 inleg
+inleggerij
 inlichtingenwerk
 inneem
 innovalaan
-innovantiestraat
 innovatie
 innovatielaan
 innovatiepark
+innovatiestraat
+innovatieveld
 innovatieweg
 innsbruckweg
 inputplein
@@ -833,6 +856,11 @@ installatieweg
 insteek
 insteekhaven
 insteekweg
+insteekweg nieuw stellendam
+insteekweg nieuw westerloo
+insteekweg noord westerloo
+insteekweg oud westerloo
+insteekweg oudeland
 insteekweg varkensland
 insteekwegje
 institutenweg
@@ -848,16 +876,16 @@ insulindesingel
 insulindestraat
 insulindetunnel
 insulindeweg
-int19-2453
+int corenvelt
 intang
 intendanceplantsoen
 intendanceweg
 intermezzo
 internaatstraat
+interne baan
+internetlaan
 internetstraat
 inthiemasingel
-intkvisplein
-intsvisplein
 inundatie
 inundatiedijk-noord
 inundatiedijk-zuid
@@ -865,10 +893,12 @@ inundatiedok
 inundatiekanaal
 inundatiepad
 inundatiestraat
+inundatieveld
 inundatieweg
 invalsweg
 invaltij
 invasiestraat
+invictusstraat
 inworp
 inzet
 inzetter
@@ -878,7 +908,6 @@ ionweg
 iopad
 iordensstraat
 ipe brouwerssteeg
-ipehã´f
 ipelo
 ipemastate
 ipenrodeplantsoen
@@ -892,16 +921,16 @@ ippiusstraat
 iqbal masihpad
 ir b kersjesweg
 ir blankenstraat
+ir c f bekinkbaan
 ir cm van der slikkeleane
 ir d s tuijnmanweg
 ir dingemansstraat
 ir e j j kuindersstraat
-ir em mã©lottestraat
+ir em mÃ©lottestraat
 ir f e d enschedeweg
 ir g friedhoffplein
 ir h.a. haitsmapad
 ir h.h. van kollaan
-ir j h stuivenbergstraat
 ir j h van stuivenbergstraat
 ir j nysinghstraat
 ir j.p. van muijlwijkstraat
@@ -915,8 +944,6 @@ ir van der elststraat
 ir van der polstraat
 ir van diggelenstraat
 ir van meelweg
-ir wagterstraat
-ir. a.j. van den brielweg
 ir. a.j.van den brielweg
 ir. albardastraat
 ir. b.p.g. v diggelenkade
@@ -926,6 +953,7 @@ ir. c. blankevoortstraat
 ir. c.a. kloosterhuisstraat
 ir. calandpad
 ir. de blocq van kuffelerstraat
+ir. de broekertstraat
 ir. de katstraat
 ir. de vassystraat
 ir. de voogtstraat
@@ -934,10 +962,10 @@ ir. dingerlaan
 ir. dirk asjesloane
 ir. driessenstraat
 ir. e. biewingaweg
-ir. egbertsstraat
-ir. enschedã©weg
+ir. enschedÃ©weg
 ir. f.w. conradstraat
 ir. g. tjalmaweg
+ir. g.j.w. de jonghkade
 ir. h. van hartenstraat
 ir. hanlostraat
 ir. herman de grootweg
@@ -950,7 +978,6 @@ ir. kippermanstraat
 ir. krabbeweg
 ir. krijgerstraat
 ir. krijnstraat
-ir. l.g.h. fortuijnrotonde
 ir. leemansstraat
 ir. lelykade
 ir. lelylaan
@@ -961,6 +988,7 @@ ir. luteijnweg
 ir. m. schefferlaan
 ir. mentropweg
 ir. mettropweg
+ir. miel davits-dijk
 ir. molsweg
 ir. mr. dr. van waterschoot van der grachtstraat
 ir. munterlaan
@@ -976,10 +1004,8 @@ ir. schaapstraat
 ir. schiffstraat
 ir. smedingplein
 ir. van den banstraat
-ir. van der elststraat
 ir. van der sluijsplantsoen
 ir. van diesenpad
-ir. van dieststraat
 ir. van meelweg
 ir. veltplein
 ir. w.i.c. van veelenweg
@@ -989,10 +1015,11 @@ ir. wortmanstraat
 ir.lelylaan
 ir.van der elststraat
 ir.van dieststraat
+ira bartlaan
 iraklia
 iras
 irawan soejonostraat
-ireen wã¼ststraat
+ireen wÃ¼ststraat
 irene vorrinklaan
 irene vorrinkland
 irene vorrinkplein
@@ -1008,6 +1035,7 @@ ireneplantsoen
 ireneplein
 irenesingel
 irenestraat
+irenetunnel
 ireneweg
 iridiumstraat
 iris
@@ -1030,7 +1058,7 @@ irisvaart
 irisvallei
 irisveld
 irisweg
-irmengard passage
+irma bosmanlaantje
 irmgard smitsweg
 irmgardstraat
 irmstraat
@@ -1040,18 +1068,13 @@ irving berlinhof
 irving berlinstraat
 is. sweersstraat
 isa van eeghenlaan
-isa$c sweersplanstoen
-isaac baarthaven
 isaac beeckmanhof
 isaac beeckmanstraat
 isaac beekmanstraat
-isaac da costadreef
 isaac da costastraat
 isaac gogelweg
-isaac havenaarweg
-isaac isra?lslaan
-isaac israã«lslaan
-isaac israã«lsstraat
+isaac israÃ«lslaan
+isaac israÃ«lsstraat
 isaac newtonstraat
 isaac sweerslaan
 isaac sweersstraat
@@ -1061,6 +1084,7 @@ isaac van ostadestraat
 isaacstraat
 isaak gosseshof
 isabella richaardsstraat
+isabella van portugallaan
 isabella van portugalstraat
 isabella van spanjestraat
 isabelladijk
@@ -1077,23 +1101,26 @@ isabellapolder
 isabellapoort
 isabellastraat
 isabellaweg
+isabelle bentinckhof
+isadora duncankade
 isadora duncanweg
+isala van diesthof
 isarstraat
 isarweg
-isaã¤c asscherpad
-isaã¤c da costadreef
-isaã¤c da costalaan
-isaã¤c da costastraat
-isaã¤c hubertstraat
-isaã¤c israã«lslaan
-isaã¤c israã«lsweg
-isaã¤c lemairestraat
-isaã¤c sweersplantsoen
-isaã¤c sweersstraat
-isaã¤c van hoornbeeklaan
-isaã¤c van hoornbeekstraat
-isaã¤cstraat
-isaã¤k hoornbeekstraat
+isaÃ¤c asscherpad
+isaÃ¤c da costadreef
+isaÃ¤c da costalaan
+isaÃ¤c da costastraat
+isaÃ¤c hubertstraat
+isaÃ¤c israÃ«lslaan
+isaÃ¤c israÃ«lsweg
+isaÃ¤c lemairestraat
+isaÃ¤c sweersplantsoen
+isaÃ¤c sweersstraat
+isaÃ¤c van hoornbeeklaan
+isaÃ¤c van hoornbeekstraat
+isaÃ¤cstraat
+isaÃ¤k hoornbeekstraat
 isebrandtsheerd
 isegrim
 isegrimplein
@@ -1126,6 +1153,7 @@ islemundapad
 islemundastraat
 ismailiastraat
 ismenestraat
+isodoorstraat
 isolatorweg
 isolde
 isoldehof
@@ -1137,88 +1165,82 @@ isotopenweg
 israel emanuelplein
 israelsstraat
 israelstraat
-israã«l de haanlaan
-israã«l queridolaan
-israã«l queridostraat
-israã«lhove
-israã«llaan
-israã«lplein
-israã«lsdreef
-israã«lserf
-israã«lslaan
-israã«lsstraat
-israã«lstraat
+israÃ«l de haanlaan
+israÃ«l queridolaan
+israÃ«l queridostraat
+israÃ«lhove
+israÃ«llaan
+israÃ«lplein
+israÃ«lsdreef
+israÃ«lserf
+israÃ«lslaan
+israÃ«lsstraat
+israÃ«lstraat
 isseltseveld
 isseltseweg
 istanboeldreef
 istanboelstraat
 istanbulstraat
 istriastraat
-isã¨relaan
+isÃ¨relaan
 it aai
 it achtepaed
 it achterbosk
 it achterom
-it ald hã´f
-it aldlã¢n
+it ald hÃ´f
+it aldlÃ¢n
 it anker
 it ankerplak
-it apelhã´f
+it apelhÃ´f
 it beaken
 it binnenpaad
 it bjinstap
 it bjirkenbosk
 it blauleech
 it blauwe slot
-it blikkelã¢n
+it blikkelÃ¢n
 it blok
-it blãªd
+it blyn
+it blÃªd
 it boerein
 it bosk
-it bosklã¢n
+it bosklÃ¢n
 it boumantsje
 it bynt
-it bã»terfabryk
-it bã»thãºs
-it bã»thã»s
-it bã»tlã¢n
-it bã»tlã¢n
+it bÃ»terfabryk
+it bÃ»thÃºs
+it bÃ»thÃ»s
+it bÃ»tlÃ¢n
 it diel
 it doekewiid
 it dok
-it dok
 it dwers
-it dwershã»s
+it dwershÃ»s
 it efterom
-it eilã¢n
-it eilã¢n
+it eilÃ¢n
 it fabryk
 it far
 it ferset
-it finlã¢n
+it finlÃ¢n
 it fintsje
-it fintsje
-it fjild
 it fjild
 it fjouwerkant
 it fliet
 it fluen
 it foardek
 it foarfjild
-it foarhã»s
+it foarhÃ»s
 it gaestdykje
 it gaffelpaad
-it gerslã¢n
-it ges
+it gerslÃ¢n
 it ges
 it giele fjild
 it gielhertsje
 it goarrefean
 it grenaatfabryk
 it grien
-it gruthã´f
+it gruthÃ´f
 it haam
-it harspit
 it harspit
 it heafek
 it heare-ein
@@ -1226,14 +1248,13 @@ it heech
 it heechfean
 it heechhiem
 it heechhout
-it heechsã¢n
+it heechsÃ¢n
 it hege stik
 it heideloantsje
 it helmhout
 it hertepaad
 it hiem
-it hiem
-it hiemstã©
+it hiemstÃ©
 it himpsel
 it hoarnleger
 it hoarnsket
@@ -1243,41 +1264,41 @@ it holt
 it houtsjepaad
 it houtstek
 it hynstewaed
-it hã´f
-it ikebosk
+it hÃ´f
 it jacht
 it jachtfjild
 it kampke
 it keechje
-it kjershã´f
-it klaailã¢n
-it kleaster
+it klaailÃ¢n
 it kleaster
 it kleasterbreed
 it klif
-it koartlã¢n
-it koekoekslã¢n
+it koartlÃ¢n
+it koekoekslÃ¢n
 it koekoekspaed
+it konvint
 it kromme far
-it krã»mdeel
+it krÃ»mdeel
 it kylblok
+it langaerd
 it lange ein
 it langfal
 it langpaed
+it langwaer
 it leech
 it leechje
 it leechjepaad
-it lytshã»s
+it lytshÃ»s
+it marrenfjild
 it mear
 it mediel
 it medsje
-it merkelã¢n
+it merkelÃ¢n
 it mienskar
-it molelã¢n
-it mãªd
-it nije hã´f
+it molelÃ¢n
+it mÃªd
+it nije hÃ´f
 it nije paad
-it nijlã¢n
 it noard
 it noarderfjild
 it oast
@@ -1293,25 +1314,27 @@ it plein
 it pounsmiet
 it pypke
 it rak
+it ramtwurk
 it reedtsje
+it regintelÃ¢n
 it reidhintsje
-it reidlã¢n
-it rinket
-it risplã¢n
+it reidlÃ¢n
+it risplÃ¢n
 it roer
 it roster
-it rã»m
+it ruterpolderpaad
+it rÃ»m
 it sein
 it set
-it sinderlã¢n
+it sinderlÃ¢n
 it skeanpaed
 it skier
 it skil
-it skipperslã¢n
+it skipperslÃ¢n
 it skoalpaed
 it skod
-it skã»tsje
-it slãºske
+it skÃ»tsje
+it slÃºske
 it smidsplein
 it soal
 it soldatepaad
@@ -1320,19 +1343,17 @@ it spul
 it spyk
 it stalt
 it stee
-it stimlã¢n
+it stimlÃ¢n
 it streekje
-it string
 it string
 it suderheech
 it swad
 it swee
-it swee
 it swurd
 it sylstring
 it sypke
-it sã¢n
-it sãºd
+it sÃ¢n
+it sÃºd
 it tek
 it terpspaad
 it tiksel
@@ -1340,30 +1361,30 @@ it tiltsje
 it topkepaad
 it trekskip
 it uleboerd
-it uthã´f
+it uthÃ´f
 it vegelinskampke
 it waarlamke
 it war
-it weidlã¢n
+it weidlÃ¢n
 it werp
 it west
-it westerhã»s
+it westerhÃ»s
 it wolgers
-it wyldlã¢n
+it wyldlÃ¢n
 ita wegmanhof
-itali+laan
 italiaanse lire
 italiaanse zeedijk
 italiaansestraat
 italiaanseweg
 italiaansezoom
 italielaan
-italiã«kade
-italiã«laan
-italiã«plaats
-italiã«plein
-italiã«straat
-italiã«weg
+italieweg
+italiÃ«kade
+italiÃ«laan
+italiÃ«plaats
+italiÃ«plein
+italiÃ«straat
+italiÃ«weg
 ite boeremastraat
 itersondomein
 ithaca
@@ -1371,7 +1392,6 @@ ithacastraat
 itingewei
 itskenheerd
 itterbeckerweg
-itterbeckeweg
 itterbeek
 itterbeekweg
 itterestraat
@@ -1381,12 +1401,10 @@ ittersumpad
 ittervegtlaan
 ittervoorterweg
 ittmannserf
-ittmannshof
 itzhof
 ivanovschouw
 ivige leane
 ivoordistel
-ivoordreef
 ivoorhorst
 ivoorkust
 ivoorstraat
@@ -1413,9 +1431,9 @@ izak osstraat
 izak van der horststraat
 izanamistraat
 izarstraat
-izaã¤k enschedã©weg
-izaã¤k evertslaan
-izaã¤k heijmanstraat
+izaÃ¤k enschedÃ©weg
+izaÃ¤k evertslaan
+izaÃ¤k heijmanstraat
 izegemstraat
 izeren helling
 izermanstraat

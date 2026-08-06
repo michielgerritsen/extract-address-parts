@@ -1,11 +1,9 @@
-c a leenhoffstraat
 c d vereekeplein
 c d vereekestraat
 c de houtmanstraat
 c dijk
 c f engelhardstraat
 c f van sytzamastraat
-c g roosweg
 c g v kleijburgweg
 c gerritsmastraat
 c j conijnstraat
@@ -24,7 +22,6 @@ c. de haasweg
 c. de jongestraat
 c. de kleijnstraat
 c. de leeuwstraat
-c. de vosstraat
 c. evertsenstraat
 c. faberleane
 c. fabritiuspark
@@ -39,11 +36,11 @@ c. kasjestrjitte
 c. keijzerlaan
 c. kouterstraat
 c. kruyswijkstraat
-c. lelylaan
 c. liefhebberstraat
 c. lofstraat
 c. outshoornstraat
 c. ouwerkerkstraat
+c. picokriestraat
 c. pieter van der leestraat
 c. ploos van amstelstraat
 c. pothuisstraat
@@ -51,12 +48,13 @@ c. r. waiboerstraat
 c. rossemsstraat
 c. schalijstraat
 c. schulzlaan
-c. sluijterstraat
+c. sipkesslag
 c. smeenkstraat
 c. trooststraat
 c. valeriusstraat
 c. van boshuizenstraat
 c. van der doesstraat
+c. van drosthagenstraat
 c. van eesterenlaan
 c. van eesterenplein
 c. van everdingenlaan
@@ -69,19 +67,17 @@ c. villeriuslaan
 c. vreedenburghplantsoen
 c.a. bodestraat
 c.a. dekkerstraat
+c.a. filipsonstraat
 c.a. thiemestraat
 c.a. van beverenplein
 c.a. van beverenstraat
 c.a. van zwietenstraat
 c.a. weersma-van duinstraat
-c.a.v.-weg
 c.b. kentiestraat
 c.branderhorststraat
-c.busken huetstraat
 c.d.tuinenburgstraat
 c.f. klaarstraat
 c.f. kuijken-van der eijndetuin
-c.f. kuijken-vd eijndetn
 c.f. smeetslaan
 c.f. zeiler boulevard
 c.g. roosweg
@@ -99,21 +95,20 @@ c.j. kieviethof
 c.j. snuifstraat
 c.j. speelmanstraat
 c.j. van doornstraat
+c.j. zagterf
 c.j.a. koelemanstraat
 c.j.k. van aalststraat
 c.j.van houtenlaan
 c.k. eloutstraat
 c.l. bressersstraat
 c.m. de vorplein
-c.m. smoorenburg erf
 c.m. van houwelingweg
 c.m. van reesstraat
 c.n. appelstraat
 c.n.a.looslaan
-c.outshoornstraat
 c.p. de grootstraat
 c.p. klapstraat
-c.p. mulderveld
+c.p. nonnerstraat
 c.p. van den hoekpad
 c.p.m. rommelaan
 c.p.m. rommeplantsoen
@@ -127,16 +122,13 @@ c.t. storkstraat
 c.t. storkweg
 c.th. kamphuijsstraat
 c.v. ramanstraat
-c.van drosthagenstraat
 c.vreedenburghgaarde
 c.w. lubbersstraat
 c.w. sturmstraat
 c.w.a. de jonghweg
-c.w.a.de jonghweg
 c.w.bruinvisstraat
 ca leenhoffstraat
 caan van necklaan
-cab-rondom
 cab-rondom
 cabaret
 cabaretpad
@@ -152,7 +144,6 @@ cabrallaan
 cabralstraat
 cacaokade
 cacaomolen
-cacaostraart
 cacaostraat
 cacaoweg
 cachepot
@@ -166,17 +157,18 @@ cadier en keerpad
 cadijk
 cadizerf
 cadmiumgeel
+cadmuspad
+cado
 cadzandpad
 cadzandseweg
 caecilia-gracht
 caeciliahof
 caecilialaan
 caeciliapad
-caeciliaplein
 caeciliastraat
-caecili„´nkamp
+caecili√´nkamp
 caeffertweg
-caelerweg
+caendorp
 caenlaan
 caenstraat
 caesar
@@ -188,19 +180,21 @@ caestertstraat
 caetshage
 cahorslaan
 cairostraat
+caissondam
 caissonweg
 cajanuspad
 cajersborg
 calabrialaan
-calabri„´
-calabri„´straat
+calabri√´
+calabri√´straat
 calagneweg
 calaislaan
+calamiteitenpad
+calandbrug
 calandhaven
 calandhof
 calandkade
 calandlaan
-calandostraat
 calandostraat
 calandplein
 calandschans
@@ -209,12 +203,11 @@ calandweg
 calbertsweg
 calcariaweg
 calchaslaan
-calciet
 calciumweg
 caldarastraat
 caldenbornstraat
 calderstraat
-calder„≥nlaan
+calder√≥nlaan
 caledoniastraat
 calenwiel
 calfven
@@ -222,12 +215,10 @@ calfvense bosloop
 calfvenseweg
 calicotstraat
 californiestraat
-californischeweg
-californi„´dreef
-californi„´plein
-californi„´weg
+californi√´dreef
+californi√´plein
+californi√´weg
 caligastraat
-calis kampweg
 caliskamp
 calixtusstraat
 calkoenstraat
@@ -283,13 +274,12 @@ calvijnhof
 calvijnlaan
 calvijnpad
 calvijnstraat
-calville
 calvlietlaan
 calypso
 calypsostraat
-cal„®che
-cal„®chedrift
-cal„®chelaan
+cal√®che
+cal√®chedrift
+cal√®chelaan
 cambara
 cambarahout
 cambierstraat
@@ -302,6 +292,7 @@ cambuurplein
 cambuursterpad
 cambuurstraat
 camee
+cameebrug
 cameedijk
 cameliadal
 cameliapad
@@ -315,18 +306,18 @@ cameraarlaan
 camerastraat
 cameraweg
 camerberg
-camerbergsweg
 cameretten
 camerig
+camerigerbergweg
 camerlinghdreef
 camerlingstraat
 camerlinkstraat
 cameronlaan
 camil schutijserstraat
-camil schutijzerstraat
 camille balystraat
 camilluspark
 camilo torresplein
+camizhof
 cammingastraat
 camminghaburg
 camminghalaan
@@ -351,7 +342,6 @@ campbellweg
 campelhofhoek
 campen
 campenhoefdreef
-campensdijk
 campensedijk
 campenseiland
 campenshof
@@ -365,6 +355,7 @@ camperpad
 camperstraat
 campertstraat
 camperveer
+camperweg
 campferbeekstraat
 camphaag
 campherbeeklaan
@@ -377,9 +368,8 @@ camphuysenkade
 camphuysenlaan
 camphuysenstraat
 camphuysenweg
-campinadreef
 campinasdreef
-camping hommelheide
+campinastraat
 campinge
 campinglaan
 campingpad
@@ -390,15 +380,14 @@ campmanplein
 campo
 camposdreef
 camprastraat
-campsbosweg
 campsebaan
 campstede
-campsveld
 campus
 campusbaan
 campuslaan
 campuspad
 campusplein
+campustunnel
 campvlietweg
 campweg
 camstraburen
@@ -421,10 +410,12 @@ canadese gans
 canadeselaan
 canadesestraat
 canadeseweg
+canadezenhof
 canadezenlaan
 canadezenplantsoen
 canadezenweg
 canadian grenadier
+cananefatenlaan
 cananefatenpad
 cananefatenpoort
 canaveralstraat
@@ -435,7 +426,6 @@ candelastraat
 candialaan
 candidaschouw
 caninefatenstraat
-caninuspad
 canisiushof
 canisiusstraat
 canisplein
@@ -465,7 +455,7 @@ canopus
 canopuslaan
 canopusplein
 cantaart
-cantabri„´straat
+cantabri√´straat
 cantaloupenburg
 cantalpad
 cantate
@@ -479,7 +469,7 @@ cantecleerplein
 cantecleerstraat
 cantekoogweg
 canterlandseweg
-canterl„¢nswei
+canterl√¢nswei
 cantersakker
 canterstate
 canterstins
@@ -495,8 +485,8 @@ cantineweg
 cantondreef
 cantonlaan
 cantorij
-cantorijplein
 cantorijstraat
+cantrijnhof
 capadosestraat
 cape kennedy
 capella
@@ -519,9 +509,9 @@ capellestraat
 capellevelt
 capelleweer
 capelleweg
+capelsche veer
 capelsebrugpad
 capelsedreef
-capelseplein
 capelsestraat
 capelseweg
 capelweg
@@ -540,9 +530,7 @@ capreton
 capri
 capricciolaan
 capricciostraat
-capricornus
 caprihof
-capristraat
 capriweg
 capronilaan
 captain goodwinstraat
@@ -557,18 +545,18 @@ caracasdreef
 caracaspad
 caracasstraat
 caramelstraat
-caravan bij kruisweg 1
-cara„Øben
+cara√Øben
 carbasiusstraat
 carbasiusweg
 carbatinastraat
 carbeel
 carboniastraat
 carbonstraat
+carbonweg
 carboonlaan
 carboonplein
 carboonstraat
-carcassone
+carcassonne
 cardanuslaan
 carderie
 cardiffstraat
@@ -577,7 +565,6 @@ cardinaalstraat
 cardium
 cardo
 cardonpad
-carduusstraat
 carel belstraat
 carel beukerhof
 carel coenraadpolder
@@ -586,15 +573,12 @@ carel fabritius
 carel fabritiushage
 carel fabritiuslaan
 carel fabritiuspad
-carel fabritiusplantsoen
 carel fabritiusstraat
 carel hieronymuslaan
 carel looierstraat
 carel nakkenstraat
 carel reinierszkade
 carel reinierszpad
-carel reynierszhaven
-carel van boetzelaerstr
 carel van boetzelaerstraat
 carel van bylandtlaan
 carel van manderdreef
@@ -607,7 +591,6 @@ carel vosmaerpad
 carel vosmaerstraat
 carel willinkgracht
 carel willinklaan
-carel willinkplantsoen
 carel willinkplein
 carel willinksingel
 carel willinkstraat
@@ -617,6 +600,7 @@ cargadoorskade
 cargadoorstraat
 cargadoorweg
 cargo entrance
+cargoweg
 cariljonplein
 carillon
 carillonhof
@@ -636,8 +620,8 @@ carl barksweg
 carl benzstraat
 carl fellingerweg
 carl heinrich knorrlaan
-carl hollandersingel
 carl hugostraat
+carl jungstraat
 carl maria von weberstraat
 carl muckstraat
 carl nielsenhof
@@ -657,8 +641,6 @@ carlstraat
 carmelhof
 carmelietenstraat
 carmelietenstraat-oost
-carmelietenstraat-oost
-carmelietenstraat-west
 carmelietenstraat-west
 carmelieterstrjitte
 carmelitessenstraat
@@ -667,7 +649,6 @@ carmelstraat
 carmelweg
 carmen
 carmendreef
-carmenhof
 carmenlaan
 carmenplein
 carmenschouw
@@ -698,6 +679,8 @@ caro van eycksingel
 caro van eyckstraat
 caro van eycktuin
 caro van eyckweg
+carol van herwijnenhoek
+carol vogesbrug
 carol vogesgracht
 carol vogespad
 carolastraat
@@ -705,12 +688,14 @@ carole
 carolieweg
 carolijnruwe
 carolina macgillavrylaan
+carolina van harenstraat
 carolina van nassaustraat
 carolinaberg
 carolinahoeve
 carolinalaan
 carolinastraat
-caroline herschelhof
+caroline herschelstraat
+caroline van dommelenhof
 carolineburg
 carolineburgpad
 carolinen
@@ -720,7 +705,6 @@ carolinenhof
 carolinenstraat
 carolus clusiuslaan
 carolus linnaeusborg
-carolus linnaeusweg
 carolus simplexplein
 carolusdreef
 carolusgulden
@@ -732,6 +716,11 @@ carolusweg
 carpenakker
 carpentier altingstraat
 carpinistraat
+carpinus
+carpool assen noord
+carpool avelingen-west
+carpoolplaats stroe
+carquefouplein
 carrascoplein
 carrie pothuisstraat
 carrie van bruggenstraat
@@ -753,8 +742,7 @@ carry van bruggenplein
 carry van bruggensingel
 carry van bruggenstraat
 carry van bruggenweg
-carry-van-bruggenhof
-carr„©
+carr√©
 carselispad
 carspel
 carspellaan
@@ -783,6 +771,7 @@ cartierstraat
 cartils
 cartilserveldweg
 cartilservoetpad
+cartilserweg
 cartilsstraat
 cartograaf
 cartografenweg
@@ -797,23 +786,19 @@ carvonestraat
 cas de bruynpad
 cas oorthuyskade
 cas ruffelsestraat
-cas verlintstraat
+casa d'italia
 casablancastraat
 casablancaweg
 cascade
 cascadeborg
 cascademuur
 cascadepad
-cascadepark oost
-cascadepark west
 cascadeplein
-cascadesingel
 cascadestraat
 cascadeweg
 casellastraat
 casembrootlaan
 casembrootstraat
-casimir ubaghslaan
 casimiralaan
 casimirhof
 casimirlaan
@@ -821,11 +806,13 @@ casimirstraat
 casimirstrjitte
 casino
 casinolaan
+casinotuin
 casinoweg
 casopijnhof
 caspar boshartstraat
 caspar damstraat
 caspar de crayerstraat
+caspar de haanbrug
 caspar de roblesdijk
 caspar de roblesstrjitte
 caspar di roblesstraat
@@ -843,14 +830,12 @@ caspar van baerlehof
 caspar van wittelplantsoen
 caspargauw
 casparhof
-casparus b. j. landweerlaan
 casparus b.j. landweerlaan
 casparushof
 casparuslaan
 casper copstraat
 casper fagellaan
 casper fagelstraat
-casper fransenstraat
 casper kombrinkstraat
 casper reinwardtpad
 casper ten boompad
@@ -859,18 +844,14 @@ caspersstraat
 cassandrahof
 cassandraplein
 cassandrastraat
-cassedonk
-casselehof
 casseweg
 cassiaerf
-cassinistraat
 cassinstraat
-cassionweg
 cassiopeia
-cassiopeiadreef
 cassiushof
-cass„©donk
+cass√©donk
 castaert
+castanea
 casteelplaets
 casteelse dreef
 casteleynstraat
@@ -893,10 +874,11 @@ castendijkweg
 castenrayseweg
 castersedijk
 casterseweg
+casterstraat
 castertstraat
 castertweg
-castili„´laan
-castili„´straat
+castili√´laan
+castili√´straat
 castor
 castorpad
 castorplein
@@ -910,20 +892,18 @@ castricummerweg
 castricumpad
 castricumplein
 castrop-rauxellaan
-castrum
 castrumstraat
 casuariestraat
 catalijnenakker
 catalijneweg
-cataloni„´
-cataloni„´straat
+cataloni√´
+cataloni√´straat
 catalpastraat
 catamaran
 catamaranstraat
 catelijnen
 cateringweg
 caterspolder
-caterspolderweg
 catgesplein
 cathalijne schans
 cathalijnepad
@@ -932,7 +912,7 @@ cathalijnestraat
 cathalijneweg
 catharijne
 catharijne esplanade
-catharijnebaan
+catharijnebrug
 catharijnekade
 catharijnelaan
 catharijnepassage
@@ -944,11 +924,11 @@ catharijnestraat
 catharina beersmansstraat
 catharina berthoutlaan
 catharina boudewijnshof
+catharina bruiningstraat
 catharina burierlaan
 catharina coolpad
 catharina daemenpad
 catharina daemenstraat
-catharina de berthoutstr
 catharina de berthoutstraat
 catharina geertruida schraderstraat
 catharina gillesstraat
@@ -958,12 +938,12 @@ catharina mossellaan
 catharina parrlaan
 catharina roodzanthof
 catharina roodzantpad
-catharina schraderpad
 catharina van abbenbroekstraat
 catharina van aragonlaan
 catharina van beekstraat
 catharina van clevelaan
 catharina van clevepark
+catharina van gentpad
 catharina van heenvlietstraat
 catharina van reesstraat
 catharina van rennes erf
@@ -973,16 +953,18 @@ catharina van renneslaan
 catharina van rennespad
 catharina van rennesplaats
 catharina van rennesplein
-catharina van rennesstr
 catharina van rennesstraat
+catharina van si√´nalaan
 catharina van tussenbroekpad
 catharina van tussenbroekplein
 catharina van tussenbroekstraat
+catharina van tussenbroekweg
 catharina van zoelenstraat
 catharina-amalia rotonde
 catharina-amaliahof
 catharina-amalialaan
 catharinaberg
+catharinabrug
 catharinadaal
 catharinadal
 catharinahoeve
@@ -996,14 +978,13 @@ catharinapolder
 catharinasteeg
 catharinastraat
 catharinaweg
-catharine geertruida schraderstraat
-catharine van tussenbroekplein
 catharinus stomplaan
+cathelijn badenstraat
 cathelijneweg
 cathelineweg
-catherina amalialaan
-catherina van rennesstraat
 catherinedreef
+cathrientje van sambeeckstraat
+cathrijnenbrug
 cathrijnestraat
 catlastraat
 cato
@@ -1014,7 +995,6 @@ cato van der pijlland
 cato van der pijlpad
 cato van der pylhof
 catootjepad
-catovaart oz
 catovaart wz
 catrijn epessingel
 catrijnestraat
@@ -1042,6 +1022,7 @@ catualiumstraat
 catullusstraat
 catullusweg
 catuvolcusstraat
+catwickerz
 cauberg
 cauersweg
 caulitenstraat
@@ -1060,9 +1041,9 @@ cavaleriepad
 cavaleriestraat
 cavalerieweg
 cavalier
-cavalj„©plein
-cavalj„©straat
-cavalj„©weg
+cavalj√©plein
+cavalj√©straat
+cavalj√©weg
 cavallilaan
 cavansalaan
 cavatinestraat
@@ -1072,17 +1053,16 @@ caviastraat
 cayennedreef
 cayennehof
 cazemiershof
-cazenderplein
 cazenderstraat
 cbs-weg
 cc storkstraat
-cear„°laan
+cear√°laan
 cebulaan
 cecil b. de millepad
 cecil b. de millestraat
 cecil powellhof
 cecile goekoopstraat
-cecilia benninghastr
+cecilia benninghastrjitte
 ceciliadal
 ceciliagang
 cecilialoane
@@ -1092,6 +1072,7 @@ ceciliaweg
 cedelshof
 ceder
 cederberg
+cederbloesempad
 cederdreef
 cederhage
 cederhof
@@ -1106,23 +1087,23 @@ cederstraat
 cederweg
 cederzoom
 cedric mardonstraat
-cedrush„¥f
-cedrusstraat
+cedrus
+cedrush√¥f
 cedule
 ceelenweg
+ceelienkroft
 ceelman van ommerenweg
 cees buddingh pad
 cees buddingh'hof
 cees buddinghlaan
 cees buddinghstraat
 cees de jongstraat
-cees erkelenspad
 cees laseurlaan
 cees laseurstraat
 cees nooteboompad
 cees seepad
+cees sipkeslaan
 cees sleegerspad
-cees van delftpad
 cees van delftstraat
 cees van dongen rotonde
 cees van gendlaan
@@ -1133,6 +1114,7 @@ ceintuurbaan
 ceintuurbaan noord
 ceintuurbaan west
 ceintuurbaan zuid
+ceintuurbaanbrug
 ceintuurstraat
 ceintuurweg
 celadonstraat
@@ -1153,11 +1135,11 @@ cella asia
 cella gallia
 cella helvetica
 cella syria
-cellebroederpoort
+cellebroedersbrug
 cellebroederspoort
 cellebroedersstraat
-cellebroederstraat
 cellebroedersweg
+cellebroerbrug
 cellebroerssteeg
 cellebroerstraat
 cellemuiden
@@ -1178,11 +1160,9 @@ celsiuslaan
 celsiusplantsoen
 celsiusplein
 celsiusstraat
-celsiustraat
 celsiusweg
 celsusstraat
 celzusterenstraat
-cementhaven
 cementhof
 cementpassage
 cenakel
@@ -1207,16 +1187,20 @@ centraalspoor
 centrale groothandelsmarkt
 centrale markt
 centraleweg
-centriclaan
 centrum
+centrum 14
+centrum 25
 centrum west
+centrum west 1
+centrum west 2
+centrum west 3
 centrumbaan
 centrumboulevard
+centrumbrug
 centrumlaan
 centrumoever
 centrumpassage
 centrumplein
-centrumstraat
 centrumweg
 centruwe
 centsweg
@@ -1227,6 +1211,7 @@ centurioplaats
 centuriostraat
 centurioweg
 cepheusstraat
+cer
 ceram
 ceramlaan
 ceramplein
@@ -1234,6 +1219,7 @@ ceramstraat
 cerberuspad
 cerberusstraat
 ceres
+ceresahof
 ceresakker
 ceresbaan
 ceresbrink
@@ -1255,7 +1241,6 @@ cerialisstraat
 cerise
 cervanteslaan
 cervantesstraat
-cervidaelaan
 cesar domelastraat
 cesar francklaan
 cesar franckstraat
@@ -1273,6 +1258,8 @@ ch th storkstraat
 ch. eykmanstraat
 ch. ruijs de beerenbrouckstraat
 chaamse baan
+chaamse dreef
+chaamsedreef
 chaamseweg
 chaamseweg-hazenberg
 chablislaan
@@ -1304,19 +1291,18 @@ champetterberg
 champignon
 champignonlaan
 champs elyseesweg
-champs elys„©esweg
 changing lane
 changiweg
 chansondreef
 chansonstraat
 chaplinstrook
-charactostraat
 charbonlaan
 charbonstraat
 chardonpad
 charel baelemanshofke
 charel baelemanspad
 charentelaan
+charentestroom
 charisiuslaan
 charitashof
 charitasstraat
@@ -1348,7 +1334,6 @@ charles gabrijweg
 charles leickertstraat
 charles leickertweg
 charles lindberghlaan
-charles mignusstraat
 charles mingussingel
 charles mingusstraat
 charles petitweg
@@ -1357,6 +1342,7 @@ charles roelslaan
 charles ruysstraat
 charles storkstraat
 charles stulemeijerweg
+charles tangelderhof
 charles van der nootstraat
 charles van wijkstraat
 charles vos-cour
@@ -1373,7 +1359,6 @@ charley tooropplein
 charley tooropsingel
 charley tooropstraat
 charley tooropweg
-charlie
 charlie chaplinweg
 charlie christianstraat
 charlie nederpeltstraat
@@ -1386,11 +1371,11 @@ charloisse hoofd
 charloisse kerksingel
 charloisse lagedijk
 charloissekade
-charlotta fr„∂hlichhof
+charlotta fr√∂lichhof
 charlottaring
-charlotte bront„©straat
-charlotte bront„´straat
-charlotte b„ºhlerweg
+charlotte bront√©straat
+charlotte bront√´straat
+charlotte b√ºhlerweg
 charlotte cooperpad
 charlotte cuypersdreef
 charlotte de bourbonhof
@@ -1399,14 +1384,14 @@ charlotte de bourbonplein
 charlotte de bourbonstraat
 charlotte hellebaardpad
 charlotte jacobslaan
-charlotte k„∂hlerpad
-charlotte k„∂hlerstraat
-charlotte k„∂hlertuin
+charlotte k√∂hlerpad
+charlotte k√∂hlerstraat
+charlotte k√∂hlertuin
 charlotte ruyslaan
 charlotte ruysplantsoen
 charlotte ruysstraat
+charlotte ruysweg
 charlotte salomonlaan
-charlotte v pallandtrade
 charlotte van beuningenlaan
 charlotte van bourbondreef
 charlotte van bourbonhof
@@ -1418,7 +1403,6 @@ charlotte van pallandthof
 charlotte van pallandtlaan
 charlotte van pallandtstraat
 charlotte van praagpad
-charlottehof
 charlottenburg
 charlotteplaats
 charlottestraat
@@ -1428,12 +1412,13 @@ chartreslaan
 chartreusenstraat
 chartreusepad
 chartreusestraat
-chass„© promenade
-chass„©singel
-chass„©straat
-chass„©veld
+chass√© promenade
+chass√©singel
+chass√©straat
+chass√©veld
 chatelainestraat
 chatelainplein
+chathamhweg
 chathams
 chaukenstraat
 chaussonstraat
@@ -1451,16 +1436,11 @@ chemelot 108-weg
 chemelot 109-weg
 chemelot 11-weg
 chemelot 110-weg
-chemelot 111-weg
-chemelot 11103-weg
 chemelot 11105-weg
-chemelot 11107-weg
 chemelot 11108-weg
 chemelot 11109-weg
 chemelot 11110-weg
 chemelot 11112-weg
-chemelot 11115-weg
-chemelot 11116-weg
 chemelot 112-weg
 chemelot 113-weg
 chemelot 114-weg
@@ -1472,7 +1452,6 @@ chemelot 14403-weg
 chemelot 14601-weg
 chemelot 14701-weg
 chemelot 14702-weg
-chemelot 15-weg
 chemelot 151-weg
 chemelot 152-weg
 chemelot 16-weg
@@ -1490,17 +1469,14 @@ chemelot 2808-weg
 chemelot 3-weg
 chemelot 4-weg
 chemelot 5-weg
-chemelot 501-weg
 chemelot 51-weg
 chemelot 52-weg
-chemelot 53-weg
 chemelot 55-weg
 chemelot 56-weg
 chemelot 6-weg
 chemelot 6102-weg
 chemelot 6502-weg
 chemelot 7-weg
-chemelot 7301-weg
 chemelot 8-weg
 chemelot 9-weg
 chemelot a-weg
@@ -1516,7 +1492,6 @@ chemelot ba-weg
 chemelot bb-weg
 chemelot bc-weg
 chemelot bf-weg
-chemelot bg-weg
 chemelot bh-weg
 chemelot bj-weg
 chemelot bk-weg
@@ -1558,20 +1533,17 @@ chiantigaard
 chicagodreef
 chicagopad
 chicagostraat
-chichorei
 chico mendesring
 chico mendesstraat
 chico mendestunnel
 chiel dethmersstraat
 chijnsakker
 chijnsgoed
-childerikplaats
 childerikplantsoen
 chilidreef
 chilihof
 chilipad
 chinalaan
-chinastraat
 chinese tuin
 chinesetuinlaan
 chinkapinstraat
@@ -1588,6 +1560,7 @@ chirurgijnsteeg
 chirurgijnstraat
 chirurgijnsweg
 chisinaustraat
+chittagongpad
 chloralaan
 chocoladeweg
 choisyweg
@@ -1602,21 +1575,15 @@ chopinlaan
 chopinpad
 chopinplein
 chopinrode
-chopinsingel
 chopinstraat
 chopinweg
 chorisborg
 choristenpad
 chr van beeckstraat
-chr. bruiningslaan
 chr. bruningslaan
 chr. de wetlaan
 chr. de wetstraat
-chr. huijgensweg
 chr. huygensstraat
-chr. huygensstraatt
-chr. van beeckstraat
-chr. van der takstraat
 chris barberpad
 chris bennekerslaan
 chris broersestraat
@@ -1638,12 +1605,13 @@ chris van abkoudehof
 chris van abkoudestraat
 chris vermeulenhof
 chris wegerifstraat
+chris wolffpark
 chrispienen
 christa ehrlichhof
 christallerhage
 christiaan bruningskade
 christiaan bruningsstraat
-christiaan br„ºningsstraat
+christiaan br√ºningsstraat
 christiaan de vrieslaan
 christiaan de vriesstraat
 christiaan de wetstraat
@@ -1661,12 +1629,9 @@ christiaan kannemansstraat
 christiaan kerkhofstraat
 christiaan krammlaan
 christiaan langefeldstraat
-christiaan paul fluhof
-christiaan paul flustraat
 christiaan quixstraat
 christiaan schotanusstraat
 christiaan sepplaan
-christiaan snouck hurgronjehof
 christiaan sterckstraat
 christiaan van abkoudeplantsoen
 christiaan van abkoudestraat
@@ -1679,16 +1644,16 @@ christiaansdreef
 christiaansenstraat
 christiaen huygensstraat
 christian diorstraat
-christian dopplerstraat
 christian kisselsstraat
 christian neefestraat
 christianiastraat
 christiansborg
+christien crebashage
 christina arentsstraat
 christina bakker-van bossestraat
+christina de ridderstraat
 christina enselsingel
 christina gerritdinastraat
-christina maria smoorburg erf
 christina maria smoorenburg erf
 christina ulemanshof
 christina van erphof
@@ -1703,12 +1668,9 @@ christinaplein
 christinastate
 christinastraat
 christinaweg
-christine baderhaghe
-christine baderkade
 christine baderland
 christine baderpad
 christine herminelaan
-christine herminilaan
 christine koetsstraat
 christine mohrmannstraat
 christine poolmanhof
@@ -1727,12 +1689,13 @@ christoffel platijnlaan
 christoffel spieringhstraat
 christoffel van swolllaan
 christoffel van swollstraat
-christoffel w„ºststraat
+christoffel w√ºststraat
 christoffelhof
 christoffelkruid
 christoffelkruidstraat
 christoffellaan
 christoffelpad
+christoffelpark
 christoffelstraat
 christoffelweg
 christofoor
@@ -1765,7 +1728,6 @@ chrysanttuin
 chrysantvallei
 churchill-laan
 churchilldreef
-churchillflat
 churchillhof
 churchilllaan
 churchillpad
@@ -1776,10 +1738,10 @@ churchillsingel
 churchillstraat
 churchillweg
 chv-hof
-ch„¢lonsstraat
-ch„¢teaurouxhof
-ch„¢teletlaan
-ch„© guevarastraat
+ch√¢lonsstraat
+ch√¢teaurouxhof
+ch√¢teletlaan
+ch√© guevarastraat
 cia van boorthof
 cia van boortlaan
 cianfichipoort
@@ -1800,6 +1762,7 @@ cijnsberg
 cijnsbroek
 cijnshof
 cijnsland
+cijnsmeester
 cijnsruwe
 cileastraat
 cilinderstraat
@@ -1817,30 +1780,30 @@ cimbaalsingel
 cimbaalstraat
 cimbalenstraat
 cimburgalaan
-cimetiere de juifs
 cineackade
 cinemadreef
 cinemaplein
 cingel
 cingeldijk
 cingellanden
+cingelplein
 cingelstraat
 cingelwal
 cinnaberdijk
 cinnaberhof
 cinnaberstraat
 cinquant
-cipergras
 cipres
 cipresberg
 cipreshout
 cipreslaan
+cipressen
 cipressendreef
 cipresstraat
 cipresweg
 cipriano de rorestraat
 ciprianussteeg
-circulair avenue
+circular avenue
 circus
 circus mikkeniepad
 circusplein
@@ -1849,18 +1812,19 @@ circusstraat
 cirion
 cirkel
 cirkelbaan
-cirkelbos
+cirkelbrug
+cirkelmaaier
 cirkelpad
-cirkels
+cirkelweg
 cirrus
 cirrusweg
 cis van rooijhof
 cissenlaan
+cissy vam marxveldtstr
 cissy van marxveldtlaan
 cissy van marxveldtplantsoen
 cissy van marxveldtstraat
 cistercienserstraat
-cisterci„´nzerstraat
 citadel
 citadeldrift
 citadellaan
@@ -1868,17 +1832,16 @@ citadelsteeg
 citadelstraat
 citadeltrap
 citadelweg
-citatieruwe
 citatiestraat
 citer
 citerlaan
 citerpad
+citershof
 citerstraat
 cithershillsingel
 citius
 citosahof
 citrien
-citrienpad
 citroenberg
 citroenenstraat
 citroengaard
@@ -1892,14 +1855,15 @@ citroenvlinderlaan
 citroenvlinderpad
 citroenvlinderstraat
 citroenvlinderweg
-citroenvlinderzoom
 citrushof
 citrusstraat
 citrusweg
+city park
 cityflat
 civitaspad
+claar herckenrathstraat
+claas baardtstraat
 claas persoonsstraat
-claas van maarssenplein
 claasgoed
 claassenland
 claassenpark
@@ -1914,7 +1878,6 @@ claes barthoutstraat
 claes berchemstraat
 claes bockes balckstraat
 claes boesserstraat
-claes claeszhofje
 claes compaeneiland
 claes danckaertzstraat
 claes de jongestraat
@@ -1943,7 +1906,6 @@ clantstraat
 clantweg
 clappslaan
 clappsperenlaan
-clapvaeren
 clara bartonpad
 clara bartonstraat
 clara de vriesstraat
@@ -1963,6 +1925,7 @@ clara visserplaats
 clara visserstraat
 clara welckerstraat
 clara wichmannlaan
+clara wichmannpad
 clara wichmannstraat
 clara wichmanntuin
 clara wichmanstraat
@@ -1980,6 +1943,7 @@ clare lennartlaan
 clare lennartpad
 clare lennartstraat
 claremaheerd
+clarenbeekseweg
 clarenbekerhout
 clarenberglaan
 clarenburg
@@ -1991,6 +1955,7 @@ clarendallaan
 clarendalpad
 clarensteeg
 clarenstraat
+clarenwater
 clarevelt
 clariet kok-van alphenstraat
 clarinetweg
@@ -2001,7 +1966,6 @@ clarissenbuurt
 clarissengrubbe
 clarissenhoeve
 clarissenhof
-clarissenlaan
 clarissenplaats
 clarissenstraat
 clark gablestraat
@@ -2075,12 +2039,9 @@ clemensweer
 clemensweg
 clemenswerth
 clement maertenszstraat
-clement tolstraat
 clement van maasdijklaan
-clement van maasdijkstra
 clement van maasdijkstraat
 clementinalaan
-clementipad
 clementistraat
 clementpolderstraat
 clementstraat
@@ -2094,6 +2055,7 @@ clercxstraat
 clermontlunet
 clermontstraat
 clervauxlaan
+cletemspolder
 cleveringahof
 cleveringalaan
 cleveringaplaats
@@ -2159,7 +2121,6 @@ clovisstraat
 cluselaan
 clusepad
 clusius-serre
-clusiuserf
 clusiushof
 clusiuslaan
 clusiusplaats
@@ -2167,7 +2128,6 @@ clusiusstraat
 clusiusweg
 cluynshofstraat
 cluysenaerstraat
-cluytstraat
 clydeweg
 cnossenhof
 cnossenlaan
@@ -2202,6 +2162,8 @@ cock blomhoffpad
 cockenhofstraat
 cockeveld
 cocklaantje
+cockpitpassage
+cockpitplein
 cockserve
 cocky gastelaarshof
 coclersstraat
@@ -2224,7 +2186,6 @@ coelhorsterweg
 coelhorstlaan
 coelhorststraat
 coen bogtmanweg
-coen botrede
 coen cuserhof
 coen de koninglaan
 coen moulijnweg
@@ -2249,19 +2210,16 @@ coenecooprotonde
 coenengraaf
 coenensparkstraat
 coenenweg
-coenhaven
 coenhavenweg
 coenplein
 coenraad abelsstraat
 coenraad botstraat
 coenraad swiepdijk
-coenraad van diepholtstr
 coenraad van diepholtstraat
 coenraad van monsterpad
 coenraad weckestraat
 coenraat oelenszoonpad
 coentjesweg
-coentunnel
 coentunnelcircuit
 coentunnelweg
 coert lambertusstrjitte
@@ -2269,6 +2227,9 @@ coeshoeck
 coetenburgstraat
 coetsstraat
 coeveringslaan
+coevorden
+coevorden noord
+coevorden oost
 coevordenpad
 coevordensingel
 coevordenstraat
@@ -2278,6 +2239,7 @@ coevorderweg
 coevorderweg-noord
 coffermanspad
 coffijboomstraat
+coggelaan
 cognachof
 cohen stuartstraat
 cohenlaan
@@ -2306,6 +2268,7 @@ colenbranderhof
 colenbranderstraat
 colenbrandersweg
 colenhoef
+colenshoek
 colenso
 colensostraat
 colenstraat
@@ -2323,13 +2286,14 @@ colijnsplaatse groeneweg
 colijnsplaatseweg
 colijnspolder
 colijnstraat
+colijntunnel
 colijnweg
 colimastraat
 colinslandsedijk
 colkesyl
 collardslaan
+collatiebrug
 collatorlaan
-collegaarsweg
 collegeplein
 collegeweg
 collegiantenpad
@@ -2343,20 +2307,19 @@ collendoornstraat
 collenhovensweg
 collenkamp
 collenstaartweg
+colletia
 collierpad
 collierstraat
 collinserf
 collinshof
 collinsland
 collinsstraat
-colliplein
 collispad
 collistraat
 collot d'escurystrjitte
 collse buspad
 collse heide
 collse hoefdijk
-collse-buspad
 collseweg
 colman
 colmanstraat
@@ -2371,6 +2334,7 @@ colognekaai
 colombiadreef
 colombiahof
 colombo bastion
+colombopad
 colonel ekmanstraat
 coloniastraat
 colonnade
@@ -2383,6 +2347,7 @@ colosseum
 colosseumweg
 colpende
 coltbaan
+coltermanhof
 coltermanlaan
 coltermanstraat
 coltoflaan
@@ -2399,6 +2364,7 @@ columbusrede
 columbusstraat
 columbusweg
 colusdijk
+colutea
 colvenierstraat
 comansstraat
 combinatiepolder
@@ -2414,7 +2380,6 @@ comestraat
 comicelaan
 comm cramerlaan
 comm d vos v steenwijklaan
-comm d vos v steenwijkln
 comm gaarlandtlaan
 commandementsplein
 commandementstraat
@@ -2437,7 +2402,6 @@ commandeurssingel
 commandeursstraat
 commandeurstraat
 commandeursweg
-commando
 commandobaan
 commandostraat
 commandoweg
@@ -2450,11 +2414,15 @@ commersdijk
 commerswerveweg
 commewijne
 commiezenweg
+commisaris cramerpad
+commissaris  cramerpad
 commissaris bosch van drakesteinlaan
 commissaris cramerpad
 commissaris de quaylaan
+commissaris de vos van steenwijklaan
 commissaris de vos van steenwijkstraat
 commissaris jasweg
+commissaris klijnsmapad
 commissaris kortmannlaan
 commissaris van der hartenlaan
 commissaris van heemstrastraat
@@ -2462,15 +2430,15 @@ commissaris van rijckevorselsingel
 commissaris van voorst tot voorstlaan
 commissarislaan
 commissarispad
+commissarispad brug
 commissiebos
 commissiepolle
 commissiestraat
 commissieweg
+commissionair
 communicatielaan
 communicatieweg
-communicatieweg door het reutje
 communicatieweg oost
-communicatieweg tusschen paarloo en posterholt
 communicatieweg tussen putbroek en roermond
 communicatieweg west
 comomeer
@@ -2482,7 +2450,6 @@ comorenstraat
 compaanhof
 compagnie
 compagnieberg
-compagniedok
 compagnieplaats
 compagnieplein
 compagnieshaven
@@ -2498,14 +2465,13 @@ compagnonsstraat
 compagnonsstrjitte
 compagnonsweg
 companjenhof
-compascumer sluis
 competitiepad
 competitieweg
-compierekade
-compi„®gnehof
+compi√®gnehof
 component
 componistenlaan
 componistenpad
+componistenplein
 componistensingel
 componistenstraat
 componistenweg
@@ -2514,13 +2480,14 @@ computerweg
 comriekade
 comtesselaan
 conakryweg
-concentratiekampen
+concentratie kampen
 concertgebouwplein
 concertlaan
 concertstraat
 concertweg
 concorde
 concordia
+concordiabrug
 concordiahof
 concordialaan
 concordiapad
@@ -2528,7 +2495,6 @@ concordiaplein
 concordiastraat
 concordiastrjitte
 concordiaweg
-concours
 concourslaan
 condensatorstraat
 condensatorweg
@@ -2541,10 +2507,9 @@ condorstraat
 condorweg
 conducteur
 conducteurhof
-cond„©straat
+cond√©straat
 conenweg
 conerij
-confectiestraat
 conference
 conferencelaan
 conferencepad
@@ -2554,7 +2519,7 @@ confuciushof
 confuciuskade
 confuciusplein
 confuciusstraat
-conf„©rencepad
+conf√©rencepad
 congregatie
 congregatiehof
 conifeer
@@ -2574,7 +2539,6 @@ connorstraat
 conny heijmansstraat
 conny stuartlaan
 conny stuartstraat
-conny vandenboshoek
 conollyweg
 conraadstraat
 conrad busken huethove
@@ -2593,7 +2557,7 @@ conradwerf
 conrardusstraat
 consciencelaan
 consciencestraat
-consci„´ntieplein
+consci√´ntieplein
 conservatoriumlaan
 conservenweg
 console
@@ -2604,7 +2568,6 @@ constablestraat
 constance gelderblomlaan
 constance gerlingsstraat
 constancestraat
-constant dietzstraat
 constant erzeijstraat
 constant nefkensstraat
 constant permekehof
@@ -2619,7 +2582,6 @@ constantijn huijgensstr
 constantijn huijgensstraat
 constantijn huygenslaan
 constantijn huygensplein
-constantijn huygensstr
 constantijn huygensstraat
 constantijn-eik
 constantijndreef
@@ -2628,7 +2590,6 @@ constantijnhof
 constantijnlaan
 constantijnplein
 constantijnstraat
-constantijnstraat
 constantijnweg
 constantinusstraat
 constantiuslaan
@@ -2636,19 +2597,18 @@ constantlaan
 constantsteeg
 constantstraat
 constanzapad
-constanzastraat
 constructiestraat
 constructieweg
 consulstraat
 consusstraat
 contact
 contactweg
+container exchange route
 containerweg
 contelmostraat
 contenderstraat
 content hofstede
 continentenlaan
-contoneasterstraat
 contour avenue
 contr' escarpe
 contrabas
@@ -2685,11 +2645,13 @@ coolsmahof
 coolsmalaan
 coolwagenhof
 coolwijkseweg
-coolwijksweg
 coomansstraat
+cooperplein
+coopertest
 coopmansstraat
 coopsstraat
 coorndijkstraat
+coornhertbrug
 coornhertdreef
 coornherthove
 coornhertkade
@@ -2704,9 +2666,7 @@ coosenhoekstraat
 coosje ayalstraat
 coosje buskenstraat
 cootje van raaihof
-coovelsstraat
 copenweg
-copepad
 copera
 copernicushof
 copernicuslaan
@@ -2718,6 +2678,7 @@ copiapo
 copierlaan
 copierstraat
 copijnlaan
+copinga wollerichstraat
 coppelenberg
 coppeliaschouw
 coppelstockstraat
@@ -2731,8 +2692,8 @@ coppersdelle
 coppershorn
 coppesdonk
 coppestraat
-coppierenkade
 copwijkseweg
+coq scheltensweg
 cor bremerstraat
 cor bruijnstraat
 cor bruijnweg
@@ -2742,6 +2703,7 @@ cor druifplein
 cor gehrelslaan
 cor geugjesstraat
 cor gordijnsingel
+cor hanekampstraat
 cor heijpad
 cor hermusstraat
 cor hilbrinkstraat
@@ -2750,6 +2712,7 @@ cor jongerthof
 cor keestraat
 cor kieboomplein
 cor klinkenbijlpad
+cor kuffelerstraat
 cor lemairestraat
 cor mellemalaan
 cor ruyshof
@@ -2762,7 +2725,7 @@ cor steijnstraat
 cor vaandragerveld
 cor van de meerstraat
 cor van der bokstraat
-cor van gaalenpad
+cor van kuffelerstraat
 cor van osnabruggelaan
 cor van weelehof
 cor vlotlaan
@@ -2773,6 +2736,7 @@ cora baltussen-allee
 coragestraat
 coranthijnestraat
 corantijn
+corantijnhof
 corantijnstraat
 corapad
 corbulokade
@@ -2786,6 +2750,7 @@ cordell hullplaats
 cordell hullstraat
 cordeschuit
 cordesstraat
+cordobastraat
 corduwenerstraat
 coreanna
 coreemarke
@@ -2813,10 +2778,10 @@ cormorantwerf
 corn. brogelmansstraat
 corn. trompglop
 corn. verolmeweg
-cornab„©park
+cornab√©park
+corneel heymanspad
 corneillelaan
 corneillestraat
-cornel
 cornelia beekmanhof
 cornelia de langelaan
 cornelia de langestraat
@@ -2824,11 +2789,14 @@ cornelia de langeweg
 cornelia de rijcklaan
 cornelia katzstraat
 cornelia moeslaan
+cornelia oosterhoornlaan
 cornelia schadeweg
 cornelia schefferlaan
 cornelia schellingerlaan
 cornelia van arkeldijk
 cornelia van arkelstraat
+cornelia van den sandestraat
+cornelia van reedt dortlandhof
 cornelia van zantenplein
 cornelia weertsemastraat
 cornelia wilbrenninckstraat
@@ -2871,12 +2839,10 @@ cornelis de grijshof
 cornelis de grootpad
 cornelis de houtmanlaan
 cornelis de houtmanplantsoen
-cornelis de houtmanstr
 cornelis de houtmanstraat
 cornelis de mooystraat
 cornelis de rooijpad
 cornelis de ruijterhof
-cornelis de vlamingstraat
 cornelis de vospad
 cornelis de vosplein
 cornelis de vriendtstraat
@@ -2897,7 +2863,6 @@ cornelis dopperlaan
 cornelis dopperstraat
 cornelis douwesstraat
 cornelis douwesweg
-cornelis douwlaan
 cornelis douwpad
 cornelis drebbelhof
 cornelis drebbelstraat
@@ -2912,7 +2877,6 @@ cornelis frankenstraat
 cornelis frederiksstraat
 cornelis g. dekkerstraat
 cornelis garritsenstraat
-cornelis geellaan
 cornelis geelvinckstraat
 cornelis gerritsz geusstraat
 cornelis groenlandstraat
@@ -2938,6 +2902,7 @@ cornelis joosstraat
 cornelis kagerlaan
 cornelis kanstraat
 cornelis kempenaarlaan
+cornelis ketelbrug
 cornelis ketelstraat
 cornelis koemanstraat
 cornelis koningstraat
@@ -2978,7 +2943,6 @@ cornelis roosstraat
 cornelis schellingerlaan
 cornelis schellingerstraat
 cornelis schipperplein
-cornelis schipperplein
 cornelis schoonstraat
 cornelis schuurmanhof
 cornelis schuytlaan
@@ -3003,7 +2967,6 @@ cornelis trompweg
 cornelis troostlaan
 cornelis troostplein
 cornelis trooststraat
-cornelis udenstraat
 cornelis udentsstraat
 cornelis van alkemadestraat
 cornelis van bergenstraat
@@ -3038,7 +3001,6 @@ cornelis van uitgeeststraat
 cornelis van vollenhovenstraat
 cornelis van vugtstraat
 cornelis van zwollaan
-cornelis vd werffstr
 cornelis verduijnstraat
 cornelis verheuvelstraat
 cornelis verhoevenstraat
@@ -3074,18 +3036,19 @@ corneliuslaan
 corneliusplein
 corneliusstraat
 cornelstraat
+corner
 cornetkade
 cornetpad
 cornetsingel
 cornetstraat
 cornewalstraat
-cornusbaan
+cornus
 cornusplantsoen
 cornwallhof
 cornwallplein
 cornwallstraat
-corn„©lie huygensstraat
-corn„©lus craayenbraaierpad
+corn√©lie huygensstraat
+corn√©lus craayenbraaierpad
 coromandelstraat
 corona
 coronaplein
@@ -3094,7 +3057,7 @@ coronaweg
 coronelstraat
 coroniestraat
 corpus
-correlj„©straat
+correlj√©straat
 corrente
 correzelaan
 corridor
@@ -3103,7 +3066,8 @@ corrie de grootsingel
 corrie hartonglaan
 corrie ten boomstraat
 corrie tendeloostraat
-corrie vonk pad
+corrie toelenstraat
+corrie van zwietenpad
 corrie vonkplantsoen
 corry besselingplantsoen
 corry brokkenstraat
@@ -3113,7 +3077,7 @@ corry vonk pad
 corry vonklaan
 corry vonkplantsoen
 corry vonkstraat
-cors rijkeweg
+cors rijkseweg
 corsica
 corsicalaan
 corsicanerweg
@@ -3122,15 +3086,14 @@ corsicaweg
 corso
 corsolaan
 corssenpolderstraat
+corstina kinneginstraat
 cort heyligersstraat
 cort v.d. lindenstraat
-cort van de lindenstraat
 cort van der lindenkade
 cort van der lindenlaan
 cort van der lindenpad
 cort van der lindenplantsoen
 cort van der lindenplein
-cort van der lindenstr
 cort van der lindenstraat
 cortbeemt
 cortembergstraat
@@ -3155,7 +3118,6 @@ cortgene
 cortgenehof
 cortinghlaan
 cortinghpoort
-corusplein
 corverlaan
 corversbos
 corversbospad
@@ -3165,6 +3127,7 @@ corverstraat
 corvus
 corweide
 corydastraat
+corylus
 coryluslaan
 cosijnstraat
 cosmariumstraat
@@ -3175,7 +3138,6 @@ cosseehof
 costa brava
 costa del sol
 costa ricadreef
-costa ricastraat
 costerij
 costerijweg
 costerijweye
@@ -3194,8 +3156,9 @@ cotherweg
 cotoneaster
 cotoneasterstraat
 cottessen
+cottesserweg
 cottierstraat
-cot„©laan
+cot√©laan
 couburgstraat
 couckelkamp
 coudenborch
@@ -3203,6 +3166,7 @@ coudenhoveflat
 coudenhovelaan
 coudenhovestraat
 coudevoort
+coudewater
 coudewijnstraat
 coudorp
 coudorps hofje
@@ -3228,12 +3192,12 @@ couperussingel
 couperusstraat
 couperusweg
 couperuswende
+coupeuse
 coupletweg
 coupmansstraat
 coupure
 coupurehof
-coup„©
-coup„©pad
+coup√©
 courante
 courbetstraat
 courgettepad
@@ -3241,21 +3205,20 @@ court-pendustraat
 courteniusstraat
 courtine
 courtinehof
+courtinepad
 courtinestraat
 courtoisstraat
 courtpendu
 courzandseweg
 cousinsstraat
-coutan„ßeslaan
+coutan√ßeslaan
 coutegats
-couv„©eplaats
+couv√©eplaats
 couwaelstraat
 couwatershoeve
 couwenberghstraat
 couwenbergstraat
 couwenburg
-couwenhoekpad
-couwenhoekseweg
 couwenhoven
 couwenhovenstraat
 couwervestraat
@@ -3265,25 +3228,25 @@ covellijndijk
 coventrystraat
 coventryweg
 covikseweg
+cowahof
 cox
 cox orangehof
 coxdonk
 coxhoorn
-coxhoornkade
 coxlaan
 coxsebaan
 coxstraat
 coxydeweg
 coymansstraat
 coyotestraat
+cozijnsenhof
 cozijnsenlaan
-co„Ømbrapad
-co„∂peratiehoek
-co„∂peratiehof
-co„∂peratielaan
-co„∂peratiepadtie
-co„∂peratiestraat
-co„∂peratieweg
+co√Ømbrapad
+co√∂peratiehoek
+co√∂peratiehof
+co√∂peratiepadtie
+co√∂peratiestraat
+co√∂peratieweg
 craaienhof
 craalweg
 craandijkstraat
@@ -3316,6 +3279,7 @@ cramerlaan
 cramerstraat
 cramerswegje
 cramerusstraat
+cramignon
 cramignonstraat
 cramwinckelplantsoen
 cranberrylaan
@@ -3334,22 +3298,25 @@ cransmate
 crapoel
 craslaan
 crassus
+crataegus
 craterlaan
 craubeekstraat
 craubekerstraat
 crauwveldweg
-craveel
 craveld
+craveldweg
 crayenbosch
 crayenesterlaan
 crayenesterpad
 crayenestersingel
+crayensteinpad
 crayensteynstraat
+creatiepad
+creatieveld
 creditonstraat
 creekenweg
 creekpad
 creel
-creemerhof
 creijenhoek
 creijtestraat
 creilerpad
@@ -3368,6 +3335,9 @@ crerarstraat
 crescendopad
 crescendostraat
 crescendoweg
+crescentdijk
+crescentpark
+crescentplas
 cressantlaan
 cretstraat
 creuselaan
@@ -3376,9 +3346,7 @@ creutzberglaan
 creutzbergstraat
 crevecoeur
 crevennapad
-creytestraat
-crezeepolder
-crez„©epolderweg
+crez√©epolderweg
 cricketpad
 cricketstraat
 cricketweg
@@ -3411,7 +3379,6 @@ crocusweg
 croeselaan
 croesenstraat
 croesestraat
-croesinck
 croesinckplein
 croessrak
 croevestraat
@@ -3432,7 +3399,6 @@ crommelinpad
 crommelinplein
 crommen camp
 crommenacker
-crommentuijnstraat
 crompvoetstraat
 cromsteven
 cromvliet
@@ -3460,12 +3426,11 @@ cronesteinkade
 cronesteinpad
 cronesteinstraat
 cronesteyn
-cronj)straat
-cronj‚østraat
-cronj„©laan
-cronj„©plein
-cronj„©straat
-cronj„©weg
+cronesteynbrug
+cronj√©laan
+cronj√©plein
+cronj√©straat
+cronj√©weg
 cronus
 croocklaan
 crooijmansweg
@@ -3477,6 +3442,7 @@ croonhoven
 croonpassage
 croonstadtlaan
 crooswijck
+crooswijk 15
 crooswijksebocht
 crooswijksekade
 crooswijksesingel
@@ -3506,7 +3472,6 @@ cruijsstraat
 cruisboomstraat
 cruisboomveld
 cruisboomveldweg
-cruisboomweg
 cruiseboulevard
 crullaan
 crullen weer
@@ -3539,8 +3504,9 @@ cruyshof
 cruythof
 cruzaat
 crynssenstraat
-cr„®mestraat
-cr„∂ddendijk
+cr√®mestraat
+cr√∂ddendijk
+cs-brug
 csardasstraat
 cuba
 cubadreef
@@ -3551,6 +3517,7 @@ cubbinghesteeg
 cueckentoren
 cuenenstraat
 cueperstraat
+cuijk 4
 cuijksedijk
 cuijksesteeg
 cuijkseweg
@@ -3559,6 +3526,8 @@ cuijlenburg
 cuilensmeer
 culekampseweg
 culemborg '67-pad
+culemborg 13
+culemborg ii
 culemborgse grintweg
 culemborgseweg
 culenborghstraat
@@ -3568,12 +3537,12 @@ culina
 cullinanplein
 cultus
 cultusplein
-cultuurhaven
 cultuurpad
 cultuursingel
 cultuurweg
 cumulus
 cumulusweg
+cumuluswolk
 cunegondestraat
 cunegondisstraat
 cunera van wahrenlaan
@@ -3583,21 +3552,21 @@ cuneralaan
 cunerastraat
 cuneratorenstraat
 cuneraweg
+cunet
 cunetstraat
 cuperinusstraat
 cuperstraat
 cuperusstrjitte
 cupidodreef
 cupidohof
-cuppenpedje
 curacaostraat
-cura„ßao
-cura„ßaolaan
-cura„ßaopad
-cura„ßaoplantsoen
-cura„ßaoplein
-cura„ßaostraat
-cura„ßaoweg
+cura√ßao
+cura√ßaolaan
+cura√ßaopad
+cura√ßaoplantsoen
+cura√ßaoplein
+cura√ßaostraat
+cura√ßaoweg
 curcumastraat
 cureestraat
 curia
@@ -3615,7 +3584,6 @@ curtevenneweg
 curtis
 curtisslaan
 curtiuslaan
-custersweg
 cuwaard
 cuwaartlaan
 cuwaertlaan
@@ -3633,7 +3601,6 @@ cuypersplantsoen
 cuypersweg
 cuypstraat
 cyclaamberg
-cyclaamflat
 cyclaamhof
 cyclaamrood
 cyclaamstraat
@@ -3659,7 +3626,6 @@ cypergrashof
 cypergrasweg
 cyperzegge
 cypres
-cypresbaan
 cypresgroen
 cypreslaan
 cyprespad
@@ -3682,17 +3648,16 @@ cyriasischepad
 czaar peterplantsoen
 czaar peterstraat
 czarinastraat
-c„É‚©sar francklaan
-c„©line klinkenberghstraat
-c„©line kuypersstraat
-c„©ramiquelaan
-c„©sar domelahof
-c„©sar francklaan
-c„©sar franckrode
-c„©sar franckstraat
-c„©zannehof
-c„©zannepassage
-c„©zannestraat
-c„≥rdobastraat
-c„∂rversplein
-c„∂rverstraat
+c√©line klinkenberghstraat
+c√©line kuypersstraat
+c√©ramiquelaan
+c√©sar domelahof
+c√©sar francklaan
+c√©sar franckrode
+c√©sar franckstraat
+c√©zannehof
+c√©zannepassage
+c√©zannestraat
+c√≥rdobastraat
+c√∂rversplein
+c√∂rverstraat

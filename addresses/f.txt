@@ -1,13 +1,11 @@
-f a wentstraat
+f
 f b deurvorststraat
 f c kuijperstraat
 f d rooseveltsingel
 f de vriendtstraat
 f h van kempenstraat
-f koolhovenstraat
 f v borselenweg
 f v eijkstraat
-f. a. wentstraat
 f. bordewijkhof
 f. bordewijkpad
 f. bordewijkstraat
@@ -31,7 +29,6 @@ f.a. van hallstraat
 f.a. warnerspad
 f.a. wentstraat
 f.a. wonninkstraat
-f.c. de courlaan
 f.c. de courtlaan
 f.c. de hossonstraat
 f.c. donderslaan
@@ -52,6 +49,15 @@ f.m. baudstraat
 f.m. boogaardweg
 f.v. valstarplantsoen
 f.w. reitzstraat
+f1
+f2
+f20
+f3
+f35
+f370
+f4
+f6
+faamlaan
 faamterrein
 faas eliashof
 faas eliaslaan
@@ -95,6 +101,7 @@ fabriplein
 fabristraat
 fabritiuslaan
 fabritiusstraat
+fabryksfeart
 fabryksleane
 fabryksloane
 fabrykswei
@@ -102,7 +109,6 @@ fabrystraat
 facet
 facetlaan
 factorij
-factorijstraat
 factorijweg
 faddegonstraat
 fadershofstee
@@ -129,13 +135,11 @@ fahrenheitstraat
 fahrenheitweg
 fahrheuslaan
 fair sea
-fairlandweg
 fairoaksbaan
 faisantenstraat
 faisanterie
 fakkelgras
 fakkelgrashof
-fakkelinderweg
 fakkellaan
 fakkelstede
 fakkelweg
@@ -144,7 +148,6 @@ faktorijpad
 falckstraat
 falconetruwe
 falconstraat
-faleriaan
 faleriolaan
 falernogaard
 falieberglaan
@@ -164,26 +167,31 @@ falstaffhof
 falstafflaan
 falstaffstraat
 falster
+falsterbrug
 falsterkade
 fam. broekemastraat
 fam. levitusstraat
 fam. schrijverstraat
 fam. valkstraat
+familie backerpad
 familie brillenburg wurthstraat
 familie bronsweg
 familie de marsplein
 familie de mollaan
-familie de mollaan
 familie doorzonstraat
+familie kleefsmanlaan
+familie van damlaan
 familie van der leerstraat
-familie van der weijstr
 familie van der weijstraat
+familie vinkelaan
 famylje leverstrjitte
 famylje tammingaleane
 fandango
+fanerhoek
 fanerweg
 fanfare
 fanfarehof
+fanfarepad
 fanfarestraat
 fanfaronweg
 fang
@@ -199,7 +207,7 @@ fanny blankers-koenplein
 fanny blankers-koenstraat
 fanny blankers-koenweg
 fanny durackstraat
-fantasiestrand
+fanny mendelssohnstraat
 faradaypad
 faradaystraat
 faradayweg
@@ -207,11 +215,14 @@ faramir
 faraodreef
 faraostraat
 farebuorren
+farensbach hof
 farflerpad
 farin
 farman
 farmanlaan
 farmanstraat
+farmsum
+farmsumerhof
 farmsumerweg
 farmsumerzijl
 farniastate
@@ -224,7 +235,6 @@ fasantenlaan
 fascinatio boulevard
 fassbinderstraat
 father raatgerstraat
-fatima al-fihriyaweg
 fatimahof
 fatimalaan
 fatimaplein
@@ -245,13 +255,12 @@ faunaweg
 faunushof
 faunuslaan
 faurestraat
-faur„©straat
+faur√©straat
 faustdreef
 faustlaan
 fausto coppipad
 faustpad
 fauststraat
-faverollelaan
 favrestraat
 fazant
 fazantberg
@@ -286,7 +295,6 @@ fazantlaan
 fazantlande
 fazantpad
 fazantplein
-fazantsstraat
 fazantstraat
 fazantweg
 fazendadreef
@@ -296,21 +304,19 @@ feanborch
 feandistrikt
 feandyk
 feanhout
-feanh„∫sterpaad
-feanh„ªsterpaad
+feanh√∫sterpaad
 feansterdyk
 feanterij
 feantersdyk
-fearh„ªshoeke
+fearh√ªshoeke
 fearn
 feart
 feartsichtwei
 feartspaad
 feartswei
-feartsw„¢l
+feartsw√¢l
 februariplantsoen
 februariplein
-februaristaking
 februaristraat
 feckengeste
 fectiopad
@@ -323,16 +329,17 @@ fedde schurerwei
 feddemastate
 feddemaweg
 federico fellinistraat
+fedor van kregtentunnel
 fedoralaan
 feenselweg
 feenstraweg
 feersma hoekstrastrjitte
 feerwerdpad
-feestdans
-feestl„¢n
+feestl√¢n
 fehrman belt
 feie van inthiemastraat
 feije van heemstrasingel
+feijenoord 24
 feijenoorddijk
 feijenoordhaven
 feijenoordkade
@@ -365,7 +372,7 @@ feldwerd
 feldwerderweg
 feliciadal
 felicie hayestraat
-felicit„©straat
+felicit√©straat
 felisgats
 felix blochpad
 felix bockenplein
@@ -392,6 +399,7 @@ fellenoordpad
 fellenoordstraat
 felling
 fellingen
+fellingenpaad
 fellingswei
 fellinilaan
 fellinistrook
@@ -399,13 +407,13 @@ fellowshiplaan
 felspad
 felsumerleane
 felualaan
-felvostraat
 femina mullerpad
 femina mullerstraat
 fenacoliuslaan
 fenacoliusplein
 fender
 fenikshof
+fenisserbrug
 fenixhof
 fenixlaantje
 fenkelstraat
@@ -418,7 +426,9 @@ fennewei
 fenny de soet-ten boschdreef
 fenny ten boschstraat
 fenteler
+fentener v vlissingenln
 fentener van vlissingenkade
+fentener van vlissingenlaan
 ferbiningspaad
 ferdinand biesselshof
 ferdinand boersmastraat
@@ -430,16 +440,16 @@ ferdinand bolplein
 ferdinand bolstraat
 ferdinand bolweg
 ferdinand bordewijkstraat
-ferdinand huyckburg
+ferdinand fransen rotonde
 ferdinand huycklaan
 ferdinand huyckstraat
+ferdinand i straat
 ferdinandstraat
 ferdinandus gomes alemanstraat
 ferdinant spitstraat
 fereniuspad
 ferfstraat
 ferguutgaarde
-ferguutpad
 ferguutplaats
 ferguutstraat
 ferlemanstraat
@@ -449,6 +459,7 @@ fermanjepaad
 fermanplantsoen
 fermatestraat
 fermentatiestraat
+fermesse
 fermiweg
 fermoor
 fernandelstraat
@@ -472,8 +483,8 @@ ferry portierstraat
 ferry wiennekestraat
 ferry-oversteegenhof
 fertillonpad
-ferwerderweg
 ferwouderpad
+festina lente
 festing
 festivalplein
 festivalweg
@@ -484,14 +495,14 @@ fetha
 fetsasingel
 fetsewei
 fetterstraat
+feuchtervoetpad
 feurtherpoort
 feurthstraat
 feytahof
 feytebuorren
-feytsmah„¥f
+feytsmah√¥f
 feytsmastraat
 feytsmastrjitte
-fh gasaustraat
 fhg v itersonlaan
 fianen
 fianestraat
@@ -499,6 +510,7 @@ fibigerstraat
 fibonaccilaan
 fibrillendonk
 fibula
+fibulabrug
 fibulaestraat
 fibulapad
 fibulastraat
@@ -510,7 +522,6 @@ ficushof
 ficusstraat
 fidelio
 fideliodreef
-fideliohof
 fideliolaan
 fideliopad
 fidelioschouw
@@ -535,42 +546,75 @@ fien de la marstraat
 fien de la martuin
 fien van dusseldorphof
 fientje brouwersstraat
+fientje mooreeshof
 fiep westendorplaan
 fiep westendorppad
 fiep westendorpplein
 fiep westendorpstraat
 fiera
 fierlandtstraat
-fiestenstalling
+fiets/voetpad hekendorp
+fietsa versa
+fietsbrug boschkampbrug
+fietsbrug matena
 fietsenmaker
-fietsenstalling brouwerstraat
-fietsenstalling esplanade
-fietsenstalling hospitaaldreef
-fietsenstalling schrijverstraat
-fietsenstalling stadhuispromenade
-fietsmolen
+fietspad
+fietspad 18
+fietspad 2000
+fietspad 2020
+fietspad 2040
+fietspad 2090
+fietspad 2120
+fietspad 2140
+fietspad 2150
+fietspad 2190
+fietspad 2250
+fietspad 2260
+fietspad 2270
+fietspad 2280
+fietspad 58
+fietspad 68
+fietspad 69
+fietspad a15
+fietspad a16
+fietspad a27
 fietspad a50 oost
 fietspad a50 west
 fietspad baanhoek
 fietspad bonteweg
 fietspad boschmolenplas
-fietspad langs de donge
+fietspad duinweg
+fietspad durg gouw bloem gouw
+fietspad havenweg-westhoekweg
+fietspad hereweg-brouwerijweg
+fietspad langeveld
 fietspad langs den engel
 fietspad langs kanaal
+fietspad langs regge
 fietspad leekstermeer
+fietspad luyendijk
 fietspad maasbrug
+fietspad n3
 fietspad oostzijde rondweg
 fietspad overkampweg
+fietspad randweg
+fietspad spoorbrug
+fietspad term gouw buiksl mdk
+fietspad vlissingen zouteland
+fietspad westkapelle-zoutelan
 fietspad westzijde rondweg
+fietspad wormerp oostz rijweg
+fietspad zeilmaker plankenpad
 fietspaden leerke ven
-figaro
+fietssnelweg f35
+fietstunnel
 figarolaan
 figaropad
 figarostraat
 fiifgeawei
 fiifhoeke
 fiifhuzen
-fiifh„∫s
+fiifh√∫s
 fijanerf
 fijenhof
 fijistraat
@@ -581,11 +625,12 @@ fijnje van salverdastraat
 fijnjekade
 fijnscheerderstraat
 fijnsparweg
-fikarijh„¥f
 fikarusleane
 filarskiweg
+fileerderij
 filenserwei
 fili
+filigraan
 filigraandonk
 filipijnen
 filipijnenstraat
@@ -593,34 +638,32 @@ filips de goedebaan
 filips de goedelaan
 filips de goedestraat
 filips van almondestraat
-filips van bourgondi„´laan
-filips van bourgondi„´straat
+filips van bourgondi√´laan
+filips van bourgondi√´straat
 filips willemstraat
 filipslaan
 filipsstraat
 filipstraat
 filipsweistraat
 filmlaan
-filomeentje erf
 filosofenlaantje
 filosofenpad
-filosofentuin
-fin?straat
-finantien
-finanti„´n
+filosofenpark
+filosoficum
+filterhuispad
+finanti√´n
 findelstraat
 fineerzaag
 finefrau
 finestraat
-finist„®relaan
+finist√®relaan
 finkebuorren
 finkeburen
-finkenfl„ºgelstraat
-finkep„¥lle
+finkenfl√ºgelstraat
+finkep√¥lle
 finkewei
 finkstrjitte
 finlandia
-finlandlaan
 finlandpad
 finlandplantsoen
 finlandplein
@@ -638,12 +681,10 @@ finnewei
 finnjolstraat
 finnmark
 finse golf
-finse golf
 finse mark
 finsehof
 finsenstraat
 finsestraat
-finseweg
 finsponglaan
 finsterbuorren
 finsterwoldepad
@@ -651,7 +692,7 @@ fint
 fintplantsoen
 fintstraat
 fintwater
-fin„©straat
+fin√©straat
 fiolenkamp
 fiolierenstraat
 fioringras
@@ -662,7 +703,6 @@ firapeelstraat
 firenschatstraat
 firensstraat
 firmamentlaan
-firmapad
 firmawei
 firststraat
 fischerpad
@@ -671,6 +711,7 @@ fischerstraat
 fiseliersplein
 fiskbuorren
 fiskbuorsterwei
+fiskerleane
 fiskersbuorren
 fiskerspaad
 fiskerspaed
@@ -686,7 +727,6 @@ fitislaan
 fitispad
 fitissingel
 fitisstraat
-fitiszoom
 fitnesspad
 fitselsteeg
 fitterij
@@ -709,7 +749,7 @@ fivelpad
 fivelpoort
 fivelstraat
 fivelweg
-fiversh„¥f
+fiversh√¥f
 fizeaustraat
 fjelddal
 fjellingsreed
@@ -721,9 +761,8 @@ fjildpaad
 fjildwei
 fjord
 fjorddal
-fjordenpad
-fjouwerh„ªs
-fj„ªrl„¢nswei
+fjouwerh√ªs
+fj√ªrl√¢nswei
 flaaiel
 flaaks-ikker
 flaaksikkers
@@ -741,6 +780,7 @@ flaemske banken
 flait
 flakenpad
 flakkee
+flakkee boulevard
 flakkeesestraat
 flakkeestraat
 flakkeeweg
@@ -765,10 +805,8 @@ flankement
 flankeurspoort
 flankstraat
 flanorpad
-flardingaplein
 flat de vlasmeer
 flat hoog moersbergen
-flatusstraat
 flaviadonk
 flavius
 flaviusstraat
@@ -777,6 +815,7 @@ flavusplaats
 fleardyk
 flearen
 flecht
+fledderbergweg
 fledderbosweg
 fledderusplan
 fledderusstraat
@@ -798,7 +837,6 @@ fleminglaan
 flemingpad
 flemingplein
 flemingstraat
-flemingweg
 flemminghof
 flensburg
 flensburghof
@@ -823,39 +861,39 @@ fletcher hendersonstraat
 flettine
 fleuerweg
 fleur
+fleurakker
 fleurberg
 fleurkesweg
-fleursstraat
 fleurstraat
 fleurtendijk
 fleuweweg
 flevo
 flevo-oord
+flevobrug
 flevodwarsweg
-flevogarage
 flevohof
 flevolaan
 flevoland
-flevolander
 flevolanderstraat
 flevolandhof
 flevolandlaan
 flevolandstraat
 flevomeer
 flevopad
+flevopark
 flevoparkweg
 flevoplantsoen
 flevoplein
 flevosingel
 flevostraat
 flevotrap
-flevotuinen
 flevoweg
 flier
 flieraijseweg
 flierakkers
 flierbeekpad
 flierbeeksingel
+flierbosch
 flierbosdreef
 flierderweg
 flierdijk
@@ -870,13 +908,11 @@ fliersdijk
 fliersteeg
 flierstraat
 fliertse beekstraat
-fliertsepad
 fliertsestraat
 fliertseweg
 fliertweg
 flieruilensteeg
 flierveld
-fliervelddwarsweg
 flierveldsweg
 flierveldweg
 flierweg
@@ -926,6 +962,7 @@ floradreef
 floraheem
 florahoek
 florahof
+floraholland
 florahove
 florakade
 floralaan
@@ -941,13 +978,13 @@ floraparkstraat
 floraparkweg
 floraplantsoen
 floraplein
-floraring
 floraronde
 florasingel
 florastate
 florastraat
 floraweg
 florazoom
+floreen
 floreentsien
 floreffestraat
 florenbeemden
@@ -956,11 +993,11 @@ florence nightingalelaan
 florence nightingalestr
 florence nightingalestraat
 florence nightingaleweg
+florence pricehof
 florencelaan
 florencestraat
 florens radewijnsstraat
 florens radewijnszstraat
-florens van brederodelaan
 florens van brederodestraat
 florentialaan
 florentijnplein
@@ -984,10 +1021,8 @@ florianusstraat
 floribertusstraat
 floridadreef
 floridalaan
-floridaplein
 floridastraat
 floridastroom
-floridaweg
 floridus campuslaan
 florietdijk
 florijn
@@ -1004,11 +1039,12 @@ florinstraat
 floris arntzeniusplein
 floris arntzeniusstraat
 floris balthasarstraat
-floris burgwal
 floris de vijfdelaan
 floris de voogdstraat
 floris grijpstraat
 floris heermalestraat
+floris klooswerf
+floris meydamstraat
 floris radewijnsstraat
 floris radewijnszstraat
 floris schoutenstraat
@@ -1081,13 +1117,14 @@ fluitekruidveld
 fluitekruidweg
 fluitekruidweide
 fluitekruidzoom
+fluitenberg 27
 fluitenbergseweg
 fluitenbergseweg-oost
 fluitenbergstraat
 fluitenkruid
 fluitenkruiderf
 fluitenkruidhof
-fluiterlaan
+fluitenkruidpad
 fluiterpad
 fluiters
 fluitersdreef
@@ -1108,6 +1145,7 @@ fluorietweg
 fluorweg
 fluppehofje
 fluterd
+fluttert
 fluunsepad
 fluunseweg
 fluvia
@@ -1128,7 +1166,7 @@ fluytschip
 fluytstraat
 fluzistraat
 flying dutchmanstraat
-fl„¢nsum
+fl√¢nsum
 fnidsen
 foarbuorren
 foarein
@@ -1196,6 +1234,7 @@ fokkebroekweg
 fokkemast
 fokkenkampseweg
 fokkeplein
+fokkerhoekse tiend
 fokkerhof
 fokkerkade
 fokkerlaan
@@ -1213,7 +1252,7 @@ fokkingeslag
 fokkingshof
 fokkinkweg
 fokko kortlanglaan
-fokmast
+fokko van der heidepad
 foksdiep
 foksegatten
 foksepaad
@@ -1238,16 +1277,14 @@ folkert poststraat
 folkert roosjenstraat
 folkert tolsmastrjitte
 folkert van der gaaststraat
-folkertsgr„™ft
-folkertsl„¢n
+folkertsgr√™ft
+folkertsl√¢n
 folkertsstraat
 folkingedwarsstraat
 folkingestraat
 folkloreweg
 folkloriada
-folkmarstraat
 folkstoneweg
-folpert i straat
 folpert van ter leedestraat
 folsgaarsterhemstraat
 folsgearsterleane
@@ -1258,12 +1295,13 @@ fonder
 fonejacht
 fongerspad
 fongersplaats
-foni„´lsweg
+foni√´lsweg
 fonkel
 fonkelrood
 fons bergerstraat
 fons hardenbergstraat
 fons olterdissenstraat
+fons rademakerspark
 fons van der heijdenstraat
 fontainebleaulaan
 fontanalaan
@@ -1292,9 +1330,7 @@ fonteinwater
 fonteinwei
 fontenellestraat
 fonterbuorren
-fonterstraat
 fonteynenburghlaan
-fontijnehof
 fooijerpad
 fop i. brouwerhof
 fop smitstraat
@@ -1306,7 +1342,7 @@ foppenplaskade
 foppenpolder
 foppenpolderpad
 foppingadreef
-fopzwampad
+forbiningswei
 forcadentstraat
 forclazpas
 fordstraat
@@ -1314,7 +1350,6 @@ fordweg
 foreest
 foreestensteeg
 foreestpad
-foreeststraat
 forel
 forelborch
 forelgracht
@@ -1362,16 +1397,15 @@ fort
 fort aalsmeerstraat
 fort abcoudestraat
 fort alexanderstraat
-fort asperen
 fort blauwkapel
 fort blauwkapelhof
 fort blauwkapelstraat
 fort brigittestraat
 fort de gagel
-fort de roovere
 fort de roverweg
 fort de ruyterweg
 fort den haakweg
+fort diemerdamplein
 fort diemerdamstraat
 fort ferdinandusweg
 fort forelstraat
@@ -1379,26 +1413,30 @@ fort geldersoord
 fort heemstedestraat
 fort henricusweg
 fort hinderdamstraat
-fort honswijk
 fort jutphaas
 fort kijk in de potstraat
+fort krayenhoff
 fort moermont
 fort nassau
+fort nieuwersluislaan
+fort nieuwersluispark
+fort nieuwersluissingel
+fort nieuwersluisstraat
 fort oranje
 fort oranjestraat
 fort oriental
 fort orthenlaan
 fort pinsenweg
-fort pinssen
 fort prins willem
 fort rhijnauwenhof
 fort rhijnauwenstraat
-fort rijnauwen
+fort ronduitkade
+fort ronduitlaan
+fort ronduitstraat
 fort ruigenhoek
 fort sanderbout
 fort sint michielstraat
 fort uithoornstraat
-fort vechten
 fort veldhuissingel
 fort voordorphof
 fort voordorplaan
@@ -1454,19 +1492,16 @@ fortwachter
 fortweg
 fortwijk
 fortwoning pampus
-fort„∫n
+fort√∫n
 forum
 forumpad
-forumtrap
-for„™tweg
-fosfaatkade
+for√™tweg
 fosfaatweg
 fosforstraat
 fossa
 fossa hispanica
 fossa iberica
 fossa italica
-fossapad
 fossastraat
 fossema
 fossemaheerd
@@ -1486,19 +1521,18 @@ foudering
 foudgumerwei
 foulkeslaan
 foulkesstraat
-foundenswei
 fouragehaven
 fourieweg
-fout
 fouw
 foxel
 foxham
 foxheuvelstraat
-foxl
+foxhol 40
 foxpad
 foxtrot
 foxtrotstraat
 foxwoldestraat
+fp rapenburgseweg-koekoeksweg
 fr. nanningstraat
 fraamklapsterweg
 fraamweg
@@ -1525,17 +1559,19 @@ frambozestraat
 franc
 franchimontlaan
 francien de zeeuwhof
+francien de zeeuwpromenade
 francijntje de boersingel
 francijntje de kadtlaan
 francina molen
 francina spoelstraat
 francis baconstraat
 francis beaufortlaan
+francis drakebrug
 francis picabiastraat
+francisca duartestraat
 francisca hoeve
 franciscahof
 franciscanenborch
-franciscanenlaan
 franciscanenplaats
 franciscanenstraat
 franciscanerhof
@@ -1547,7 +1583,6 @@ franciscanessenpad
 franciscanessenplein
 franciscanessenstraat
 franciscanessenweg
-franciscastraat
 francisco faleirostraat
 francisco goyastraat
 francisco pizarrostraat
@@ -1555,7 +1590,7 @@ franciscus claessenstraat
 franciscus dondersstraat
 franciscus romanusweg
 franciscus sonniusstraat
-franciscus van assisi„´laan
+franciscus van assisi√´laan
 franciscus van de reijdtlaan
 franciscus van sales hof
 franciscus xaveriuspad
@@ -1572,14 +1607,14 @@ franckenastraat
 franckenberg
 francklaan
 franckstraat
-francois de veijestraat
 francois erenshove
-francois ryckhalspad
+francois viadukt
+franeker 20
 franekereind
+franekereindbrug
 franekerhoeve
 franekerkade
 franekerlaan
-franekerpad
 franekerstraat
 franekertrekvaart
 franekervaart
@@ -1595,6 +1630,7 @@ frank en vrijhof
 frank goversstraat
 frank hoeckellaan
 frank koulensteeg
+frank martinus arionpad
 frank martinus arionstraat
 frank santmanstraat
 frank sinatraplein
@@ -1608,7 +1644,6 @@ frank van borsselenstraat
 frank van der goesstraat
 frank van hulsentoplaan
 frank wentinkplein
-frank zappaplein
 frank zappastraat
 frankate
 franke deddenstraat
@@ -1621,11 +1656,11 @@ frankenbocht
 frankenburg
 frankenburgsingel
 frankendaal
+frankendaal 117
 frankendaalstraat
 frankendal
 frankeneng
 frankenerf
-frankengaarde
 frankenhof
 frankenhofweg
 frankenhorst
@@ -1655,13 +1690,16 @@ frankestraat
 frankethaler
 frankfurtstraat
 frankhof
+frankhuisbrug
 frankhuisweg
 frankhuizerallee
 frankhuizerpad
 frankische driehoek
 franklin d rooseveltlaan
+franklin d. rooseveltlaan
 franklin d. rooseveltln
 franklin hoevens tunnel
+franklin hoevenstunnel
 franklin rooseveltlaan
 franklinhage
 franklinpad
@@ -1673,7 +1711,6 @@ frankrijkdreef
 frankrijkerlaan
 frankrijkkade
 frankrijklaan
-frankrijkpark
 frankrijkrotonde
 frankrijkstraat
 frankrijkweg
@@ -1688,7 +1725,6 @@ frans bastiaansestraat
 frans beijerstraat
 frans bekersstraat
 frans bekkerstraat
-frans bordewijkstraat
 frans broosstraat
 frans bultstraat
 frans campmanweg
@@ -1711,8 +1747,10 @@ frans everstijnstraat
 frans fennishof
 frans fouraschenstraat
 frans fransenstraat
+frans goedhartstraat
 frans hals
 frans halsemaplein
+frans halserf
 frans halshage
 frans halshof
 frans halskade
@@ -1735,7 +1773,6 @@ frans joseph van thielpark
 frans kellendonkstraat
 frans knaapenstraat
 frans kragtstraat
-frans kuijpersstraat
 frans kuypersstraat
 frans l. blomlaan
 frans laarmansstraat
@@ -1753,12 +1790,10 @@ frans michelsstraat
 frans molstraat
 frans mortelmansstraat
 frans naerebouthof
-frans naereboutrede
 frans naereboutstraat
 frans netscherlaan
 frans netscherstraat
-frans outpassage
-frans pi„´tstraat
+frans pi√´tstraat
 frans poststraat
 frans rietveldpad
 frans robbelaan
@@ -1795,11 +1830,10 @@ frans van waesberghestraat
 frans verpoortenstraat
 frans visscherstraat
 frans walkatehof
-frans woltersstraat
 frans zeilemakerstraat
-frans zieglerstraat
 frans zwaanstraat
 fransche brug
+franschebrug
 franschenland
 franschesteeg
 franschestraat
@@ -1810,13 +1844,12 @@ franse frank
 franse hoef
 franse kampweg
 franse kerkstraat
-franse pad
+franse leliehof
 franse pad
 franse patersstraat
 franse schans
 franse sortie
 franse steeg
-franse tuin
 fransebaan
 fransekade
 fransekampweg
@@ -1848,38 +1881,39 @@ franz kafkastraat
 franz kafkaweg
 franz leharplein
 franz leharstraat
-franz leh„°rlaan
-franz leh„°rpark
-franz leh„°rsingel
+franz leh√°rlaan
+franz leh√°rpark
+franz leh√°rsingel
 franz lisztlaan
 franz lisztstraat
 franz schubertlaan
 franz schubertstraat
-franz von supp„©hof
-franz von supp„©straat
+franz von supp√©hof
+franz von supp√©straat
 franz zieglerstraat
 franz-lisztplantsoen
-fran„ßois aragostraat
-fran„ßois ballochilaan
-fran„ßois brandthof
-fran„ßois de veijestraat
-fran„ßois haverschmidtlaan
-fran„ßois haverschmidtwei
-fran„ßois houttijnshof
-fran„ßois maelsonstraat
-fran„ßois mauriaclaan
-fran„ßois mauriacweg
-fran„ßois nivardstraat
-fran„ßois ryckhalspad
-fran„ßois valentijnstraat
-fran„ßoise de lanoistraat
-fran„ßoise le poolestraat
-fran„ßoise van luxemburglaan
-fran„ßoise van savoyetoren
+fran√ßois aragostraat
+fran√ßois ballochilaan
+fran√ßois brandthof
+fran√ßois de veijestraat
+fran√ßois haverschmidtlaan
+fran√ßois haverschmidtwei
+fran√ßois houttijnshof
+fran√ßois maelsonstraat
+fran√ßois mauriaclaan
+fran√ßois mauriacweg
+fran√ßois nivardstraat
+fran√ßois ryckhalspad
+fran√ßois valentijnstraat
+fran√ßoise de lanoistraat
+fran√ßoise le poolestraat
+fran√ßoise van luxemburglaan
+fran√ßoise van savoyetoren
 frascatilaan
 frater adrianusstraat
 frater celestinusstraat
 frater j.m. reijndersstr
+frater j.m. reijndersstraat
 frater leonardistraat
 frater mattheushof
 frater paulussehof
@@ -1902,7 +1936,7 @@ freark damwei
 fred bantinglaan
 fred lunstroolaan
 fred petterbaan
-fred rack„©plaats
+fred rack√©plaats
 fred raymondhof
 fred raymondpad
 fred veldhuizenpad
@@ -1910,14 +1944,15 @@ fred waltonlaan
 fred. roeskestraat
 fred. thomasstraat
 freddie mercuryhof
-freddie oversteegen
 freddie oversteegenstraat
 freddy speijerpad
 freddy van riemsdijkweg
+freddy walvischpad
 frederic stroekenstraat
-frederica van schaickstraat
 frederica zeijdelaarweg
 frederica's hof
+frederick ashtonsteeg
+frederick bantingstraat
 frederick g. hopkinsweg
 frederick hopkinshof
 fredericusstraat
@@ -1948,7 +1983,6 @@ frederik van dorpstraat
 frederik van eedenhove
 frederik van eedenlaan
 frederik van eedenpad
-frederik van eedenplaats
 frederik van eedenplein
 frederik van eedenstraat
 frederik van eedenweg
@@ -1962,6 +1996,7 @@ frederikastraat
 frederikaweg
 frederikbastion
 frederikdwarsstraat
+frederike meyboomweg
 frederikhof
 frederiklaan
 frederikplein
@@ -1979,7 +2014,6 @@ frederikspark
 frederiksplein
 frederikspolderstraat
 frederiksstraat
-frederikstraat
 frederikstraat
 frederiksveld
 frederiksweg
@@ -2002,7 +2036,6 @@ freesialaan
 freesiapad
 freesiaplein
 freesiastraat
-freesiaweg
 fregat
 fregatberg
 fregathof
@@ -2015,7 +2048,7 @@ fregatwal
 fregatweg
 fregatwerf
 fregelaan
-freiah„¥f
+freiah√¥f
 freibergstraat
 freijaholm
 freijapad
@@ -2025,6 +2058,7 @@ frenkelerf
 frenkelpad
 frenkenbaan
 frenkensweg
+frenkenzijbaan
 frensdorferweg
 frensensteeg
 frenspad
@@ -2032,7 +2066,6 @@ frerikshof
 frerikshuislaan
 frerikspad
 freriksweg
-fresco
 frescobaldistraat
 fresia
 fresiadreef
@@ -2054,6 +2087,7 @@ frettenburg
 frettenpad
 fretweide
 freudstraat
+freule berkhoutstraat
 freule claralaan
 freule hartsenplein
 freule helenastraat
@@ -2064,7 +2098,6 @@ freule van wassenaarstraat
 freule van wassenaerlaan
 freule wttewaall van stoetwegensingel
 freule wttewaalpad
-freule-claralaan
 freulebosje
 freulelaantje
 freuleleane
@@ -2074,8 +2107,10 @@ freulesingel
 freulestrjitte
 freulewei
 freya
+freyabrug
 freyjaplantsoen
 freyssinetlijn
+frezerij
 fricoweg
 frida heilstraat
 frida kahlopad
@@ -2098,13 +2133,15 @@ friedhoffpad
 friedhoffplantsoen
 friedhoffstraat
 friedrich engelsstraat
-friedrich fr„∂belstraat
+friedrich fr√∂belstraat
 friedrich schillerhof
+friedrich schroderhof
 frielinkstraat
 friendshipring
 fries
 friesburg
 friesche vlaak
+frieschepalen 31
 friescheweg
 friese golfjes
 friese schouw
@@ -2118,10 +2155,12 @@ friese vlaak
 friese woudenlaan
 friesebuurt
 friesegracht
+friesegrachtpark
 frieselaan
 friesenburgstraat
 friesendorpstraat
 friesepad
+friesepalen 31
 friesepoort
 friesesteeg
 friesestraat
@@ -2144,7 +2183,6 @@ frieswijkerweg
 frieswijkstraat
 friets ploumstraat
 friezenburg
-friezengaarde
 friezenhorst
 friezenkampstraat
 friezenlaan
@@ -2158,7 +2196,7 @@ frijbuorren
 frijdastraat
 frijgang
 frijnheuvel
-frijst„™d
+frijst√™d
 frijtumerweg
 frik
 frima steenhuis
@@ -2171,16 +2209,15 @@ frisianapad
 frisiaplein
 frisiasingel
 frisiastate
-frisiaterrein
 frisiusschans
 frisiusstrjitte
 friso van hoornpad
-friso van hoornstraat
 frisodonk
 frisodreef
 frisohof
 frisolaan
 frisopad
+frisopark
 frisoplein
 frisostraat
 frisostrjitte
@@ -2197,6 +2234,7 @@ frits de zwerverhove
 frits de zwerverlaan
 frits diepenlaan
 frits drijverstraat
+frits holten plein
 frits juliushof
 frits koolhovenweg
 frits kruitstraat
@@ -2218,6 +2256,7 @@ frits vogelstraat
 frits zernikelaan
 frits zernikeplein
 frits zernikestraat
+frits zernikeweg
 frittemaleane
 frittemastate
 frittemastraat
@@ -2229,6 +2268,7 @@ fritz hirschpad
 fritz kreislerhof
 fritz langstraat
 fritz langstrook
+fritz polakpad
 frjentsjerterdyk
 frjentsjerterein
 frjentsjerterpaed
@@ -2244,28 +2284,28 @@ fromberg
 frombergdwarsstraat
 frombergerweg
 frombergstraat
-fronemanstraat
 fronhovenweg
 frontenpad
 frontensingel
 frontinus
 frontlijn pad
-frontlijn pad/ frontline path
 frontonstraat
 frontoweg
+frontploeg
 frontrotstraat
 frontstraat
 froonacker
 froonackerdyk
 froonkuilsweg
-froskep„¥lle
+froskep√¥lle
+frouck ammamapaad
 froukemaheerd
+froukje wartenaweg
 frousleane
-frouwes„¢n
+frouwes√¢n
 froweinstraat
 fructuslaan
 fruinlaan
-fruinpad
 fruinplantsoen
 fruinstraat
 fruitdoel
@@ -2277,6 +2317,7 @@ fruithoeve
 fruithof
 fruithofstraat
 fruitier de talmaweg
+fruitkisthof
 fruitlaan
 fruitmarkt
 fruitpad
@@ -2292,16 +2333,16 @@ frumarcostraat
 fryhofke
 frymerson
 fryske dyk
-frysl„¢nplein
-fr„¢nskeleane
-fr„© cohenlaan
-fr„© cohenstraat
-fr„© dommissehof
-fr„©deric de ramlaan
-fr„©jushof
-fr„∂bellaan
-fr„∂belsteeg
-fr„∂belstraat
+frysl√¢nplein
+fr√¢nskeleane
+fr√© cohenlaan
+fr√© cohenstraat
+fr√© dommissehof
+fr√©deric de ramlaan
+fr√©jushof
+fr√∂bellaan
+fr√∂belsteeg
+fr√∂belstraat
 fuchsia
 fuchsiaberg
 fuchsiadal
@@ -2327,7 +2368,6 @@ fuikpad
 fuikstraat
 fuikvaartweg
 fuikweg
-fukkertweg
 fukkinkweg
 fuksiastraat
 fulcopad
@@ -2347,8 +2387,8 @@ funen
 funenbrug
 funenkade
 funenpark
-funke k„ºpperplantsoen
-funke k„ºpperstraat
+funke k√ºpperplantsoen
+funke k√ºpperstraat
 funkelweideweg
 funs reijnenplein
 fuormanderij
@@ -2361,6 +2401,7 @@ furmerusstraat
 furniusstraat
 fuseliersstraat
 fustmarkt
+fustmeester
 fustpad
 fustweg
 futendreef
@@ -2368,7 +2409,6 @@ futeneiland
 futenhorst
 futenlaan
 futenpad
-futenstraat
 futenweg
 futenweide
 fuukweg
@@ -2382,24 +2422,23 @@ fuutlaantunnel
 fuutmesschen
 fuutpad
 fuutstraat
-fuutstrand
 fuutwaard
 fuutweg
+fynaart 24
 fyns
 fysicabaan
-f„¢ldenserwei
-f„∂hn
-f„ªgeldyk
-f„ªgelikkers
-f„ªgelkamp
-f„ªgelleane
-f„ªgelliet
-f„ªgelpaad
-f„ªgelsang
-f„ªgelsangleane
-f„ªgelweide
-f„ªkepaed
-f„ªns
-f„ºrglerplein
-f„ºrstenauerstraat
-f„ºrstenbergstraat
+f√¢ldenserwei
+f√∂hn
+f√ªgeldyk
+f√ªgelikkers
+f√ªgelkamp
+f√ªgelleane
+f√ªgelliet
+f√ªgelpaad
+f√ªgelsang
+f√ªgelsangleane
+f√ªgelweide
+f√ªkepaed
+f√ªns
+f√ºrglerplein
+f√ºrstenauerstraat

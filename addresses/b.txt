@@ -1,16 +1,12 @@
 b
 b dijk
-b k van den bergstrjitte
-b v treslongplein
 b van beaumontstraat
 b-c pad
-b-weg
 b. assenweg
 b. de roijstraat
 b. gerritsenstraat
 b. haitzemastraat
 b. hurenkampstraat
-b. k. bosmaplein
 b. kuiperweg
 b. meenweg
 b. merkelbachsingel
@@ -18,7 +14,6 @@ b. merkelbachstraat
 b. nieuwenhuisweg
 b. stegemanstraat
 b. thoenplantsoen
-b. van beaumontstraat
 b. van der helststraat
 b. van dijklaan
 b. van rooijenstraat
@@ -46,12 +41,12 @@ b.s.f. von suttnerstraat
 b.w. hopperus bumaweg
 b.w. okmastrjitte
 b.w. ter kuilestraat
+baadland
 baafjeslaan
 baai
 baaiduinen
 baaienburg
 baaijenompad
-baaijtuinen
 baaisterhoofd
 baaiweg
 baak
@@ -64,7 +59,6 @@ baak van callantsoog
 baak van camperduin
 baak van domburg
 baak van egmond
-baak van goedereede
 baak van hellevoetsluis
 baak van herkingen
 baak van ijmuiden
@@ -77,7 +71,6 @@ baak van renesse
 baak van scharendijke
 baak van scheveningen
 baak van sint philipsland
-baak van sint-philipsland
 baak van stavenisse
 baak van stellendam
 baak van terneuzen
@@ -127,7 +120,6 @@ baan van fectio
 baan van ravenhorst
 baanakker
 baanakkerspad
-baanakkerspark
 baanakkerstraat
 baanakkersweg
 baanbergenweg
@@ -143,7 +135,6 @@ baanderherenweg
 baanderheugte
 baanderhof
 baandershof
-baanderspad
 baandersstraat
 baandersweg
 baandert
@@ -157,6 +148,7 @@ baaneind
 baaneweer
 baangracht
 baanhoek
+baanhoekbrug
 baanhoekdijk
 baanhoekweg
 baankamp
@@ -180,13 +172,11 @@ baanvak
 baanvakwei
 baanvelden
 baanweg
-baanwegsekade
 baanweydt
 baanzicht
 baarderbuorren
 baardgras
 baardinksweg
-baardman
 baardmannetje
 baardmeesweg
 baardmezenstraat
@@ -211,8 +201,10 @@ baarlingerweg
 baarlo
 baarlopoort
 baarlosedwarsweg
+baarlosepad
 baarlosestraat
 baarloseweg
+baarn 11
 baarnhoeve
 baarnsche dijk
 baarnselaan
@@ -221,6 +213,8 @@ baarnseweg
 baarnstraat
 baarpad
 baars
+baarsakker
+baarsbrug
 baarschootsekreek
 baarschot
 baarschotsepad
@@ -258,10 +252,10 @@ baarswater
 baarsweg
 baartmanstraat
 baartven
+baarveld
 baarveldweg
 baarzenstraat
 baas de zoetenlaan
-baas en domburglaan
 baas en domburgstraat
 baas gansendonckstraat
 baas huisweg
@@ -281,7 +275,6 @@ babcockstraat
 babelweg
 babingaweg
 babokkenstraat
-babsloot
 baburen
 babylon
 babylonstraat
@@ -309,7 +302,6 @@ bachtensteene
 bachuslaan
 bachweg
 back-upstraat
-backenhage
 backenhagen
 backenhagenlaan
 backenhagenstraat
@@ -319,9 +311,11 @@ backershagen
 backershagenlaan
 backerskamp
 backerstraat
+backertjeshof
 backeswater
 baconstraat
 bacseweg
+bad nieuweschans 49
 badelochstraat
 baden powelllaan
 baden powellpad
@@ -331,16 +325,18 @@ baden powellweg
 baden-powelllaan
 baden-powellstraat
 baden-powellweg
+badhoevedorp 7
 badhoevelaan
 badhuisgracht
 badhuiskade
 badhuislaan
+badhuispad
 badhuisplein
 badhuisstraat
 badhuistrap
 badhuiswal
 badhuisweg
-badh„∫swei
+badh√∫swei
 badijkstraat
 badinckstraat
 badingslaan
@@ -365,6 +361,7 @@ baelschot
 baenjehof
 baenjenstraat
 baenpoort
+baenspaed
 baentje
 baer
 baerbergen
@@ -372,8 +369,8 @@ baerderdyk
 baerdijk
 baerkenstraat
 baerkespaad
-baersdoncklaan
 baerselmansweg
+baerte van langerakweg
 baesjoulaan
 baesjoustraat
 baesterdijk
@@ -399,6 +396,8 @@ baggelhuizerpad
 baggelkamp
 baggelsgats
 baggelveld
+baggerbeugel
+baggermolenstraat
 baggertweg
 baggerweg
 bagijneland
@@ -417,6 +416,7 @@ bagijnesteeg
 bagijnestraat
 bagijneweide
 bagijnhof
+bagijnhofbrug
 bagijnstraat
 bagijntje
 bagven park
@@ -479,9 +479,9 @@ bakerstraat
 bakersweg
 bakertand
 bakertdreef
-bakertplein
 bakertse landweg
 bakertse tuin
+bakertseind
 bakerwaard
 bakerwaardseweg
 bakest
@@ -496,16 +496,13 @@ bakhuis roozenboomstraat
 bakhuisdijkje
 bakhuisdreef
 bakhuisduintjes
-bakhuissteeg
 bakhuisstraat
-bakhuisveldwegje
 bakhuisweg
 bakhuizen van den brinkhof
 bakhuizen van den brinklaan
 bakhuizen van den brinkstraat
 bakhuizenstraat
 bakhuus
-bakhuuske
 bakhuys
 bakhuys roozeboomstraat
 bakkebrugstraat
@@ -513,8 +510,10 @@ bakkeneslaan
 bakkenweg
 bakkenzuigerstraat
 bakker korffstraat
+bakker van voorthuizenlaan
 bakkerboschweg
 bakkerbreetstraat
+bakkerbrug
 bakkerdreef
 bakkerenpad
 bakkerijpad
@@ -557,11 +556,13 @@ bakkersstraat
 bakkersteeg
 bakkerstraat
 bakkerstraatje
+bakkersturf
 bakkersveenweg
 bakkersveld
 bakkerswaal
 bakkersweg
 bakkerswei
+bakkersweide
 bakkerswijk
 bakkerweg
 bakkeveen
@@ -584,6 +585,7 @@ baksdijk
 baksenbosch
 baksevenweg
 bakshoeve
+bakshof
 baksmaatdijk
 baksteen
 baksteenstraat
@@ -597,16 +599,19 @@ bakzakkenstraat
 balade
 balalaikapad
 balans
-balatonf„ºredplein
+balansploeg
+balanspoort
+balatomeerpad
+balatonf√ºredplein
 balatonmeer
 balatonmeerlaan
 balatumstraat
 balbaostraat
 balboaplein
 balboastraat
+baldaeuspad
 balderhaarweg
 balderiklaan
-balderikpad
 balderikstraat
 baldermoer
 baldershof
@@ -627,7 +632,6 @@ balensteiger
 balferenseweg
 balfortstraat
 balg
-balgdijk
 balgerij
 balgerijplaats
 balgerskamp
@@ -641,20 +645,19 @@ balidwarsstraat
 balie
 baliemolenerf
 balijade
+balijbrug
 balijehof
 balijelaan
 balijeweg
 balijpad
-balikpapanstraat
 balilaan
 balin
 balingerbrink
 balinkesstraat
 baliplein
 balisboom
-balistaruwe
 balistraat
-bali„´ndijk
+bali√´ndijk
 baljuw
 baljuw veltersweg
 baljuwdreef
@@ -663,6 +666,7 @@ baljuwerf
 baljuwlaan
 baljuwpad
 baljuwplein
+baljuwpoort
 baljuwslaan
 baljuwslag
 baljuwsstraat
@@ -670,15 +674,15 @@ baljuwsteeg
 baljuwstraat
 baljuwweg
 baljuwweide
-balj„©estraat
+balj√©estraat
 balk
 balk in 't oogsteeg
 balkan
-balkanplein
+balkbrug
 balkbrug-oost
-balkbrug-west
 balkeind
 balkenbeltsweg
+balkenbrug
 balkendwarsrotonde
 balkendwarsweg
 balkengat
@@ -691,6 +695,8 @@ balkepolle
 balkerweg
 balkfinne
 balkgat
+balkje
+balkon
 balksterveste
 balkstraat
 balkstreek
@@ -705,7 +711,7 @@ balladelaan
 balladepad
 balladestraat
 ballandstraat
-ballang„©elaan
+ballang√©elaan
 ballast
 ballastkade
 ballastputweg
@@ -718,19 +724,20 @@ ballerinapad
 ballerswal
 balletstraat
 ballingbuer
+ballista
 ballistaruwe
 ballon nadarstraat
 ballonpad
 ballonstraat
 ballonvaart
 balloo
-balloo„´rveld
-ballo„´rstraat
-ballo„´rveld
-ballo„´rweg
+balloo√´rveld
+ballo√´rstraat
+ballo√´rveld
+ballo√´rweg
 ballumerbocht
 ballumerweg
-ball„™ster
+ball√™ster
 balmahuisterweg
 balmakersveld
 balmerstraat
@@ -766,6 +773,7 @@ balthasarhof
 balthasarschans
 balthazar de moucheronlaan
 balthuskade
+balthusstraat
 balticpark
 baltimoredreef
 baltimorehof
@@ -798,11 +806,10 @@ banckertstraat
 banckertweg
 bancksdyk
 banckspolder
-banda neira
-banda-hof
 bandalaan
 bandaneira
 bandaplein
+bandarstraat
 bandastraat
 bandelier
 bandeliersberg
@@ -822,11 +829,11 @@ bandijkweg
 bandkeramiekersstraat
 bandoengplantsoen
 bandoengstraat
-bandoengweg
 bandsalamander
 bandsche poort
 bandsloot
 bandstraat
+bandweg
 banebergpassage
 baneheide
 baneheider plateweg
@@ -849,7 +856,6 @@ bangraaf
 banholtergrubbe
 banholterpad
 banholterweg
-banh„∫sterleane
 banier
 banierhof
 banierstraat
@@ -903,12 +909,11 @@ bankwerkerstraat
 banmolen
 banne
 banne buikslootlaan
-bannehof
 bannenderweg
 banneplein
 bannepoort
 bannerheerstraat
-bannerh„ªs
+bannerh√ªs
 bannerschulte
 bannerschultestraat
 bannestraat
@@ -933,8 +938,10 @@ bansingel
 bansloot
 banstraat
 bansumerweg
+bant 16
 bantam
 bantamlaan
+bantammerbrug 0298
 bantamstraat
 bantamweg
 bantaskine
@@ -955,7 +962,6 @@ bantulaan
 banweg
 baptistenkade
 baptistenpad
-barajasbaan
 barajasweg
 barak
 barakkenplaats
@@ -963,11 +969,10 @@ barakkenslop
 barakkensteeg
 barakkenstraat
 barakkenweg
-barbacane
-barbados
 barbadosstraat
 barbara maryweg
 barbara strozzilaan
+barbara van berlostraat
 barbara van meertenstraat
 barbara van ravenschotstraat
 barbaradael
@@ -990,12 +995,13 @@ barbarosstraat
 barbeel
 barbeeldam
 barbeellaan
+barbeelpad
 barbeelsingel
 barbeelstraat
 barbeelweg
 barber yntjesstraat
-barberaweg
 barbershopdreef
+barbershoppad
 barbertijnstraat
 barbesteinweg
 barbette
@@ -1008,7 +1014,6 @@ barbiershoeve
 barbierstraat
 barbiersweg
 barbizonlaan
-barbizonplaats
 barbogaart
 barbotinestraat
 barbusselaan
@@ -1021,8 +1026,8 @@ barchhiem
 barchjeblom
 barchman wuytierslaan
 barchvenne
-barckalaan
 barckemalaan
+bardelbrug
 bardesiuslaan
 bardolinogaard
 bareel
@@ -1037,6 +1042,7 @@ barend cohenstraat
 barend en van dorpweg
 barend ferwerdastraat
 barend hooykaasstraat
+barend josua katanpad
 barend kraalhof
 barend kuisstraat
 barend lemansstraat
@@ -1051,12 +1057,12 @@ barend van namenshof
 barend veenendaalstraat
 barend visserstraat
 barendijk
+barendrecht 20
 barendrechtstraat
 barendrechtweg
 barendregt-akker
 barendregtstraat
 barendsestraat
-barendstraat
 barendswegje
 barendszstraat
 barendtszenstraat
@@ -1070,6 +1076,7 @@ barentszstraat
 barentzpark
 barestraat
 bareveld
+bareveld 36
 bareveldkade
 bareveldstraat
 barg
@@ -1085,14 +1092,9 @@ bargelsdijk
 bargemerk
 bargen
 bargengd
-barger-compascuum-centrum
-barger-erfscheidenveen
-barger-oosterveen
-barger-oosterveld
 bargerbosch
 bargerdijk
 bargereed
-bargeres
 bargerholt
 bargerkampenweg
 bargerkempke
@@ -1132,7 +1134,6 @@ barkmeerweg
 barkmolenstraat
 barkpad
 barkstraat
-barkweg
 barkwerf
 barlaaksedijk
 barlaeuslaan
@@ -1156,8 +1157,12 @@ barnar
 barnde molen
 barndegat
 barndesteeg
+barnebrug
 barnekampsdijk
 barnesteeg
+barneveld
+barneveld 15
+barneveld-zuid 2
 barnevelder
 barnevelderstraat
 barneveldhoeve
@@ -1192,7 +1197,6 @@ baron d'osystraat
 baron d'yvoylaan
 baron de catersstraat
 baron de coubertinlaan
-baron de coubertinlaan
 baron de coubertinstraat
 baron de la marckstraat
 baron de liedelstraat
@@ -1202,7 +1206,7 @@ baron de rosenstraat
 baron de schencklaan
 baron de selysstraat
 baron des tombeslaan
-baron dibetsstraat
+baron dibbetspark
 baron g.a. tindalplein
 baron g.a. tindalstraat
 baron jan karelhof
@@ -1212,12 +1216,10 @@ baron mackaystraat
 baron maximiliaanhof
 baron mulertlaan
 baron rengersweg
-baron schimmelpennick van der oyelaan
 baron schimmelpenninck van der oyelaan
 baron schimmelpenninck van der oyeweg
 baron sloetkade
 baron sweerts de landas wyborghstraat
-baron van aerdtlaan
 baron van asbeckweg
 baron van boetzelaerlaan
 baron van brakelllaan
@@ -1239,14 +1241,15 @@ baron van ghentlaan
 baron van haersolteweg
 baron van hallstraat
 baron van hardenbroeklaan
+baron van hardenbroekpark
 baron van hardenbroekstraat
 baron van heemstralaan
 baron van heemstrapad
 baron van heemstraplein
 baron van heemstrastraat
-baron van h„∂velllaan
-baron van h„∂vellplein
-baron van h„∂vellstraat
+baron van h√∂velllaan
+baron van h√∂vellplein
+baron van h√∂vellstraat
 baron van keverbergweg
 baron van lamsweerdelaan
 baron van lamsweerdestraat
@@ -1265,12 +1268,13 @@ baron van tuyll van serooskerkenstraat
 baron van voorst tot voorststraat
 baron van wassenaarstraat
 baron van wassenaerlaan
+baron van wassenaertunnel
 baron van wijkersloothstraat
 baron van wijnbergenlaan
 baron van wijnbergenplantsoen
 baron von thimusweg
 baron willem van harenlaan
-baron „âtiennelaan
+baron √©tiennelaan
 barones
 barones de rothschildlaan
 barones mackaystraat
@@ -1301,7 +1305,7 @@ baronse middendreef
 baronstraat
 barracudastraat
 barrage
-barrah„∫sterdyk
+barrah√∫sterdyk
 barre ven
 barrepad
 barreveldslaan
@@ -1310,8 +1314,8 @@ barrewier
 barrier
 barrierlaan
 barrierweg
-barri„®re
-barri„®reweg
+barri√®re
+barri√®reweg
 barsbeek
 barsingerweg
 barsumerpad
@@ -1320,16 +1324,13 @@ bart bokhorststraat
 bart crumstraat
 bart de graaffweg
 bart de ligtstraat
-bart dekkerveld
 bart flospad
 bart hendriksstraat
 bart koekstraat
-bart kpad
 bart poesiatstraat
 bart timmersstraat
 bart van der leckhof
 bart van der lecklaan
-bart van der leckpad
 bart van der leckplantsoen
 bart van der leckstraat
 bart van elstplantsoen
@@ -1338,7 +1339,6 @@ bart van peltplein
 bart van slobbestraat
 bart van veenweg
 bart verhallenplein
-bart3klaan
 barte
 bartel jacobszstraat
 bartel wiltonkade
@@ -1361,6 +1361,7 @@ bartelsstraat
 bartelsweg
 bartemerwei
 barten
+bartenbrug
 bartenspaad
 bartenswei
 bartenweg
@@ -1387,7 +1388,8 @@ bartholomeus vd helststr
 bartholomeushagen
 bartholomeushof
 bartholomeuslaan
-bartholom„´us jacobus schurerweg
+bartholome√Øbrug
+bartholom√´us jacobus schurerweg
 bartholt enthesstraat
 barthstraat
 bartigon
@@ -1399,7 +1401,6 @@ bartjesstraat
 bartlehiem
 bartlehiem f
 bartlemastraat
-bartokhof
 bartoklaan
 bartokpad
 bartokplantsoen
@@ -1412,11 +1413,10 @@ bartolottilaan
 bartoutszate
 bartus van de walstraat
 bartus warnersweg
-bart„≤k
-bart„≥klaan
-bart„≥kpad
-bart„≥kring
-bart„≥kstraat
+bart√≤k
+bart√≥klaan
+bart√≥kring
+bart√≥kstraat
 baruch spinozapad
 baruch spinozastraat
 barwegen
@@ -1424,10 +1424,10 @@ barwerd
 barwoutswaarder
 bas backerlaan
 bas baltushof
-bas de blokrede
 bas dongen
 bas jungeriusstraat
 bas paauwestraat
+bas slatmanpad
 bas verhoevenweg
 basalt
 basaltdijk
@@ -1440,7 +1440,6 @@ bascule
 basculebrug
 basculeweg
 baselaarshoef
-baselaarspark
 baselaarsstraat
 baselaarstraat
 baseliuspad
@@ -1476,7 +1475,6 @@ basket
 basketbalplein
 basralocushout
 basrastraat
-bassano
 bassecour
 bassein
 basseinstraat
@@ -1491,6 +1489,7 @@ bassinkade
 bassonstraat
 basstraat
 bast-bakkerpaad
+bastaardkade
 bastaardklaver
 bastaardstraat
 bastenakenlaan
@@ -1500,9 +1499,9 @@ basterddikkestraat
 basterstraat
 bastertkamp
 bastertlaan
+bastiaan
 bastiaan bosstraat
 bastiaan boxmanpad
-bastiaan de langeplaat
 bastiaan de langeplaatweg
 bastiaan de langestraat
 bastiaan de poorterstraat
@@ -1520,12 +1519,13 @@ bastingstraat
 bastingsweg
 bastingweg
 bastion
-bastion baselaars
-bastion henri bakker
+bastion andr√©
+bastion deuteren
 bastion holland
 bastion maurits
 bastion oranje
 bastion sint antonie
+bastion sint-michiel
 bastion stoltenborg
 bastion vught
 bastion welgemoed
@@ -1534,7 +1534,6 @@ bastiondreef
 bastionhof
 bastionpad
 bastionstraat
-bastionveld
 bastionweg
 bastognestraat
 basweg
@@ -1544,13 +1543,15 @@ bataafse bellefleur
 bataafse kamp
 bataafsekade
 bataafseweg
+batabrug
 batalaan
 bataljon
 bataljon jagers van podhaleplein
+bataljonlaan
+bataljonsbrug
 bataljonslaan
 batastraat
 batauweg
-batavengaarde
 batavenlaan
 batavenoord
 batavenpoort
@@ -1558,7 +1559,6 @@ batavenstraat
 batavenweg
 bataviahaven
 bataviakade
-batavialand
 bataviaplantsoen
 bataviaplein
 bataviastraat
@@ -1574,7 +1574,6 @@ batavorum
 bataweg
 batehoek
 batehof
-batelaan
 batelaar
 batelier
 batenborch
@@ -1593,6 +1592,7 @@ batenweg
 batestein
 bateweg
 bathemerweg
+bathmen 25
 bathmenerweg
 bathmense landen
 bathmenseweg
@@ -1616,14 +1616,15 @@ bato'sweg
 batostraat
 batouwestraat
 batouwse singel
+bats
 batsdijk
 batshoek
 batspade
 batstraat
 battastraat
+battengang
 battenoord
 battenoordhof
-battenoordse zeedijk
 battenoordsedijk
 battenoordseweg
 battenserreed
@@ -1649,6 +1650,7 @@ bauck coninxsteeg
 bauckeshof
 baudartiusstraat
 baudeloo
+baudeloohof
 baudeloostraat
 baudevoort
 baudstraat
@@ -1665,8 +1667,10 @@ bautseplein
 bauwemalaan
 bauwert
 bauxietpad
+bavel 13
 baveldspad
 bavelpark
+bavelsdreef
 bavelse hei
 bavelse leij
 bavelselaan
@@ -1703,12 +1707,11 @@ bazaltstraat
 bazarlaan
 bazarstraat
 bazeldijk
-bazeldonkstraat
 bazemolenweg
-bazielkruid
 bazielkruidhof
 bazienstraat
 bazillehof
+bazius
 bazuin
 bazuindreef
 bazuinerweg
@@ -1719,6 +1722,7 @@ bazuinslaan
 bazuinstraat
 bbg plaats
 beakendyk
+bealenbrug ben
 beamkamp
 beankepad
 bearend boardseswyk
@@ -1727,7 +1731,7 @@ beatlesstraat
 beatlesweg
 beatonstraat
 beatrice woodstraat
-beatrijs erf
+beatrijs van remmerswaelweg
 beatrijs van vlaanderenplaats
 beatrijsgaarde
 beatrijshof
@@ -1737,16 +1741,18 @@ beatrijsweg
 beatrix de rijkstraat
 beatrix de rijkweg
 beatrix hoeve
+beatrix potterpad
 beatrix van dongenstraat
 beatrix van egmondstraat
 beatrix van liesveldstraat
 beatrix van schagenlaan
+beatrixbrug
 beatrixgantel
 beatrixhaven
 beatrixhof
 beatrixkade
 beatrixlaan
-beatrixlaan
+beatrixlaantje
 beatrixoord
 beatrixpad
 beatrixpark
@@ -1755,8 +1761,8 @@ beatrixplantsoen
 beatrixplein
 beatrixpromenade
 beatrixsingel
-beatrixsluis
 beatrixstraat
+beatrixtunnel
 beatrixweg
 beau lieu
 beaufort
@@ -1780,7 +1786,6 @@ beckershagen
 beckershof
 beckerstraat
 beckersweg
-beckerswei
 beckerweg
 becking
 beckingstraat
@@ -1797,27 +1802,30 @@ bedafsche heidepad
 bedafseweg
 bedastraat
 bedaulxstraat
-beddemakersgang
 beddeweeg
 beddewijkstraat
 bedekte weg
-bedelaarsbos
 bedelaarsdijk
 bedelaarspad
 bedelaarsteeg
-bedepad
 bederawalda
+bedevaartsdijk
 bedevaartspad
 bedevaartweg
 bedfordhof
+bedieningsweg
 bedriegertjespad
 bedrijfsstraat
 bedrijfsweg
+bedrijvenbrug
 bedrijvenpark twente
 bedrijvenpark twente noord
 bedrijvenparksingel
 bedrijvenstraat
+bedrijventerrein retsel
 bedrijvenweg
+bedriuwswei
+bedum
 bedumerschans
 bedumerstraat
 bedumerweg
@@ -1838,6 +1846,8 @@ beegderweg
 beegmeerweg
 beegter markt
 beek
+beek 30
+beek 50
 beek en bosch
 beek en brink
 beek en daalselaan
@@ -1876,10 +1886,10 @@ beekforelstraat
 beekgraaf
 beekgraafstraat
 beekheuvel
+beekhoeder
 beekhoek
 beekhoekweg
 beekhof
-beekhorst
 beekhoven
 beekhoverstraat
 beekhuizenseweg
@@ -1906,14 +1916,12 @@ beekmansdalseweg
 beekmansgoed
 beekmanstraat
 beekmansweg
-beekmanweg
 beekmaten
 beekmedenweg
 beekmos
 beekoever
 beekoeverhof
 beekoeverlaan
-beekoeverlibellepad
 beekoeverlibelpad
 beekoverstraat
 beekpad
@@ -1921,6 +1929,7 @@ beekpark
 beekpolderpad
 beekpoldersingel
 beekpoort
+beekprik
 beekpunge
 beekridder
 beekschehoevestraat
@@ -1928,7 +1937,7 @@ beeksdijk
 beekse bergen
 beekse peeldijk
 beekse stationsweg
-beeksebaan
+beeksebrug
 beeksedijk
 beeksenhof
 beeksestraat
@@ -1950,17 +1959,15 @@ beekvoorde
 beekwal
 beekweg
 beekweide
-beekwg
 beekwoudehoek
 beekzicht
 beekzichtweg
 beekzijdeweg
+beekzoom
 beel-lanen
 beelaerts van bloklandstraat
 beelaerts van bloklandweg
-beelaerts van bloklandweg
 beelaertslaan
-beelaertspark
 beelaertsplaats
 beelaertsstraat
 beelaertsweg
@@ -1988,6 +1995,7 @@ beelelaan
 beelen
 beelen weidevoetpad
 beelenberg
+beelenbosweg
 beelenhofweg
 beelenlaan
 beelenstraat
@@ -2006,6 +2014,7 @@ beelsstraat
 beelstraat
 beeltjensvoetpad
 beeltplein
+beelweg
 beembreek
 beemd
 beemden
@@ -2017,7 +2026,6 @@ beemdenpad
 beemdenplein
 beemdenseweg
 beemdenstraat
-beemdenvoetpad
 beemdenweg
 beemderf
 beemderhoekweg
@@ -2040,7 +2048,6 @@ beemdsteeg
 beemdstraat
 beemdweg
 beemdweg-oost
-beemdweg-west
 beemdweide
 beemersteeg
 beemke
@@ -2048,7 +2055,6 @@ beemster
 beemsterboerstraat
 beemsterboerweg
 beemsterburgwal
-beemsterhoek
 beemsterhof
 beemsterlaan
 beemsterlust
@@ -2071,11 +2077,12 @@ beentepol
 beentjesgravenland
 beentjesweg
 beerdijk
+beerenbeemdweg
 beerenclaauwstraat
-beerendonckerweg
 beerendonk
 beerensteinerhof
 beerensteinerlaan
+beerenweg
 beereveld
 beerewerf
 beerhorstkade
@@ -2092,7 +2099,6 @@ beerschoten
 beerschotseweg
 beersdalplein
 beersdalweg
-beersdonk
 beersdonkseweg
 beerse
 beersebaan
@@ -2111,7 +2117,6 @@ beerten
 beerthuizenplantsoen
 beertramsstraat
 beertsenhoven
-beertsenhovenerweg
 beertsterstraat
 beertsterweg
 beerweg
@@ -2127,9 +2132,13 @@ beerzerveld
 beerzerweg
 beerzestraat
 beerzewijk
+beesd 14
 beesdestraat
 beesdseweg
+beesel 18
 beeselseweg
+beestenbrug
+beestendrift
 beestenhei
 beestenmarkt
 beestenmarktsteeg
@@ -2144,6 +2153,7 @@ beethovengaarde
 beethovenhof
 beethovenlaan
 beethovenpad
+beethovenpark
 beethovenplaats
 beethovenplantsoen
 beethovenplein
@@ -2153,6 +2163,7 @@ beethovensingel
 beethovenstraat
 beethovenweg
 beetke van rasquertstraat
+beetlaar
 beets
 beetsdijkje
 beetserweg
@@ -2164,6 +2175,7 @@ beetsplein
 beetsstraat
 beetsterdyk
 beetsterweg
+beetsterzwaag 28
 beetswende
 beetszoom
 beetwortelstraat
@@ -2171,6 +2183,7 @@ beetwortelweg
 beetzlaan
 beevaartpad
 beezepool
+beezerbrug
 begaand straatje
 begastraat
 begerslant
@@ -2179,7 +2192,7 @@ beggelderdijk
 beggelderpad
 beggelderveldweg
 begherstraat
-begijnebolwerk
+begijnebrug
 begijnehof
 begijnekade
 begijnenakker
@@ -2208,7 +2221,7 @@ begijnhofweg
 begijnhove
 begijnstraat
 begijnstraatje
-beginbos
+beginbrug
 begine
 beginnerspad
 beginpad
@@ -2218,6 +2231,7 @@ beginweg
 begonia
 begoniadal
 begoniahof
+begoniahofje
 begonialaan
 begoniapad
 begoniaplein
@@ -2239,7 +2253,7 @@ beiaardierlaan
 beiaardiershoeve
 beiaardpad
 beiaardstraat
-beieh„¥f
+beieh√¥f
 beier
 beierlandsestraat
 beiersestraat
@@ -2251,7 +2265,6 @@ beijaertstraat
 beijemansweg
 beijensstraat
 beijensweide
-beijenwaard
 beijerdstraat
 beijerenstraat
 beijerinck
@@ -2275,9 +2288,8 @@ beijersewegje
 beijershorstdijk
 beijersstraat
 beijerstraat
-beijersweg
 beijert
-beijingkade
+beijingbrug
 beijingstraat
 beijlkensweg
 beijmoer
@@ -2285,7 +2297,10 @@ beijnenstraat
 beijneslaan
 beijnesweg
 beijtelstraat
+beijum-noord 6
 beijumerweg
+beilen
+beilen 30
 beilenpad
 beilenstraat
 beilerstraat
@@ -2314,11 +2329,11 @@ beitspad
 bekadeweg
 bekaf
 bekboer
+bekebredelaan
 bekelaar
 bekemaheerd
 bekemalaan
 bekendijk
-bekenes
 bekenespad
 bekenhorst
 bekenlaan
@@ -2331,6 +2346,7 @@ bekepad
 bekeplaatspad
 bekerakker
 bekerbaan
+bekerbredelaan
 bekeringweg
 bekermos
 bekermosstraat
@@ -2396,6 +2412,7 @@ beldershoekweg
 belderstraat
 beldersweg
 beldert
+beldertseweg
 beldhuismolenweg
 beldmansweg
 beldmolenstraat
@@ -2403,6 +2420,7 @@ beldsteeg
 beldsweg
 belebos
 belebosweg
+beleeffietspad
 belemnieterf
 belenberg
 belenbroeklaan
@@ -2410,16 +2428,16 @@ belenhoeve
 belenweg
 beleven
 belfeld
+belfeld 17
 belfeldstraat
 belfort
 belforthof
-belforttrap
 belgenhoek
 belgenlaan
 belgenstraat
 belgeren
 belgerenseweg
-belgi+laan
+belgielaan
 belgisch regiment special air serviceplein
 belgische frank
 belgische wijk
@@ -2427,12 +2445,11 @@ belgischeplein
 belgischestraat
 belgischetuin
 belgischezoom
-belgi„´laan
-belgi„´park
-belgi„´plein
-belgi„´straat
-belgi„´weg oost
-belgi„´weg west
+belgi√´laan
+belgi√´plein
+belgi√´straat
+belgi√´weg oost
+belgi√´weg west
 belgracht
 belgradostraat
 belhamel
@@ -2443,13 +2460,14 @@ belijnpad
 belikstraat
 beline
 belizehof
-beli„´nberkdijk
-beli„´nstraatje
+beli√´nberkdijk
+beli√´nstraatje
 beljaartlaan
 belkensborg
 belkmerweg
 bella donna
 bella vista
+bella vistapad
 bella vistapark
 bella vistastraat
 bellaertsstraat
@@ -2494,6 +2512,7 @@ bellendonkstraat
 bellendreef
 bellenkampweg
 belleperenlaan
+bellepont
 bellersweg
 bellerthof
 bellertstraat
@@ -2501,12 +2520,12 @@ bellesloot
 bellestein
 bellesteynlaan
 belletablestraat
+bellettersweg
 bellevoysstraat
 bellevue
 bellevuelaan
 bellevuestraat
 belleweg
-bellflat
 bellinckhof
 bellinckhofweg
 bellingeweer
@@ -2518,6 +2537,7 @@ bellinipad
 bellinipark
 bellinistraat
 bellinistraatje
+bellinkbrug
 bellinkhofsdwarsweg
 bellinkhofsweg
 bellinkplein
@@ -2529,7 +2549,6 @@ bellsingel
 bellstraat
 bellweg
 belmermeer
-belmermeerpolder
 belmolendijk
 belmontelaan
 belmontepark
@@ -2538,7 +2557,6 @@ beloega
 beloegastraat
 beloop
 bels lijntje
-belsbergweg
 belsebaan
 belspad
 belsteeg
@@ -2565,24 +2583,22 @@ beltshofweg
 beltstraat
 beltweg
 belvauer
-belved(re
 belvedere
 belvedereweg
-belved„É‚øre
-belved„®re
-belved„®repad
-belved„®reweg
+belved√®re
+belved√®repad
+belved√®reweg
 belverenlaan
 belversebaan
 belversedijk
 belversestraat
 belvliet
-belv„©d„®re
-belv„©d„®rebos
-belv„©d„®relaan
-belv„©d„®repad
-belv„©d„®restraat
-belv„©d„®reweg
+belv√©d√®re
+belv√©d√®rebos
+belv√©d√®relaan
+belv√©d√®repad
+belv√©d√®restraat
+belv√©d√®reweg
 belzenweg
 bemdweg
 bemelerberg
@@ -2620,10 +2636,12 @@ ben kleijwegthof
 ben lawers
 ben liesepad
 ben lindeboomstraat
+ben morshuisplein
 ben neijndorffplein
 ben nevis
 ben peterspad
 ben pon baan
+ben schopbrug
 ben sikkenlaan
 ben stromanpad
 ben suelmannpad
@@ -2634,6 +2652,7 @@ ben van meerendonkstraat
 ben verstappensingel
 ben viegersstraat
 ben viljoenstraat
+ben vleddewijk
 ben walrechtstraat
 ben websterlaan
 ben websterstraat
@@ -2648,7 +2667,6 @@ bendelaar
 bendelssteeg
 benderse
 benderslaan
-benderstraat
 benderzoetpad
 bendien-smitshof
 bendienlaan
@@ -2657,6 +2675,7 @@ bendijksweg
 bendiksstraat
 beneden beekloop
 beneden boukoul
+beneden brug 470 429
 beneden dwarsdiep
 beneden gorsdijk
 beneden haagje
@@ -2668,9 +2687,9 @@ beneden nieuwstraat
 beneden oostdijk
 beneden oosterdiep
 beneden polderweg a
+beneden rijkersloot
 beneden sasweg
 beneden strijensedijk
-beneden strijensedk
 beneden tiendweg
 beneden toldijk
 beneden veensloot
@@ -2688,6 +2707,11 @@ benedendorpvoetpad
 benedenduinstraat
 benedendwarsweg
 benedeneind
+benedeneind brug 322 259
+benedeneind brug 326 271
+benedeneind brug 338 285
+benedeneind brug 398 327
+benedeneind brug 446 411
 benedeneind nz
 benedeneind zz
 benedeneindseweg
@@ -2695,6 +2719,7 @@ benedenheulseweg
 benedenheulstraat
 benedenkade
 benedenkamp
+benedenkerkse tiendweg
 benedenkerksepolderpad
 benedenkerkseweg
 benedenkerkstraat
@@ -2705,6 +2730,7 @@ benedenmoeren
 benedenmonde
 benedenrijweg
 benedenschap
+benedenste juliusweide
 benedenste kruisweg
 benedensteenakkers
 benedenstraat
@@ -2717,13 +2743,13 @@ benedictalaan
 benedictastraat
 benedictijnenborch
 benedictijnenhove
-benedictijnenlaan
 benedictijnenstraat
 benedictijnerstraat
 benedictinessenhof
 benedictushof
 benedictuskruid
 benedictuslaan
+benedictuslaan st
 benedictusstraat
 beneficiestraat
 beneluxbaan
@@ -2769,14 +2795,16 @@ bennekomseweg
 bennekomstraat
 bennemaheerd
 bennemastate
+bennemeerstraat
 bennemeersweg
 bennenbroekstraat
 bennerhof
+bennerpark
 bennerwijk
 bennetweg
 benneveld
 bennevelderstraat
-bennie motenpad
+benningbrug
 benningskamplaan
 benningweg
 benninkburg
@@ -2786,14 +2814,12 @@ benninkrotonde
 benninkstraat
 benninksweg
 benninkweg
+benno premselabrug
 benno premselastraat
 benno stokvislaan
 benno stokvisstraat
 benny goodmanlaan
 benny goodmanstraat
-benny vredenlaan
-benny vredenlstraat
-benny vredenstraat
 benoitlaan
 benoitstraat
 benoni
@@ -2812,9 +2838,9 @@ benschopperweg
 bensdorpplein
 bensingecamp
 bensmastraat
-bent
 bentbeemden
 bente
+bentehoekbrug
 bentekamp
 bentelerhaarweg
 bentelerweg
@@ -2830,6 +2856,7 @@ bentenpad
 benterdijk
 bentertsteeg
 bentertsweg
+benteweg
 bentgras
 bentheimerdijk
 bentheimergraven
@@ -2841,32 +2868,32 @@ benthem reddingiusstraat
 benthemersteeg
 benthemplein
 benthemstraat
-benthorn
 benthuislaan
 benthuizenstraat
 benthuizerstraat
 bentinckhof
 bentincklaan
 bentinckmarke
+bentinckpad
+bentinckplantsoen
 bentinckplein
 bentincksdijk
 bentinckshof
 bentinckskamp
 bentinckslaan
+bentinckspark
 bentinckstraat
 bentingestraat
 bentismaheerd
 bentlagestraat
 bentlaken
 bentmaatweg
-bentpad
 bentpoldererf
 bentpolderpad
 bentpollen
 bentrotstraat
 bentstraat
 bentums loan
-bentveld
 bentveldpad
 bentveldsduin
 bentveldsduinweg
@@ -2874,10 +2901,10 @@ bentveldshoek
 bentveldsweg
 bentveldweg
 bentvelsenpad
-bentweg
+bentvelsepad
 bentweideweg
-bentwoudlaan
 bentwoudpad
+bentz van de bergweg
 bentz-berg
 benvenutolaan
 benzenrade
@@ -2890,6 +2917,7 @@ bep bakhuijsweg
 bep bakhuysstraat
 bep belostraat
 bep van klaverenboulevard
+bep van klaverenplein
 bep van klaverenstraat
 bep van kootenstraat
 bep wiersmastraat
@@ -2908,7 +2936,7 @@ berberispad
 berberisstraat
 berberisweg
 berberiszoom
-berberkr„ªd
+berberkr√ªd
 berberlaan
 berceusestraat
 berchhuzen
@@ -2928,7 +2956,6 @@ bercylaan
 berdinge
 beregrachtpad
 bereklauw
-bereklauwenpad
 bereklauwerf
 bereklauwkreek
 bereklauwlaan
@@ -2937,6 +2964,7 @@ bereklauwstraat
 bereklauwveld
 berekuil
 beren
+berenakker
 berenbergh
 berenbosweg
 berenbroek
@@ -2958,11 +2986,9 @@ berendinastraat
 berendonk
 berendonksweg
 berendonkswegske
-berendonkszijwegske
 berendruif
 berendschotstraat
 berendsland
-berengang
 berenhoeksestraat
 berenhof
 berenicestraat
@@ -2977,6 +3003,7 @@ berenpoot
 berenrade
 berensbergstraat
 berenschotweg
+berensluis 0065
 berenstraat
 berentsweg
 berenwei
@@ -3002,22 +3029,22 @@ berg en dalweg
 berg en heideweg
 berg enk
 berg- en dalseweg
-berg28pad
 bergakker
 bergakkerplein
 bergakkers
 bergakkerweg
 bergambachterstraat
 bergambachtstraat
+bergambachttunnel
 bergamolaan
 bergamot
 bergamotte
 bergamotteperenlaan
-berganiuslaan
 bergansiuskwartier
 bergansiuslaan
 bergansiusstraat
 bergastraat
+bergbeek
 bergblauwstraat
 bergboezempad
 bergbosweg
@@ -3034,20 +3061,27 @@ bergeendstraat
 bergeendsweg
 bergeijksedijk
 bergeijkstraat
+bergeikhof
 bergeikstraat
 bergelinkweg
 bergemotte
 bergen
+bergen op zoom 28
+bergen op zoom-centrum 27
+bergen op zoom-noord 27
+bergen op zoom-zuid 29
 bergen op zoomstraat
 bergenboulevard
 bergendaal
 bergenhuizen
 bergenhuizenweg
 bergenhuizerberg
+bergenia
 bergenput
 bergenshuizensestraat
 bergenshuizenseweg
 bergenstraat
+bergentheim
 bergentheimstraat
 bergenvaardershof
 bergenvaardersstraat
@@ -3084,7 +3118,6 @@ bergerveldsweg
 bergerveldweg
 bergerveste
 bergervisserstraat
-bergervliet
 bergerweg
 bergfluiter
 berggiersweg
@@ -3096,10 +3129,10 @@ bergharensestraat
 berghaven
 berghegelaan
 bergheide
+bergheideweg
 berghem
 berghemersteeg
 berghemseweg
-berghemweg
 bergherveld
 bergheuvel
 berghoefplantsoen
@@ -3108,6 +3141,9 @@ berghoeve
 berghof
 berghofstraat
 berghofweg
+berghoofdseveer
+berghoofdseveerweg
+berghoofdseweg
 berghorst
 berghorstland
 berghorstvoetpad
@@ -3122,8 +3158,10 @@ berghum
 berghumerstraat
 berghuyspad
 bergjessteeg
+bergjesweg
 bergkamp
 bergkampen
+bergkampen allee
 bergkampweg
 bergkappeweg
 bergkerkplein
@@ -3150,7 +3188,6 @@ bergmanstraat
 bergmanstrook
 bergmansweg
 bergmeer
-bergmeersweg
 bergmolen
 bergmolenpad
 bergmolenstraat
@@ -3167,10 +3204,12 @@ bergrand
 bergroede
 bergroos
 bergroosstraat
-bergroosweide
-bergsboslaan
 bergsche hoevepad
 bergsche maasdijk
+bergsche maaspad oost
+bergsche maaspad west
+bergschenhoek
+bergschenhoek 28
 bergschenhoekseweg
 bergschild
 bergschot
@@ -3188,14 +3227,13 @@ bergse poort
 bergse rechter rottekade
 bergsebaan
 bergsebosdreef
-bergsebosweg
 bergsedijk
-bergsehof
 bergselaan
 bergsepolder
 bergsestraat
 bergseveld
 bergseweg
+bergsewei
 bergsheisteeg
 bergsheiweg
 bergsingel
@@ -3210,6 +3248,7 @@ bergsteeg
 bergsteijnhof
 bergsteinlaan
 bergstoep
+bergstoepse veer
 bergstraat
 bergsveldweg
 bergsweg
@@ -3227,6 +3266,7 @@ bergvenstraat
 bergveste
 bergvink
 bergvinkhof
+bergvlier
 bergvlierweg
 bergvliet
 bergvlietlaan
@@ -3234,6 +3274,7 @@ bergvrede
 bergvredestraat
 bergwal
 bergweg
+bergweg haarle
 bergweg van rijn
 bergweg-noord
 bergweg-zuid
@@ -3244,9 +3285,11 @@ bergweide
 bergweidedijk
 bergweideplein
 bergwijkdreef
+bergzandweg
 bergzichtpad
+bergzigt
 bergzijweg
-berg„®nkenstraat
+berg√®nkenstraat
 berikstraat
 berilpad
 berilstraat
@@ -3256,9 +3299,9 @@ beringenstraat
 beringerhoek
 beringerschans
 beringhage
-beringhaven
 beringhouterstraat
 beringlaan
+beringshouterstraat
 beringstraat
 berk
 berkakker
@@ -3274,6 +3317,8 @@ berkeindje
 berkekampweg
 berkekker
 berkel
+berkel en roderijs 29
+berkel-enschot 2
 berkelaan
 berkelaar
 berkelaarlaan
@@ -3285,8 +3330,6 @@ berkelmanspad
 berkelpad
 berkelplein
 berkelpoortstraat
-berkelsche weg
-berkelse kade
 berkelse poort
 berkelse zwethpad
 berkelsekade
@@ -3301,6 +3344,7 @@ berkelstroom
 berkelweg
 berkelwijk
 berken
+berken allee
 berkenakker
 berkenallee
 berkenblad
@@ -3331,6 +3375,7 @@ berkenheuvel
 berkenheuveldreef
 berkenheuvelstraat
 berkenhof
+berkenhof-zuid
 berkenhoflaan
 berkenhofweg
 berkenhove
@@ -3372,7 +3417,9 @@ berkenweg
 berkenweide
 berkenwoudestraat
 berkenzwam
+berkenzwamplaats
 berkepad
+berkersweg
 berkhaag
 berkheide
 berkheidestraat
@@ -3388,8 +3435,9 @@ berkhouterweg
 berkhouthof
 berkhoutlaan
 berklaan
-berklaverpad
+berkmapseweg
 berkmeerdijk
+berkmeerpad
 berkmeerstraat
 berkmeerweg
 berkmergouw
@@ -3399,12 +3447,15 @@ berkt
 berktepaalweg
 berkter hei
 berkterbeemden
+berkterdries
 berkterondweg
 berkteweg
 berktpad
 berktsedijk
 berktstraat
 berktweg
+berkumerdijk
+berkumerpad
 berkumhof
 berkummerbroekweg
 berkumshof
@@ -3420,6 +3471,7 @@ berlaarstraat
 berlaersstraat
 berlaerstraat
 berlage-erf
+berlagebrug 0423
 berlagedreef
 berlagehof
 berlagelaan
@@ -3430,8 +3482,8 @@ berlagestraat
 berlageweg
 berlagezoom
 berlaymontlaan
-berlaymoustlaan
 berlengakade
+berlicum
 berlicumseweg
 berlicumstraat
 berlijn-akker
@@ -3505,8 +3557,8 @@ bernard luninckstraat
 bernard nieuwentijtstraat
 bernard pothaststraat
 bernard roerinkstraat
+bernard r√∂linghof
 bernard schoonbeeklaan
-bernard shawplantsoen
 bernard shawsingel
 bernard ter haarhove
 bernard ter haarlaan
@@ -3535,7 +3587,6 @@ bernardstraat
 bernardus arpsstraat
 bernardus blommersstraat
 bernardus gewinstraat
-bernardus hollanderstr
 bernardus hollanderstraat
 bernardus ijzerdraatsingel
 bernardus ijzerdraatstraat
@@ -3559,8 +3610,6 @@ bernharddreef
 bernhardhof
 bernhardkade
 bernhardlaan
-bernhardln
-bernhardpad
 bernhardpassage
 bernhardplaats
 bernhardplein
@@ -3568,6 +3617,7 @@ bernhardshoeve
 bernhardsingel
 bernhardsteeg
 bernhardstraat
+bernhardstraat pr
 bernhardstrjitte
 bernhardus bumastraat
 bernhardweg
@@ -3575,7 +3625,6 @@ bernhardweg midden
 bernhardweg oost
 bernhardweg west
 bernina
-bernini
 bernini
 berninistraat
 berninkholthoek
@@ -3591,6 +3640,7 @@ bernoulliplein
 bernoullistraat
 bernpad
 bernsauwstraat
+bernse veer
 bernsedijk
 bernsehoef
 bernsestraat
@@ -3606,12 +3656,16 @@ berrie
 berriehoek
 bersebastraat
 bershof
+bersse hoeve
 bert buijsenstraat
+bert de zeeuwpad
 bert garthoffpad
 bert haanstrahof
 bert haanstrakade
+bert haanstrapark
 bert haanstrastrook
 bert heesakkerstraat
+bert janssenpark
 bert kemplaan
 bert oosterboschpad
 bert van marwijkplein
@@ -3660,6 +3714,7 @@ bertus van akenlaan
 bertus van grouwstraat
 bertus van hamersveld rotonde
 bertus van lierplantsoen
+beruchtehoek
 bervennen
 bervoetsbos
 bervoetsbospad
@@ -3671,7 +3726,7 @@ beryldrift
 berylstraat
 berzegatstraatje
 berzeliusstraat
-besan„ßonlaan
+besan√ßonlaan
 besarstraat
 beschoeiing
 beschootpad
@@ -3682,6 +3737,7 @@ besehorst
 besemerstraat
 besheerspolder
 besjeslaan
+besjeslaanbrug
 beslingadyk
 beslingastate
 beslooten acker
@@ -3732,6 +3788,10 @@ bessie smithstraat
 bessinkgoorweg
 bessinkpasstraat
 bessinkpasweg
+best 28
+best 7
+best-west 27
+beste vaders hofstede
 beste vaderskamp
 bestegoed
 besten van brienenstraat
@@ -3747,7 +3807,7 @@ bestevaerslaan
 bestevaerstraat
 bestevaerweg
 besteveld
-bestev„¢erstraat
+bestev√¢erstraat
 besthemerberg
 besthemeresweg
 besthemerveldweg
@@ -3763,14 +3823,14 @@ beter wonen
 beth van de rijtlaan
 bethaniehof
 bethaniestraat
-bethani„´
-bethani„´laan
-bethani„´leane
-bethani„´ndwarsstraat
-bethani„´nstraat
-bethani„´plein
-bethani„´straat
-bethani„´weg
+bethani√´
+bethani√´laan
+bethani√´leane
+bethani√´ndwarsstraat
+bethani√´nstraat
+bethani√´plein
+bethani√´straat
+bethani√´weg
 bethel
 bethelhof
 bethelstraat
@@ -3778,9 +3838,9 @@ bethesda
 bethesdahof
 bethesdastraat
 bethlehemlaan
+bethlehempark
 bethlehemplein
 bethlehems kerkplein
-bethlehemsgang
 bethlehemshof
 bethlehemsreed
 bethlehemsteeg
@@ -3789,6 +3849,7 @@ bethlehemsweg
 bethlehemweg
 bethunepolder
 bethuneweg
+betico croesplein
 betjakstraat
 betje wolfflaan
 betje wolffpad
@@ -3800,12 +3861,15 @@ betjesweg
 betmersweg
 betondorp
 betonpad
+betonsteeg
 betonstraat
 betonweg
 betonwei
 betouwstraat
-betsy baeldekade
+bets bormsingel
+betsie rudersdorffstraat
 betsy kaiserhof
+betsy kerlenpad
 betsy perk
 betsy perkhoeve
 betsy perkhof
@@ -3819,6 +3883,7 @@ betsy westendorp-osieckstraat
 betsy westendorpstraat
 bette davisstraat
 bettekamp
+bettenhof
 betterwird
 bettestraatje
 bettewaardsedijk
@@ -3872,7 +3937,6 @@ beugstraat
 beuk
 beukbergenhof
 beukbergenlaan
-beukbergenplein
 beukebeek
 beukeboom
 beukeboomstraat
@@ -3930,6 +3994,7 @@ beukenkampstraat
 beukenlaan
 beukenlaan z
 beukenlaantje
+beukenlint
 beukenoord
 beukenoot
 beukenpad
@@ -3971,6 +4036,7 @@ beulekampersteeg
 beulekamperweg
 beulingstraat
 beumeesweg
+beumerpad
 beumershoek
 beumerskamp
 beumersteeg
@@ -3983,6 +4049,7 @@ beunestraat
 beunheugte
 beuninge
 beuningen
+beuningen 1
 beuningenstraat
 beuningerbeemd
 beuningerhoek
@@ -3999,16 +4066,16 @@ beunteweg
 beurdsepoort
 beurdsestraat
 beurik
-beurr„© hardylaan
-beurr„©perenlaan
+beurr√© hardylaan
+beurr√©perenlaan
 beurs
+beursbrug
 beursdijk
 beurseland
 beurserbeek
 beursgang
 beursjeskruid
 beursjeskruidstraat
-beurskensweide
 beurspassage
 beursplein
 beurspoortje
@@ -4031,11 +4098,11 @@ beurtvaartstraat
 beurtvaartweg
 beusakker
 beusbergen
-beusdal-sippenaeken-weg
 beusebergerweg
 beusekamplaan
 beusemkolkweg
 beusichemse broeksteeg
+beusichemse veer
 beusichemsedijk
 beusichemsetuin
 beusichemseweg
@@ -4066,7 +4133,6 @@ beveland
 bevelandlaan
 bevelandselaan
 bevelandsestraat
-bevelandseweg
 bevelandsezijweg
 bevelandstraat
 bevelantstraat
@@ -4087,6 +4153,7 @@ beverenstraat
 beverfeurde
 beverhoeve
 beverhof
+beverietenweg
 beverlaan
 beverlanderhof
 beverlanderpad
@@ -4116,6 +4183,7 @@ bevertweg
 beverveen
 beverveld
 bevervoorde
+beverwaard 24
 beverwaardseweg
 beverweerd
 beverweerdlaan
@@ -4126,6 +4194,10 @@ beverweide
 beverwijcksplaats
 beverwijcksplein
 beverwijckstraat
+beverwijk 2
+beverwijk 2a
+beverwijk-oost 2b
+beverwijk-oost 8
 beverwijkerstraatweg
 beverwijkstraat
 bevesierweg
@@ -4140,7 +4212,6 @@ bevrijdingshof
 bevrijdingshove
 bevrijdingslaan
 bevrijdingspad
-bevrijdingspark
 bevrijdingsplantsoen
 bevrijdingsplein
 bevrijdingssingel
@@ -4176,7 +4247,6 @@ bezaanpad
 bezaanschuit
 bezaansmast
 bezaanstraat
-bezaanzeil
 bezander
 bezantijnenplein
 bezantijnenstraat
@@ -4190,6 +4260,7 @@ bezembinderslaan
 bezembinderspad
 bezembinderstraat
 bezembindersweg
+bezembrug
 bezemerland
 bezemheide
 bezemstraat
@@ -4199,16 +4270,21 @@ bezoensweg
 bezorgershof
 bezuidenhout
 bezuidenhoutseweg
+bezuidenhoutsewg
 bezworen kerf
 bh spijkerweg
+bhalotrapad
 biallosterskilaan
 biancaland
+biancastraat
 biarritzplein
+biathlonpoort
 biathlonweg
 biatlon
 bibendumstraat
 bibenstraat
-bibliotheekgarage
+bibian mentelpier
+bibliotheekbrug
 bic
 bichon van ijsselmondelaan
 bickelenberg
@@ -4218,19 +4294,18 @@ bickershorn
 bickerslaan
 bickerstraat
 bickerswerf
-biddingpad
 biddingringweg
 biddingweg
 biddlestraat
 bidloostraat
 bieakker
 bieberglaan
-bieboschvoetpad
 biecamp
 biedonk
 biedonkpad
 biefkestreek
 biehoeve
+biej ool euver
 biekeweide
 biekurf
 bielalaan
@@ -4242,18 +4317,20 @@ bielemanstraat
 bielemanweg
 bieleveldlaan
 bieleveldslaan
+bieleveldt
 bielheimerweg
-biels
 bielsenstraat
 bielsstraat
 bielveld
 bielvelderweg
 bielzen
+bielzenlaan
 bielzenpad
 bielzenspoor
 biemansstraat
 biemeren
 bieningen
+bieningenhof
 bieningenweg
 biensma
 bientjesrandweg
@@ -4264,13 +4341,13 @@ bierbrouwer
 bierbrouwersgaarde
 bierbrouwersgroes
 bierbrouwershorst
+bierbrouwersplein
 bierbrouwerstraat
 bierbrouwersweg
 bierbrouwerweg
 bierdijk
 bierdijkerveldweg
 bierdijkerweg
-bierdragersgang
 bierdragersgilde
 bierdragerspad
 bieremalaan
@@ -4300,6 +4377,7 @@ biervlietplein
 bierweg
 bierwegpaadje
 bies
+biesacker
 biesakkers
 biesbergerweg
 biesbongerd
@@ -4318,6 +4396,7 @@ biesboslaan
 biesbosserweg
 biesbosstraat
 biesbosweg
+biescamp
 biesdeel
 biesdelselaan
 biesdonkweg
@@ -4359,10 +4438,9 @@ bieslooktuin
 bieslookveld
 bieslookweg
 biesmanstraat
+biesplanken
 biesputten
-biesse
 biesseltsebaan
-biesserstraat
 biessertweg
 biesstraat
 biessumerlaan
@@ -4372,6 +4450,7 @@ biest
 biestakkerstraat
 biestarwe
 biesterboschstrjitte
+biesterbrug
 biesterdwarsweg
 biesterhoekse wegeling
 biesterij
@@ -4398,7 +4477,10 @@ biesvendreef
 biesweg
 bietenakker
 bietenboulevard
+bietenbrug
 bietendijk
+bietenpad
+bietenrooierdreef
 bietenveld
 bietenweg
 bieuwweg
@@ -4446,6 +4528,7 @@ biezenmeent
 biezenmortelsestraat
 biezenoever
 biezenpad
+biezenplantsoen
 biezenplein
 biezenpoortstraat
 biezensnijder
@@ -4467,10 +4550,9 @@ biezenweide
 biezerdweg
 biezervenweg
 biezerweg
-biezetrekker
 biezeveld
 biezewegje
-bie„´tebergweg
+bie√´tebergweg
 bifur
 biggekerkestraat
 biggekerksestraat
@@ -4500,7 +4582,7 @@ bij de populieren
 bij de postwagen
 bij de put
 bij de sluis
-bij de toren
+bij de tolboom
 bij de toren
 bij de vloedgraaf
 bij de waterschuur
@@ -4514,6 +4596,7 @@ bij het kruitmagazijn
 bij oostappen
 bij polderte
 bijbankweg
+bijbelbrug
 bijbelgang
 bijdamweg
 bijdendijkstraat
@@ -4523,9 +4606,9 @@ bijdorp-west
 bijdorp-zuid
 bijdorplaan
 bijdorpplaats
+bijdorpplantsoen
 bijdorpplein
 bijdorpstraat
-bijendans
 bijendonk
 bijendreef
 bijengang
@@ -4541,12 +4624,14 @@ bijenlaan
 bijenlaar
 bijenlust
 bijenmeent
+bijenorchidee
 bijenpad
 bijenpark
 bijenschans
 bijenstand
 bijenstraat
 bijentiende
+bijentuin
 bijenveld
 bijenven
 bijenvlucht
@@ -4567,14 +4652,15 @@ bijlakker
 bijlakkers
 bijland
 bijlander
-bijlandpad
 bijlandseweg
 bijlcamppad
 bijldwarsstraat
 bijlestaal
 bijlesteel
 bijleveld
+bijleveldhaven
 bijleveldkade
+bijleveldkade zuid
 bijleveldlaan
 bijleveldsingel
 bijleveldstraat
@@ -4588,6 +4674,7 @@ bijlmermeerstraat
 bijlmerplein
 bijlmerpleinpad
 bijlmerringsloot
+bijlmerweide
 bijlokeplein
 bijlokestraat
 bijloopstraat
@@ -4613,7 +4700,6 @@ bijnenweg
 bijnkershoekstraat
 bijnsstraat
 bijschoterweg
-bijsselsebeek
 bijsselseweg
 bijster
 bijsterboschweg
@@ -4666,7 +4752,6 @@ bilderberg
 bilderberglaan
 bilderbos
 bilderdam
-bilderdammerlaan
 bilderdammerweg
 bilderdijkhof
 bilderdijkkade
@@ -4676,6 +4761,7 @@ bilderdijkplantsoen
 bilderdijkplein
 bilderdijkstraat
 bilderdijkwende
+bilderhof
 bildersstraat
 bildersteeg
 bildersweg
@@ -4706,7 +4792,7 @@ billie holidaylaan
 billie holidaypad
 billie holidayrode
 billie holidaystraat
-billie hollidaystraat
+billinghuizerweg
 billitonflat
 billitonkade
 billitonlaan
@@ -4714,11 +4800,11 @@ billitonplein
 billitonstraat
 billitonweg
 billrothstraat
-billy holidaystraat
 billy wilderstraat
 bilserbaan
 bilserpad
 bilt
+bilthoven 32
 bilthovenselaan
 bilthovenseweg
 biltlaan
@@ -4760,6 +4846,7 @@ bindweg
 bindwilg
 bing crosbypad
 bing crosbystraat
+bingelhof
 bingelkruid
 bingelradepad
 bingelradepark
@@ -4780,6 +4867,7 @@ binkhorsterkerkpad
 binndeur
 binnebaen
 binneblijfstraat
+binnehaof
 binnemansdijk
 binnen
 binnen a.e.
@@ -4790,9 +4878,9 @@ binnen de veste
 binnen de wallen
 binnen delftpad
 binnen dommersstraat
+binnen dreef
 binnen hil
 binnen kalkhaven
-binnen liede
 binnen liedepad
 binnen oranjestraat
 binnen parallelweg
@@ -4800,7 +4888,6 @@ binnen vissersstraat
 binnen walevest
 binnen wieringerstraat
 binnen-jager
-binnen-jagerpad
 binnenbaan
 binnenbaardt
 binnenban
@@ -4810,6 +4897,7 @@ binnenbans
 binnenbeekstraat
 binnenboogerd
 binnenboomweg
+binnenbospad
 binnenbroekweg
 binnenbuorren
 binnenburg
@@ -4834,7 +4922,6 @@ binnenduinstraat
 binnenduinweg
 binnendyk
 binnendyks
-binnend„πr
 binnenes
 binnenesweg
 binnengasthuisstraat
@@ -4853,11 +4940,6 @@ binnenhei
 binnenheuvelpark
 binnenhoek
 binnenhof
-binnenhof derde straat
-binnenhof negende straat
-binnenhof negentiende straat
-binnenhof vijftiende straat
-binnenhof zestiende straat
 binnenhofje
 binnenhofke
 binnenhofstraat
@@ -4879,6 +4961,7 @@ binnenluiendijk
 binnenmaasoever
 binnenmeet
 binnenmoerdijkse baan
+binnenmoerdijksebaan
 binnenmolenstraat
 binnenoostsingel
 binnenpaad
@@ -4889,6 +4972,7 @@ binnenpas
 binnenplaats
 binnenplein
 binnenpolder
+binnenpolderpad
 binnenpolderringdijk noord
 binnenpolderweg
 binnenpoort
@@ -4910,7 +4994,7 @@ binnentroch
 binnentuin
 binnentuinen
 binnentuinlaan
-binnent„∫n
+binnent√∫n
 binnenvaart
 binnenvaartweg
 binnenvaert
@@ -4928,7 +5012,6 @@ binnenwater
 binnenwatersloot
 binnenweeren
 binnenweg
-binnenweg naar arnemuiden
 binnenwegje
 binnenwegplein
 binnenwei
@@ -4946,10 +5029,9 @@ binsfelderhof
 binsfeldstraat
 binsveldhofstraat
 bintangweg
+bintje
 biograaf
-biomassastraat
 bionsmastraat
-bioscoopgarage
 biothof
 biotoop
 biotstraat
@@ -4985,8 +5067,9 @@ bishorn
 biskopsreed
 biskopswei
 bislett
-bisletweg
+bismarkweg
 bisonlaan
+bisonpad
 bisonspoor
 bisonstraat
 bisonweg
@@ -5003,7 +5086,6 @@ bisschop boermansstraat
 bisschop bottemanneplein
 bisschop bottemannestraat
 bisschop callierstraat
-bisschop crabbeelsstraat
 bisschop davidlaan
 bisschop davidweg
 bisschop de bergaignestraat
@@ -5049,6 +5131,7 @@ bisschop willebrandlaan
 bisschop zwijsenplein
 bisschop zwijsenstraat
 bisschop-bekkerslaan
+bisschoperf
 bisschoplaan
 bisschoppendreef
 bisschopsberg
@@ -5077,17 +5160,18 @@ bisschopsweg
 bisschopswetering
 bisschopswijk
 bisschopweg
+bisse
 bissebranddijk
 bisseltsebaan
 bissenbeemdenweg
 bissenvoetpad
 bisseweg
+bitadreef
 bitgumerdyk
-bitgumerl„¢n
+bitgumerl√¢n
 bitse
 bitswijk
 bittenserpaed
-bittere veldkersvliet
 bitterhoekseweg
 bitterkruid
 bitterkruidpad
@@ -5111,18 +5195,20 @@ bizetplantsoen
 bizetstraat
 bizon
 bizonplantsoen
-bi„´nbergseweg
+bi√´nbergseweg
+bjimsterweg
 bjimsterwei
 bjirkehof
-bjirkeh„¥f
+bjirkeh√¥f
 bjirkepaed
 bjirkestrjitte
 bjirkewei
 bjirmenstate
-bj„∂rnsonweg
+bj√∂rnsonweg
 blaak
 blaakbeemden
 blaakkreek
+blaakmanpad
 blaakse wetering
 blaaksedijk
 blaaksedijk oost
@@ -5130,11 +5216,11 @@ blaaksedijk west
 blaakseweg
 blaakvenweg
 blaakweg
+blaakweide
 blaankamp
 blaardorpseweg
 blaardorpstraat
 blaarkop
-blaarkopperstraat
 blaarkopstraat
 blaarkopweide
 blaarpeelweg
@@ -5143,6 +5229,7 @@ blaarthemseweg
 blaarweg
 blaasaf
 blaasbalg
+blaasbalgpoort
 blaasbalgstraat
 blaasbalgweg
 blaasjeskruid
@@ -5159,13 +5246,13 @@ blaauwe steen
 blaauwgeersstraat
 blaauwhoflaan
 blaauwlakensteeg
-blaauwplein
 blaauwslaan
 blaauwstraat
 blaauwsweg
 blaauwven
 blaauwweg
 black alicante
+black watch route
 blackwoodstraat
 blackzijweg
 blad
@@ -5174,6 +5261,8 @@ bladderswijk wz
 bladelpad
 bladelsedijk
 bladelstraat
+bladerdak
+bladerlicht
 bladerstraat
 bladgroen
 bladhaantje
@@ -5198,9 +5287,7 @@ blaise pascalstraat
 blake
 blake beemd
 blaker
-blaktdijk
 blakterweg
-blaktweg
 blalopad
 blaloweg
 blamanstraat
@@ -5213,7 +5300,6 @@ blanckenberghofstraat
 blanckenhagenweg
 blanckerhofweg
 blanckerserf
-blanckertstraat
 blanckestyn
 blanckstraat
 blanckvoortallee
@@ -5228,7 +5314,6 @@ blankena
 blankenadijk
 blankenastraat
 blankenberg
-blankenberg allee
 blankenbergestraat
 blankenberggrub
 blankenbergseweg
@@ -5241,16 +5326,19 @@ blankenburgerstraat
 blankenburgse rak
 blankenburgsestraat
 blankenburgstraat
+blankendalweg
 blankendalwei
 blankenhammerweg
 blankenhammerzeedijk
 blankenhampad
 blankenheymstraat
+blankenhoefsedwarsstraat
 blankenhoefseweg
 blankenhuisweg
 blankenpad
 blankenslaan-oost
 blankenslaan-west
+blankensloot
 blankensplein
 blankensteijn
 blankenstein
@@ -5263,7 +5351,6 @@ blankenvoortsweg
 blankenweg
 blankersberg
 blankershoek
-blankersplas
 blankersweg
 blankert
 blankertlaan
@@ -5277,16 +5364,14 @@ blankvoornstraat
 blankvoortpad
 blankwater
 blarenkamp
-blarenmate
 blariacumplein
 blariacumstraat
+blaricum 8
 blaricumhof
 blaricummerdreef
 blaricummerstraat
 blaricummertollaan
-blaricummerweg
 blaricumparklaan
-blaricumse sluis
 blaricumseplein
 blaricumsingel
 blarinckhorsterweg
@@ -5302,20 +5387,20 @@ blatensedijk
 blaublomke
 blaublomkepaad
 blauforlaet
-blauh„∫sstrjitte
-blauh„∫sterleane
-blauh„ªs
-blauh„ªskamp
-blauh„ªsterwei
+blauh√∫sstrjitte
+blauh√∫sterleane
+blauh√ªs
+blauh√ªskamp
+blauh√ªsterwei
 blaukeesje
 blauknopke
-blaul„¢nsreed
+blaul√¢nsreed
 blaupot ten catehof
 blausingel
 blauw
+blauw campen
 blauw druifje
 blauw glidkruid
-blauw kampseweg
 blauw-roodlaan
 blauwband
 blauwbandkade
@@ -5326,8 +5411,10 @@ blauwborg
 blauwborgje
 blauwborst
 blauwborstlaan
+blauwbrug 0236
 blauwburgwal
 blauwdasstraat
+blauwdruk
 blauwe akelei
 blauwe arendspad
 blauwe arendstraat
@@ -5337,7 +5424,6 @@ blauwe beer
 blauwe beltweg
 blauwe berg
 blauwe beugelstraat
-blauwe bijltjesgang
 blauwe bos
 blauwe brug
 blauwe camer
@@ -5357,7 +5443,6 @@ blauwe hoeve
 blauwe hof
 blauwe huis
 blauwe jaap
-blauwe kaaszwam
 blauwe kamer beemd
 blauwe kamer jagertje
 blauwe kamer kreek
@@ -5370,6 +5455,7 @@ blauwe kei
 blauwe keiweg
 blauwe kiekendieflande
 blauwe klok
+blauwe loper
 blauwe oven
 blauwe pad
 blauwe pan
@@ -5391,12 +5477,11 @@ blauwe torenpad
 blauwe torenstraat
 blauwe torenweg
 blauwe tramstraat
-blauwe tramstraat
 blauwe venstraat
 blauwe vinvis
-blauwe vogelspad
 blauwe vogelweg
 blauwe weg
+blauwe wener
 blauwe wijngaardrank
 blauwe zeedistel
 blauwe zeedistelstraat
@@ -5427,6 +5512,7 @@ blauwewijk
 blauwewyk
 blauwgras
 blauwgraspad
+blauwgrassteeg
 blauwhand
 blauwhek
 blauwhekken
@@ -5441,6 +5527,7 @@ blauwkapel
 blauwkapelsepad
 blauwkapelseweg
 blauwkarper
+blauwlegger
 blauwloop
 blauwmaad
 blauwmutsenpad
@@ -5450,6 +5537,7 @@ blauwpolderkade
 blauwpoort
 blauwpoortsbrug
 blauwpoortseweg
+blauwpoortshaven
 blauwpoortsplein
 blauwpoortsweg
 blauwpotskamp
@@ -5510,6 +5598,7 @@ bleekloop
 bleekmeer
 bleekmeerweg
 bleeksestraat
+bleeksteeg
 bleeksteen
 bleekstraat
 bleekveld
@@ -5526,17 +5615,19 @@ bleihof
 bleijdenhoeksestraat
 bleijenbeek
 bleijenbeekhof
+bleijenbeeksebosweg
 bleijenburg
 bleijenburgstraat
 bleijendaal
 bleijendaalseweg
+bleijendijk
 bleijenhoek
 bleijerheiderstraat
-bleijkmeerpolder
 bleijs
 bleinheim
 bleipad
 bleistraat
+bleiswijk 8
 bleiswijkpad
 bleiswijkplein
 bleiswijksepad
@@ -5546,6 +5637,7 @@ blekberstraat
 blekdijk
 bleke heidestraat
 blekemeer
+blekemeerweg
 blekenbergplein
 blekenbergstraat
 blekenbrinkweg
@@ -5563,12 +5655,14 @@ blekersdam
 blekersdijk
 blekerserf
 blekersgang
+blekersgracht
 blekershoek
 blekershoeve
 blekershof
 blekerskade
 blekerslaan
 blekerspad
+blekerspark
 blekerspoort
 blekerssingel
 blekerstraat
@@ -5582,7 +5676,10 @@ blekestraat
 blekkehei
 blekkenhorstweg
 blekkerserf
+blekkinkdwweg
+blekkinkgrensweg
 blekkinkhofweg
+blekkinkveenweg
 blekslage
 blekslagebrugweg
 blekslageweg
@@ -5621,7 +5718,6 @@ bleyenbeekdreef
 bleyenbeekstraat
 bleyenburgstraat
 bleyenhoevelaan
-bleyersteeg
 bleyslaan
 bleysstraat
 blicksteijn
@@ -5631,10 +5727,8 @@ bliekenbos
 blieksloot
 blieneweg
 blienkerd
-blija„´rmiedweg
 blijburg
 blijdeburg
-blijdendijkstraat
 blijdenstein
 blijdensteinbleekweg
 blijdensteinlaan
@@ -5645,11 +5739,12 @@ blijderuwe
 blijdesteijn
 blijdestein
 blijdorplaan
+blijdorppad
 blijdschapstraat
-blijenbergstraat
 blijenburghsweer
 blijenhoek
 blijensteinstraat
+blijham
 blijhamsterstraat
 blijhamsterweg
 blijklaan
@@ -5687,10 +5782,8 @@ blikveld
 blikveldpad
 blikveldweg
 blikweg
-blikweide
 blinckvliet
 blinde banisweg
-blinde katersteeg
 blinde lau
 blindehoek
 blindeliedengasthuissteeg
@@ -5700,7 +5793,6 @@ blindenhoek
 blindenstraat
 blindenweg
 blindesteeg
-blindesteeg thans springweg
 blindeweg
 blindewijk
 blinen
@@ -5727,6 +5819,7 @@ bloedkoraalstraat
 bloedstraat
 bloedweg
 bloeidaalpad
+bloeilaan
 bloemaartsbeemd
 bloemaertlaan
 bloemaertstraat
@@ -5753,7 +5846,6 @@ bloemenblauwtje
 bloemenbosweg
 bloemenburgerhof
 bloemendaal
-bloemendaalbrug
 bloemendaallaan
 bloemendaalpassage
 bloemendaalse zeedijk
@@ -5764,17 +5856,6 @@ bloemendaalstraat
 bloemendaalweg
 bloemendaele
 bloemendaelhofstraat
-bloemendal a
-bloemendal b
-bloemendal c
-bloemendal d
-bloemendal e
-bloemendal f
-bloemendal g
-bloemendal h
-bloemendal i
-bloemendal j
-bloemendal k
 bloemendalergouw
 bloemendalerhof
 bloemendalerpoldersingel
@@ -5799,6 +5880,7 @@ bloemenkampsweg
 bloemenkelderlaan
 bloemenksweg
 bloemenlaan
+bloemenland
 bloemenlust
 bloemenmarkt
 bloemenmeent
@@ -5806,7 +5888,6 @@ bloemenoordplein
 bloemenpad
 bloemenplein
 bloemenschans
-bloemensingel
 bloemenstee
 bloemenstraat
 bloementuin
@@ -5839,6 +5920,7 @@ bloemhofplein
 bloemhofstraat
 bloemhofweg
 bloemistendam
+bloemistenhof
 bloemistenlaan
 bloemisterijstraat
 bloemkamp
@@ -5852,25 +5934,29 @@ bloemluststraat
 bloemlustweg
 bloemmolen
 bloemparterre
+bloempjesven
 bloempjesvendreef
 bloempotsteeg
 bloemschevaertpad
 bloemsingel
+bloemslingerpad
 bloemstede
 bloemsteeg
 bloemstein
 bloemstok
 bloemstraat
+bloemtuin
 bloemvelderbrug
 bloemveldlaan
-bloemvenweg
 bloemweg
 bloemwijk
 bloemwijklaan
 bloemwilg
+bloemzoete
 bloesem
 bloesemberg
 bloesemgaard
+bloesemgaarde
 bloesemgeel
 bloesemhof
 bloesemlaan
@@ -5885,8 +5971,8 @@ blois van treslongstraat
 blok
 blokakker
 blokakkers
+blokakkerweg
 blokbrekerspad
-blokbrekersstraat
 blokdijk
 blokdijkpad
 blokdrukweg
@@ -5897,6 +5983,7 @@ blokfluit
 blokfluithof
 blokfluitlaan
 blokfluitstraat
+blokgouw
 blokhoeve
 blokhoven
 blokhuis
@@ -5909,12 +5996,12 @@ blokhuizersteeg
 blokhutweg
 blokhuys
 blokjesplaat
-blokkampsedreef
 blokkeel
 blokkendijk
 blokkendoos
 blokkenmakerssteeg
 blokkenmatweg
+blokkenpad
 blokkenweg
 blokkenweide
 blokkerhoek
@@ -5943,7 +6030,6 @@ blokmergouw
 blokmiesstrjitte
 blokmoeren
 blokpolder
-blokpost
 blokpostweg
 blokschaaf
 bloksedijk
@@ -5965,7 +6051,9 @@ blokum
 blokvang
 blokveenstraat
 blokvenlaan
+blokvormenmagazijnweg
 blokvucht
+blokwals 3 weg
 blokweerschekade
 blokweersingel
 blokweerweg
@@ -5973,13 +6061,14 @@ blokweg
 blokwetering
 blokwieke
 blokwinkelweg
+blokzijbrug
 blokzijlerdijk
 blokzijlerdwarsweg
 blokzijlerweg
 blokzijlmeen
 blokzijlpark
 blokzijlseweg
-blokzijlvesting
+blomacker
 blomakker
 blomenbrinck
 blomendaalstraat
@@ -5993,28 +6082,28 @@ blommendaelstraat
 blommersdijkselaan
 blommerslaan
 blommersstraat
+blommerstee
 blommert
 blommesteinsingel
-blommestijn
 blomsgaarden
 blomsingel
 blomslaan
-blomsp„¥le
+blomsp√¥le
 blomsteech
 blomstraat
 blomstrjitte
 blomswaard
-blomt„∫n
+blomt√∫n
 blomweg
 blomwijckerpad
 blondeelpad
 blondeelstraat
-blonsplein
 blooisedijk
 blooksven
 blookweg
 bloomsweg
 bloote weg
+blossempark
 blotekamperweg
 blotenberglaan
 blotenburgerhof
@@ -6029,19 +6118,18 @@ blueslaan
 bluesroute
 bluijssens broekdijk
 bluisterplein
+blukdreef
 blumstraat
-bluss„© van oud-alblasplein
-bluss„©straat
+bluss√© van oud-alblasplein
+bluss√©straat
 bluswater
 blyde incomstelaan
-blyergrubbe
 blynsewei
-bl„©riotlaan
-bl„©riotpark
-bl„©riotstraat
-bl„™dlok
-bl„™dmoas
-boabelweg
+bl√©riotlaan
+bl√©riotpark
+bl√©riotstraat
+bl√™dlok
+bo bardistraat
 boadreef
 boakenkampsweg
 boakenweg
@@ -6053,7 +6141,7 @@ boarkensloane
 boarnburgumer heawei
 boarnsterdyk
 boarnsweachsterdyk
-boarnsw„¢l
+boarnsw√¢l
 boarnsylsterwei
 boarnwerthuzen
 boarskulp
@@ -6061,6 +6149,7 @@ boas en judelshof
 boatebuorren
 bob angelostraat
 bob boumanstraat
+bob de langepad
 bob de langestraat
 bob haarmslaan
 bob marleylaan
@@ -6069,7 +6158,6 @@ bob oosthoeklaan
 bob spaaklaantje
 bobbeleweg
 bobbenagelseweg
-bobbert
 bobbeweelweg
 bobbieplantsoen
 bobbinkhof
@@ -6114,6 +6202,7 @@ bocstraat
 bocxweerdpad
 bodaanpad
 bodaanstraat
+bodaanweg
 boddaertstraat
 boddelenweg
 boddelersweg
@@ -6130,6 +6219,9 @@ boddeveld
 bode
 bode-erfweg
 bodegraafsestraatweg
+bodegraven 12
+bodegraven 12a
+bodegraven-centrum 11
 bodegravenpad
 bodegravenplantsoen
 bodegravenstraat
@@ -6139,6 +6231,7 @@ bodelo
 bodelohof
 bodelolaan
 bodem van elde
+bodemaerhof
 bodemansteeg
 bodemanstraat
 bodemmes
@@ -6151,6 +6244,7 @@ bodendijk
 bodenheimlaan
 bodenheimstraat
 bodenmeer
+bodenpad
 bodenplaats
 bodenseehof
 bodenven
@@ -6162,6 +6256,7 @@ bodeweg
 bodohout
 boebegraaf
 boech
+boechkade
 boechorsthof
 boeckenburg
 boeckhorststraat
@@ -6177,7 +6272,6 @@ boedelhof
 boedelhofweg
 boedijnhof
 boedijnpad
-boedingseweg
 boeg
 boegbeeld
 boegdreef
@@ -6187,6 +6281,7 @@ boeghof
 boegmeen
 boegpad
 boegspriet
+boegsprietloop
 boegstaete
 boegstraat
 boeienstraat
@@ -6195,7 +6290,9 @@ boeier 01
 boeier 02
 boeier 03
 boeier 04
+boeier 60
 boeieraak
+boeierbrug
 boeierhof
 boeierkade
 boeierlaan
@@ -6238,7 +6335,6 @@ boekdrukkerij
 boekdrukkersgilde
 boekdrukkerspad
 boekdrukkersveste
-boekebeamh„¥f
 boekebeamstrjitte
 boekel
 boekelaan
@@ -6288,7 +6384,6 @@ boekerman
 boekerslootlaan
 boekert
 boekesingel
-boekestein
 boekesteynlaan
 boekestokkerweg
 boekestokstraat
@@ -6305,13 +6400,11 @@ boekhorstlaan
 boekhorststraat
 boekhorstweg
 boekhorstweg n. zijweg
-boekhorstweg z. zijweg
 boekhorstweg zijweg
 boekhout
 boekhouteweg
 boekhoutstraat
 boekvink
-boekvinkstraat
 boekvinkweg
 boekweit
 boekweit-oord
@@ -6339,10 +6432,10 @@ boekweitstraatje
 boekweitstrjitte
 boekweittiende
 boekweitveen
-boekweitveenweg
 boekweitveld
 boekweitweg
 boelaertstraat
+boele bregmanweg
 boele van hensbroekstraat
 boelebusseweg
 boelehaven
@@ -6365,6 +6458,7 @@ boelhof
 boelhouwerstraat
 boeli van leeuwenstraat
 boelijn
+boelijnbrug
 boelisstraat
 boelkenweg
 boellaardlaan
@@ -6387,19 +6481,23 @@ boendersveld
 boendersweg
 boenerstraat
 boeninksteeg
+boeninkweg
 boeninlaan
 boenluif
 boenstoep
 boer bartpad
 boer goensepad
+boerakker 33
 boerakkerweg
 boerbank
 boerbrink
 boerdamsterweg
-boerderij
+boerderij 't hoff
+boerderijdreef
 boerderijenboulevard
 boerderijenlaan
 boerderijenpad
+boerderijhof
 boerderijlaan
 boerderijpad
 boerderijstraat
@@ -6407,7 +6505,6 @@ boerderijweg
 boerdiek
 boerdijk
 boerdonksedijk
-boerdonkseweg
 boerdonkseweg-noord
 boere jonkerplein
 boere jonkerstraat
@@ -6422,6 +6519,7 @@ boerenbergpad
 boerenbond
 boerenbondpad
 boerenbondplein
+boerenbondspad
 boerenbondstraat
 boerenbondsweg
 boerenbroekweg
@@ -6444,15 +6542,18 @@ boerengorzen
 boerengroen
 boerengroenpad
 boerengroenstraat
+boerenheiweg
 boerenhoek
 boerenhoekstraat
+boerenhof
 boerenhol
 boerenkamplaan
 boerenkavelweg
 boerenklompenstraat
+boerenkool
 boerenlaan
 boerenlaantje
-boerenovenweg
+boerenland
 boerenpad
 boerenschouw
 boerensloot
@@ -6468,10 +6569,10 @@ boerenweteringpad
 boerenzwaluw
 boerenzwaluwpad
 boerenzwaluwstraat
+boerenzwaluwveld
 boerepaed
 boereplein
 boeresingel
-boeresteeg
 boerestege
 boerestreek
 boereveen
@@ -6494,9 +6595,9 @@ boerhaavepad
 boerhaaveplein
 boerhaavestraat
 boerhaaveweg
-boerhamsterweg
 boerhave
 boerheem
+boerhof
 boerhofstraat
 boerhoorn
 boerhoorndreef
@@ -6518,8 +6619,10 @@ boerlandsdijk
 boerlandspad
 boerlestraat
 boermaat
+boermabrug
 boermandestraat
 boermanjeweg
+boermanspad
 boermansstraat
 boermansweg
 boermark
@@ -6570,6 +6673,7 @@ boesberglaan
 boeschoterweg
 boesemeer
 boesemsingel
+boesingheliede
 boesjeskampweg
 boeslaan
 boesmate
@@ -6603,13 +6707,14 @@ boezem
 boezembaan
 boezembocht
 boezemdijkpad
-boezemdreef
 boezemdwarsstraat
 boezemhof
 boezemkade
+boezemkopbrug
 boezemkoppad
 boezemlaan
 boezemlanden
+boezemlandseweg
 boezemmolen
 boezemmolenpad
 boezempad
@@ -6619,15 +6724,13 @@ boezemstraat
 boezemvliet
 boezemweg
 boezeroen
-boezeroen
 boezeweg
-boe„´nderdel
+boe√´nderdel
 boffersweidje
 bofur
 bogaard
 bogaardenplaats
 bogaardenstraat
-bogaardlaan
 bogaardplein
 bogaardslaan
 bogaardstraat
@@ -6661,8 +6764,10 @@ bogortuin
 bogotadreef
 bogotalaan
 bogotastraat
-bogot„°straat
+bogot√°straat
+bogt
 bogtenstraat
+bogtmanpark
 bogtmanweg
 bogtpad
 bohanstraat
@@ -6675,11 +6780,10 @@ bohr
 bohrlaan
 bohrstraat
 bohrweg
-boh„®mepad
+boh√®mepad
 boijensstraat
 boijlerweg
 boinksweide
-boisothof
 boisotkade
 boisotstraat
 boissevainweg
@@ -6698,6 +6802,7 @@ bokhorstlanden
 bokhovense maasdijk
 bokhovenseweg
 bokhovenstraatje
+bokkebunstweg
 bokkedijk
 bokkeduinen
 bokkeduinenhof
@@ -6726,11 +6831,12 @@ bokkestege
 bokkeweg
 bokkewegeling
 bokkewiel
+bokkinghange
 bokkinghangen
 bokkingshang
 bokkingstraat
 bokkumer omwei
-bokkumerw„¢l
+bokkumerw√¢l
 bokmasingel
 bokploegpad
 bokrijkstraat
@@ -6772,6 +6878,7 @@ bokweg
 bol
 bolacaciahof
 bolakker
+bolakkers
 bolakkerweg
 bolbaan
 bolbaken
@@ -6808,6 +6915,7 @@ boleemweg
 boleet
 bolenbergweg
 bolenstein
+bolensteinpad
 bolensteinsestraat
 bolensteinseweg
 bolensteinstraat
@@ -6838,8 +6946,8 @@ bolkenplein
 bolkensteeg
 bolkhofsweg
 bolkhorstweg
+bolkokerstraat
 bolkruid
-bolkruidpad
 bolkruidstraat
 bolksbeek
 bolksbeekstraat
@@ -6856,8 +6964,8 @@ bollandweg
 bollardveen
 bolle akker
 bolle akkers
-bolle-akkerpad
 bollebruggang
+bollekade
 bollekenspad
 bollekuilendijk
 bollelaan
@@ -6865,6 +6973,7 @@ bollemanssteech
 bollemanssteeg
 bollemaweg
 bollendonkseweg
+bollendorp
 bollendreef
 bollengoed
 bollenhoef
@@ -6876,6 +6985,7 @@ bollenkwekerspad
 bollenlaantje
 bollenland
 bollenmarkt
+bollenschuit
 bollenstraat
 bollenveld
 bollenweg
@@ -6901,6 +7011,7 @@ bolpraamweg
 bolpraamwerf
 bolraapstraat
 bolramerstraat
+bolscher
 bolscher landen
 bolscherdwarsweg
 bolschersweg
@@ -6923,6 +7034,8 @@ bolstrapad
 bolstraschans
 bolstrastraat
 bolstweg
+bolsward 17
+bolsward-oost 18
 bolswarderbaan
 bolswardervaart
 bolswarderweg
@@ -6930,18 +7043,18 @@ bolswardhoeve
 bolswardlaan
 bolswardstraat
 boltapad
+boltastate
 boltawei
 boltelaan
 boltensweg
 bolthagen
-boltham
 boltjalk
 boltje
-boltsbroekerweg
 boltschestraat
 boltsebroek
 boltslaan
 boltweg
+bolvaas
 bolwaterstraat
 bolwerk
 bolwerk de kat
@@ -6961,7 +7074,6 @@ bolwerkweg
 bolzanohage
 bolzijl
 bomanshof
-bomanshove
 bomansplaats
 bomansstraat
 bomas
@@ -6974,7 +7086,6 @@ bombay
 bombaydreef
 bombaystraat
 bombazijnstraat
-bomberghvlonderke
 bombeydaal
 bombiezen
 bombraak
@@ -6998,7 +7109,6 @@ bomhof
 bomhofsweg
 bomkade
 bommegaerde
-bommelasfietspad
 bommelaspad
 bommelerwaard
 bommelier
@@ -7031,10 +7141,8 @@ bonckenburchstraat
 bondamlaan
 bondersweg
 bonderweg
-bondserf
 bondstraat
 bondweg
-bonedijkestraat
 bonegraafseweg
 bonekamp
 bonekampstraat
@@ -7055,16 +7163,15 @@ bonenkampstraat
 bonenkampsweg
 bonenkruidpad
 bonenkruidstraat
-bonenmate
 bonenpotter
 bonenweg
 bonepad
-bonepadsweg
 boneputteweg
 boneschans
 boneschanskerweg
 bonesmolen
 bonestaak
+bonfatiusstraat
 bonfut
 bong
 bongaarderweg
@@ -7109,6 +7216,7 @@ bonghaer
 bongier
 bongiusweg
 bongveenweg
+bongveldweg
 bongweg
 bonhagen
 bonhagen k
@@ -7127,7 +7235,6 @@ bonifatiushof
 bonifatiuslaan
 bonifatiusplein
 bonifatiuspolder
-bonifatiussteeg
 bonifatiusstraat
 bonifatiusstrjitte
 bonipad
@@ -7164,7 +7271,6 @@ bonn en meeswerf
 bonne louise
 bonne louiselaan
 bonnebrekkenwei
-bonnefanten
 bonnefantenstraat
 bonnehosstraat
 bonnemalaan
@@ -7195,6 +7301,7 @@ bonserdyk
 bonseweg
 bonstraat
 bont dikkopje
+bont zandoogje
 bontampsstraat
 bonte beer
 bonte brugstraat
@@ -7218,9 +7325,9 @@ bonteboksleane
 bontebrug
 bontehondstraat
 bontekamp
-bontekoegang
 bontekoekade
 bontekoelaan
+bontekoepark
 bontekoerede
 bontekoesteeg
 bontekoestraat
@@ -7230,6 +7337,7 @@ bontenweg
 bontepapesteeg
 bontepolderstraat
 bontepoort
+bontevlier
 bonteweg
 bonthuispad
 bontiuslaan
@@ -7239,7 +7347,6 @@ bontsestraat
 bontwerker
 bontwerkersdreef
 bontwerkersgaarde
-bontwerkersgang
 bontwerkersgilde
 bontwerkersstraat
 bontwerkerstraat
@@ -7257,7 +7364,6 @@ boogaerdtstraat
 boogaertshof
 boogbrug
 boogerd
-boogerddreef
 boogerdlaan
 boogerdswegeling
 boogerdweg
@@ -7294,7 +7400,6 @@ boomakkerweg
 boomapad
 boomaplaats
 boomaweg
-boomberg
 boomberglaan
 boomblauwtje
 boomblauwtjelaan
@@ -7303,6 +7408,7 @@ boomdijk
 boomeend
 boomen
 boomer waal
+boomerbergweg
 boomerwaalstraat
 boomgaard
 boomgaarddreef
@@ -7325,7 +7431,6 @@ boomgat
 boomgatweg
 boomhazelaaroord
 boomheide
-boomheidevoetpad
 boomheuvel
 boomhoefstraat
 boomhofstraat
@@ -7361,9 +7466,11 @@ boomland
 boomleeuwerik
 boommarkt
 boommarter
+boommarterhof
 boommarterstraat
 boompieper
 boompjes
+boompjesakkerweg
 boompjesdijk
 boompjesgoed
 boompjeskade
@@ -7405,13 +7512,14 @@ boonacker
 boonackers
 boonakker
 boonakkersteeg
+boonakkerstraat
 boonakkerweg
 boonberg
 boonenstraat
 boonenweg
 boonerhavenkade
+boonervlietbrug
 boonervlietkade
-booneslagpad
 boonestaakstraat
 boonevlietweg
 boonganger
@@ -7421,6 +7529,7 @@ boonhofstraat
 boonkamp
 boonkweg
 boonmanstraat
+boonstoppelkade
 boonstraat
 boonsweg
 boontjes
@@ -7430,7 +7539,6 @@ boor
 boord
 boorderstraat
 boordmoolweg
-boordmoolzijweg
 boordseweg
 boorlaan
 boormolen
@@ -7470,8 +7578,8 @@ booyenverlaat
 boppe
 boppedraei
 boppefjild
-boppel„¢nnen
-boppel„¢ns
+boppel√¢nnen
+boppel√¢ns
 boppepaad
 boppeslach
 boppesteech
@@ -7500,7 +7608,6 @@ borckerveld
 borckinkweg
 borculo
 borculolaan
-borculopad
 borculopark
 borculoseweg
 bordeauxdreef
@@ -7513,7 +7620,6 @@ border
 bordes
 bordeslaan
 bordesstraat
-bordestraat
 bordestrap
 bordetstraat
 bordewijkhove
@@ -7530,7 +7636,6 @@ boreasplein
 boreel de mauregnaultstraat
 boreelplein
 boreelstraat
-borelliweg
 borenburgstraat
 borg
 borg allersma
@@ -7553,16 +7658,16 @@ borgelestraat
 borgelinkstraat
 borgelinksweg
 borgenweg
+borger
 borgerbrink
 borgercompagnie
-borgercompagniester zwarteweg
 borgercompagniesterstr
 borgercompagniesterweg
-borgercompagniesterweg zwarteweg
 borgercompagniesterzw.wg
 borgerderstraat
 borgerderweg
 borgerdiep
+borgerfietspad
 borgerhoutlaan
 borgerinkstraat
 borgerlaan
@@ -7635,7 +7740,6 @@ borgwal
 borgwallinge
 borgweersterweg
 borgweg
-borgweide
 borinagestraat
 boringshof
 boris pasternak-erf
@@ -7646,18 +7750,20 @@ borkeldsweg
 borkeldweg
 borkelsedijk
 borkenstraat
+borkerdrift
 borkerstraat
 borkum
 borkumerrif
 borkumkade
 borkumweg
 bormanshof
+born 47
 bornberg
 bornbergerpad
 bornbergerweg
 borndiep
-borndieppad
 borne
+borne-west 29
 bornebosseweg
 bornedaal
 bornego
@@ -7667,9 +7773,11 @@ borneo
 borneohof
 borneokade
 borneolaan
+borneopad
 borneoplein
 borneosteiger
 borneostraat
+borneoviaduct
 borneoweg
 borner markt
 bornerbroeksestraat
@@ -7681,9 +7789,11 @@ bornerveldstraat
 bornerweg
 bornevillerweg
 borngats
+bornheim
 bornhemweg
 bornhofweg
 bornholm
+bornholmbrug
 bornholmlaan
 bornholmpier
 bornholmstraat
@@ -7694,6 +7804,7 @@ bornialeane
 borniastraat
 bornissestraat
 bornkamp
+bornlaan
 bornrif
 bornrifpad
 borns spoorpad
@@ -7708,7 +7819,7 @@ bornshoeve
 bornsteeg
 bornstraat
 bornweg
-born„©
+born√©
 borodinlaan
 borodinstraat
 boromir
@@ -7716,6 +7827,7 @@ borredreef
 borrekuilstraat
 borrendamme
 borrendammehof
+borrendijk
 borretpad
 borretstraat
 borrinkdijk
@@ -7743,19 +7855,23 @@ borszeestraat
 borteldonksestraat
 borweg
 bos
-bos der onverzettelijken
 bos en beemdweg
 bos en broek
 bos en duin
 bos en duinlaan
 bos en duinplein
 bos en hovenstraat
+bos en lommer
+bos en lommer 3
 bos en lommerplantsoen
 bos en lommerplein
 bos en lommerweg
 bos en vaartlaan
 bos en vaartstraat
+bos van bosman
+bos van veur
 bos, zee en duin
+bosackerweg
 bosakker
 bosakkers
 bosakkerweg
@@ -7768,6 +7884,7 @@ bosbadlaan
 bosbadlaantje
 bosbeek
 bosbeekjuffer
+bosbeekjufferbrug
 bosbeeklaan
 bosbeekweg
 bosbeemd
@@ -7776,6 +7893,7 @@ bosberg
 bosbergerweg
 bosbergstraat
 bosbes
+bosbeshof
 bosbeslaan
 bosbesplantsoen
 bosbesplein
@@ -7806,13 +7924,15 @@ bosbraam
 bosbrugweg
 bosburg
 bosch
+bosch en duinpark
 bosch en duinweg
 bosch en haven
+bosch en veld
 bosch van drakesteinlaan
 bosch van drakesteinpad
 bosch van rosenthalstraat
+bosch zandweg
 bosch-akker
-bosch-erf
 boschakker
 boschbergweg
 boschcour
@@ -7824,12 +7944,10 @@ boschdijktunnel
 boschduivenweg
 bosche dreef
 boscheind
-boschep„¢d
 boscherveldweg
 boscherweg
-boschesp„¢d
+boschesp√¢d
 boschgracht
-boschhoefpad
 boschhoekweg
 boschhoeve
 boschhof
@@ -7843,6 +7961,7 @@ boschmansweg
 boschmeerplein
 boschmeersingel
 boschmolenplas
+boschoord
 boschoordweg
 boschoven
 boschovenpad
@@ -7865,11 +7984,12 @@ boschstuk
 boschveldweg
 boschvoetpad
 boschweg
+boschweg htg
+boschzijweg
 bosdaldreef
 bosdammen
 bosdijk
 bosdijklaan
-bosdijkseweg
 bosdreef
 bosdrift
 bosduifstraat
@@ -7884,6 +8004,7 @@ bosgaarderweg
 bosgang
 bosgatdam
 bosgeelster
+bosgeus
 bosglimmerzoom
 bosgors
 bosgorsstraat
@@ -7898,6 +8019,7 @@ bosheidestraat
 bosheideweg
 bosheurneweg
 bosheuvel
+bosheuvellaan
 boshijgerslaantje
 boshoek
 boshoekerweg
@@ -7916,7 +8038,6 @@ boshovensebaan
 boshovensestraat
 boshovenstraat
 boshoverbeek
-boshoverheide
 boshoverheideweg
 boshoverweg
 boshuijsenlaan
@@ -7929,6 +8050,7 @@ boshuizerweg
 boshutlaan
 boshuysenstraat
 bosje
+bosje van zeverijn
 bosjeslaan
 bosjessteeg
 bosjesweg
@@ -7962,7 +8084,6 @@ boskoop
 boskooperstraat
 boskoopplantsoen
 boskoops glorie
-boskoopseweg
 boskoopstraat
 boskraai
 boskreed
@@ -7971,8 +8092,8 @@ boskreeklaan
 boskrekel
 boskriek
 boskriekoord
-boskr„¢ne
-boskr„¢nne
+boskr√¢ne
+boskr√¢nne
 bosksingel
 boskwartier
 boskwei
@@ -8023,11 +8144,10 @@ bosmuislaan
 bosmuispad
 bosmuiszoom
 bosmuizenlaar
-bosmuizenpad
 bosnoot
+bosorchidee
 bospad
-bosparkpad
-bosparkweg
+bospad n rucphen
 bospeelweg
 bospeenhof
 bosplaat
@@ -8040,7 +8160,6 @@ bospolderplein
 bospolderstraat
 bospolderweg
 bospoort
-bosporushaven
 bosporusstraat
 bosquetlaan
 bosrand
@@ -8060,6 +8179,7 @@ bosruiter
 bosruiterhof
 bosruiterweg
 bossa novastraat
+bossaertsstraat
 bosschaartsweg
 bosschaertpad
 bosschahof
@@ -8067,10 +8187,7 @@ bosschalaan
 bosschasteeg
 bosschastraat
 bosschawei
-bossche hofje
-bossche pad
 bosschebaan
-bosschekampstraat
 bosschen
 bosschendijk
 bosschenhoek
@@ -8091,7 +8208,6 @@ bosschieterstraat
 bosscholenpad
 bossebaan
 bossebaanpad
-bossebroekweg
 bossebrugweg
 bosseepad
 bosseestraat
@@ -8100,16 +8216,18 @@ bossekampstraat
 bossekampweg
 bosselaan
 bosselerstraat
-bossel„¢n
+bossel√¢n
 bossemaat
 bossenbroekerweg
 bossenburg
 bossenburghpad
 bossenburghweg
 bossenhoekweg
+bossenhuizenweg
 bossenwaard
 bossepad
 bosseplaat
+bosser houtweg
 bosserdijk
 bosserheide
 bosserheideweg
@@ -8119,7 +8237,6 @@ bosserhof
 bosserhoflaan
 bosserhofweg
 bosserkamp
-bosserlandweg
 bosserslandweg
 bosserstraat
 bosserveldlaan
@@ -8130,7 +8247,6 @@ bossestraat
 bossevaartweg
 bosseweg
 bosseweide
-bossgaet
 bossingel
 bossingschaaf
 bossinkkamp
@@ -8142,12 +8258,15 @@ bossteeg pad
 bosstraat
 bossulaan
 bost
+bostel
+bostelbrug
 bostelpad
 bostelstraat
 bostelweg
 bostenstraat
 bostondreef
 bostonplein
+bostonpoort
 bostonsingel
 bostonweg
 bostrop
@@ -8163,9 +8282,11 @@ bosvalkweg
 bosvaren
 bosveen
 bosveld
+bosveldkers
 bosveldstraat
 bosveldweg
 bosven
+bosvenne
 bosvenweg
 bosvijverlaan
 bosvink
@@ -8177,6 +8298,7 @@ boswachter kieftpad
 boswachter meelkerlaan
 boswachter neefsstraat
 boswachter van emstweg
+boswachterlaan
 boswachtersdreef
 boswachtersveld
 boswachtersweg
@@ -8196,7 +8318,6 @@ bosweistraat
 boswerf
 boswijk
 boswijkdreef
-boswijkerweg
 boswijklaan
 boswijkslaan
 boswijksstraat
@@ -8222,7 +8343,7 @@ botdragerdreef
 botdragerstraat
 bote van bolswertstraat
 bote van der walstraat
-bote „† bolswertstraat
+bote √† bolswertstraat
 boteinstraat
 botenlaan
 botenmakersstraat
@@ -8257,9 +8378,8 @@ boterdiepstraat
 boterdijk
 boterdijkweg
 boterdorpse verlaat
-boterdorpseviaduct
 boterdorpseweg
-boterd„∂rstpad
+boterd√∂rstpad
 boterfabriekweg
 botergatweg
 boterhek
@@ -8268,7 +8388,9 @@ boterhoeksestraat
 boterhoekseweg
 boterhoeve
 boterhof
+boterhuispolder
 boterhurken
+boteringebrug
 boteringeplaats
 boteringesingel
 boterkamp
@@ -8280,9 +8402,10 @@ boterkersstraat
 boterkorfhoek
 boterkreek
 boterland
+botermaker
 botermakerses
+botermakersstraat
 botermakerstraat
-boterman
 botermanswijk
 botermanweg
 botermarkt
@@ -8336,6 +8459,7 @@ botkreek
 botkuilweg
 botlandstraat
 botlek
+botlekbrug
 botlekhof
 botlekstraat
 botlekweg
@@ -8344,7 +8468,6 @@ botniastate
 botniasteeg
 botniastrjitte
 botniaweg
-botnische golf
 botnische golf
 botnischestraat
 botplein
@@ -8365,6 +8488,7 @@ botte jaerlastraat
 botte neijstraat
 bottelaarpassage
 bottelaarstraat
+bottelarij
 bottelarijpassage
 bottelarijstraat
 bottelgats
@@ -8423,13 +8547,14 @@ botter acker
 botteramstraatje
 botterbloem
 botterboulevard
+botterbrug
 botterdam
 botterdreef
+bottererf
 botterhof
 botterkade
 botterkamp
 botterkoel
-botterkoelweg
 botterlaan
 botterland
 bottermeen
@@ -8454,10 +8579,11 @@ bou kooijmanstraat
 bouburg
 boucquetstraat
 boudaenlaan
+boudelohof
 boudeloodijk
-boudewijn b„ºchlaan
-boudewijn b„ºchpad
-boudewijn b„ºchstraat
+boudewijn b√ºchlaan
+boudewijn b√ºchpad
+boudewijn b√ºchstraat
 boudewijn drenkwaartlaan
 boudewijn leenheerstraat
 boudewijn onderwaterlaan
@@ -8478,6 +8604,7 @@ bougainvillepad
 bouhuysweg
 bouillonstraat
 bouke de vriesstrjitte
+boukema's pad
 boukemahof
 boukeveld
 boukewyk
@@ -8489,7 +8616,6 @@ boulevard antverpia
 boulevard bankert
 boulevard barnaart
 boulevard de favauge
-boulevard de ruijter
 boulevard de ruyter
 boulevard de wielingen
 boulevard evertsen
@@ -8516,14 +8642,13 @@ bourgognekruisstraat
 bourgognelaan
 bourgogneplein
 bourgognestraat
-bourgondiestraat
 bourgondischelaan
 bourgondischestraat
-bourgondi„´
-bourgondi„´laan
-bourgondi„´plein
-bourgondi„´straat
-bourgondi„´weg
+bourgondi√´
+bourgondi√´laan
+bourgondi√´plein
+bourgondi√´straat
+bourgondi√´weg
 bouriciuslaan
 bouriciusstraat
 bourtangerkanaal noord
@@ -8563,7 +8688,6 @@ bouwberghof
 bouwbergstraat
 bouwdijk
 bouwdriest
-bouwdwarsweg
 bouwe harkemastrjitte
 bouwe hoekstrapad
 bouwe landlaan
@@ -8589,7 +8713,7 @@ bouwert
 bouwerweg
 bouwerweistraat
 bouwes tieuwn
-bouwesl„¢n
+bouwesl√¢n
 bouwheerstraat
 bouwhoeve
 bouwhof
@@ -8605,6 +8729,8 @@ bouwhuisweg
 bouwing
 bouwkamp
 bouwkamplaan
+bouwland
+bouwlandpad
 bouwlingplein
 bouwlingstraat
 bouwlust
@@ -8615,6 +8741,7 @@ bouwluststraat
 bouwluststraatje
 bouwlustweg
 bouwmanlaan
+bouwmanserf
 bouwmanspad
 bouwmanstraat
 bouwmansweg
@@ -8635,7 +8762,6 @@ bouwtelaan
 bouwteweg
 bouwvereniging
 bouwweg
-bouwweg station
 bouwweide
 boveltweg
 boven boukoul
@@ -8678,6 +8804,7 @@ bovenboer
 bovenboersepad
 bovenboerseweg
 bovenbroeksweg
+bovenbrug
 bovenbrugstraat
 bovenburen
 bovenbuurtweg
@@ -8694,12 +8821,11 @@ bovendorpseweg
 bovendorpsstraat
 bovendwarsweg
 boveneind
+boveneind n brug 94 92
 boveneind nz
 boveneind zz
-boveneindselaan
 boveneindsestraat
 boveneindseweg
-bovenende
 bovenenkweg
 bovenesweg
 bovengisting
@@ -8719,6 +8845,7 @@ bovenkerkerkade
 bovenkerkerpolder
 bovenkerkerpolderpad
 bovenkerkerweg
+bovenkerkse tiendweg
 bovenkerkseweg
 bovenkerkweg
 bovenkruier
@@ -8752,6 +8879,7 @@ bovenpolderweg
 bovenrijgerweg
 bovensasweg
 bovensbos
+bovensbosweg
 bovenschap
 bovenscheydt
 bovensim
@@ -8762,9 +8890,13 @@ bovenste bernauerweg
 bovenste boord
 bovenste boordfietspad
 bovenste boordweg
+bovenste boorweg
 bovenste caumer
+bovenste craveldweg
 bovenste eind
+bovenste eind zijpad
 bovenste heiweg
+bovenste juliusweide
 bovenste molenpad
 bovenste molenweg
 bovenste puth
@@ -8787,6 +8919,8 @@ bovenstraatweg
 bovenstreek
 bovenstreekpad
 boventilsterweg
+boventuinweg
+bovenvaart
 bovenveen
 bovenveenweg
 bovenveld
@@ -8797,8 +8931,9 @@ bovenweg
 bovenweid
 bovenwiel
 bovenwielstraat
+bovenwijde
 bovenwijkerweg
-boven„®nde
+boven√®nde
 boverhofsweg
 boviersdaal
 boviershofstraat
@@ -8818,18 +8953,24 @@ boxhofstede
 boxhornpad
 boxhornstraat
 boxhoverweg
+boxmeer 1
+boxmeer 6
 boxmeerhof
 boxmeerpad
 boxmeerseweg
 boxmeersingel
 boxmeerstraat
 boxtartstraat
+boxtel 26
+boxtel-noord 25
 boxteler baanplein
 boxtelplein
 boxtelsebaan
 boxtelseweg
 boxtelstraat
 boxwoudstraat
+boy ecurypad
+boy ecurypassage
 boy ecurystraat
 boy edgarlaan
 boy edgarstraat
@@ -8841,10 +8982,10 @@ boyleweg
 boymansweg
 boyneweg
 bozenhoven
-bo„´stiusstraat
-bo„´tiusstraat
-bo„¥venen
-bo„∂tes
+bo√´stiusstraat
+bo√´tiusstraat
+bo√¥venen
+bo√∂tes
 br christofoorlaan
 braadkamp
 braak
@@ -8880,13 +9021,14 @@ braakweg
 braam
 braamakkers
 braamberg
-braambergen
 braambergerhout
+braambergersluisbrug
 braambergerweg
 braambergpad
 braambergseweg
 braambergweg
 braambes
+braambeshof
 braambeslaan
 braambesweg
 braambos
@@ -8894,7 +9036,7 @@ braambosch
 braamdijk
 braamduin
 braamgaarde
-braamhaar
+braamhaar landen
 braamhaarsstraat
 braamheuvel
 braamhoek
@@ -8907,6 +9049,7 @@ braamkampen
 braamlaan
 braamlanden
 braampad
+braampeel
 braamse
 braamskamp
 braamsluiper
@@ -8964,10 +9107,8 @@ brachtertuinen
 brachterveld
 brachterweg
 brachterzijde
-brachterzijde parallelweg
 brachthuijzerstraat
 bradaal
-bradaweg
 bradepad
 bradfordstraat
 bradleystraat
@@ -8994,8 +9135,10 @@ braillepad
 braillestraat
 brailleweg
 brakel
+brakel ii
 brakelaan
 brakelhof
+brakelingsestraat
 brakels eng
 brakelsepad
 brakelsestraat
@@ -9009,7 +9152,6 @@ brakenburgstraat
 brakenstraat
 brakenweg
 brakenweide
-brakepad
 brakerhorst
 brakerspaed
 brakersweg
@@ -9028,9 +9170,9 @@ brakkeveldweg
 brakman
 braksdyk
 braksen diek
-braksp„¥lle
+braksp√¥lle
 brakstraat
-braks„¢n
+braks√¢n
 brakzand
 bram daalderhof
 bram dolywaard
@@ -9092,7 +9234,6 @@ brand 1786
 brand dirk ochsepark
 brandaanstraat
 brandakkerstraat
-brandakkersweg
 brandaris
 brandarishof
 brandarisplein
@@ -9132,11 +9273,11 @@ branderdijk
 branderf
 branderhorstweg
 branderij
-branderijhof
 branderijmolen
 branderijmolengang
 branderijstraat
 branderpad
+brandersbrug
 brandersdijk
 brandershorst
 brandershuislaan
@@ -9145,7 +9286,6 @@ brandersmolenstraat
 branderspad
 brandersplaats
 branderssteeg
-branderstraat
 brandersweg
 branderveenweg
 branderweg
@@ -9178,8 +9318,8 @@ brandlicht
 brandlichterweg
 brandligtsdijk
 brandligtswijk
-brandlintjes zijweg
 brandlintjesweg
+brandmeester
 brandnetel
 brandnetellaan
 brandpad
@@ -9192,10 +9332,10 @@ brandrietsweg
 brandrijsweg
 brandrodehof
 brandrood
-brandroodweide
 brandsbeemdseweg
 brandschouwer
 brandsdijk
+brandse steeg
 brandsepad
 brandsestraat
 brandseweg
@@ -9212,7 +9352,6 @@ brandsteeg
 brandstraat
 brandsweg
 brandt
-brandterweg
 brandtorenweg
 brandts buijsstraat
 brandts buyskade
@@ -9220,10 +9359,12 @@ brandts buyspark
 brandts buysstraat
 brandts buysweg
 brandtstraat
+brandtweg
 brandveenweg
 brandvenstraat
 brandwacht
 brandwachter
+brandweer
 brandweerplein
 brandweerstraat
 brandweg
@@ -9278,6 +9419,7 @@ brasserhoutweg
 brasserskade
 brassersplein
 brassersweg
+brasserwegeling
 brasweg
 bratislavahof
 bratislavapromenade
@@ -9288,11 +9430,9 @@ braurinckstraat
 brautigamstraat
 brauweringen
 braveld
-bravo
-brazili„´dreef
-brazili„´hof
-brazili„´laan
-brazili„´straat
+brazili√´dreef
+brazili√´hof
+brazili√´laan
 breakerweg
 brebitstraat
 brechtenstede
@@ -9305,6 +9445,10 @@ breckelenkampstraat
 brecklenkamp
 brecklenkamplaan
 brecklenkampstraat
+breda 15
+breda-noord 16
+breda-noord 17
+breda-west 16
 bredalaan
 bredam
 bredaschedijk
@@ -9341,7 +9485,6 @@ brede slagen
 brede steeg
 brede velddam
 brede vogelstraat
-brede weg
 brede zandweg
 brede-ikker
 bredebeek
@@ -9373,9 +9516,9 @@ brederodebolwerk
 brederodegracht
 brederodehof
 brederodehuis
+brederodekade
 brederodelaan
 brederodepad
-brederodepeer
 brederodeplein
 brederodestraat
 brederodeweg
@@ -9427,6 +9570,7 @@ breede gang
 breede goorstraat
 breede kampen
 breede plat
+breede rijn
 breede sticht
 breedeborg
 breedelaan
@@ -9437,10 +9581,10 @@ breedenburg
 breedencamp
 breedendamlaan
 breedenveldweg
-breedenverbindingsweg
 breedenweg
 breedeplaats
 breederkamp
+breederveldtweg
 breedesteeg
 breedestraat
 breedewaij
@@ -9465,7 +9609,6 @@ breedsteeg
 breedster oudendijk
 breedsteweg
 breedstraat
-breedtegraad
 breedveld
 breedveldsingel
 breedveldstraat
@@ -9478,6 +9621,7 @@ breeflo
 breegraven
 breehees
 breehei
+breehoef
 breehoeflaan
 breehoeverlaan
 breehofstraat
@@ -9486,7 +9630,6 @@ breehornstraat
 breehoven
 breek
 breekade
-breekade-pad noord
 breekade-pad zuid
 breekamp
 breekamplaan
@@ -9494,7 +9637,6 @@ breekampstraat
 breekbaan
 breekeind
 breekland
-breekoever
 breekom
 breeksteeltje
 breeksterweg
@@ -9508,7 +9650,6 @@ breelandhof
 breelandsweg
 breelantsoort
 breeldere
-breeldersdreef
 breelenswei
 breelstraat
 breem
@@ -9519,7 +9660,6 @@ breemakkerweg
 breemarsweg
 breembroekweg
 breemeentje
-breemertuin
 breemhaarsweg
 breemhoeve
 breemhorstsedijk
@@ -9527,7 +9667,7 @@ breemorsweg
 breemortelweg
 breemstraat
 breemt
-breem„∂sstraat
+breem√∂sstraat
 breenberghstraat
 breenstraat
 breeplein
@@ -9558,7 +9698,6 @@ breeuwerslaan
 breeuwerstraat
 breeuwersweg
 breeuwhamer
-breeuwplaats
 breevaarthoek
 breevaartstraat
 breeveen
@@ -9566,7 +9705,9 @@ breeveenhof
 breeveenplaats
 breeveld
 breeveldpad
+breeveldtweg
 breeven
+breevenbrug
 breevenen
 breevennenweg
 breevenpark
@@ -9584,6 +9725,7 @@ breeweid
 breewijd
 breewischweg
 breezand
+breezanddijk
 breezandpad
 breezandstraat
 breezichtlaan
@@ -9591,6 +9733,7 @@ breezij
 breezijde
 breggevaertspad
 breggeweg
+bregittenbrug
 bregittenplein
 bregittenstraat
 bregterstraat
@@ -9599,7 +9742,9 @@ breguetlaan
 bregwaard
 bregweid
 bregweitje
+brehees
 breidberg
+breidbergweg
 breideweg
 breihutterweg
 breijbaan
@@ -9615,6 +9760,7 @@ breistroekenweg
 breitner
 breitnerhof
 breitnerlaan
+breitnerpad
 breitnersingel
 breitnerstraat
 breitnerweg
@@ -9690,6 +9836,7 @@ bremmersstraat
 brempad
 brempark
 bremraap
+bremsgathof
 bremsingel
 bremsteeg
 bremstraat
@@ -9736,6 +9883,7 @@ brethouwerweg
 brettenpad
 breubensteeg
 breudijk
+breudijktunnel
 breuerlijn
 breugelhof
 breugellaan
@@ -9752,6 +9900,7 @@ breukelaarplein
 breukelaarweg
 breukelderheideweg
 breukelderveestraat
+breukelen 5
 breukelengracht
 breukelensestraat
 breukelenstraat
@@ -9768,6 +9917,7 @@ breukinklaan
 breukinkweg
 breukkruid
 breukrand
+breukzone
 breulderweg
 breulingstraat
 breullaan
@@ -9796,16 +9946,20 @@ briandlaan
 briandpad
 briandplaats
 briandstraat
+brianweg
 briasbosch
 bricolaruwe
 bridgemankade
 bridgestraat
-bried„©laan
+bried√©laan
 briegdenweg
 briellaerdseweg
+brielle
+brielle 12
 briellehof
 briellestraat
 brielse maas
+brielse maas-noord
 brielse maasdam
 brielse maasdijk
 brielse maaspad
@@ -9827,7 +9981,6 @@ brieltjenspolder
 brieltjensweg
 brienenlaan
 brienenpolderdijk
-brienenshofbrug
 brienenshofsingel
 brienensweg
 brieneshof
@@ -9856,6 +10009,7 @@ brigdamsepad
 brigdamseweg
 briggemandreef
 brigidahof
+brigidapad
 brigidastraat
 brigidaweg
 brigittadonk
@@ -9864,6 +10018,7 @@ brigittahofje
 brigittastraat
 brigitte van der werfpad
 brigitten
+brigittenbrug
 brigittenstraat
 brigittenweg
 brijhoekseweg
@@ -9878,6 +10033,7 @@ brikkenoven
 brikkenstraat
 brikkenwal
 brikkenweg
+brikkeweide
 briklaan
 brikskamp
 brikstraat
@@ -9900,18 +10056,19 @@ briljantstraat
 brilkruid
 brillensteeg
 brillesteeg
+brillesteegbrug
 brilletjesdijk
 brilliant starstraat
 brillstraat
 brilmanskamp
 brilsalamander
 brilseweg
+brilspolder
 brilsteeg
 brilsweg
 brilweg
 brimeulaan
 brimmanshof
-brimspaed
 brimweg
 brinckerinckstraat
 brindisipad
@@ -9921,12 +10078,8 @@ brink
 brink o.z.
 brink van abeltje
 brink van dik trom
-brink van dikkertje dap
-brink van dolfje weerwolfje
 brink van floris
-brink van jip en janneke
 brink van kruimeltje
-brink van ot en sien
 brink van pietje bell
 brink van pim pandoer
 brink van pinkeltje
@@ -9970,6 +10123,7 @@ brinkhoven
 brinkhovenlaan
 brinkhuisburg
 brinkhuisweg
+brinkhuizerweg
 brinkiepad
 brinkkamp
 brinkkampen
@@ -10008,6 +10162,7 @@ brinkzicht
 brinnolaan
 briolaan
 brionhof
+briquethof
 brisbanestraat
 brisselkerkstraat
 bristolroodstraat
@@ -10019,14 +10174,14 @@ brits
 britsenburg
 britsezoom
 britspad
+britswert
 brittanjesingel
-brittanni„´laan
+brittanni√´laan
 brittenburg
 brittendreef
 brittenhuis
 brittenoord
 brittenpad
-brittenruststraat
 brittenstein
 brittenstraat
 brobbelbiesweg
@@ -10050,12 +10205,14 @@ broeder everardusplein
 broeder hogardstraat
 broeder hogardusstraat
 broeder josephlaan
+broeder koenraadpark
+broeder koenraarpark
 broeder pistolariuspad
 broeder quirinuslaan
 broeder silvesterlaan
-broeder sylvesterlaan
 broeder-en zusterpolderweg
 broederbroeksweg
+broederbrug
 broederenkerkhof
 broederenkerkplein
 broederenkerkstraat
@@ -10068,7 +10225,6 @@ broederhof
 broederij
 broederijweg
 broederplein
-broederpoort
 broedersbouw
 broederschap
 broederschaplaan
@@ -10091,7 +10247,6 @@ broeierdpad
 broeierdweg
 broeikweg
 broek
-broek- en simontjespolder
 broekakker
 broekakkerplein
 broekakkerseweg
@@ -10110,14 +10265,12 @@ broekdalerbaan
 broekdijk
 broekdijk oost
 broekdijk west
-broekdijken
 broekdijkje
 broekdijksestraat
 broekdreef
 broeke
 broekeindsedijk
 broekeindsedreef
-broekeindweg
 broekelingstraat
 broekemalaan
 broekemastraat
@@ -10144,18 +10297,19 @@ broekerplein
 broekersteeg
 broekerstraat
 broekerveld
+broekerveldpad
 broekerveldweg
 broekerwaard
 broekerweg
 broekestraat
 broekestraatje
 broekfinne
+broekgang
 broekgats
 broekgeuterweg
 broekgouwstraat
 broekgraaf
 broekheenseweg
-broekhem
 broekheurne-ring
 broekheurnerpad
 broekheurnerplein
@@ -10171,24 +10325,24 @@ broekhof
 broekhofpad
 broekhofsestraat
 broekhofstraat
-broekhomlaan
 broekhorst
 broekhoven
 broekhovenlaan
+broekhovenpad
 broekhovenseweg
 broekhuisdijk
 broekhuisgang
 broekhuisweg
 broekhuizen
 broekhuizenstraat
-broekhuizerdijk
 broekhuizerlaan
 broekhuizerstraat
 broekhuizerweg
 broekhuysendreef
 broekhuysenweg
-broekh„∫sterpaad
-broekh„∫sterwei
+broekh√∫sterpaad
+broekh√∫sterwei
+broekjesweg
 broekkade
 broekkampsdijk
 broekkant
@@ -10205,9 +10359,9 @@ broeklanderweg
 broeklandpad
 broeklandstraat
 broekloane
+broeklossing
 broekmaatsplein
 broekmaatweg
-broekmansweg
 broekmaten
 broekmatenweg
 broekmedenpad
@@ -10220,7 +10374,9 @@ broekpolder
 broekpolderlaan
 broekpolderpad
 broekpolderweg
-broekp„¥len
+broekp√¥len
+broeksche veldweg
+broeksche weideweg
 broeksdijk
 broeksedijk
 broeksehof
@@ -10236,6 +10392,7 @@ broekslagerweg
 broeksloot
 broekslootkade
 broeksteeg
+broeksteeg-erf
 broeksteegje
 broeksteen
 broeksterkleiweg
@@ -10244,8 +10401,10 @@ broekstraat
 broekstukken
 broekstukkenweg
 broeksweg
+broektunnel
 broekveen
 broekveeweg
+broekveeweidepad
 broekvelderbrug
 broekveldselaan
 broekveldseweg
@@ -10259,25 +10418,25 @@ broekweggetje
 broekwegkade
 broekwegpad
 broekwegschouw
+broekwegviaduct
 broekwegzijde
 broekweide
+broekzichtlaan
 broekzijde
 broekzijdestraat
 broekzijdeweg
 broekzijdschepad
 broekzijdselaan
-broekzijweg
-broemkuilweg
 broenenbergweg
 broenenhoup
 broenenstraat
 broeninger erf
 broeninkskamp
+broenkoel
 broensdel
 broensdelpad
 broenshemweg
 broenshof
-broenshofje
 broenshofweide
 broenskuil
 broensweg
@@ -10297,6 +10456,7 @@ broerhuisstraat
 broerinkweg
 broersblok
 broersdijk
+broersepark
 broershoek
 broerskamp
 broersma's reed
@@ -10313,6 +10473,7 @@ broertjespad
 broerweg
 broezeweg
 brokersweg
+brokkendijk
 brokkenstraat
 brokmansweg
 brokmui
@@ -10335,7 +10496,6 @@ brommy en tommystraat
 bromostraat
 bromsluis
 bromwissel
-bromwissel
 bron
 bronbastion
 bronbeek
@@ -10345,11 +10505,13 @@ bronbeekpad
 bronbeekstraat
 bronbergpad
 bronckhorst
+bronckhorstkamp
 bronckhorstlaan
 bronckhorststraat
 bronckweg
 brondijk
 bronforel
+bronforelbrug
 bronforelstraat
 brongersmastrjitte
 brongersmaweg
@@ -10361,9 +10523,9 @@ bronkhorst
 bronkhorstdreef
 bronkhorstenstraat
 bronkhorstermaat
-bronkhorstersalg
 bronkhorsterslag
 bronkhorsterstraat
+bronkhorsterveer
 bronkhorsterweg
 bronkhorstkamp
 bronkhorstsingel
@@ -10390,9 +10552,6 @@ bronoliebergweg
 bronovolaan
 brons
 bronsbergen
-bronsbergenweg
-bronsdalpad
-bronsdalweg
 bronsdijk
 bronsgeesterweg
 bronsgeeststraat
@@ -10401,13 +10560,12 @@ bronsgietersdonk
 bronsgroen
 bronshoek
 bronsinklaan
-bronskuilweg
 bronsmos
-bronsmospad
 bronsreed
 bronsstraat
 bronsteeweg
 bronstijd
+bronstijdbosje
 bronstijdkreek
 bronstijdpad
 bronstraat
@@ -10423,6 +10581,7 @@ bronzen medaillepad
 bronzenpad
 bronziet
 broodakker
+broodakkerbrink
 broodakkerpad
 broodbaan
 broodbakkersgilde
@@ -10436,7 +10595,6 @@ brookhaasweg
 brookhuis
 brookhuislanden
 brooklaan
-brooklyngarage
 brookmanweg
 brookotter
 brooksplein
@@ -10470,6 +10628,7 @@ brouwerplein
 brouwersberg
 brouwersbos
 brouwersbosweg
+brouwersbrug
 brouwersbuurt
 brouwerscamp
 brouwersdam
@@ -10482,7 +10641,7 @@ brouwersdyk
 brouwersgang
 brouwersgilde
 brouwersgracht
-brouwersgr„™ft
+brouwersgr√™ft
 brouwershavenstraat
 brouwershei
 brouwershoef
@@ -10501,6 +10660,7 @@ brouwerspad
 brouwersplaats
 brouwersplein
 brouwerssingel
+brouwerssprienke
 brouwerssteeg
 brouwersstraat
 brouwersstrjitte
@@ -10510,11 +10670,10 @@ brouwerstraat
 brouwerstunnel
 brouwersvaart
 brouwersveld
-brouwersveldweg
 brouwersweg
 brouwerswei
 brouwerswijk
-brouwersw„¢l
+brouwersw√¢l
 brouwerszoom
 brouwertsweg
 brouwestraat
@@ -10530,7 +10689,6 @@ brouwmeesterstraat
 broxven
 brozem
 brucestraat
-brucherusstraat
 bruchterbeekweg
 bruchterweg
 brucknerlaan
@@ -10542,12 +10700,52 @@ bructerenlaan
 bruegelstraat
 brueghelstraat
 brug
-brug 14
-brug 15
-brug poolse bridgade
-brug sluis 15
-brug sluis hulsen
+brug 064
+brug 1 4
+brug 1e sluis
+brug 2 4
+brug 217
+brug 2e exloermond
+brug 3 4
+brug 30
+brug 31
+brug 32
+brug 4 4
+brug 4e verlaat
+brug 5e verlaat
+brug 82
+brug albatros
+brug apelkan o w ter
+brug beets korsloot
+brug beukenln
+brug blokweersekade
+brug coev wg post wg
+brug de eendracht
+brug dorpstr noordk
+brug hoofdkd 75 73
+brug hoofdwg nieuwl
+brug kan zz hykerwg
+brug kanaal
+brug klemstr zuid vrt
+brug kromwdk polzndwg
+brug kwekery
+brug lop wg vogelz kd
+brug maasdk weverskd
+brug marktstr station
+brug molendk noordein
+brug oranjekan
+brug plantsoenln
+brug sluis 13
+brug smeengekd schut
+brug spoorstr brugstr
+brug thorb ln withstr
+brug unikenstr kd
+brug vaart
+brug van cyrene
 brug van othene
+brug westhoek
+brug winschoterwg
+brug.kanaalweg w kanaalweg
 brugakker
 brugbeemd
 brugbeemden
@@ -10563,6 +10761,7 @@ bruggekampsweg
 bruggelaan
 bruggelaantje
 bruggeleen
+bruggelen
 bruggelerweg
 bruggelkes
 bruggelkesvoetpad
@@ -10584,9 +10783,9 @@ bruggensestraat
 bruggenseweg
 bruggensingel-noord
 bruggensingel-zuid
+bruggensnlg
 bruggenweg
 bruggeplein
-bruggepoort
 bruggerdijk
 bruggerhuizen
 bruggersweg
@@ -10610,7 +10809,6 @@ bruglaan
 brugmanpad
 brugmanshof
 brugmansplein
-brugmansstraat
 brugmanstraat
 brugmark
 brugmolenweg
@@ -10636,6 +10834,7 @@ brugwachter
 brugwachtershoeve
 brugwal
 brugweg
+brugzicht
 bruhezerweg
 bruhezestraat
 bruidsbloemlaan
@@ -10647,7 +10846,6 @@ bruijellestraat
 bruijkersstraat
 bruijnings ingenhoeslaan
 bruijnstraat
-bruijnswaard
 bruijnzeelweg
 bruijstenhof
 bruiloftsteeg
@@ -10736,7 +10934,7 @@ brummelsteeg
 brummelstraat
 brummelwal
 brummelweg
-brummenb„∂ske
+brummenb√∂ske
 brummenpad
 brummenseweg
 brummenweg
@@ -10774,21 +10972,26 @@ bruninkweg
 brunita j. gemmekelaan
 brunlaan
 brunner bron
+brunnera
 brunninkhuisweg
 bruno fabriciusstraat
 bruno heisterdreef
 bruno klauwersstraat
 bruno renardstraat
-bruno silv„®repad
+bruno silv√®repad
 bruno van der madepad
 bruno van ommenstraat
 bruno walterstraat
 brunostraat
 brunselweg
+brunssum
+brunssum-oost
+brunssum-west
 brunssummerstraat
 brunssummerweg
 brunssumstraat
 brunsting
+brunstingerbrug
 brunstingerstraat
 brunstingerveld
 brunsummerweg
@@ -10805,7 +11008,6 @@ brusborg
 brusselflat
 brusselhof
 brussellaan
-brusselpark
 brusselplein
 brusselse weg
 brusselselaan
@@ -10825,24 +11027,29 @@ bruynisstraat
 bruynssteeg
 bruynvisweg
 bruysterbosch
-bru„´lisstraat
+bru√´lisstraat
 bryggen
 bryhoekstraat
 bryonialaan
-br„¢nbuorren
-br„¢nburren
-br„©dyk
-br„©wei
-br„™gebuorren
-br„™gefinne
-br„™gegat
-br„™geleane
-br„™geloane
-br„™gepaad
-br„™gesleatswei
-br„∂ggelderweg
-br„∂kersweg
-br„ºcknerstraat
+br√¢nbuorren
+br√¢nburren
+br√©dyk
+br√©wei
+br√™gebuorren
+br√™gefinne
+br√™gegat
+br√™geleane
+br√™geloane
+br√™gepaad
+br√™gesleatswei
+br√∂ggelderweg
+br√∂kersweg
+br√∂kkelderpad
+bs. dekkersland
+bs. kruisberg
+bs. lageveen
+bs.ppl.hazepad
+bs.ppl.smokkelpad
 bubonastraat
 bucaillestraat
 bucheliusstraat
@@ -10851,6 +11058,7 @@ bucht
 buchtdwarsstraat
 buchter markt
 buchterweg
+buckeburgpark
 buckhorst
 buckhorsterlaan
 buckhorstlaan
@@ -10865,14 +11073,15 @@ buddeweg
 buddezand
 buddingepad
 buddingerstraat
-buddingh' plein
 buddingh'plein
 buddinghof
 buddinghplein
 buddinkdijk
+buddleja
 buddlejalaan
 buddy boldenlaan
 buddy hollystraat
+budel 37
 budelse baan
 budelstraat
 budkestraat
@@ -10924,6 +11133,7 @@ buikslotermeerplein
 buikslotermeerstraat
 buiksloterweg
 buikstede
+buinen
 buinerdiep
 buinerstraat
 buinerveen
@@ -10931,10 +11141,12 @@ buinerveenstraat
 buinerveld
 buinerweg
 buis
+buishof
 buisjesstraat
 buiskade
 buiskoolstraat
 buislaan
+buismanweg
 buisse dreef
 buisselpad
 buissteeg
@@ -10950,6 +11162,7 @@ buiten de enkpoort
 buiten de kom
 buiten de veerpoort
 buiten de venepoort
+buiten de vest
 buiten de veste
 buiten de waterpoort
 buiten dommersstraat
@@ -10962,8 +11175,7 @@ buiten kalkhaven
 buiten middenweg
 buiten nieuwstraat
 buiten oranjestraat
-buiten parallelweg
-buiten soci„´teitstraat
+buiten soci√´teitstraat
 buiten vissersstraat
 buiten walevest
 buiten wieringerstraat
@@ -10995,11 +11207,12 @@ buitendijkspad
 buitendijkstraat
 buitendijksveld
 buitendijksweg
+buitendijktunnel
 buitendijkweide
-buitendorpstraat
 buitendraaierij
 buitendreef
 buitenduinstraat
+buiteneilandlaan
 buiteneinde
 buiteneindweg
 buitenend
@@ -11007,7 +11220,7 @@ buitenerf
 buitenes
 buitengaats
 buitengasthuisstraat
-buitengorzen
+buitengorzendijk
 buitengouw
 buitengouwweg
 buitengracht
@@ -11030,8 +11243,6 @@ buitenhof de leistert
 buitenhofdreef
 buitenhoflaan
 buitenhofstraat
-buitenhoofd
-buitenhout
 buitenhoutsedreef
 buitenhove
 buitenhovelaan
@@ -11040,6 +11251,7 @@ buitenhuishof
 buitenhuislaan
 buitenhuisweg
 buitenhuizen
+buitenhuizenbrug
 buitenhuizenpoort
 buitenhuizerbrug
 buitenhuizerweg
@@ -11055,6 +11267,7 @@ buitenkerklaan
 buitenklingen
 buitenkluiver
 buitenkoppel
+buitenkreek
 buitenkruier
 buitenkruierstraat
 buitenkwartier
@@ -11067,6 +11280,7 @@ buitenlandse baan
 buitenlandsweg
 buitenlandweg
 buitenlevenglop
+buitenlint
 buitenlust
 buitenlustpad
 buitenluststraat
@@ -11088,20 +11302,22 @@ buitenplaats
 buitenplaats herkingen
 buitenplaats nijenrode
 buitenplaats oosterwold
+buitenplaats passewaaij
+buitenplaatslaan
 buitenplaatsplein
 buitenplaatsweg
 buitenplein
 buitenpolder
-buitenpolder ijdoorn
+buitenpolderpad
 buitenpolderweg
 buitenpoort
 buitenpostlaan
 buitenring
 buitenringplaats
-buitenringtraverse
 buitenroede
 buitenrot
 buitenrust
+buitenrustbrug noord
 buitenrustlaan
 buitenrustpad
 buitenrustplein
@@ -11147,6 +11363,7 @@ buitenweistraat
 buitenwiek
 buitenwoelkade
 buitenwoellaan
+buitenwolde
 buitenzagerij
 buitenzorg
 buitenzorgkade
@@ -11175,6 +11392,7 @@ buizerdweide
 bukel
 bukestraat
 bukhorst
+bukkersweg
 bukkumweg
 buko bedrijvenpark
 bukskinstraat
@@ -11194,7 +11412,6 @@ bulgersteyn
 bulgersteynhof
 bulk
 bulkemsbroek
-bulkemsbroekerweg
 bulkemsdalweg
 bulkemstraat
 bulkenaarsepad
@@ -11204,19 +11421,20 @@ bulkensteinlaan
 bulkgraaf
 bulkheuvelseweg
 bulkhof
+bulkkade
+bulkpad
 bulksestraat
 bulkseweg
 bulksteeg
 bulkstraat
 bulkweg
+bullebakbrug 0149
 bulledik
 bullekamp
 bullekeslaan
 bullenaarsweg
 bullenssteeg
 bullepad
-bullerweg
-bulletje
 bulletjestraat
 bullewei
 bulleweide
@@ -11237,8 +11455,10 @@ bultenvenweg
 bulterweg
 bulthuissingel
 bulthuisweg
+bultie
 bultinge
 bultkroos
+bultlaan
 bultpad
 bultrugpad
 bultsbeekweg
@@ -11261,6 +11481,7 @@ bun
 bunche-erf
 bunchestraat
 bunckmanplein
+bunde 1
 bundelzwam
 bunder
 bunderbeemd
@@ -11274,6 +11495,7 @@ bunderhorst
 bunderkenspad
 bunderkensven
 bunderland
+bunderneuland
 bunderplein
 bunderpoort
 bunderriet
@@ -11284,6 +11506,7 @@ bundersberg
 bundersdijk
 bundersestraat
 bundershoeve
+bunderspark
 bunderssteeg
 bundersstraat
 bundersteeg
@@ -11299,6 +11522,7 @@ bundlaan
 bundweg
 bungaloweiland molenpad
 bungalowpark
+bungalowpark plattedijk
 bungalowpark rothenbach
 bungestraat
 bungweg
@@ -11306,14 +11530,18 @@ buninkdijk
 bunkerbaan
 bunkerhaven
 bunkerpad
+bunkerweg
 bunnemaheerd
 bunnerveenseweg
+bunnerveldweg
 bunnerweg
 bunnerzandweg
+bunnik 19
 bunnikhoeve
 bunnikpad
 bunnikseweg
 bunnikstraat
+bunschoten-spakenburg 12
 bunschotenlaan
 bunschotenmeen
 bunschotenpad
@@ -11329,6 +11557,7 @@ bunschoterstraat
 bunschoterweg
 bunsenstraat
 bunshaftlijn
+bunshaftpad
 bunsinglaan
 bunsingval
 bunskamp
@@ -11337,6 +11566,7 @@ bunt
 buntacker
 buntbeek
 buntbeekerf
+buntdreef
 buntgras
 buntgrasbeemd
 buntgrasdijk
@@ -11351,8 +11581,8 @@ buntlaan
 buntlaar
 buntplein
 buntseweg
+buntsteegje
 buntstraat
-buntveen
 buntveenweg
 buntveld
 buntvelden
@@ -11365,7 +11595,6 @@ bunzinghage
 bunzinghof
 bunzinglaan
 bunzingpad
-bunzingstraat
 bunzingweide
 buorfinne
 buorfinneleane
@@ -11383,11 +11612,11 @@ burchtenlaan
 burchtgraafstraat
 burchtgracht
 burchthof
-burchtkamp
 burchtlaan
 burchtlaantje
 burchtmuur
 burchtpad
+burchtpark
 burchtplateau
 burchtplein
 burchtpoort
@@ -11421,21 +11650,19 @@ burg a p vd blinkln
 burg b. den oudenstraat
 burg bijleveldsingel
 burg bouwmeesterstraat
+burg broekenssingel
 burg buissinkstraat
 burg c j schellingerlaan
 burg c van nootenstraat
 burg c zaaijerlaan
 burg canisiusstraat
 burg cleveringalaan
-burg cremersstraat
 burg de kockstraat
 burg de kortstraat
 burg de vrieslaan
 burg de witstraat
 burg de zeeuwstraat
 burg elenbaasstraat
-burg elsenweg
-burg engelbertsstr
 burg eussenstraat
 burg everwijn langepln
 burg f.a. cortenplein
@@ -11448,22 +11675,23 @@ burg g van andellaan
 burg gautiersingel
 burg geerlingstraat
 burg geldermanlaan
-burg gielenstraat
 burg gijzelsstraat
 burg groot enzerinksngl
 burg grothestraat
-burg h spruytlaan
+burg h a van steennisstraat
 burg h v sleenstr
 burg h van geestlaan
-burg h vd boschstraat
 burg haverkampstraat
 burg heerschopweg
-burg hengstplein
 burg henrylaan
 burg henryplantsoen
 burg herckenrathlaan
 burg hoefnagelsstraat
 burg honcooplaan
+burg in 't veldpark
+burg j dijkstraweg
+burg jacques tonnaerhof
+burg jan peperstraat
 burg janssen v sonln
 burg janssenstraat
 burg jasparstraat
@@ -11476,6 +11704,7 @@ burg kurversstraat
 burg l c kolffsingel
 burg l de koollaan
 burg legroweg
+burg letschertpad
 burg letteweg
 burg maenenstraat
 burg malcorpslaan
@@ -11486,88 +11715,72 @@ burg moslaan
 burg mr verbeekstraat
 burg musquetiersingel
 burg n p kremerlaan
-burg n pompenstraat
 burg nawijnstraat
 burg niemeijerstraat
-burg nieuwenhuijzenstraat
 burg nijenhuispad
-burg norbruispad
-burg p wissestraat
-burg ploegmakerslaan
+burg peereboom vollerln
+burg peereboomweg
 burg reijndersstr
 burg reyndersstraat
 burg ritzemastraat
+burg rooijenpad
 burg roosmale nepveulaan
-burg r„∂ell-laan
+burg r√∂ell-laan
+burg s van linschotenstr
 burg sandbergstraat
 burg schepersstraat
-burg schimmelpenninckstr
 burg schoolmeestersstraat
 burg seinenstraat
 burg simonsstraat
 burg sinkelaan
-burg snellenstraat
 burg spiertzstraat
 burg strijkersstraat
 burg stronkhorststr
 burg teijssenstraat
 burg ten holteweg
 burg ten veldestr
-burg ten veldestraat
-burg termeerstraat
 burg thijssenstraat
-burg timmermanslaan
 burg tonkensstraat
 burg toornstralaan
-burg v d ackerstraat
 burg v d walstraat
 burg v d weijerstraat
 burg v roijenstr oost
 burg v roijenstr west
 burg v wijngaardenstraat
-burg v.d. puttenstraat
 burg van barneveldweg
 burg van bruggenstraat
-burg van claarenbeekstr
 burg van den drieslaan
-burg van den elzenlaan
 burg van der lelijkade
 burg van der lelysingel
-burg van der postlaan
 burg van doornstraat
-burg van erpstraat
 burg van gentsingel
 burg van gorselstraat
 burg van heemstralaan
 burg van heesstraat
 burg van heugtenlaan
-burg van kempenstraat
+burg van hofwegenstraat
 burg van kluyvestraat
-burg van leentstraat
 burg van lithstraat
+burg van loghemstraat
 burg van mulkenstraat
 burg van rielstraat
+burg van royenstraat o
 burg van sevenhovenstraat
-burg vd bergstraat
 burg vd braakplein
 burg vd mortelstraat
-burg vd wormstraat
 burg verdegaalhof
-burg verdijckplein
-burg verkuijlstraat
 burg vermeerlaan
 burg vogelaarsingel
 burg vogelaarstraat
 burg vunderinkhof
 burg w e v weedelaan
-burg w martenslaan
 burg woutersplein
 burg. a. bontekoelaan
 burg. allardstraat
 burg. arnoldtsstraat
-burg. arri„´nsweg
+burg. arri√´nsweg
 burg. baltussenplein
-burg. baron van h„∂vellstraat
+burg. baron van h√∂vellstraat
 burg. bazenlaan
 burg. beckersstraat
 burg. berendsplantsoen
@@ -11578,6 +11791,7 @@ burg. bovensstraat
 burg. brediusstraat
 burg. breebaartweg
 burg. breenplantsoen
+burg. brouwersplantsoen
 burg. buddingh'-plein
 burg. burgersstraat
 burg. burgerstraat
@@ -11592,14 +11806,12 @@ burg. cordesweg
 burg. cremershof
 burg. cremersstraat
 burg. crommelinlaan
-burg. de bruynstraat
 burg. de geerplantsoen
 burg. de graafhof
 burg. de graafplein
 burg. de hesselleplein
 burg. de jonghkade
 burg. de kockstraat
-burg. de kortstraat
 burg. de kuijperlaan
 burg. de millylaan
 burg. de moorstraat
@@ -11615,7 +11827,7 @@ burg. doffegnieslaan
 burg. dommisseplantsoen
 burg. donnersstraat
 burg. dumbarstraat
-burg. eli„´nsstraat
+burg. eli√´nsstraat
 burg. engelsstraat
 burg. g. van barneveldstraat
 burg. gaarlandtlaan
@@ -11623,7 +11835,6 @@ burg. gaarlandtstraat
 burg. garreltsweg
 burg. geirnaerdtstraat
 burg. gerritsenstraat
-burg. geurtsstraat
 burg. gijzelsstraat
 burg. goossensstraat
 burg. goyartsstraat
@@ -11635,13 +11846,11 @@ burg. hamersstraat
 burg. hammerbaan
 burg. harteveltstraat
 burg. hausmansstraat
-burg. heerschopweg
 burg. heffelsstraat
 burg. heijnenstraat
 burg. heijsingel
 burg. hendrik wolferthof
 burg. henk aalderinkweg
-burg. hermansstraat
 burg. hillenaarstraat
 burg. hoenstraat
 burg. hommesstraat
@@ -11666,21 +11875,19 @@ burg. kengenstraat
 burg. kerckhoffsstraat
 burg. korstanjestraat
 burg. kotenplein
-burg. kuijkstraat
 burg. kuijperlaan
+burg. lambooypark
 burg. langebeekestraat
 burg. lebensstraat
 burg. lemmensstraat
 burg. lotsyhof
 burg. lovinkstraat
-burg. luijendijkplein
 burg. luytenstraat
-burg. l„ºnenschlossstraat
+burg. l√ºnenschlossstraat
 burg. maarleveldstraat
 burg. mannensstraat
 burg. martinstraat
 burg. meijersstraat
-burg. michielsenweg
 burg. mijnlieffstraat
 burg. molenaarhoeven
 burg. mollemanpassage
@@ -11701,7 +11908,6 @@ burg. pijlsstraat
 burg. ramakersstraat
 burg. reijerslaan
 burg. remmenstraat
-burg. reyndersplein
 burg. reyndersstraat
 burg. rippingstraat
 burg. ritzenstraat
@@ -11713,18 +11919,17 @@ burg. s. gockingastraat
 burg. s. schagenstraat
 burg. savelbergstraat
 burg. savelkoulstraat
-burg. schade van westrumlaan
 burg. schalijstraat
 burg. schijvensstraat
 burg. schmitzstraat
-burg. schorerlaan
 burg. schrevensingel
 burg. schrijenstraat
 burg. schuijtstraat
 burg. schwartzlaan
-burg. sch„∂nfeldsingel
+burg. sch√∂nfeldsingel
 burg. siemersstraat
 burg. slanghenstraat
+burg. slompweg
 burg. smeetsstraat
 burg. smijterweg
 burg. snijdersstraat
@@ -11737,11 +11942,11 @@ burg. tonckensweg
 burg. trijpelsplein
 burg. tutein noltheniuslaan
 burg. v. cannstraat
-burg. v. dobben de  bruijnstraat
 burg. v. dobben de bruijnstraat
 burg. v.d. kroonstraat
 burg. v.d. puttenstraat
 burg. v.d. sijpstraat
+burg. v.d. wielstraat
 burg. van beckhovenstraat
 burg. van boxtelstraat
 burg. van de brandelerlaan
@@ -11755,7 +11960,6 @@ burg. van der endt swanenburgplantsoen
 burg. van der lelykade
 burg. van doorninckstraat
 burg. van doornstraat
-burg. van everdingenstraat
 burg. van ginnekenstraat
 burg. van goelst meijerweg
 burg. van grunsvenplein
@@ -11766,29 +11970,25 @@ burg. van holthelaan
 burg. van houdtplein
 burg. van houtstraat
 burg. van laarstraat
-burg. van laarstraat
 burg. van lamsweerdelaan
 burg. van lithstraat
 burg. van loghemplein
 burg. van loonstraat
 burg. van marlestraat
-burg. van mourikstraat
 burg. van panhuysbrink
 burg. van poppelstraat
 burg. van reesstraat
 burg. van rijckevorselstraat
-burg. van rijnberkstraat
 burg. van rijswijkstraat
 burg. van roijenstraat
 burg. van roijstraat
 burg. van rooystraat
 burg. van staverenstraat
 burg. van suchtelenstraat
+burg. van tienhovenhof
 burg. van tuyll-laan
 burg. van udenstraat
-burg. van udenstraat
 burg. van veenlaan
-burg. van velthovenstraa
 burg. van velthovenstraat
 burg. van woenseldreef
 burg. venckenstraat
@@ -11799,7 +11999,7 @@ burg. verwielstraat
 burg. vogelslaan
 burg. vrijlandweg
 burg. vullersstraat
-burg. v„∂lkerstraat
+burg. v√∂lkerstraat
 burg. w.s.p.p. de leeuwplein
 burg. warnerslaan
 burg. waszinkstraat
@@ -11813,9 +12013,10 @@ burg. willekenslaan
 burg. willemsstraat
 burg. woltersstraat
 burg. woutersstraat
+burg. wytema rotonde
 burg. zaneveldstraat
 burg. zielhuisstraat
-burg. „† campostraat
+burg. √† campostraat
 burg.backxlaan
 burg.baron van dedemstraat
 burg.bentinckstraat
@@ -11824,7 +12025,6 @@ burg.catshoeklaan
 burg.de jongplein
 burg.de tourton bruynsstraat
 burg.dohmenplein
-burg.emeester van mourikstraat
 burg.franssenstraat
 burg.gilissenweg
 burg.goudsmitlaan
@@ -11838,12 +12038,10 @@ burg.s'jacoblaan
 burg.savelberglaan
 burg.van banningstraat
 burg.van der grondenstraat
-burg.van h6evellstraat
 burg.van haersoltestraat
-burg.van h„∂evellstraat
+burg.van h√∂evellstraat
 burg.van randwijckstraat
 burg.van sandickstraat
-burg.van sevenhovenstraat
 burg.woltersstraat
 burgakker
 burgaslaan
@@ -11851,15 +12049,11 @@ burgdorfferstraat
 burge
 burgem moorenstraat
 burgem van hultenstraat
-burgem. de bourbonplein
 burgem.de bourbonplein
-burgemeester  groenenbergstraat
-burgemeester  wientjensstraat
 burgemeester a. colijnweg
 burgemeester a. van walsumlaan
 burgemeester a. wiedijkstraat
 burgemeester a.j. berkhouthof
-burgemeester aalberslaan
 burgemeester aalfsweg
 burgemeester aartslaan
 burgemeester adamslaan
@@ -11875,7 +12069,9 @@ burgemeester andriessenstraat
 burgemeester ankerplein
 burgemeester annie brouwerlaan
 burgemeester antonissenstraat
+burgemeester aptrootpark
 burgemeester aquariusstr
+burgemeester aquariusstraat
 burgemeester aschofflaan
 burgemeester augustijnstraat
 burgemeester avisstraat
@@ -11883,10 +12079,11 @@ burgemeester baanpad
 burgemeester baaslaan
 burgemeester baasstraat
 burgemeester baerendshof
+burgemeester baetencour
 burgemeester baetenspark
 burgemeester bakenstraat
 burgemeester bakhuizenlaan
-burgemeester bakkerlaan
+burgemeester bakkerslaan
 burgemeester ballingsweg
 burgemeester banisstraat
 burgemeester banninglaan
@@ -11909,18 +12106,17 @@ burgemeester beenenstraat
 burgemeester beenshof
 burgemeester beerenbroekstraat
 burgemeester bentinckstraat
-burgemeester berendsplantsoen
 burgemeester berendsstraat
 burgemeester berettastraat
 burgemeester bergerpark
 burgemeester berghuisplein
+burgemeester berkhouthof
 burgemeester beststraat
 burgemeester beyenstraat
 burgemeester bickerstraat
-burgemeester bijleveldsingel
+burgemeester bijleveldstraat
 burgemeester binckhorststraat
 burgemeester blankenhof
-burgemeester bleekerstraat
 burgemeester blessinglaan
 burgemeester bletzstraat
 burgemeester bloemartsstraat
@@ -11982,7 +12178,6 @@ burgemeester brouwerweg
 burgemeester brugplein
 burgemeester bruijn hof
 burgemeester bruinemanstraat
-burgemeester bruins slotsingel
 burgemeester bruinsmalaan
 burgemeester brunestraat
 burgemeester bruntstraat
@@ -11993,22 +12188,19 @@ burgemeester buiskoolplein
 burgemeester buiskoolweg
 burgemeester buitenhofstraat
 burgemeester buitenweg
-burgemeester bulderboulevard
 burgemeester bultenlaan
 burgemeester burgerhof
 burgemeester burgerslaan
 burgemeester bushoffstraat
 burgemeester buskensstraat
 burgemeester busstraat
-burgemeester b„∂nhofflaan
+burgemeester b√∂nhofflaan
 burgemeester c koertstraat
 burgemeester c. van de werkenstraat
-burgemeester c.w.labreelaan
 burgemeester caan van necklaan
 burgemeester cambier van nootenlaan
 burgemeester cambier van nootenstraat
 burgemeester cannegieterlaan
-burgemeester canterslaan
 burgemeester cees van der knaapweg
 burgemeester ceulenstraat
 burgemeester chevallierplein
@@ -12018,7 +12210,6 @@ burgemeester cochiuslaan
 burgemeester coenegrachtstraat
 burgemeester coenenweg
 burgemeester coldeweyweg
-burgemeester colijnstraat
 burgemeester coninxstraat
 burgemeester conraetzstraat
 burgemeester coonenlaan
@@ -12031,9 +12222,8 @@ burgemeester cramergracht
 burgemeester cramerlaan
 burgemeester cremersplein
 burgemeester creutzlaan
-burgemeester crez„©elaan
-burgemeester crez„©estraat
-burgemeester crolesbrug
+burgemeester crez√©elaan
+burgemeester crez√©estraat
 burgemeester crolesplein
 burgemeester crommelinstraat
 burgemeester custerslaan
@@ -12058,20 +12248,17 @@ burgemeester de bordesplein
 burgemeester de bordesstraat
 burgemeester de bourbonhof
 burgemeester de bruijnstraat
-burgemeester de bruijnstraat
 burgemeester de bruinstraat
 burgemeester de bruynstraat
-burgemeester de bru„Ønelaan
+burgemeester de bru√Ønelaan
 burgemeester de cock van opijnenstraat
 burgemeester de dreuplein
 burgemeester de gaaij fortmanstraat
 burgemeester de geusstraat
 burgemeester de goedestraat
 burgemeester de goeylaan
-burgemeester de graafplein
 burgemeester de grauwstraat
 burgemeester de grootstraat
-burgemeester de herderplantsoen
 burgemeester de hooppark
 burgemeester de hoopstraat
 burgemeester de jongweg
@@ -12082,7 +12269,7 @@ burgemeester de kempenaerstraat
 burgemeester de kievietstraat
 burgemeester de koolplantsoen
 burgemeester de kortesingel
-burgemeester de la saussaye bri„´tweg
+burgemeester de la saussaye bri√´tweg
 burgemeester de leeuwstraat
 burgemeester de manlaan
 burgemeester de manstraat
@@ -12097,7 +12284,6 @@ burgemeester de roeverstraat
 burgemeester de roocklaan
 burgemeester de roostraat
 burgemeester de sitterstraat
-burgemeester de sitterstraat.
 burgemeester de van der schuerenlaan
 burgemeester de van der schuerenstraat
 burgemeester de villeneuvesingel
@@ -12123,7 +12309,6 @@ burgemeester dekkingstraat
 burgemeester den boerstraat
 burgemeester den haan-groenpark
 burgemeester den hoedstraat
-burgemeester den hollanderweg
 burgemeester den texlaan
 burgemeester derkxstraat
 burgemeester des tombeplein
@@ -12136,7 +12321,6 @@ burgemeester diepenhorststraat
 burgemeester diepstratenlaan
 burgemeester dijkhuisstraat
 burgemeester disselkoenlaan
-burgemeester dohmenplein
 burgemeester dohmenstraat
 burgemeester doijerstraat
 burgemeester dolmanslaan
@@ -12168,7 +12352,8 @@ burgemeester elsenlaan
 burgemeester elsenpark
 burgemeester elsenweg
 burgemeester engelbertsstraat
-burgemeester ensched„©laan
+burgemeester enklaarpark
+burgemeester ensched√©laan
 burgemeester erasmusstraat
 burgemeester eschauzierstraat
 burgemeester esselinkstraat
@@ -12182,11 +12367,11 @@ burgemeester fabiusstraat
 burgemeester falkenaweg
 burgemeester feithplantsoen
 burgemeester feithplein
-burgemeester feithplnts
+burgemeester feitsmapark
 burgemeester ferfstraat
 burgemeester fernhoutlaan
 burgemeester ficqlaan
-burgemeester fi„©vezlaan
+burgemeester fi√©vezlaan
 burgemeester florisstraat
 burgemeester flugi van aspermontlaan
 burgemeester fockema andreaelaan
@@ -12195,8 +12380,7 @@ burgemeester fockstraat
 burgemeester folkertslaan
 burgemeester fonteinlaan
 burgemeester frans cortenraadstraat
-burgemeester franssenstraat
-burgemeester fran„ßoisplein
+burgemeester fran√ßoisplein
 burgemeester freijterslaan
 burgemeester fremery kalfflaan
 burgemeester frenckenstraat
@@ -12216,6 +12400,7 @@ burgemeester geradtslaan
 burgemeester geradtsstraat
 burgemeester gerritsstraat
 burgemeester gescherstraat
+burgemeester geukerspark
 burgemeester geuljanslaan
 burgemeester geurtslaan
 burgemeester geurtsweg
@@ -12224,6 +12409,7 @@ burgemeester gijsenlaan
 burgemeester gijsenstraat
 burgemeester gijzelslaan
 burgemeester godschalxplein
+burgemeester godwaldtpark
 burgemeester godwaldtstraat
 burgemeester goeman borgesiusstraat
 burgemeester goldbergstraat
@@ -12231,20 +12417,20 @@ burgemeester gommansstraat
 burgemeester goossensstraat
 burgemeester gratamaplein
 burgemeester gratamastraat
+burgemeester groenenbergstraat
 burgemeester grollemanweg
 burgemeester grootstraat
-burgemeester gr„ºndemannstraat
-burgemeester gualth„©rie van weezelplein
+burgemeester gr√ºndemannstraat
+burgemeester gualth√©rie van weezelplein
 burgemeester gubbelsplein
 burgemeester gubbelsstr
 burgemeester gubbelsstraat
-burgemeester gulj„©laan
-burgemeester g„ºlcherlaan
-burgemeester h a van steenisstraat
+burgemeester gulj√©laan
+burgemeester g√ºlcherlaan
 burgemeester h a van steennisstraat
+burgemeester h boersingel
 burgemeester h houtkoperlaan
 burgemeester h spruytlaan
-burgemeester h. boersingel
 burgemeester h.a. callenfelsstraat
 burgemeester h.blokstraat
 burgemeester h.boersingel
@@ -12275,10 +12461,8 @@ burgemeester hendrixhof
 burgemeester hendrixstraat
 burgemeester hengstplein
 burgemeester hennequinstraat
-burgemeester henssingel
 burgemeester hermanslaan
 burgemeester hermansstraat
-burgemeester hermansweg
 burgemeester hermsenstraat
 burgemeester hesselinkstraat
 burgemeester heusdenslaan
@@ -12286,6 +12470,7 @@ burgemeester heymansstraat
 burgemeester hobolaan
 burgemeester hobusstraat
 burgemeester hoebersstr
+burgemeester hoebersstraat
 burgemeester hoefnagelstraat
 burgemeester hoeijmakersstraat
 burgemeester hoekstrastraat
@@ -12297,13 +12482,13 @@ burgemeester hoftijzerplein
 burgemeester hogguerstraat
 burgemeester holtroplaan
 burgemeester hommesstraat
-burgemeester honcooplaan
 burgemeester honijkstr
 burgemeester honnerlage gretehof
 burgemeester honnerlage gretelaan
 burgemeester honnerlage gretepad
-burgemeester hon„©esngl
-burgemeester hon„©estraat
+burgemeester hon√©esingel
+burgemeester hon√©esngl
+burgemeester hon√©estraat
 burgemeester hooft van iddekingesingel
 burgemeester hooftstraat
 burgemeester hoogenboomlaan
@@ -12326,13 +12511,11 @@ burgemeester huybenstr
 burgemeester huybenstraat
 burgemeester huydecoperhof
 burgemeester huydecoperweg
-burgemeester h„∂ppenerlaan
+burgemeester h√∂ppenerlaan
 burgemeester i. van houtestraat
 burgemeester ij. wiersumstraat
-burgemeester ijsselmuidenhof
 burgemeester imminkhof
 burgemeester j dijkstraweg
-burgemeester j. de boerpark
 burgemeester j. roseboomstraat
 burgemeester j. schipper kade
 burgemeester j. zijpweg
@@ -12341,13 +12524,16 @@ burgemeester j.c. van den bergplein
 burgemeester j.n. stuifbergenlaan
 burgemeester j.w. hondelinkstraat
 burgemeester jacobsstraat
+burgemeester jacques tonnaerhof
 burgemeester jamesplein
 burgemeester jamessingel
+burgemeester jan peperstraat
 burgemeester jan schoonstraat
 burgemeester jansenlaan
 burgemeester jansenplein
 burgemeester jansenstraat
 burgemeester jansoniushof
+burgemeester janssen van sonlaan
 burgemeester janssenstraat
 burgemeester jansstraat
 burgemeester jaslaan
@@ -12365,7 +12551,7 @@ burgemeester juckemastraat
 burgemeester junckersstraat
 burgemeester jur. visserlaan
 burgemeester just de la paisieresstraat
-burgemeester kampsch„∂erstraat
+burgemeester kampsch√∂erstraat
 burgemeester kampstraat
 burgemeester karstenstraat
 burgemeester kasteleinstraat
@@ -12375,7 +12561,6 @@ burgemeester kehrerstraat
 burgemeester keijzerlaan
 burgemeester keijzerweg
 burgemeester keiserplein
-burgemeester kellenaersstraat
 burgemeester kellenersstraat
 burgemeester kemmelaan
 burgemeester kempersstraat
@@ -12392,6 +12577,7 @@ burgemeester keunenstraat
 burgemeester kieboomlaan
 burgemeester kievitslaan
 burgemeester kirkelsstr
+burgemeester kirkelsstraat
 burgemeester kisselsstraat
 burgemeester klauckelaan
 burgemeester klerkstraat
@@ -12417,7 +12603,7 @@ burgemeester korstenstraat
 burgemeester korthals alteslaan
 burgemeester kosterstraat
 burgemeester kremerweg
-burgemeester krijgerplein
+burgemeester kretpad
 burgemeester krijgsmangeerde
 burgemeester krollaan
 burgemeester kruijffstraat
@@ -12434,16 +12620,13 @@ burgemeester lammerschaagstraat
 burgemeester langmanstraat
 burgemeester langmanweg
 burgemeester lantsheerweg
-burgemeester laurens leenstraat
-burgemeester lawick van pabststra
 burgemeester lawick van pabststraat
 burgemeester le coultredreef
 burgemeester le coultrestraat
-burgemeester le f„®vre de montignylaan
-burgemeester le f„®vre de montignyplein
+burgemeester le f√®vre de montignylaan
+burgemeester le f√®vre de montignyplein
 burgemeester leenstraat
 burgemeester lemmensstraat
-burgemeester lepelaarssingel
 burgemeester lespinassestraat
 burgemeester letschertlaan
 burgemeester letschertpad
@@ -12476,8 +12659,7 @@ burgemeester m.p. van willigenweg
 burgemeester mackaystraat
 burgemeester maeijerstraat
 burgemeester magneestraat
-burgemeester magn„©estr
-burgemeester magn„©estraat
+burgemeester magn√©estraat
 burgemeester mallenslaan
 burgemeester manderslaan
 burgemeester marijnenlaan
@@ -12506,10 +12688,12 @@ burgemeester mensstraat
 burgemeester mentzstraat
 burgemeester merkusstraat
 burgemeester mertensstr
+burgemeester mertensstraat
 burgemeester meslaan
 burgemeester metmanstraat
 burgemeester meuterlaan
 burgemeester michelsstraat
+burgemeester michiels van kessenichpassage
 burgemeester michielsenweg
 burgemeester middelaerlaan
 burgemeester middelberglaan
@@ -12529,13 +12713,11 @@ burgemeester moonsstraat
 burgemeester moorenhof
 burgemeester moorenstraat
 burgemeester moorman voetpad
-burgemeester moslaan
 burgemeester mosselstraat
 burgemeester mostermanslaan
+burgemeester mr c kooimanweg
 burgemeester mr w c tackstraat
 burgemeester mr. h.j. engelkens-laan
-burgemeester mr.c. kooimanweg
-burgemeester muijtersstraat
 burgemeester mulderstraat
 burgemeester mullerstraat
 burgemeester mulstraat
@@ -12582,14 +12764,11 @@ burgemeester p wissestraat
 burgemeester p. feitsmalaan
 burgemeester p. kromplein
 burgemeester p. ph. paulplantsoen
-burgemeester p. wissestraat
-burgemeester p.a. de rochefortstraat
 burgemeester pabstlaan
 burgemeester padmosweg
 burgemeester palingstraat
 burgemeester panislaan
 burgemeester pankenstraat
-burgemeester panthaleon van ecklaan
 burgemeester pappersweg
 burgemeester passtoorsstraat
 burgemeester pastoorstraat
@@ -12611,7 +12790,7 @@ burgemeester pijl hogeweglaan
 burgemeester pijlsstraat
 burgemeester ploegmakerslaan
 burgemeester pompe van meerdervoortlaan
-burgemeester ponj„©estraat
+burgemeester ponj√©estraat
 burgemeester poortstraat
 burgemeester postmastraat
 burgemeester postweg
@@ -12619,13 +12798,12 @@ burgemeester posweg
 burgemeester potstraat
 burgemeester potter van loonstraat
 burgemeester praamsmalaan
-burgemeester praamsmaln
 burgemeester prinsensingel
 burgemeester prinsenstraat
 burgemeester prinslaan
 burgemeester prinssenlaan
 burgemeester pruissingel
-burgemeester pr„ºmersstraat
+burgemeester pr√ºmersstraat
 burgemeester quarles van uffordstraat
 burgemeester r tjalmastraat
 burgemeester r.j. giezenstraat
@@ -12666,18 +12844,15 @@ burgemeester rouppe van der voortlaan
 burgemeester royaardslaan
 burgemeester royerplein
 burgemeester ruttenplein
-burgemeester r„∂ell-laan
-burgemeester r„∂ellstraat
+burgemeester r√∂ellstraat
 burgemeester s'jacoblaan
 burgemeester s'jacobplein
 burgemeester sandbergstraat
-burgemeester savelberglaan
 burgemeester schaapstraat
 burgemeester schade van westrumlaan
 burgemeester schaepmanstraat
 burgemeester schafratstraat
 burgemeester schakelstraat
-burgemeester schalijlaan
 burgemeester schefferhof
 burgemeester schefferstraat
 burgemeester schijvenslaan
@@ -12702,21 +12877,18 @@ burgemeester schuitestraat
 burgemeester schukkingstraat
 burgemeester schullstraat
 burgemeester schumanlaan
-burgemeester sch„∂lvinckplein
-burgemeester sch„∂lvinckstraat
-burgemeester sch„∂nfeldplein
+burgemeester sch√∂lvinckplein
+burgemeester sch√∂lvinckstraat
+burgemeester sch√∂nfeldplein
 burgemeester seelenlaan
-burgemeester seinenstraat
 burgemeester selhorststraat
 burgemeester sengersweg
 burgemeester serrarislaan
 burgemeester serrarisstraat
 burgemeester servatiusstraat
 burgemeester siepkenslaan
-burgemeester simonsstraat
 burgemeester simonszstr
 burgemeester slicherstraat
-burgemeester slingervoet ramondt
 burgemeester slingervoet ramontweg
 burgemeester slobbelaan
 burgemeester sloblaan
@@ -12726,6 +12898,7 @@ burgemeester sluijmersstraat
 burgemeester smalstraat
 burgemeester smeelelaan
 burgemeester smeetsstr
+burgemeester smeetsstraat
 burgemeester smeetsweg
 burgemeester smeijersweg
 burgemeester smithstraat
@@ -12735,7 +12908,6 @@ burgemeester smitsstraat
 burgemeester smitstraat
 burgemeester smitsweg
 burgemeester smittweg
-burgemeester smitweg
 burgemeester snaterlaan
 burgemeester snellenstraat
 burgemeester snelplein
@@ -12744,8 +12916,8 @@ burgemeester speelmanhof
 burgemeester spiertzplein
 burgemeester sprengerlaan
 burgemeester staablaan
+burgemeester staatsenlaan
 burgemeester stamstraat
-burgemeester steeghsstraat
 burgemeester steenhuisenlaan
 burgemeester steertstraat
 burgemeester steinbachstraat
@@ -12770,7 +12942,6 @@ burgemeester stulemeijerlaan
 burgemeester suijsstraat
 burgemeester sutoriusstraat
 burgemeester suyslaan
-burgemeester swaanplantsoen
 burgemeester swaanstraat
 burgemeester swartstraat
 burgemeester sweenslaan
@@ -12783,14 +12954,12 @@ burgemeester teheuxweg
 burgemeester teijssenlaan
 burgemeester tellegenstraat
 burgemeester ten cateweg
-burgemeester ten heuvelhofweg
 burgemeester tenkinkstraat
 burgemeester ter laanplantsoen
 burgemeester ter laanstraat
 burgemeester ter pelkwijklaan
 burgemeester ter veerstraat
 burgemeester termeerstraat
-burgemeester teunissenstraat
 burgemeester thijssenlaan
 burgemeester thijssenstraat
 burgemeester thomas wackersstraat
@@ -12800,7 +12969,6 @@ burgemeester timansweg
 burgemeester timmermanslaan
 burgemeester tobbenstraat
 burgemeester tonckensstraat
-burgemeester toornstralaan
 burgemeester topstraat
 burgemeester torringastraat
 burgemeester triezenbergstraat
@@ -12812,10 +12980,6 @@ burgemeester tydeman-plein
 burgemeester uijenstraat
 burgemeester uilkensstraat
 burgemeester ulco de vriesweg
-burgemeester v alphenstr
-burgemeester v dijkepln
-burgemeester v fenemapln
-burgemeester v niekerkln
 burgemeester v raaijstr
 burgemeester v.d. ackerstraat
 burgemeester v.d. wildenberglaan
@@ -12834,12 +12998,10 @@ burgemeester van arkelplantsoen
 burgemeester van baaklaan
 burgemeester van baarstraat
 burgemeester van bakkeneslaan
-burgemeester van beckhovenstraat
 burgemeester van beeck calkoenstraat
-burgemeester van beekstr
 burgemeester van beekstraat
+burgemeester van berchemhof
 burgemeester van berchemstraat
-burgemeester van beresteijnlaan
 burgemeester van besouwlaan
 burgemeester van beugenstraat
 burgemeester van boeijenplein
@@ -12849,17 +13011,18 @@ burgemeester van brakellstraat
 burgemeester van bredastraat
 burgemeester van breemenweg
 burgemeester van bruggenplein
-burgemeester van bruggenstraat
 burgemeester van campenhoutstraat
 burgemeester van casterenstraat
 burgemeester van cittersstraat
 burgemeester van claarenbeekstraat
 burgemeester van damstraat
 burgemeester van darthstraat
+burgemeester van de broekstraat
 burgemeester van de heijdenstraat
 burgemeester van de laarstraat
 burgemeester van de lindelaan
 burgemeester van de loostraat
+burgemeester van de meulenlaan
 burgemeester van de mortelplein
 burgemeester van de mortelstraat
 burgemeester van de pollstraat
@@ -12868,16 +13031,13 @@ burgemeester van de stadtstraat
 burgemeester van de veerdonkstraat
 burgemeester van de veldestraat
 burgemeester van de venpark
-burgemeester van de venstraat
 burgemeester van de wielstraat
 burgemeester van deelensingel
-burgemeester van den berghlaan
 burgemeester van den bergstraat
 burgemeester van den boschstraat
 burgemeester van den elzenlaan
 burgemeester van den helmlaan
 burgemeester van den heuvelstraat
-burgemeester van den oeverweg
 burgemeester van den steenhuijsstraat
 burgemeester van den steenstraat
 burgemeester van den wormstraat
@@ -12921,10 +13081,8 @@ burgemeester van der zandestraat
 burgemeester van diepeningenlaan
 burgemeester van dijkeplein
 burgemeester van dijkesingel
-burgemeester van dijklaan
 burgemeester van dijkstraat
 burgemeester van dommelenlaan
-burgemeester van doornkade
 burgemeester van doornkade
 burgemeester van doornlaan
 burgemeester van doornstraat
@@ -12947,7 +13105,6 @@ burgemeester van gerrevinklaan
 burgemeester van gilsestraat
 burgemeester van gilshof
 burgemeester van gilsstraat
-burgemeester van gilsstraat
 burgemeester van gorpstraat
 burgemeester van grotenhuisstraat
 burgemeester van haarenlaan
@@ -12955,7 +13112,6 @@ burgemeester van hasseltlaan
 burgemeester van hasseltstraat
 burgemeester van heeckerenstraat
 burgemeester van heemstrakwartier
-burgemeester van heemstralaan
 burgemeester van heesbeenstraat
 burgemeester van heeswijkstraat
 burgemeester van hellenberg hubarlaan
@@ -12963,6 +13119,7 @@ burgemeester van heusdenweg
 burgemeester van heystlaan
 burgemeester van hoekstraat
 burgemeester van hofwegensingel
+burgemeester van hofwegenstraat
 burgemeester van hooffln
 burgemeester van hootegemstraat
 burgemeester van horsighstraat
@@ -12970,13 +13127,12 @@ burgemeester van houtlaan
 burgemeester van houtplein
 burgemeester van hoytemalaan
 burgemeester van hulstlaan
-burgemeester van h„∂vell tot westerflierpad
+burgemeester van h√∂vell tot westerflierpad
 burgemeester van karnebeeklaan
 burgemeester van kempenstraat
 burgemeester van koningsbruggenweg
 burgemeester van kuikstraat
 burgemeester van laarstraat
-burgemeester van lamsweerdelaan
 burgemeester van leeuwenlaan
 burgemeester van leeuwenpassage
 burgemeester van leeuwenstraat
@@ -12995,7 +13151,6 @@ burgemeester van meetelenstraat
 burgemeester van meeuwenstraat
 burgemeester van mensstraat
 burgemeester van meursstraat
-burgemeester van meursstraat
 burgemeester van mierlostraat
 burgemeester van mourikstraat
 burgemeester van niekerklaan
@@ -13005,6 +13160,7 @@ burgemeester van nispenstraat
 burgemeester van oerlehof
 burgemeester van oerslaan
 burgemeester van oeverenstraat
+burgemeester van oijenstraat
 burgemeester van ommerenweg
 burgemeester van oordsingel
 burgemeester van oordtstraat
@@ -13022,6 +13178,7 @@ burgemeester van reenenpad
 burgemeester van reenensingel
 burgemeester van riemsdijkstraat
 burgemeester van rietstr
+burgemeester van rietstraat
 burgemeester van rijckevorselstraat
 burgemeester van rijnberkstraat
 burgemeester van rijnsingel
@@ -13033,10 +13190,11 @@ burgemeester van roseveltstraat
 burgemeester van slijpelaan
 burgemeester van slijpestraat
 burgemeester van soest-jansbekenplein
+burgemeester van soeststraat
 burgemeester van sonweg
 burgemeester van stamplein
 burgemeester van stapelestraat
-burgemeester van steenbergenstraat
+burgemeester van staverenstraat
 burgemeester van steenbergenstraat
 burgemeester van steenselpad
 burgemeester van suchtelenlaan
@@ -13044,27 +13202,23 @@ burgemeester van suchtelenstraat
 burgemeester van sytzamalaan
 burgemeester van teylingenpark
 burgemeester van thielhof
-burgemeester van thielhof
 burgemeester van tienenweg
 burgemeester van tienhovengracht
 burgemeester van trichtlaan
 burgemeester van tuinenplein
 burgemeester van tuyllkade
 burgemeester van tuyllpl
-burgemeester van tuyllplein
 burgemeester van tuyllstraat
 burgemeester van veenlaan
 burgemeester van veenstraat
 burgemeester van vleutenstraat
+burgemeester van vollenhovenstraat
 burgemeester van vrijberghestraat
 burgemeester van wageningenlaan
 burgemeester van walsemlaan
 burgemeester van walsumlaan
-burgemeester van walsumplein
-burgemeester van walsumplein
 burgemeester van walsumstraat
 burgemeester van walsumweg
-burgemeester van waninglaan
 burgemeester van waninglaan
 burgemeester van welderenstraat
 burgemeester van weliestraat
@@ -13074,10 +13228,8 @@ burgemeester van woelderenlaan
 burgemeester van zuijenstraat
 burgemeester van zuurenstraat
 burgemeester van zwietenpad
-burgemeester van zwietenpark
 burgemeester van zwietenweg
 burgemeester vd boschlaan
-burgemeester vd boschln
 burgemeester vd broekstr
 burgemeester vd goeslaan
 burgemeester vd meulenln
@@ -13097,16 +13249,13 @@ burgemeester verhagenstraat
 burgemeester verheijenlaan
 burgemeester verheijenstraat
 burgemeester verheugtstraat
-burgemeester verheullaan
 burgemeester verkadesingel
 burgemeester verkuijlstraat
 burgemeester verleghstraat
-burgemeester verloopstraat
 burgemeester vermetstraat
 burgemeester vermeulenstraat
-burgemeester vern(depark
-burgemeester vern„®delaan
-burgemeester vern„®depark
+burgemeester vern√®delaan
+burgemeester vern√®depark
 burgemeester versluijsstraat
 burgemeester versteeghsingel
 burgemeester versteegstraat
@@ -13120,7 +13269,6 @@ burgemeester viezeelaan
 burgemeester viezeestraat
 burgemeester vijlbriefstraat
 burgemeester visschersstraat
-burgemeester visserpark
 burgemeester vissersstraat
 burgemeester visserweg
 burgemeester visserwerf
@@ -13156,29 +13304,27 @@ burgemeester waliglaan
 burgemeester wallerstraat
 burgemeester wallerweg
 burgemeester wapstraat
-burgemeester warnaarkade
 burgemeester warnaarsstraat
 burgemeester wautersstraat
 burgemeester waverijnweg
 burgemeester weertslaan
 burgemeester weertsplantsoen
+burgemeester weertsplein
 burgemeester weertsstraat
 burgemeester wegstapelplein
 burgemeester wellemanlaan
-burgemeester wentholtstr
 burgemeester wentholtstraat
 burgemeester wermenbolstraat
 burgemeester wernerplein
 burgemeester wesselingplein
 burgemeester wesselsplein
 burgemeester westerhuisstraat
+burgemeester westralaan
 burgemeester wiegelweg
 burgemeester wientjensstraat
 burgemeester wijnaendtslaan
-burgemeester wijnandsstraat
 burgemeester wijnandtsstraat
 burgemeester wijnenstraat
-burgemeester wijniastr
 burgemeester wijniastraat
 burgemeester wijtstraat
 burgemeester wijtvlietlaan
@@ -13225,7 +13371,6 @@ burgerbosdreef
 burgerbuurt
 burgerdijk
 burgerdijkseweg
-burgerdijkstraat
 burgerdreef
 burgerhartstraat
 burgerhof
@@ -13234,8 +13379,6 @@ burgerhoutsestraat
 burgerhoutstraat
 burgerijpad
 burgerkamp
-burgermeester just de la paisieresstraat
-burgermeester notermansstraat
 burgersdijkstraat
 burgerspad
 burgerstraat
@@ -13293,14 +13436,12 @@ burgt
 burgtakkerdreef
 burgtsebaantje
 burgtstraat
+burgum
 burgumerdaam
-burgus
-burgveldweg
 burgvliet
 burgvlietkade
 burgvliettunnel
 burgwal
-burgwalrotonde
 burgwalstraat
 burgweg
 burgzand
@@ -13310,8 +13451,6 @@ burhille
 burijnpad
 burijnstraat
 burinkweg
-burkmeerpolder
-burkunkstraat
 burlatstraat
 burloseweg
 burmadeweg
@@ -13319,25 +13458,23 @@ burmandwarsstraat
 burmaniaallee
 burmaniahuis
 burmanialaan
-burmanial„¢n
+burmanial√¢n
 burmaniastraat
 burmaniastrjitte
 burmaniawei
 burmanlaan
 burmanniastraat
 burmanstraat
-burmapad
 burnhamstraat
 burnierlaan
 burnierstraat
 burnousstraat
-burrefaert
+burrefeart
 burretstraat
 burrie
 burriehout
 burseplein
 bursestraat
-bursgensstraat
 burstumerdyk
 burt bacharachstraat
 burton jostweg
@@ -13348,17 +13485,19 @@ bus en dam
 busbaan
 busbaan binnenveld
 busbaan campus
+busbaan eemmnes
 busbaan expo
 busbaan het broek
 busbaan het plein
+busbaan krakelingtunnel
 busbaan langerak
 busbaan oudenrijn
 busbaan papendorp
 busbaan parkwijk
 busbaan poelpolder
 busbaan rijnvliet
-busbaan strijkviertel
 busbaan tanthof
+busbaan transwijk
 busbaan veldhuizen
 busbaan vleuterweide
 busbaan weusthag
@@ -13369,10 +13508,13 @@ buschkensweg
 buschstraat
 busehof
 buseind
+buserpad
 buserstraat
 buseweg
 bushofstraat
+bushuissluis 0224
 business park stein
+businesspark friesland-w
 businesspark friesland-west
 buske
 busken huethove
@@ -13380,7 +13522,7 @@ busken huetlaan
 busken huetpad
 busken huetplein
 busken huetstraat
-busken hu„´tstraat
+busken hu√´tstraat
 buskenakker
 buskenblaserstraat
 buskenshof
@@ -13393,6 +13535,7 @@ buskeshoeven
 buskeshof
 buskespad
 buskruithof
+buskruitmakers
 buskruitmolenstraat
 buskruitstraat
 busonilaan
@@ -13407,7 +13550,6 @@ busschietersstraat
 busschieterstraat
 busschoor
 busschopsweg
-busschuttenhof
 busschuttenpoort
 bussegraaf
 bussel
@@ -13448,16 +13590,18 @@ bussinkdijk
 bussinksweg
 bussinkweg
 bussloselaan
-bussluis
+busstation
+busstation brug
 busstation buitenhaven
+busstation wittenberg
 busstraat
 bussumergrintweg
 bussumersteeg
 bussumerstraat
+bussumerweg
 bussummergrindweg
 bussummerstraat
 bussummerweg
-bussumse meerweg
 bussumsestraat
 bussumstraat
 bustelweg
@@ -13467,10 +13611,9 @@ busvelden
 busweg
 buswegje
 busweiderweg
-bus„©straat
+bus√©straat
 butaanstraat
 butaanweg
-butenom
 butenweg
 buterblom
 butersdijk
@@ -13503,6 +13646,7 @@ buttewaardweg
 buttinga
 buttingapad
 buttingasingel
+buttinge
 buttingseweg
 buttingstraat
 butzelaarstraat
@@ -13521,7 +13665,6 @@ buurkerkhof
 buurlandt
 buurmalsenlaan
 buurmalsenplein
-buurmalsenstraat
 buurmansweg
 buurmeester
 buurmeesterslaan
@@ -13533,7 +13676,6 @@ buursebrink
 buurseman
 buurserbeek
 buurserstraat
-buurserveenweg
 buurserzand
 buurserzandweide
 buursink es
@@ -13561,17 +13703,16 @@ buurtmeesterweg
 buurtpad
 buurtplein
 buurtschap effen
+buurtschap klooster
 buurtschap vuchtschoot
 buurtschapsweg
 buurtscheuterlaan
-buurtschooterpad
 buurtsdijk
 buurtseweg
 buurtspoor
 buurtsteeg
 buurtstraat
 buurtweg
-buurtweg van sint odili„´nberg naar roermond
 buurweg
 buutschooterpad
 buwitsacker
@@ -13581,7 +13722,6 @@ buxtehudestraat
 buxus
 buxushaag
 buxushage
-buxushof
 buxushout
 buxushoven
 buxusplaats
@@ -13599,6 +13739,7 @@ buys-ballotlaan
 buyskade
 buyspad
 buysstraat
+buytelaan
 buytendijkpad
 buytengors
 buytenhof
@@ -13610,7 +13751,7 @@ buziaulaan
 buziaupad
 buziaustraat
 buzziburglaan
-bu„±uellaan
+bu√±uellaan
 bybaen
 byblisstraat
 bylander
@@ -13622,58 +13763,54 @@ bytling
 byvank
 byzantium
 byzantiumstraat
-b„É‚ªtenweg
-b„É‚ªterheideveld
-b„®r kraftstraat
-b„®r vullingsstraat
-b„®rschotten
-b„®taplein
-b„© van den doolstraat
-b„©la bartokstraat
-b„©la bart„≥kstraat
-b„©ziershof
-b„≥kkeriejerssjteegske
-b„≥tterpedje
-b„¥tterpedje
-b„∂blingenstraat
-b„∂ckelhove
-b„∂gelscamplaan
-b„∂gelskamphoek
-b„∂hlerpad
-b„∂kkerinkslaantje
-b„∂sdaellaan
-b„∂skesveld
-b„∂ttgerwater
-b„ªgel
-b„ªkenhage
-b„ªtebaen
-b„ªtefjild
-b„ªtefjildsterdyk
-b„ªten de kom
-b„ªtenbuorren
-b„ªtendiken
-b„ªtendykswei
-b„ªtenom
-b„ªtenp„¥le
-b„ªtenskar
-b„ªtenskilwei
-b„ªtenstreek
-b„ªtenweg
-b„ªtenwei
-b„ªterblom
-b„ªterblom-strjitte
-b„ªterg„™rs
-b„ªterheideveld
-b„ªterhoek
-b„ªterhoeke
-b„ªterikkers
-b„ªterwei
-b„ªterw„¢l
-b„ªtewacht
-b„ªtewei
-b„ªtl„¢n
-b„ªtl„¢nswei
-b„ªtsingel
-b„ºchnerweg
-b„ºllerlaan
-b„ºttgenbachstraat
+b√®r kraftstraat
+b√®r vullingsstraat
+b√®rschotten
+b√®taplein
+b√© van den doolstraat
+b√©la bartokstraat
+b√©la bart√≥kstraat
+b√©ziershof
+b√≥kkeriejerssjteegske
+b√∂blingenstraat
+b√∂ckelhove
+b√∂gelscamplaan
+b√∂gelskamphoek
+b√∂hlerpad
+b√∂kkerinkslaantje
+b√∂sdaellaan
+b√∂skesveld
+b√∂ttgerwater
+b√ªgel
+b√ªkenhage
+b√ªtebaen
+b√ªtefjild
+b√ªtefjildsterdyk
+b√ªten de kom
+b√ªtenbuorren
+b√ªtendiken
+b√ªtendykswei
+b√ªtenom
+b√ªtenp√¥le
+b√ªtenskar
+b√ªtenskilwei
+b√ªtenstreek
+b√ªtenweg
+b√ªtenwei
+b√ªterblom
+b√ªterblom-strjitte
+b√ªterg√™rs
+b√ªterheideveld
+b√ªterhoek
+b√ªterhoeke
+b√ªterikkers
+b√ªterwei
+b√ªterw√¢l
+b√ªtewacht
+b√ªtewei
+b√ªtl√¢n
+b√ªtl√¢nswei
+b√ªtsingel
+b√ºchnerweg
+b√ºllerlaan
+b√ºttgenbachstraat
